@@ -109,4 +109,4 @@ If you have something that helps the mission, commit it. If you found something 
 
 ---
 
-*ODINT is a Wyoming public benefit nonprofit corporation. 501(c)(3) status pending.*
+*ODINT is an American public benefit nonprofit corporation. 501(c)(3) status pending.*
