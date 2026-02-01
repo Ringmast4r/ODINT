@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhits.dwyl.com%2FRingmast4r%2FODINT.json&query=%24.count&label=Visitors&color=000000&labelColor=ffffff&style=for-the-badge" alt="Visitors">
+  <img src="https://hits.sh/github.com/Ringmast4r/ODINT.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=ffffff" alt="Visitors">
 </p>
 
 # ODINT — The Observatory for Digital Infrastructure & Network Transparency
