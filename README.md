@@ -26,19 +26,25 @@ Every piece of research, every lead, every methodology, every tool reference, ev
 
 ---
 
-## What Goes Here
+## Current Repo Structure
 
-Contribute anything that moves the mission forward:
+| Directory | Contents | Status |
+|-----------|----------|--------|
+| **`SITE LIST/`** | Government, military, media, education, and business domains organized by country and region | **Active — 49 country lists across 9 regions** |
 
-| Category | Examples |
-|----------|---------|
-| **Research & Findings** | Country analyses, domain inventories, API exposure notes, infrastructure maps |
-| **Leads & Targets** | Government domains worth investigating, tips on exposed infrastructure, leads from the field |
-| **Methodologies** | OSINT techniques, recon workflows, tool configurations, data collection procedures |
-| **Tools & Resources** | Scripts, tool recommendations, browser extensions, useful databases, reference material |
-| **Intelligence Notes** | Disinformation campaigns, threat actor observations, geopolitical context, regional briefings |
-| **Datasets & Evidence** | Archived data, metadata dumps, certificate logs, document collections (sanitized) |
-| **Policy & Legal** | Jurisdiction notes, disclosure frameworks, legal considerations by country |
+### Coming Soon
+
+Ideas and future directories to build out:
+
+| Directory | What It Will Contain |
+|-----------|---------------------|
+| `RESEARCH/` | Country analyses, domain inventories, API exposure notes, infrastructure maps |
+| `LEADS/` | Government domains worth investigating, tips on exposed infrastructure, leads from the field |
+| `METHODOLOGIES/` | OSINT techniques, recon workflows, tool configurations, data collection procedures |
+| `TOOLS/` | Scripts, tool recommendations, browser extensions, useful databases, reference material |
+| `INTELLIGENCE/` | Disinformation campaigns, threat actor observations, geopolitical context, regional briefings |
+| `DATASETS/` | Archived data, metadata dumps, certificate logs, document collections (sanitized) |
+| `LEGAL/` | Jurisdiction notes, disclosure frameworks, legal considerations by country |
 
 If you're not sure whether something belongs — it probably does. Push it.
 
