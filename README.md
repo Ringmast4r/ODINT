@@ -91,21 +91,6 @@ Every ODINT contributor operates under these non-negotiable principles:
 
 ---
 
-## The Team
-
-| Name | Role |
-|------|------|
-| Patrick Quirk | Executive Director |
-| Kurt Jordan | Security Advisor |
-| Joshua Graham | Physical Security Advisor |
-| Ken Nevers | Cybersecurity Advisor |
-| Matt Hodges | Offensive Security Advisor |
-| Cory Gautereaux | Border Security & Anti-Trafficking Advisor |
-| Nicholas Valencia | Counterterrorism & Threat Intelligence Advisor |
-| Joaquin Camarena | Indo-Pacific Intelligence Advisor |
-
----
-
 ## Contact
 
 - **Email:** odint_io@proton.me
