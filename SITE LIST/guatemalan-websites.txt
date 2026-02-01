@@ -1,0 +1,200 @@
+# Guatemalan Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 130 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (10)
+# ============================================
+prensalibre.com
+soy502.com
+elperiodico.com.gt
+publinews.gt
+lahora.gt
+republica.gt
+nomada.gt
+agenciaocote.com
+plazapublica.com.gt
+emisorasunidas.com
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (6)
+# ============================================
+canal3.com.gt
+guatevision.com
+telecentro13.com
+aztecaguatemala.com
+cbsguatemala.com
+radiosonora.com.gt
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+guatemala.gob.gt
+presidencia.gob.gt
+vicepresidencia.gob.gt
+
+# ============================================
+# GOVERNMENT - MINISTRIES (14)
+# ============================================
+minex.gob.gt
+mingob.gob.gt
+minfin.gob.gt
+mineduc.gob.gt
+mspas.gob.gt
+mindef.gob.gt
+mintrabajo.gob.gt
+maga.gob.gt
+mem.gob.gt
+marn.gob.gt
+mcd.gob.gt
+micivi.gob.gt
+mides.gob.gt
+mineco.gob.gt
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (8)
+# ============================================
+congreso.gob.gt
+oj.gob.gt
+cc.gob.gt
+tse.gob.gt
+mp.gob.gt
+pgn.gob.gt
+pdh.gob.gt
+contraloria.gob.gt
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (5)
+# ============================================
+sat.gob.gt
+sib.gob.gt
+sit.gob.gt
+cnb.gob.gt
+cig.gob.gt
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (12)
+# ============================================
+igss.gob.gt
+ine.gob.gt
+renap.gob.gt
+igm.gob.gt
+conred.gob.gt
+insivumeh.gob.gt
+segeplan.gob.gt
+conjuve.gob.gt
+sosep.gob.gt
+inacif.gob.gt
+conap.gob.gt
+infom.gob.gt
+
+# ============================================
+# MILITARY & SECURITY (5)
+# ============================================
+mindef.gob.gt
+ejercito.mil.gt
+pnc.gob.gt
+saas.gob.gt
+dgac.gob.gt
+
+# ============================================
+# STATE ENTERPRISES (4)
+# ============================================
+inde.gob.gt
+correos.gob.gt
+guatel.gob.gt
+empagua.gob.gt
+
+# ============================================
+# BANKS & ECONOMY (8)
+# ============================================
+banguat.gob.gt
+bam.com.gt
+banrural.com.gt
+industrialbank.gt
+gyt.com.gt
+ficohsa.com.gt
+bac.com.gt
+bi.com.gt
+
+# ============================================
+# UNIVERSITIES & EDUCATION (8)
+# ============================================
+usac.edu.gt
+url.edu.gt
+ufm.edu
+uvg.edu.gt
+unis.edu.gt
+galileo.edu
+umg.edu.gt
+marroquin.edu.gt
+
+# ============================================
+# SPORTS (3)
+# ============================================
+fedefutguate.org
+cog.org.gt
+ligagt.org
+
+# ============================================
+# POLITICAL PARTIES (4)
+# ============================================
+semilla.gt
+une.org.gt
+vamos.gt
+viva.org.gt
+
+# ============================================
+# DEPARTMENTAL GOVERNMENTS (8)
+# ============================================
+muniguate.com
+villanueva.gob.gt
+mixco.gob.gt
+quetzaltenango.gob.gt
+escuintla.gob.gt
+huehuetenango.gob.gt
+antigua.gob.gt
+coban.gob.gt
+
+# ============================================
+# HUMAN RIGHTS / NGOs (5)
+# ============================================
+caldh.org
+gam.org.gt
+udefegua.org
+cicig.org
+fundacionmyrnaack.org.gt
+
+# ============================================
+# E-COMMERCE & SERVICES (5)
+# ============================================
+claro.com.gt
+tigo.com.gt
+mercadolibre.com.gt
+paiz.com.gt
+pricesmart.com
+
+# ============================================
+# TOURISM (3)
+# ============================================
+inguat.gob.gt
+visitguatemala.com
+guatemala.travel
+
+# ============================================
+# ART & CULTURE (3)
+# ============================================
+mcd.gob.gt
+museonacional.gob.gt
+centroculturalmiguelangelasturias.gob.gt
+
+# ============================================
+# DIASPORA & INTERNATIONAL (6)
+# ============================================
+pronacom.gob.gt
+investinguatemala.org
+conamigua.gob.gt
+minex.gob.gt
+zolic.gob.gt
+agexport.org.gt

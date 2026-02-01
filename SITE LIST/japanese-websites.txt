@@ -1,0 +1,231 @@
+# Japanese Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 175 domains
+
+# ============================================
+# EXECUTIVE & PARLIAMENT (5)
+# ============================================
+kantei.go.jp
+cao.go.jp
+shugiin.go.jp
+sangiin.go.jp
+kunaicho.go.jp
+
+# ============================================
+# GOVERNMENT MINISTRIES (12)
+# ============================================
+mofa.go.jp
+mod.go.jp
+mof.go.jp
+mext.go.jp
+mhlw.go.jp
+maff.go.jp
+meti.go.jp
+mlit.go.jp
+env.go.jp
+soumu.go.jp
+moj.go.jp
+npa.go.jp
+
+# ============================================
+# MILITARY - JSDF (8)
+# ============================================
+mod.go.jp
+gsdf.mod.go.jp
+msdf.mod.go.jp
+asdf.mod.go.jp
+js.mod.go.jp
+dii.mod.go.jp
+atla.mod.go.jp
+nids.mod.go.jp
+
+# ============================================
+# INTELLIGENCE (5)
+# ============================================
+cas.go.jp
+npa.go.jp
+psia.go.jp
+mod.go.jp
+nisc.go.jp
+
+# ============================================
+# SPACE & AEROSPACE (6)
+# ============================================
+jaxa.jp
+isas.jaxa.jp
+nict.go.jp
+ihi.co.jp
+mhi.com
+kawasaki.com
+
+# ============================================
+# NUCLEAR & ENERGY (8)
+# ============================================
+nra.go.jp
+jaea.go.jp
+nirs.qst.go.jp
+meti.go.jp
+enecho.meti.go.jp
+tepco.co.jp
+kepco.co.jp
+jpower.co.jp
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+mlit.go.jp
+meti.go.jp
+soumu.go.jp
+jreast.co.jp
+jrwest.co.jp
+jrcentral.co.jp
+ana.co.jp
+jal.co.jp
+ntt.co.jp
+nexco.co.jp
+
+# ============================================
+# LAW ENFORCEMENT (5)
+# ============================================
+npa.go.jp
+keishicho.metro.tokyo.lg.jp
+moj.go.jp
+coastguard.go.jp
+customs.go.jp
+
+# ============================================
+# JUDICIAL (5)
+# ============================================
+courts.go.jp
+kensatsu.go.jp
+moj.go.jp
+soumu.go.jp
+cas.go.jp
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+boj.or.jp
+fsa.go.jp
+nta.go.jp
+jftc.go.jp
+mof.go.jp
+gpif.go.jp
+jpx.co.jp
+dic.go.jp
+
+# ============================================
+# AGENCIES (10)
+# ============================================
+stat.go.jp
+fdma.go.jp
+moj.go.jp
+ppc.go.jp
+reconstruction.go.jp
+digital.go.jp
+caa.go.jp
+jma.go.jp
+gsi.go.jp
+maff.go.jp
+
+# ============================================
+# PREFECTURAL GOVERNMENTS (10)
+# ============================================
+metro.tokyo.lg.jp
+pref.osaka.lg.jp
+pref.aichi.lg.jp
+pref.kanagawa.lg.jp
+pref.saitama.lg.jp
+pref.chiba.lg.jp
+pref.hokkaido.lg.jp
+pref.fukuoka.lg.jp
+pref.hyogo.lg.jp
+pref.shizuoka.lg.jp
+
+# ============================================
+# UNIVERSITIES (12)
+# ============================================
+u-tokyo.ac.jp
+kyoto-u.ac.jp
+tohoku.ac.jp
+osaka-u.ac.jp
+nagoya-u.ac.jp
+titech.ac.jp
+tsukuba.ac.jp
+keio.ac.jp
+waseda.ac.jp
+riken.jp
+aist.go.jp
+nii.ac.jp
+
+# ============================================
+# DEFENSE INDUSTRY (6)
+# ============================================
+mhi.com
+ihi.co.jp
+kawasaki.com
+subaru.co.jp
+nec.com
+fujitsu.com
+
+# ============================================
+# MEDIA (8)
+# ============================================
+nhk.or.jp
+asahi.com
+yomiuri.co.jp
+mainichi.jp
+nikkei.com
+sankei.com
+kyodonews.jp
+jiji.com
+
+# ============================================
+# BANKS (6)
+# ============================================
+boj.or.jp
+mufg.jp
+smfg.co.jp
+mizuho-fg.co.jp
+japanpost.jp
+jbic.go.jp
+
+# ============================================
+# CYBER SECURITY (5)
+# ============================================
+nisc.go.jp
+nict.go.jp
+ipa.go.jp
+jpcert.or.jp
+cyberdefense.go.jp
+
+# ============================================
+# TECH (5)
+# ============================================
+sony.com
+toyota.com
+honda.com
+panasonic.com
+hitachi.com
+
+# ============================================
+# SPORTS (3)
+# ============================================
+jfa.jp
+npb.or.jp
+joc.or.jp
+
+# ============================================
+# TOURISM (2)
+# ============================================
+japan.travel
+jnto.go.jp
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+jiia.or.jp
+nids.mod.go.jp
+rieti.go.jp
+ide.go.jp

@@ -1,0 +1,115 @@
+# Belizean Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 55 domains
+
+# ============================================
+# NEWS & MEDIA (6)
+# ============================================
+amandala.com.bz
+breakingbelizenews.com
+lovinbelizeblog.com
+7newsbelize.com
+channel5belize.com
+reporter.bz
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (2)
+# ============================================
+belize.gov.bz
+governmentofbelize.gov.bz
+
+# ============================================
+# GOVERNMENT - MINISTRIES (10)
+# ============================================
+mfa.gov.bz
+mnra.gov.bz
+mof.gov.bz
+mohe.gov.bz
+health.gov.bz
+mnd.gov.bz
+mlgrud.gov.bz
+humandev.gov.bz
+mnsdi.gov.bz
+tourism.gov.bz
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (4)
+# ============================================
+nationalassembly.gov.bz
+judiciary.gov.bz
+elections.gov.bz
+ombudsman.gov.bz
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (6)
+# ============================================
+sib.org.bz
+customs.gov.bz
+belizezoo.org
+nemo.org.bz
+immigration.gov.bz
+statisticsbelize.org.bz
+
+# ============================================
+# MILITARY & SECURITY (3)
+# ============================================
+bdf.gov.bz
+police.gov.bz
+coastguard.gov.bz
+
+# ============================================
+# BANKS & ECONOMY (4)
+# ============================================
+centralbank.org.bz
+belizebank.com
+atlanticbank.com
+heritagebank.bz
+
+# ============================================
+# UNIVERSITIES & EDUCATION (3)
+# ============================================
+ub.edu.bz
+sjc.edu.bz
+galen.edu.bz
+
+# ============================================
+# STATE ENTERPRISES (3)
+# ============================================
+bel.com.bz
+bwsl.com.bz
+belizepost.bz
+
+# ============================================
+# TOURISM (3)
+# ============================================
+travelbelize.org
+belizetourismboard.org
+belizeaudubon.org
+
+# ============================================
+# SPORTS (2)
+# ============================================
+ffbelize.com
+belizeolympic.org
+
+# ============================================
+# E-COMMERCE & SERVICES (3)
+# ============================================
+btl.net
+speednet.bz
+digicel.bz
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (3)
+# ============================================
+belizecitycouncil.org
+sanpedrotown.org
+orangewalk.gov.bz
+
+# ============================================
+# HUMAN RIGHTS / NGOs (3)
+# ============================================
+belizehrc.com
+spear.org.bz
+belizerural.org

@@ -1,0 +1,286 @@
+# Caribbean Territories Websites - Comprehensive List
+# Puerto Rico, USVI, BVI, Cayman Islands, Turks & Caicos, Aruba, Curacao, Sint Maarten, Bermuda
+# Created: 2026-01-29
+# Total: 148 domains
+
+# ============================================================
+# PUERTO RICO - US TERRITORY (30)
+# ============================================================
+
+# Government
+pr.gov
+fortaleza.pr.gov
+hacienda.pr.gov
+salud.pr.gov
+educacion.pr.gov
+justicia.pr.gov
+trabajo.pr.gov
+dtop.pr.gov
+policia.pr.gov
+senado.pr.gov
+camara.pr.gov
+tribunalpr.org
+ceepr.org
+aafaf.pr.gov
+assmca.pr.gov
+oatrh.pr.gov
+ombudsman.pr.gov
+aeepr.com
+
+# Media
+elnuevodia.com
+primerahora.com
+noticel.com
+metroPR.com
+wapa.tv
+telemundopr.com
+
+# Universities
+upr.edu
+uprm.edu
+sagrado.edu
+inter.edu
+
+# Banks
+bfrpr.gov
+bppr.com
+
+# ============================================================
+# US VIRGIN ISLANDS (12)
+# ============================================================
+
+# Government
+vi.gov
+governorvi.com
+legvi.org
+visupremecourt.org
+vitema.gov.vi
+dol.gov.vi
+doh.gov.vi
+
+# Media
+virginislandsdailynews.com
+stthomassource.com
+
+# Tourism
+visitusvi.com
+
+# Education
+uvi.edu
+
+# Banks
+viboa.gov.vi
+
+# ============================================================
+# BRITISH VIRGIN ISLANDS (12)
+# ============================================================
+
+# Government
+bvi.gov.vg
+premier.gov.vg
+finance.gov.vg
+hoa.gov.vg
+immigration.gov.vg
+customs.gov.vg
+rvipf.gov.vg
+bvifsc.vg
+
+# Media
+bvinews.com
+bvibeacon.com
+
+# Tourism
+bvitourism.com
+
+# Banks
+bvifscommission.vg
+
+# ============================================================
+# CAYMAN ISLANDS - UK TERRITORY (18)
+# ============================================================
+
+# Government
+gov.ky
+premier.gov.ky
+mof.gov.ky
+education.gov.ky
+health.gov.ky
+immigration.gov.ky
+customs.gov.ky
+parliament.gov.ky
+cbc.gov.ky
+rcips.ky
+ciipa.ky
+cima.ky
+
+# Media
+caymancompass.com
+caymannewsservice.com
+
+# Tourism
+visitcaymanislands.com
+
+# Banks
+cima.ky
+butterfield.ky
+
+# Education
+ucci.edu.ky
+
+# ============================================================
+# TURKS AND CAICOS - UK TERRITORY (10)
+# ============================================================
+
+# Government
+gov.tc
+immigration.gov.tc
+customs.gov.tc
+police.gov.tc
+tcinvest.tc
+
+# Media
+tcweeklynews.com
+suntci.com
+
+# Tourism
+visittci.com
+
+# Banks
+turksandcaicosbanking.tc
+
+# Education
+tcicollege.edu.tc
+
+# ============================================================
+# ARUBA - DUTCH TERRITORY (16)
+# ============================================
+
+# Government
+gobierno.aw
+overheid.aw
+parlamento.aw
+diario.aw
+immigration.aw
+douane.aw
+dna.aw
+censo.aw
+cba.aw
+
+# Media
+diario.aw
+bondia.aw
+24ora.com
+
+# Tourism
+aruba.com
+visitaruba.com
+
+# Banks
+cbaruba.org
+arubabank.com
+
+# ============================================================
+# CURACAO - DUTCH TERRITORY (18)
+# ============================================================
+
+# Government
+gobiernu.cw
+overheid.cw
+staten.cw
+ombudsman.cw
+immigration.cw
+douane.cw
+
+# Media
+curacaochronicle.com
+antiliaansdagblad.com
+extra.cw
+
+# Tourism
+curacao.com
+visitcuracao.com
+
+# Banks
+centralbank.cw
+mcb-bank.com
+vidanova.cw
+
+# Universities
+uoc.cw
+
+# State Enterprises
+aqualectra.com
+utsn.cw
+
+# Security
+politie.cw
+
+# ============================================================
+# SINT MAARTEN - DUTCH TERRITORY (12)
+# ============================================================
+
+# Government
+sintmaartengov.org
+parliament.sx
+customs.sx
+immigration.sx
+police.sx
+
+# Media
+thedailyherald.sx
+smn-news.com
+721news.com
+
+# Tourism
+vacationstmaarten.com
+
+# Banks
+centralbank.sx
+windwardislandsbank.com
+
+# Education
+usi.sx
+
+# ============================================================
+# BERMUDA - UK TERRITORY (12)
+# ============================================================
+
+# Government
+gov.bm
+parliament.bm
+customs.gov.bm
+immigration.gov.bm
+police.bm
+bma.bm
+bda.bm
+
+# Media
+royalgazette.com
+bermudasun.bm
+
+# Tourism
+gotobermuda.com
+
+# Banks
+bma.bm
+bermudamonetary.bm
+
+# ============================================================
+# FRENCH TERRITORIES (8)
+# ============================================================
+
+# Guadeloupe
+guadeloupe.gouv.fr
+regionguadeloupe.fr
+
+# Martinique
+martinique.gouv.fr
+collectivitedemartinique.mq
+
+# French Guiana
+guyane.gouv.fr
+ctguyane.fr
+
+# Saint Martin & Saint Barthélemy
+com-saint-martin.fr
+comstbarth.fr

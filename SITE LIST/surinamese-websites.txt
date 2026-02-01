@@ -1,0 +1,80 @@
+# Surinamese Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 32 domains
+
+# ============================================
+# NEWS & MEDIA (5)
+# ============================================
+dbsuriname.com
+starnieuws.com
+waterkant.net
+srherald.com
+unitednews.sr
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (2)
+# ============================================
+gov.sr
+president.gov.sr
+
+# ============================================
+# GOVERNMENT - LEGISLATIVE & JUDICIAL (2)
+# ============================================
+dna.sr
+rechtspraak.sr
+
+# ============================================
+# GOVERNMENT - MINISTRIES & AGENCIES (7)
+# ============================================
+finance.gov.sr
+buza.gov.sr
+minowc.gov.sr
+atm.gov.sr
+nccr.gov.sr
+abs.gov.sr
+planbureau.sr
+
+# ============================================
+# MILITARY & SECURITY (2)
+# ============================================
+defensie.sr
+politie.sr
+
+# ============================================
+# BANKS & ECONOMY (3)
+# ============================================
+cbvs.sr
+hakrinbank.com
+dsb.sr
+
+# ============================================
+# STATE ENTERPRISES (3)
+# ============================================
+telesur.sr
+ebs.sr
+slm.firm.sr
+
+# ============================================
+# UNIVERSITIES & EDUCATION (2)
+# ============================================
+uvs.edu.sr
+adekus.sr
+
+# ============================================
+# TOURISM (2)
+# ============================================
+surinametourism.sr
+visitsuriname.org
+
+# ============================================
+# SPORTS (2)
+# ============================================
+svb.sr
+soc.sr
+
+# ============================================
+# E-COMMERCE & SERVICES (2)
+# ============================================
+digicel.sr
+tgo.sr

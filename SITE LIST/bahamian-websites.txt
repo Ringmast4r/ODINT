@@ -1,0 +1,124 @@
+# Bahamian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 60 domains
+
+# ============================================
+# NEWS & MEDIA (6)
+# ============================================
+thenassauguardian.com
+tribune242.com
+aboraco.com
+eyewitnessnewsbahamas.com
+znsbahamas.com
+bahamaslocal.com
+
+# ============================================
+# GOVERNMENT - EXECUTIVE (3)
+# ============================================
+opm.gov.bs
+bahamas.gov.bs
+cabinet.gov.bs
+
+# ============================================
+# GOVERNMENT - MINISTRIES (10)
+# ============================================
+mofa.gov.bs
+mof.gov.bs
+mns.gov.bs
+moe.gov.bs
+moh.gov.bs
+moa.gov.bs
+tourism.gov.bs
+mot.gov.bs
+mow.gov.bs
+moj.gov.bs
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (4)
+# ============================================
+parliament.gov.bs
+courts.gov.bs
+oag.gov.bs
+jsc.gov.bs
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (7)
+# ============================================
+nib.gov.bs
+immigration.gov.bs
+customs.gov.bs
+registrar.gov.bs
+dpm.gov.bs
+bahstat.gov.bs
+nema.gov.bs
+
+# ============================================
+# MILITARY & SECURITY (3)
+# ============================================
+rbdf.gov.bs
+rbpf.gov.bs
+jsc.gov.bs
+
+# ============================================
+# BANKS & ECONOMY (5)
+# ============================================
+centralbankbahamas.com
+bankbahamas.com
+fidelitybahamas.com
+rbc.com.bs
+scotiabank.com.bs
+
+# ============================================
+# STATE ENTERPRISES (3)
+# ============================================
+bpl.com.bs
+wsc.com.bs
+bahamasair.com
+
+# ============================================
+# UNIVERSITIES & EDUCATION (3)
+# ============================================
+ub.edu.bs
+btvi.edu.bs
+lyford.org
+
+# ============================================
+# SPORTS (2)
+# ============================================
+bfa-bahamas.com
+bahamasolympiccommittee.org
+
+# ============================================
+# POLITICAL PARTIES (3)
+# ============================================
+plp.org.bs
+freenationalmovement.org
+dnp.org.bs
+
+# ============================================
+# TOURISM (3)
+# ============================================
+bahamas.com
+mota.gov.bs
+nassauparadiseisland.com
+
+# ============================================
+# E-COMMERCE & SERVICES (3)
+# ============================================
+btcbahamas.com
+cablebahamas.com
+aliv.bs
+
+# ============================================
+# HUMAN RIGHTS / NGOs (2)
+# ============================================
+rightsbahamasfoundation.org
+cob.org.bs
+
+# ============================================
+# ART & CULTURE (3)
+# ============================================
+nagb.org.bs
+antiquities.gov.bs
+junkanoo.com

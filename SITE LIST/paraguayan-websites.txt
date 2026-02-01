@@ -1,0 +1,173 @@
+# Paraguayan Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 97 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (7)
+# ============================================
+abc.com.py
+ultimahora.com
+lanacion.com.py
+hoy.com.py
+5dias.com.py
+ip.gov.py
+ea.com.py
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (5)
+# ============================================
+snt.com.py
+telefuturo.com.py
+npy.com.py
+abc.com.py
+rdn.com.py
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+paraguay.gov.py
+presidencia.gov.py
+stp.gov.py
+
+# ============================================
+# GOVERNMENT - MINISTRIES (14)
+# ============================================
+mre.gov.py
+mdi.gov.py
+mec.gov.py
+mspbs.gov.py
+hacienda.gov.py
+mdn.gov.py
+mj.gov.py
+mopc.gov.py
+mic.gov.py
+mag.gov.py
+mades.gov.py
+mit.gov.py
+mujer.gov.py
+snd.gov.py
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (6)
+# ============================================
+pj.gov.py
+tsje.gov.py
+senado.gov.py
+diputados.gov.py
+ministeriopublico.gov.py
+contraloria.gov.py
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (5)
+# ============================================
+set.gov.py
+dna.gov.py
+cnv.gov.py
+conatel.gov.py
+sedeco.gov.py
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (8)
+# ============================================
+ips.gov.py
+dgeec.gov.py
+migraciones.gov.py
+identificaciones.gov.py
+senave.gov.py
+senacsa.gov.py
+seam.gov.py
+conacyt.gov.py
+
+# ============================================
+# MILITARY & SECURITY (5)
+# ============================================
+mdn.gov.py
+ejercito.mil.py
+armada.mil.py
+fuerzaaerea.mil.py
+policianacional.gov.py
+
+# ============================================
+# STATE ENTERPRISES (5)
+# ============================================
+ande.gov.py
+essap.com.py
+copaco.com.py
+inc.gov.py
+petropar.gov.py
+
+# ============================================
+# BANKS & ECONOMY (6)
+# ============================================
+bcp.gov.py
+bnf.gov.py
+bni.gov.py
+bancontinental.com.py
+itau.com.py
+sudameris.com.py
+
+# ============================================
+# UNIVERSITIES & EDUCATION (8)
+# ============================================
+una.py
+uc.edu.py
+uaa.edu.py
+uninorte.edu.py
+uap.edu.py
+unibe.edu.py
+upp.edu.py
+utic.edu.py
+
+# ============================================
+# SPORTS (3)
+# ============================================
+apf.org.py
+cop.org.py
+ligaparaguaya.com.py
+
+# ============================================
+# POLITICAL PARTIES (4)
+# ============================================
+anr.org.py
+plra.org.py
+hagamosparaguay.org
+patria-querida.org
+
+# ============================================
+# DEPARTMENTAL GOVERNMENTS (5)
+# ============================================
+asuncion.gov.py
+central.gov.py
+altoparana.gov.py
+itapua.gov.py
+caaguazu.gov.py
+
+# ============================================
+# HUMAN RIGHTS / NGOs (3)
+# ============================================
+codehupy.org.py
+decidamos.org.py
+semillas.org.py
+
+# ============================================
+# E-COMMERCE & SERVICES (4)
+# ============================================
+tigo.com.py
+personal.com.py
+claro.com.py
+mercadolibre.com.py
+
+# ============================================
+# TOURISM (2)
+# ============================================
+senatur.gov.py
+visitparaguay.travel
+
+# ============================================
+# DIASPORA & INTERNATIONAL (4)
+# ============================================
+paraguayabroad.com
+rediex.gov.py
+proparaguay.gov.py
+mre.gov.py

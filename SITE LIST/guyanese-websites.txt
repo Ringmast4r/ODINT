@@ -1,0 +1,100 @@
+# Guyanese Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 48 domains
+
+# ============================================
+# NEWS & MEDIA (6)
+# ============================================
+stabroeknews.com
+kaieteurnewsonline.com
+guyanachronicle.com
+guyanatimesgy.com
+ncnguyana.com
+demwaves.com
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (2)
+# ============================================
+op.gov.gy
+motp.gov.gy
+
+# ============================================
+# GOVERNMENT - MINISTRIES (10)
+# ============================================
+agriculture.gov.gy
+education.gov.gy
+health.gov.gy
+finance.gov.gy
+nre.gov.gy
+publicworks.gov.gy
+moha.gov.gy
+mlhss.gov.gy
+mopi.gov.gy
+mola.gov.gy
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (3)
+# ============================================
+parliament.gov.gy
+judiciary.gov.gy
+elections.org.gy
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (6)
+# ============================================
+gra.gov.gy
+nbs.gov.gy
+glsc.gov.gy
+epa.gov.gy
+ndia.gov.gy
+bos.gov.gy
+
+# ============================================
+# MILITARY & SECURITY (3)
+# ============================================
+gdf.gov.gy
+gpf.gov.gy
+gcaa.gov.gy
+
+# ============================================
+# BANKS & ECONOMY (4)
+# ============================================
+bankofguyana.org.gy
+demerarabank.com
+republicguyana.com
+gbti.gy
+
+# ============================================
+# UNIVERSITIES & EDUCATION (3)
+# ============================================
+uog.edu.gy
+cpce.edu.gy
+gsi.gov.gy
+
+# ============================================
+# STATE ENTERPRISES (3)
+# ============================================
+gpl.gov.gy
+gwi.gy
+cheddiguyana.org
+
+# ============================================
+# SPORTS (2)
+# ============================================
+gff.gy
+guyanacricket.gy
+
+# ============================================
+# TOURISM (2)
+# ============================================
+guyanatourism.com
+visitguyana.gy
+
+# ============================================
+# REGIONAL GOVERNMENTS (4)
+# ============================================
+georgetowncity.gov.gy
+ndcguyana.org.gy
+regionaldemo.gov.gy
+rdcdemerara.gov.gy

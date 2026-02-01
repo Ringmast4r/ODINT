@@ -1,0 +1,272 @@
+# Indian Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 210 domains
+
+# ============================================
+# EXECUTIVE & PARLIAMENT (6)
+# ============================================
+india.gov.in
+pmindia.gov.in
+presidentofindia.nic.in
+loksabha.nic.in
+rajyasabha.nic.in
+sansad.in
+
+# ============================================
+# GOVERNMENT MINISTRIES (20)
+# ============================================
+mea.gov.in
+mha.gov.in
+mod.gov.in
+finmin.nic.in
+mhrd.gov.in
+mohfw.gov.in
+moc.gov.in
+moef.gov.in
+morth.nic.in
+mines.gov.in
+coal.nic.in
+petroleum.nic.in
+power.gov.in
+agricoop.nic.in
+labour.gov.in
+textiles.nic.in
+steel.gov.in
+msme.gov.in
+rural.nic.in
+mohua.gov.in
+
+# ============================================
+# MILITARY - ARMED FORCES (12)
+# ============================================
+mod.gov.in
+indianarmy.nic.in
+indiannavy.nic.in
+indianairforce.nic.in
+ids.nic.in
+iaf.nic.in
+joinindianarmy.nic.in
+drdo.gov.in
+boa.gov.in
+coastguard.gov.in
+bsf.nic.in
+crpf.gov.in
+
+# ============================================
+# INTELLIGENCE & SECURITY (8)
+# ============================================
+raw.gov.in
+ib.gov.in
+nia.gov.in
+ntro.gov.in
+nsa.gov.in
+mha.gov.in
+natgrid.gov.in
+mac.gov.in
+
+# ============================================
+# SPACE & AEROSPACE (8)
+# ============================================
+isro.gov.in
+dos.gov.in
+vssc.gov.in
+shar.gov.in
+istrac.gov.in
+sac.gov.in
+nrsc.gov.in
+antrix.co.in
+
+# ============================================
+# NUCLEAR & ENERGY (10)
+# ============================================
+dae.gov.in
+aerb.gov.in
+barc.gov.in
+igcar.gov.in
+npcil.nic.in
+bhavini.nic.in
+ucil.gov.in
+cea.nic.in
+mnre.gov.in
+irel.gov.in
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (12)
+# ============================================
+railnet.gov.in
+indianrailways.gov.in
+nhai.gov.in
+aai.aero
+dgca.gov.in
+airindia.in
+indianoil.in
+bpcl.in
+hpcl.co.in
+ntpc.co.in
+nhpc.nic.in
+pgcil.com
+
+# ============================================
+# LAW ENFORCEMENT (8)
+# ============================================
+mha.gov.in
+bprd.nic.in
+bsf.nic.in
+crpf.gov.in
+cisf.gov.in
+itbp.nic.in
+ssb.nic.in
+nsg.gov.in
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+sci.gov.in
+ecourts.gov.in
+eci.gov.in
+cag.gov.in
+nhrc.nic.in
+legalservicesindia.com
+
+# ============================================
+# FINANCIAL & REGULATORY (10)
+# ============================================
+rbi.org.in
+sebi.gov.in
+irdai.gov.in
+pfrda.org.in
+incometaxindia.gov.in
+cbic.gov.in
+gst.gov.in
+dea.gov.in
+dfs.gov.in
+ibbi.gov.in
+
+# ============================================
+# AGENCIES & SERVICES (12)
+# ============================================
+censusindia.gov.in
+mospi.gov.in
+uidai.gov.in
+niti.gov.in
+meity.gov.in
+cert-in.org.in
+dot.gov.in
+trai.gov.in
+bbnl.nic.in
+nixi.in
+digitalindia.gov.in
+npci.org.in
+
+# ============================================
+# STATE GOVERNMENTS (15)
+# ============================================
+up.gov.in
+maharashtra.gov.in
+tn.gov.in
+karnataka.gov.in
+kerala.gov.in
+mp.gov.in
+rajasthan.gov.in
+wb.gov.in
+gujarat.gov.in
+bihar.gov.in
+ap.gov.in
+telangana.gov.in
+odisha.gov.in
+assam.gov.in
+jharkhand.gov.in
+
+# ============================================
+# DEFENSE RESEARCH & INDUSTRY (10)
+# ============================================
+drdo.gov.in
+hal-india.co.in
+belindia.in
+bdl-india.in
+mdlindia.in
+grfrse.in
+bel-india.in
+midhani-india.in
+ofbindia.gov.in
+dpsu.gov.in
+
+# ============================================
+# UNIVERSITIES (12)
+# ============================================
+iitb.ac.in
+iitd.ac.in
+iitm.ac.in
+iitk.ac.in
+iisc.ac.in
+jnu.ac.in
+du.ac.in
+bhu.ac.in
+iitkgp.ac.in
+iitg.ac.in
+bits-pilani.ac.in
+nit.edu
+
+# ============================================
+# MEDIA (8)
+# ============================================
+timesofindia.indiatimes.com
+ndtv.com
+thehindu.com
+hindustantimes.com
+indianexpress.com
+livemint.com
+scroll.in
+thewire.in
+
+# ============================================
+# BANKS (8)
+# ============================================
+rbi.org.in
+sbi.co.in
+hdfcbank.com
+icicibank.com
+bankofbaroda.in
+pnb.co.in
+nabard.org
+eximbankinda.in
+
+# ============================================
+# CYBER SECURITY (5)
+# ============================================
+cert-in.org.in
+nciipc.gov.in
+cdac.in
+dsci.in
+meity.gov.in
+
+# ============================================
+# TECH (5)
+# ============================================
+tcs.com
+infosys.com
+wipro.com
+hcltech.com
+reliance.com
+
+# ============================================
+# SPORTS (3)
+# ============================================
+bcci.tv
+aiff.com
+olympic.ind.in
+
+# ============================================
+# TOURISM (2)
+# ============================================
+incredibleindia.org
+tourism.gov.in
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+orfonline.org
+idsa.in
+icrier.org
+iiss.org

@@ -1,0 +1,486 @@
+# Venezuelan Websites - Comprehensive List
+# News, media, business, government, and cultural sites
+# Updated with domains from crystal-vault OSINT collection
+# Total: 377 domains
+
+# ============================================
+# NEWS & MEDIA - INDEPENDENT / OPPOSITION (37)
+# ============================================
+eluniversal.com
+elnacional.com
+lapatilla.com
+runrun.es
+talcualdigital.com
+efectococuyo.com
+armando.info
+prodavinci.com
+contrapunto.com
+maduradas.com
+noticiaaldia.com
+elimpulso.com
+panorama.com.ve
+laverdad.com
+diariolavoz.net
+ultimasnoticias.com.ve
+eltiempo.com.ve
+notitarde.com
+elsiglo.com.ve
+laprensalara.com.ve
+diariodelosandes.com
+correodelcaroni.com
+primeraedicion.com.ve
+quepasa.com.ve
+2001.com.ve
+globovision.com
+televen.com
+venevision.com
+unionradio.net
+circuito.com.ve
+rcnv.com
+elpitazo.net
+vpitv.com
+ntn24.com
+dollartoday.com
+nuevopais.net
+larazon.net
+reporteconfidencial.info
+
+# ============================================
+# NEWS & MEDIA - STATE / PRO-GOVERNMENT (15)
+# ============================================
+vtv.gob.ve
+tves.gob.ve
+rnv.gob.ve
+telesurtv.net
+laiguana.tv
+correodelorinoco.gob.ve
+avn.info.ve
+ciudadccs.info
+misionverdad.com
+radiomundial.gob.ve
+vive.gob.ve
+antv.gob.ve
+sibci.gob.ve
+albatv.org
+prensa-latina.cu
+
+# ============================================
+# SPORTS (13)
+# ============================================
+meridiano.com.ve
+liderendeportes.com
+beisbolvenezolano.com
+lvbp.com
+magallanes.com.ve
+leones.com
+navegantes.com.ve
+caribesdeanzoategui.com
+bravosdemargarita.com
+aguilasdelzulia.com
+tigresdearagua.com
+vinotinto.org
+fvf.org.ve
+
+# ============================================
+# BUSINESS & ECONOMY (21)
+# ============================================
+bancodevenezuela.com
+banesco.com
+provincial.com
+mercantilbanco.com
+bod.com.ve
+bancaribe.com.ve
+banplus.com
+bnc.com.ve
+bicentenario.com.ve
+exterior.com.ve
+sofitasa.com
+banfanb.com.ve
+bcv.org.ve
+sudeban.gob.ve
+bolsadecaracas.com
+venamcham.org
+fedecamaras.org.ve
+consecomercio.org
+conindustria.org
+avavit.com.ve
+camarapetrolera.org
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (5)
+# ============================================
+presidencia.gob.ve
+vicepresidencia.gob.ve
+patria.org.ve
+prensapresidencialvenezuela.gob.ve
+gobiernoenlinea.gob.ve
+
+# ============================================
+# GOVERNMENT - CORE MINISTRIES (30)
+# ============================================
+mppre.gob.ve
+mpps.gob.ve
+mppe.gob.ve
+mppef.gob.ve
+mintur.gob.ve
+mincyt.gob.ve
+mincultura.gob.ve
+mpd.gob.ve
+mindeporte.gob.ve
+minhidrocarburos.gob.ve
+minec.gob.ve
+mpprijp.gob.ve
+minmujer.gob.ve
+mppeuct.gob.ve
+minpesca.gob.ve
+minaguas.gob.ve
+mppp.gob.ve
+oncti.gob.ve
+suscerte.gob.ve
+mindefensa.gob.ve
+mpppst.gob.ve
+minpi.gob.ve
+minhvi.gob.ve
+mppee.gob.ve
+minpal.gob.ve
+desarrollominero.gob.ve
+mppsp.gob.ve
+minci.gob.ve
+mppt.gob.ve
+onapre.gob.ve
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (10)
+# ============================================
+tsj.gob.ve
+mp.gob.ve
+ministeriopublico.gob.ve
+cgr.gob.ve
+an.gob.ve
+asambleanacional.gob.ve
+defensapublica.gob.ve
+defensoria.gob.ve
+pgr.gob.ve
+imprentanacional.gob.ve
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (11)
+# ============================================
+cne.gob.ve
+seniat.gob.ve
+bcv.gob.ve
+unif.gob.ve
+sunacrip.gob.ve
+cencoex.gob.ve
+conatel.gob.ve
+sudeaseg.gob.ve
+sunaval.gob.ve
+sunavi.gob.ve
+sunai.gob.ve
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (32)
+# ============================================
+saime.gob.ve
+saren.gob.ve
+ivss.gob.ve
+intt.gob.ve
+inttt.gob.ve
+ine.gob.ve
+abae.gob.ve
+inpsasel.gob.ve
+sundde.gob.ve
+indepabis.gob.ve
+inn.gob.ve
+inac.gob.ve
+inea.gob.ve
+inces.gob.ve
+sencamer.gob.ve
+inparques.gob.ve
+sapi.gob.ve
+ipostel.gob.ve
+banavih.gob.ve
+insai.gob.ve
+cnu.gob.ve
+opsu.gob.ve
+policianacional.gob.ve
+fogade.gob.ve
+ipsfa.gob.ve
+ife.gob.ve
+inhrr.gob.ve
+igvsb.gob.ve
+incanal.gob.ve
+procompetencia.gob.ve
+pcivil.gob.ve
+unes.gob.ve
+
+# ============================================
+# GOVERNMENT - SCIENCE & TECHNOLOGY (15)
+# ============================================
+cnti.gob.ve
+cenditel.gob.ve
+fonacit.gob.ve
+cendit.gob.ve
+idea.gob.ve
+ivic.gob.ve
+funvisis.gob.ve
+codecyt.gob.ve
+ciepe.gob.ve
+acav.gob.ve
+fii.gob.ve
+fidetel.gob.ve
+infocentro.gob.ve
+industriacanaima.gob.ve
+fundabit.gob.ve
+
+# ============================================
+# MILITARY & SECURITY (14)
+# ============================================
+fanb.mil.ve
+ejercito.mil.ve
+armada.mil.ve
+aviacion.mil.ve
+ceofanb.mil.ve
+dgcim.mil.ve
+guardia.mil.ve
+milicia.mil.ve
+dhn.mil.ve
+ipsfa.mil.ve
+gnb.gob.ve
+milicia.gob.ve
+sebin.gob.ve
+cicpc.gob.ve
+
+# ============================================
+# STATE ENTERPRISES (23)
+# ============================================
+pdvsa.com
+petrosur.com
+cantv.com.ve
+movilnet.com.ve
+corpoelec.com.ve
+corpoelec.gob.ve
+hidroven.gob.ve
+metrodecaracas.gob.ve
+sidor.com
+venalum.gob.ve
+pequiven.com
+minerven.gob.ve
+ferrominera.gob.ve
+conviasa.aero
+cvg.gob.ve
+cva.gob.ve
+bolipuertos.gob.ve
+metrodevalencia.gob.ve
+metrodemaracaibo.gob.ve
+metrodelosteques.gob.ve
+transbarca.gob.ve
+enagas.gob.ve
+fontur.gob.ve
+
+# ============================================
+# STATE BANKS (7)
+# ============================================
+bicentenario.gob.ve
+bt.gob.ve
+bandes.gob.ve
+bancoagricola.gob.ve
+banfanb.gob.ve
+bancoex.gob.ve
+bancodevenezuela.gob.ve
+
+# ============================================
+# SOCIAL PROGRAMS / MISSIONS (8)
+# ============================================
+barrioadentro.gob.ve
+misionrobinson.gob.ve
+misionsucre.gob.ve
+granmisionvivienda.gob.ve
+clap.gob.ve
+carnetdelapatria.gob.ve
+misionribas.gob.ve
+misionatodavidavenezuela.gob.ve
+
+# ============================================
+# FOOD & AGRICULTURE (6)
+# ============================================
+agropatria.gob.ve
+inia.gob.ve
+mercal.gob.ve
+sunagro.gob.ve
+fondas.gob.ve
+cfg.gob.ve
+
+# ============================================
+# REGIONAL GOVERNMENTS / STATES (25)
+# ============================================
+miranda.gob.ve
+zulia.gob.ve
+carabobo.gob.ve
+aragua.gob.ve
+bolivar.gob.ve
+tachira.gob.ve
+merida.gob.ve
+anzoategui.gob.ve
+falcon.gob.ve
+lara.gob.ve
+barinas.gob.ve
+portuguesa.gob.ve
+yaracuy.gob.ve
+cojedes.gob.ve
+guarico.gob.ve
+monagas.gob.ve
+sucre.gob.ve
+nuevaesparta.gob.ve
+vargas.gob.ve
+laguaira.gob.ve
+deltaamacuro.gob.ve
+amazonas.gob.ve
+apure.gob.ve
+trujillo.gob.ve
+caracas.gob.ve
+
+# ============================================
+# MUNICIPAL / MAYORS (9)
+# ============================================
+alcaldiadecaracas.gob.ve
+alcaldiachacao.gob.ve
+alcaldialibertador.gob.ve
+alcaldiabaruta.gob.ve
+alcaldiasucre.gob.ve
+alcaldiamunicipiovalencia.gob.ve
+alcaldiadevalencia.gob.ve
+alcaldiadebarquisimeto.gob.ve
+alcaldiademaracaibo.gob.ve
+
+# ============================================
+# UNIVERSITIES & EDUCATION (28)
+# ============================================
+ucv.ve
+usb.ve
+ula.ve
+luz.edu.ve
+luz.ve
+secretarialuz.org
+uc.edu.ve
+unexpo.edu.ve
+unimet.edu.ve
+ucab.edu.ve
+uniandes.edu.ve
+urbe.edu.ve
+ujap.edu.ve
+uny.edu.ve
+ucat.edu.ve
+uvm.edu.ve
+umc.edu.ve
+unesr.edu.ve
+unefm.edu.ve
+uneg.edu.ve
+udone.edu.ve
+uptm.edu.ve
+iutepal.edu.ve
+unet.edu.ve
+une.edu.ve
+unefa.edu.ve
+ubv.edu.ve
+umbv.edu.ve
+
+# ============================================
+# POLITICAL PARTIES (8)
+# ============================================
+psuv.org.ve
+primariave.com
+acaborojas.org
+primerojusticia.org.ve
+untvzla.com
+voluntadpopular.com
+copei.org
+mariacorina.com
+
+# ============================================
+# HUMAN RIGHTS / NGOs (7)
+# ============================================
+provea.org
+foropenal.com
+accesojusticia.org
+controlatugobierno.com
+transparencia.org.ve
+cedice.org.ve
+cofavic.org
+
+# ============================================
+# ART & CULTURE (20)
+# ============================================
+fundacionvillanueva.org
+fundacioncisneros.org
+fundacionbigott.com
+centrodeartelaestancia.com
+museojesussoto.com
+carloscruz-diez.com
+jesusrafaelsoto.com
+alejandrootero.org
+jacoboborges.com
+odalysart.com
+galeriafreites.com
+galeriaodalys.com
+ascaso.com
+teatroteresacarreno.gob.ve
+celarg.gob.ve
+fundacionmercantil.com
+ateneo.org.ve
+fundarte.gob.ve
+fmn.gob.ve
+ministeriodelacultura.gob.ve
+
+# ============================================
+# E-COMMERCE & SERVICES (10)
+# ============================================
+mercadolibre.com.ve
+tucarro.com.ve
+tuinmueble.com.ve
+farmatodo.com.ve
+locatel.com.ve
+excelsior.com.ve
+traki.com
+central-madeirense.com
+automercado.com.ve
+epaenlinea.com
+
+# ============================================
+# TRAVEL & TOURISM (8)
+# ============================================
+venezuelatuya.com
+losroques.org
+canaima.com.ve
+margarita.com.ve
+mochima.org
+merida-andes.com
+venezuelanalysis.com
+venetur.gob.ve
+
+# ============================================
+# DIASPORA & INTERNATIONAL (5)
+# ============================================
+venezuelaaldia.com
+daboraenvzla.com
+elchiguirebipolar.net
+venezolanosenelmundo.com
+venezuelamia.com
+
+# ============================================
+# GOVERNMENT FUNDS / FONDOS (2)
+# ============================================
+fonden.gob.ve
+fasmee.gob.ve
+
+# ============================================
+# LEGACY .gov.ve DOMAINS (8)
+# ============================================
+tsj.gov.ve
+fiscalia.gov.ve
+cne.gov.ve
+ivss.gov.ve
+gacetaoficial.gov.ve
+mre.gov.ve
+mindefensa.gov.ve
+seniat.gov.ve

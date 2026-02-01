@@ -1,0 +1,188 @@
+# Qatari Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 120 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (4)
+# ============================================
+gco.gov.qa
+diwan.gov.qa
+shura.gov.qa
+hukoomi.gov.qa
+
+# ============================================
+# GOVERNMENT MINISTRIES (14)
+# ============================================
+mofa.gov.qa
+mod.gov.qa
+mof.gov.qa
+edu.gov.qa
+moph.gov.qa
+moi.gov.qa
+moj.gov.qa
+mme.gov.qa
+moci.gov.qa
+madlsa.gov.qa
+motc.gov.qa
+mme.gov.qa
+mecc.gov.qa
+kahramaa.com.qa
+
+# ============================================
+# MILITARY & DEFENSE (6)
+# ============================================
+mod.gov.qa
+qaf.mil.qa
+qeaf.gov.qa
+qenf.gov.qa
+barzan.qa
+nhrc.org.qa
+
+# ============================================
+# INTELLIGENCE & SECURITY (5)
+# ============================================
+moi.gov.qa
+ssa.gov.qa
+ncsc.gov.qa
+lekhwiya.gov.qa
+qcert.org
+
+# ============================================
+# SPACE & TECHNOLOGY (3)
+# ============================================
+qsa.gov.qa
+motc.gov.qa
+tasmu.gov.qa
+
+# ============================================
+# ENERGY (6)
+# ============================================
+mme.gov.qa
+qatarenergy.qa
+qatargas.com
+qp.com.qa
+kahramaa.com.qa
+woqod.com.qa
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (8)
+# ============================================
+kahramaa.com.qa
+ooredoo.qa
+vodafone.qa
+qr.com.qa
+motc.gov.qa
+mowasalat.com.qa
+caa.gov.qa
+qatarairways.com
+
+# ============================================
+# LAW ENFORCEMENT (4)
+# ============================================
+moi.gov.qa
+lekhwiya.gov.qa
+customs.gov.qa
+cid.gov.qa
+
+# ============================================
+# JUDICIAL (4)
+# ============================================
+sjc.gov.qa
+moj.gov.qa
+nhrc.org.qa
+qicdrc.gov.qa
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+qcb.gov.qa
+qfma.org.qa
+qe.com.qa
+qfc.qa
+qia.qa
+gta.gov.qa
+psa.gov.qa
+qfcra.com
+
+# ============================================
+# STATE ENTERPRISES (6)
+# ============================================
+qia.qa
+qatarenergy.qa
+qatarfoundation.org
+qm.org.qa
+diar.qa
+nebras.com.qa
+
+# ============================================
+# DEFENSE INDUSTRY (3)
+# ============================================
+barzan.qa
+nhrc.org.qa
+mod.gov.qa
+
+# ============================================
+# UNIVERSITIES (6)
+# ============================================
+qu.edu.qa
+cmu.edu.qa
+hbku.edu.qa
+qf.org.qa
+ucalgary.qa
+northwestern.qatar.edu
+
+# ============================================
+# MEDIA (5)
+# ============================================
+aljazeera.net
+alarab.qa
+qatar-tribune.com
+thepeninsulaqatar.com
+qna.org.qa
+
+# ============================================
+# BANKS (5)
+# ============================================
+qcb.gov.qa
+qnb.com
+cbq.qa
+dohabank.com.qa
+qib.com.qa
+
+# ============================================
+# CYBER SECURITY (3)
+# ============================================
+qcert.org
+ncsc.gov.qa
+motc.gov.qa
+
+# ============================================
+# SPORTS (5)
+# ============================================
+qfa.qa
+qoc.qa
+aspire.qa
+sc.qa
+qsl.qa
+
+# ============================================
+# TOURISM (3)
+# ============================================
+visitqatar.qa
+nto.gov.qa
+qm.org.qa
+
+# ============================================
+# FREE ZONES (3)
+# ============================================
+qfc.qa
+qfz.gov.qa
+manateq.qa
+
+# ============================================
+# THINK TANKS (3)
+# ============================================
+bfrss.org
+rfrss.qa
+alshaheen.qa

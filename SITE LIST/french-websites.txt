@@ -1,0 +1,257 @@
+# French Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 195 domains
+
+# ============================================
+# EXECUTIVE & PARLIAMENT (6)
+# ============================================
+elysee.fr
+gouvernement.fr
+assemblee-nationale.fr
+senat.fr
+legifrance.gouv.fr
+service-public.fr
+
+# ============================================
+# GOVERNMENT MINISTRIES (18)
+# ============================================
+diplomatie.gouv.fr
+interieur.gouv.fr
+defense.gouv.fr
+economie.gouv.fr
+justice.gouv.fr
+education.gouv.fr
+sante.gouv.fr
+ecologie.gouv.fr
+culture.gouv.fr
+agriculture.gouv.fr
+travail.gouv.fr
+cohesion-territoires.gouv.fr
+mer.gouv.fr
+outre-mer.gouv.fr
+sports.gouv.fr
+enseignementsup-recherche.gouv.fr
+transformation.gouv.fr
+europe-affaires-etrangeres.gouv.fr
+
+# ============================================
+# MILITARY - ARMED FORCES (12)
+# ============================================
+defense.gouv.fr
+armeedeterre.defense.gouv.fr
+marine-nationale.defense.gouv.fr
+armee-air-espace.defense.gouv.fr
+gendarmerie.interieur.gouv.fr
+legion-etrangere.com
+comcyber.defense.gouv.fr
+ema.defense.gouv.fr
+dga.defense.gouv.fr
+irsem.fr
+ihedn.fr
+cesa.defense.gouv.fr
+
+# ============================================
+# INTELLIGENCE SERVICES (6)
+# ============================================
+dgse.gouv.fr
+dgsi.interieur.gouv.fr
+drm.defense.gouv.fr
+tracfin.gouv.fr
+anssi.fr
+sgdsn.gouv.fr
+
+# ============================================
+# SPACE & AEROSPACE (8)
+# ============================================
+cnes.fr
+esa.int
+onera.fr
+airbus.com
+arianespace.com
+safrangroup.com
+thalesgroup.com
+dassault-aviation.com
+
+# ============================================
+# NUCLEAR & ENERGY (10)
+# ============================================
+cea.fr
+asn.fr
+irsn.fr
+edf.fr
+orano.group
+framatome.com
+andra.fr
+iter.org
+engie.com
+rte-france.com
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+anssi.fr
+arcep.fr
+autorite-transports.fr
+dgac.fr
+sncf.com
+ratp.fr
+aeroportsde.paris
+portdemarseille.fr
+portdunkerque.fr
+vnf.fr
+
+# ============================================
+# LAW ENFORCEMENT & SECURITY (6)
+# ============================================
+police-nationale.interieur.gouv.fr
+gendarmerie.interieur.gouv.fr
+prefecturedepolice.interieur.gouv.fr
+douane.gouv.fr
+pompiers.fr
+securitecivile.gouv.fr
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+courdecassation.fr
+conseil-etat.fr
+conseil-constitutionnel.fr
+ccomptes.fr
+haute-autorite.fr
+cncdh.fr
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+banque-france.fr
+amf-france.org
+acpr.banque-france.fr
+impots.gouv.fr
+tresor.economie.gouv.fr
+dgfip.finances.gouv.fr
+insee.fr
+autorite-concurrence.fr
+
+# ============================================
+# HEALTH (5)
+# ============================================
+sante.gouv.fr
+has-sante.fr
+inserm.fr
+pasteur.fr
+ansm.sante.fr
+
+# ============================================
+# OVERSEAS TERRITORIES (8)
+# ============================================
+guadeloupe.gouv.fr
+martinique.gouv.fr
+guyane.gouv.fr
+reunion.gouv.fr
+mayotte.gouv.fr
+nouvelle-caledonie.gouv.fr
+polynesie-francaise.gouv.fr
+wallis-et-futuna.gouv.fr
+
+# ============================================
+# UNIVERSITIES - RESEARCH (15)
+# ============================================
+sorbonne-universite.fr
+universite-paris-saclay.fr
+ens.psl.eu
+polytechnique.edu
+sciencespo.fr
+u-paris.fr
+univ-lyon1.fr
+univ-amu.fr
+u-bordeaux.fr
+u-strasbg.fr
+univ-grenoble-alpes.fr
+u-psud.fr
+cnrs.fr
+inria.fr
+ird.fr
+
+# ============================================
+# DEFENSE INDUSTRY (8)
+# ============================================
+dassault-aviation.com
+thalesgroup.com
+safrangroup.com
+naval-group.com
+mbda-systems.com
+nexter-group.fr
+arianegroup.com
+airbus.com
+
+# ============================================
+# REGIONS (13)
+# ============================================
+iledefrance.fr
+auvergnerhonealpes.fr
+nouvelleaquitaine.fr
+occitanie.fr
+hauts-de-france.fr
+grandest.fr
+paysdelaloire.fr
+bretagne.bzh
+normandie.fr
+bourgognefranchecomte.fr
+centrevaldeloire.fr
+provencealpescotedazur.fr
+corse.fr
+
+# ============================================
+# MEDIA (10)
+# ============================================
+lemonde.fr
+lefigaro.fr
+liberation.fr
+france24.com
+rfi.fr
+francetvinfo.fr
+tf1.fr
+bfmtv.com
+leparisien.fr
+mediapart.fr
+
+# ============================================
+# BANKS & ECONOMY (6)
+# ============================================
+banque-france.fr
+bnpparibas.com
+credit-agricole.com
+societegenerale.com
+cm-cic.com
+labanquepostale.fr
+
+# ============================================
+# SPORTS (3)
+# ============================================
+fff.fr
+ligue1.fr
+comiteolympique.fr
+
+# ============================================
+# TOURISM (3)
+# ============================================
+france.fr
+atout-france.fr
+paris.fr
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+ifri.org
+iris-france.org
+frstrategie.org
+irsem.fr
+
+# ============================================
+# CYBER SECURITY (4)
+# ============================================
+anssi.fr
+cybermalveillance.gouv.fr
+ssi.gouv.fr
+cert.fr

@@ -1,0 +1,239 @@
+# South Korean Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 175 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (5)
+# ============================================
+president.go.kr
+gov.kr
+assembly.go.kr
+pmo.go.kr
+korea.go.kr
+
+# ============================================
+# GOVERNMENT MINISTRIES (18)
+# ============================================
+mofa.go.kr
+mnd.go.kr
+moef.go.kr
+moe.go.kr
+mohw.go.kr
+moj.go.kr
+mois.go.kr
+motie.go.kr
+molit.go.kr
+mafra.go.kr
+me.go.kr
+mcst.go.kr
+msit.go.kr
+mof.go.kr
+moel.go.kr
+mogef.go.kr
+mpva.go.kr
+mss.go.kr
+
+# ============================================
+# MILITARY - ROK ARMED FORCES (10)
+# ============================================
+mnd.go.kr
+army.mil.kr
+navy.mil.kr
+airforce.mil.kr
+jcs.mil.kr
+usfk.mil
+dapa.go.kr
+add.re.kr
+kida.re.kr
+dema.mil.kr
+
+# ============================================
+# INTELLIGENCE & SECURITY (6)
+# ============================================
+nis.go.kr
+police.go.kr
+nsc.go.kr
+kisa.or.kr
+kcsc.go.kr
+nts.go.kr
+
+# ============================================
+# SPACE & AEROSPACE (6)
+# ============================================
+kari.re.kr
+kasi.re.kr
+kaist.ac.kr
+koreaaero.com
+hanwha-defense.co.kr
+satrecri.re.kr
+
+# ============================================
+# NUCLEAR & ENERGY (8)
+# ============================================
+nssc.go.kr
+kaeri.re.kr
+khnp.co.kr
+kepco.co.kr
+kogas.or.kr
+knoc.co.kr
+kier.re.kr
+ketep.re.kr
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+korail.com
+airport.kr
+koroad.or.kr
+lh.or.kr
+kwater.or.kr
+kt.com
+sktelecom.com
+lguplus.com
+koreapost.go.kr
+kma.go.kr
+
+# ============================================
+# LAW ENFORCEMENT (5)
+# ============================================
+police.go.kr
+customs.go.kr
+coast.go.kr
+immigration.go.kr
+nfa.go.kr
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+ccourt.go.kr
+scourt.go.kr
+spo.go.kr
+acrc.go.kr
+nec.go.kr
+nhrck.or.kr
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+bok.or.kr
+fsc.go.kr
+fss.or.kr
+nts.go.kr
+kofia.or.kr
+krx.co.kr
+kdic.or.kr
+ftc.go.kr
+
+# ============================================
+# AGENCIES (8)
+# ============================================
+kostat.go.kr
+kisa.or.kr
+kipo.go.kr
+kca.kr
+kdi.re.kr
+kipf.re.kr
+kiep.go.kr
+klri.re.kr
+
+# ============================================
+# PROVINCIAL & CITY GOVERNMENTS (10)
+# ============================================
+seoul.go.kr
+busan.go.kr
+incheon.go.kr
+daegu.go.kr
+daejeon.go.kr
+gwangju.go.kr
+ulsan.go.kr
+sejong.go.kr
+gg.go.kr
+gn.go.kr
+
+# ============================================
+# DEFENSE INDUSTRY (8)
+# ============================================
+hanwhaaerospace.com
+koreaaero.com
+add.re.kr
+lig.co.kr
+samsungthales.com
+hyundai-rotem.com
+daewoo.com
+stx.co.kr
+
+# ============================================
+# UNIVERSITIES (10)
+# ============================================
+snu.ac.kr
+kaist.ac.kr
+postech.ac.kr
+yonsei.ac.kr
+korea.ac.kr
+skku.edu
+hanyang.ac.kr
+sogang.ac.kr
+ewha.ac.kr
+unist.ac.kr
+
+# ============================================
+# MEDIA (8)
+# ============================================
+chosun.com
+joongang.co.kr
+donga.com
+hankyoreh.co.kr
+hani.co.kr
+kbs.co.kr
+sbs.co.kr
+mbc.co.kr
+
+# ============================================
+# BANKS (6)
+# ============================================
+bok.or.kr
+kdb.co.kr
+ibk.co.kr
+kbstar.com
+shinhan.com
+wooribank.com
+
+# ============================================
+# CYBER SECURITY (5)
+# ============================================
+kisa.or.kr
+krcert.or.kr
+nis.go.kr
+ncsc.go.kr
+codeapply.kr
+
+# ============================================
+# TECH (5)
+# ============================================
+samsung.com
+lge.co.kr
+sk.com
+naver.com
+kakao.com
+
+# ============================================
+# SPORTS (3)
+# ============================================
+kfa.or.kr
+kleague.com
+sports.or.kr
+
+# ============================================
+# TOURISM (2)
+# ============================================
+visitkorea.or.kr
+knto.or.kr
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+kdi.re.kr
+kiep.go.kr
+kinu.or.kr
+sejong.org

@@ -1,0 +1,191 @@
+# Uruguayan Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 115 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (7)
+# ============================================
+elpais.com.uy
+elobservador.com.uy
+ladiaria.com.uy
+montevideo.com.uy
+lr21.com.uy
+caras.com.uy
+busqueda.com.uy
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (5)
+# ============================================
+subrayado.com.uy
+telenoche.com.uy
+canal10.com.uy
+canal12.com.uy
+radiouruguay.uy
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+gub.uy
+presidencia.gub.uy
+opp.gub.uy
+
+# ============================================
+# GOVERNMENT - MINISTRIES (15)
+# ============================================
+mrree.gub.uy
+minterior.gub.uy
+mef.gub.uy
+mdn.gub.uy
+mec.gub.uy
+msp.gub.uy
+mtss.gub.uy
+mgap.gub.uy
+mintur.gub.uy
+miem.gub.uy
+mtop.gub.uy
+ma.gub.uy
+mides.gub.uy
+mevir.gub.uy
+mvd.gub.uy
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (6)
+# ============================================
+poderjudicial.gub.uy
+parlamento.gub.uy
+fiscalia.gub.uy
+tce.gub.uy
+corteelectoral.gub.uy
+impo.gub.uy
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (7)
+# ============================================
+dgi.gub.uy
+aduanas.gub.uy
+bcu.gub.uy
+ursec.gub.uy
+ursea.gub.uy
+uy.gub.uy
+agesic.gub.uy
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (10)
+# ============================================
+bps.gub.uy
+ine.gub.uy
+migracion.gub.uy
+anii.gub.uy
+inau.gub.uy
+inia.gub.uy
+latu.org.uy
+uruguay21.gub.uy
+uycheck.com
+sinae.gub.uy
+
+# ============================================
+# MILITARY & SECURITY (5)
+# ============================================
+ejercito.mil.uy
+armada.mil.uy
+fau.mil.uy
+mdn.gub.uy
+prefectura.gub.uy
+
+# ============================================
+# STATE ENTERPRISES (7)
+# ============================================
+ancap.com.uy
+antel.com.uy
+ute.com.uy
+ose.com.uy
+afe.com.uy
+correo.com.uy
+tnu.com.uy
+
+# ============================================
+# BANKS & ECONOMY (7)
+# ============================================
+brou.com.uy
+bhu.com.uy
+itau.com.uy
+santander.com.uy
+scotiabank.com.uy
+hsbc.com.uy
+ciu.com.uy
+
+# ============================================
+# UNIVERSITIES & EDUCATION (8)
+# ============================================
+udelar.edu.uy
+ort.edu.uy
+um.edu.uy
+uclaeh.edu.uy
+ucu.edu.uy
+utec.edu.uy
+claeh.edu.uy
+anep.edu.uy
+
+# ============================================
+# SPORTS (3)
+# ============================================
+auf.org.uy
+cou.org.uy
+futboluruguayo.com
+
+# ============================================
+# POLITICAL PARTIES (5)
+# ============================================
+frenteamplio.uy
+partidonacional.uy
+partidocolorado.uy
+cabildoabierto.uy
+partidoindependiente.uy
+
+# ============================================
+# DEPARTMENTAL GOVERNMENTS (8)
+# ============================================
+montevideo.gub.uy
+canelones.gub.uy
+maldonado.gub.uy
+salto.gub.uy
+paysandu.gub.uy
+colonia.gub.uy
+rivera.gub.uy
+rocha.gub.uy
+
+# ============================================
+# HUMAN RIGHTS / NGOs (3)
+# ============================================
+serpaj.org.uy
+ielsur.org
+uruguaytransparente.org.uy
+
+# ============================================
+# E-COMMERCE & SERVICES (6)
+# ============================================
+mercadolibre.com.uy
+antel.com.uy
+claro.com.uy
+movistar.com.uy
+pedidosya.com.uy
+tiendainglesa.com.uy
+
+# ============================================
+# TOURISM (3)
+# ============================================
+uruguay.travel
+turismo.gub.uy
+descubriuruguay.uy
+
+# ============================================
+# DIASPORA & INTERNATIONAL (7)
+# ============================================
+uruguayxxi.gub.uy
+uruguaynatural.com
+investinuruguay.uy
+mrree.gub.uy
+embajadauruguay.com
+uruguayabroad.com
+mrecexterior.gub.uy

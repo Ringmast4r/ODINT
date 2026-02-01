@@ -1,0 +1,181 @@
+# Salvadoran Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 115 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (8)
+# ============================================
+elsalvador.com
+laprensagrafica.com
+diarioelmundo.com
+elfaro.net
+gatoencerrado.news
+revistafactum.com
+contrapunto.com.sv
+diariocolatino.com
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (5)
+# ============================================
+canal12.com.sv
+tcs.com.sv
+canal33.tv
+genteve.gob.sv
+ysuca.org.sv
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+gob.sv
+presidencia.gob.sv
+capres.gob.sv
+
+# ============================================
+# GOVERNMENT - MINISTRIES (14)
+# ============================================
+rree.gob.sv
+seguridad.gob.sv
+mined.gob.sv
+salud.gob.sv
+hacienda.gob.sv
+mop.gob.sv
+mag.gob.sv
+minec.gob.sv
+marn.gob.sv
+mtps.gob.sv
+cultura.gob.sv
+turismo.gob.sv
+vivienda.gob.sv
+gobernacion.gob.sv
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (7)
+# ============================================
+asamblea.gob.sv
+csj.gob.sv
+fiscalia.gob.sv
+tse.gob.sv
+cortedecuentas.gob.sv
+pgr.gob.sv
+pddh.gob.sv
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (5)
+# ============================================
+bcr.gob.sv
+ssf.gob.sv
+siget.gob.sv
+sc.gob.sv
+defensoriaconsumidor.gob.sv
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (10)
+# ============================================
+digestyc.gob.sv
+rnp.gob.sv
+dgm.gob.sv
+isss.gob.sv
+conna.gob.sv
+conacyt.gob.sv
+insaforp.gob.sv
+isdemu.gob.sv
+cnr.gob.sv
+fisdl.gob.sv
+
+# ============================================
+# MILITARY & SECURITY (5)
+# ============================================
+fuerzaarmada.gob.sv
+ejercito.mil.sv
+fuerzanaval.mil.sv
+fuerzaaerea.mil.sv
+pnc.gob.sv
+
+# ============================================
+# STATE ENTERPRISES (5)
+# ============================================
+cel.gob.sv
+anda.gob.sv
+cepa.gob.sv
+correos.gob.sv
+loteria.gob.sv
+
+# ============================================
+# BANKS & ECONOMY (7)
+# ============================================
+bcr.gob.sv
+bancoagricola.com
+bancodavivienda.com.sv
+bac.com.sv
+bancocuscatlan.com
+scotiabank.com.sv
+bancohipotecario.com.sv
+
+# ============================================
+# UNIVERSITIES & EDUCATION (8)
+# ============================================
+ues.edu.sv
+uca.edu.sv
+ujmd.edu.sv
+utec.edu.sv
+udb.edu.sv
+univo.edu.sv
+uees.edu.sv
+usam.edu.sv
+
+# ============================================
+# SPORTS (3)
+# ============================================
+fesfut.org.sv
+coes.org.sv
+indes.gob.sv
+
+# ============================================
+# POLITICAL PARTIES (4)
+# ============================================
+nuevasideas.sv
+arena.com.sv
+fmln.org.sv
+gana.sv
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (6)
+# ============================================
+sansalvador.gob.sv
+santaana.gob.sv
+sanmiguel.gob.sv
+mejicanos.gob.sv
+soyapango.gob.sv
+antiguo-cuscatlan.gob.sv
+
+# ============================================
+# HUMAN RIGHTS / NGOs (4)
+# ============================================
+fespad.org.sv
+cristosal.org
+tutela.org
+fusades.org
+
+# ============================================
+# E-COMMERCE & SERVICES (5)
+# ============================================
+claro.com.sv
+tigo.com.sv
+digicel.com.sv
+mercadolibre.com.sv
+comprasal.gob.sv
+
+# ============================================
+# TOURISM (3)
+# ============================================
+elsalvador.travel
+mitur.gob.sv
+corsatur.gob.sv
+
+# ============================================
+# DIASPORA & INTERNATIONAL (3)
+# ============================================
+rree.gob.sv
+proesa.gob.sv
+coexport.com.sv

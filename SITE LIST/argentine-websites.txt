@@ -1,0 +1,282 @@
+# Argentine Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 222 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (14)
+# ============================================
+lanacion.com.ar
+clarin.com
+infobae.com
+pagina12.com.ar
+perfil.com
+ambito.com
+cronista.com
+lpo.com.ar
+eldiarioar.com
+chequeado.com
+cenital.com
+letrap.com.ar
+lavoz.com.ar
+losandes.com.ar
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (8)
+# ============================================
+tn.com.ar
+c5n.com
+telefe.com
+eltrecetv.com.ar
+cadena3.com
+radiomitre.cienradios.com
+continental.com.ar
+agenciatelam.com.ar
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (2)
+# ============================================
+argentina.gob.ar
+casarosada.gob.ar
+
+# ============================================
+# GOVERNMENT - MINISTRIES & SECRETARIES (14)
+# ============================================
+cancilleria.gob.ar
+economia.gob.ar
+seguridad.gob.ar
+justicia.gob.ar
+educacion.gob.ar
+salud.gob.ar
+trabajo.gob.ar
+transporte.gob.ar
+ambiente.gob.ar
+turismo.gob.ar
+desarrollosocial.gob.ar
+cultura.gob.ar
+interior.gob.ar
+defensa.gob.ar
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (10)
+# ============================================
+csjn.gov.ar
+mpf.gob.ar
+mpd.gob.ar
+senado.gob.ar
+hcdn.gob.ar
+agn.gob.ar
+dpn.gob.ar
+consejo.gob.ar
+pjn.gov.ar
+cfrnoea.gob.ar
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (12)
+# ============================================
+afip.gob.ar
+bcra.gob.ar
+cnv.gob.ar
+enre.gov.ar
+enargas.gob.ar
+enacom.gob.ar
+srt.gob.ar
+ssn.gob.ar
+sigen.gob.ar
+orsna.gob.ar
+uif.gob.ar
+cndc.gob.ar
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (20)
+# ============================================
+anses.gob.ar
+indec.gob.ar
+conicet.gov.ar
+inti.gob.ar
+inta.gob.ar
+senasa.gob.ar
+conae.gob.ar
+aabe.gob.ar
+migraciones.gov.ar
+renaper.gob.ar
+pami.org.ar
+acumar.gob.ar
+inadi.gob.ar
+anac.gob.ar
+vialidad.gob.ar
+arsat.com.ar
+invap.com.ar
+sedronar.gob.ar
+inet.edu.ar
+cofema.gob.ar
+
+# ============================================
+# MILITARY & SECURITY (8)
+# ============================================
+ejercito.mil.ar
+armada.mil.ar
+fuerzaaerea.mil.ar
+prefecturanaval.gob.ar
+gendarmeria.gob.ar
+policiafederal.gob.ar
+psa.gob.ar
+citedef.gob.ar
+
+# ============================================
+# STATE ENTERPRISES (6)
+# ============================================
+ypf.com
+aerolineas.com.ar
+correoargentino.com.ar
+na-sa.com.ar
+arsat.com.ar
+aysa.com.ar
+
+# ============================================
+# BANKS & ECONOMY (12)
+# ============================================
+bna.com.ar
+bapro.com.ar
+bancociudad.com.ar
+galicia.com.ar
+santander.com.ar
+bbva.com.ar
+macro.com.ar
+supervielle.com.ar
+hsbc.com.ar
+icbc.com.ar
+comafi.com.ar
+hipotecario.com.ar
+
+# ============================================
+# UNIVERSITIES & EDUCATION (20)
+# ============================================
+uba.ar
+unlp.edu.ar
+unc.edu.ar
+unr.edu.ar
+unsam.edu.ar
+itba.edu.ar
+utdt.edu
+udesa.edu.ar
+uns.edu.ar
+uncu.edu.ar
+utn.edu.ar
+unl.edu.ar
+unne.edu.ar
+unlam.edu.ar
+austral.edu.ar
+uade.edu.ar
+uca.edu.ar
+unq.edu.ar
+ungs.edu.ar
+untref.edu.ar
+
+# ============================================
+# SPORTS (4)
+# ============================================
+afa.com.ar
+ligaprofesional.ar
+coa.org.ar
+enard.gob.ar
+
+# ============================================
+# POLITICAL PARTIES (5)
+# ============================================
+ucr.org.ar
+pj.org.ar
+pro.com.ar
+frentedetodos.ar
+peronismo.org.ar
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (24)
+# ============================================
+buenosaires.gob.ar
+buenosaires.gov.ar
+cordoba.gob.ar
+santafe.gob.ar
+mendoza.gob.ar
+tucuman.gob.ar
+entrerios.gob.ar
+salta.gob.ar
+misiones.gob.ar
+chaco.gob.ar
+corrientes.gob.ar
+sanjuan.gob.ar
+neuquen.gob.ar
+rionegro.gob.ar
+tierradelfuego.gob.ar
+jujuy.gob.ar
+catamarca.gob.ar
+larioja.gob.ar
+formosa.gob.ar
+sanluis.gob.ar
+santacruz.gob.ar
+chubut.gob.ar
+lapampa.gob.ar
+sgdelestero.gob.ar
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (15)
+# ============================================
+buenosaires.gob.ar
+cordoba.gob.ar
+rosario.gob.ar
+mendoza.gob.ar
+laplata.gob.ar
+mardelplata.gob.ar
+tucuman.gob.ar
+salta.gob.ar
+santafe.gob.ar
+quilmes.gob.ar
+lanus.gob.ar
+avellaneda.gob.ar
+lomas.gob.ar
+tigre.gob.ar
+moron.gob.ar
+
+# ============================================
+# HUMAN RIGHTS / NGOs (5)
+# ============================================
+cels.org.ar
+abuelas.org.ar
+hijos-capital.org.ar
+poderciudadano.org
+acij.org.ar
+
+# ============================================
+# ART & CULTURE (5)
+# ============================================
+bellasartes.gob.ar
+teatrocolon.org.ar
+bn.gob.ar
+malba.org.ar
+bafici.gob.ar
+
+# ============================================
+# E-COMMERCE & SERVICES (8)
+# ============================================
+mercadolibre.com.ar
+despegar.com.ar
+fravega.com
+garbarino.com
+personal.com.ar
+movistar.com.ar
+claro.com.ar
+telecom.com.ar
+
+# ============================================
+# TOURISM (2)
+# ============================================
+argentina.travel
+turismo.gob.ar
+
+# ============================================
+# DIASPORA & INTERNATIONAL (4)
+# ============================================
+batimes.com.ar
+argentinaindependent.com
+investargentina.org.ar
+exportar.org.ar

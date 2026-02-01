@@ -1,0 +1,276 @@
+# Russian Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 200 domains
+
+# ============================================
+# EXECUTIVE & PARLIAMENT (6)
+# ============================================
+kremlin.ru
+government.ru
+duma.gov.ru
+council.gov.ru
+pravo.gov.ru
+gosuslugi.ru
+
+# ============================================
+# FEDERAL MINISTRIES (20)
+# ============================================
+mid.ru
+mil.ru
+mvd.ru
+minfin.gov.ru
+minzdrav.gov.ru
+edu.gov.ru
+minenergo.gov.ru
+minpromtorg.gov.ru
+economy.gov.ru
+mintrans.gov.ru
+mcx.gov.ru
+mnr.gov.ru
+minjust.gov.ru
+minstroyrf.gov.ru
+mintrud.gov.ru
+mkrf.ru
+minsport.gov.ru
+digital.gov.ru
+minvostokrazvitia.gov.ru
+rosreestr.gov.ru
+
+# ============================================
+# MILITARY - ARMED FORCES (12)
+# ============================================
+mil.ru
+structure.mil.ru
+navy.mil.ru
+eng.mil.ru
+function.mil.ru
+recrut.mil.ru
+ric.mil.ru
+vumo.mil.ru
+vamto.mil.ru
+vka.mil.ru
+vagsh.mil.ru
+nvo.ng.ru
+
+# ============================================
+# INTELLIGENCE SERVICES (6)
+# ============================================
+svr.gov.ru
+fsb.ru
+gru.mil.ru
+fso.gov.ru
+scrf.gov.ru
+fapsi.gov.ru
+
+# ============================================
+# SPACE & AEROSPACE (10)
+# ============================================
+roscosmos.ru
+energia.ru
+khrunichev.ru
+npolavochkin.ru
+russianspaceweb.com
+laspace.ru
+vostochny.ru
+tsniimash.ru
+makeyev.ru
+iss-reshetnev.ru
+
+# ============================================
+# NUCLEAR & ENERGY (10)
+# ============================================
+rosatom.ru
+atominfo.ru
+tvel.ru
+rosenergoatom.ru
+atomenergoprom.ru
+nrcki.ru
+jinr.ru
+vniief.ru
+vniitf.ru
+gazprom.ru
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+rzd.ru
+aeroflot.ru
+rosseti.ru
+transneft.ru
+rushydro.ru
+gazprom.ru
+rosneft.ru
+lukoil.ru
+rosavtodor.gov.ru
+morflot.gov.ru
+
+# ============================================
+# LAW ENFORCEMENT & SECURITY (8)
+# ============================================
+mvd.ru
+fsb.ru
+fsin.gov.ru
+fssp.gov.ru
+mchs.gov.ru
+fsvng.ru
+sledcom.ru
+genproc.gov.ru
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+ksrf.ru
+supcourt.ru
+arbitr.ru
+cikrf.ru
+ombudsmanrf.org
+cdep.ru
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+cbr.ru
+nalog.gov.ru
+minfin.gov.ru
+fas.gov.ru
+rosstat.gov.ru
+customs.gov.ru
+ach.gov.ru
+fns.ru
+
+# ============================================
+# FEDERAL AGENCIES (12)
+# ============================================
+rosstat.gov.ru
+rospotrebnadzor.ru
+roskomnadzor.gov.ru
+rosobrnadzor.gov.ru
+rostechnadzor.gov.ru
+rosaviatsia.gov.ru
+rosmorrechflot.gov.ru
+rospatent.gov.ru
+rosprirod.gov.ru
+rosstandart.gov.ru
+fsa.gov.ru
+fams.gov.ru
+
+# ============================================
+# STATE CORPORATIONS (8)
+# ============================================
+rosatom.ru
+roscosmos.ru
+rostec.ru
+vnesheconombank.ru
+rusnano.com
+dom.rf
+rosgeologia.ru
+alrosa.ru
+
+# ============================================
+# DEFENSE INDUSTRY (10)
+# ============================================
+rostec.ru
+almaz-antey.ru
+uac-russia.ru
+odk.ru
+kamaz.ru
+uralvagonzavod.ru
+sukhoi.org
+mig.ru
+tupolev.ru
+mil-helicopters.ru
+
+# ============================================
+# FEDERAL DISTRICTS (8)
+# ============================================
+szfo.gov.ru
+cfo.gov.ru
+pfo.gov.ru
+ufo.gov.ru
+sfo.gov.ru
+skfo.gov.ru
+dfo.gov.ru
+yufo.gov.ru
+
+# ============================================
+# MAJOR REGIONAL GOVERNMENTS (10)
+# ============================================
+mos.ru
+gov.spb.ru
+mosreg.ru
+tatarstan.ru
+bashkortostan.ru
+admkrai.krasnodar.ru
+novosibirsk.gov.ru
+sverdlovsk.gov.ru
+chelyabinsk.gov.ru
+rostov.gov.ru
+
+# ============================================
+# UNIVERSITIES (10)
+# ============================================
+msu.ru
+spbu.ru
+mipt.ru
+hse.ru
+mephi.ru
+bmstu.ru
+itmo.ru
+nsu.ru
+urfu.ru
+tsu.ru
+
+# ============================================
+# MEDIA (10)
+# ============================================
+rt.com
+tass.ru
+ria.ru
+rbc.ru
+kommersant.ru
+vedomosti.ru
+interfax.ru
+iz.ru
+lenta.ru
+gazeta.ru
+
+# ============================================
+# BANKS (6)
+# ============================================
+cbr.ru
+sberbank.ru
+vtb.ru
+gazprombank.ru
+raiffeisen.ru
+alfabank.ru
+
+# ============================================
+# CYBER (4)
+# ============================================
+cert.gov.ru
+safe-surf.ru
+gosuslugi.ru
+digital.gov.ru
+
+# ============================================
+# SPORTS (3)
+# ============================================
+rfs.ru
+russiabasket.ru
+olympic.ru
+
+# ============================================
+# TOURISM (2)
+# ============================================
+russia.travel
+russiatourism.ru
+
+# ============================================
+# THINK TANKS (5)
+# ============================================
+riac.ru
+imemo.ru
+carnegie.ru
+pircenter.org
+valdaiclub.com

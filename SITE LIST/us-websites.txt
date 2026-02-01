@@ -1,0 +1,457 @@
+# United States Websites - Comprehensive List
+# Government, military, intelligence, space, infrastructure, and critical sites
+# Created: 2026-01-29
+# Total: 350 domains
+
+# ============================================
+# EXECUTIVE BRANCH (5)
+# ============================================
+whitehouse.gov
+vice.president.gov
+executiveoffice.gov
+usagov.gov
+usa.gov
+
+# ============================================
+# CABINET DEPARTMENTS (15)
+# ============================================
+state.gov
+treasury.gov
+defense.gov
+justice.gov
+interior.gov
+usda.gov
+commerce.gov
+labor.gov
+hhs.gov
+hud.gov
+transportation.gov
+energy.gov
+education.gov
+va.gov
+dhs.gov
+
+# ============================================
+# MILITARY - BRANCHES (7)
+# ============================================
+army.mil
+navy.mil
+usmc.mil
+af.mil
+spaceforce.mil
+uscg.mil
+nationalguard.mil
+
+# ============================================
+# MILITARY - COMBATANT COMMANDS (11)
+# ============================================
+centcom.mil
+eucom.mil
+indopacom.mil
+africom.mil
+southcom.mil
+northcom.mil
+stratcom.mil
+transcom.mil
+socom.mil
+cybercom.mil
+spacecom.mil
+
+# ============================================
+# MILITARY - AGENCIES & FIELD ACTIVITIES (15)
+# ============================================
+darpa.mil
+disa.mil
+dla.mil
+dtra.mil
+ndu.edu
+nps.edu
+usma.edu
+usna.edu
+usafa.edu
+westpoint.edu
+dau.edu
+dcma.mil
+dcsa.mil
+dfas.mil
+dimoc.mil
+
+# ============================================
+# INTELLIGENCE COMMUNITY (18)
+# ============================================
+cia.gov
+nsa.gov
+dia.mil
+nro.gov
+nga.gov
+odni.gov
+fbi.gov
+dhs.gov
+treasury.gov
+dea.gov
+inr.state.gov
+ngia.mil
+nctc.gov
+ise.gov
+ic.gov
+iarpa.gov
+nist.gov
+ctiic.gov
+
+# ============================================
+# SPACE & AEROSPACE (10)
+# ============================================
+nasa.gov
+spaceforce.mil
+nro.gov
+noaa.gov
+faa.gov
+jpl.nasa.gov
+spacex.com
+blueorigin.com
+boeing.com
+lockheedmartin.com
+
+# ============================================
+# LAW ENFORCEMENT & HOMELAND SECURITY (15)
+# ============================================
+fbi.gov
+dea.gov
+atf.gov
+usmarshals.gov
+secretservice.gov
+cbp.gov
+ice.gov
+uscis.gov
+tsa.gov
+fema.gov
+cisa.gov
+fletc.gov
+usss.gov
+bop.gov
+interpol.int
+
+# ============================================
+# CRITICAL INFRASTRUCTURE & REGULATORY (20)
+# ============================================
+cisa.gov
+nrc.gov
+ferc.gov
+epa.gov
+fcc.gov
+faa.gov
+fra.gov
+phmsa.gov
+nhtsa.gov
+fda.gov
+cdc.gov
+nih.gov
+osha.gov
+fema.gov
+nws.gov
+usgs.gov
+fbi.gov
+sec.gov
+cftc.gov
+fdic.gov
+
+# ============================================
+# NUCLEAR & ENERGY (8)
+# ============================================
+energy.gov
+nrc.gov
+nnsa.gov
+sandia.gov
+lanl.gov
+ornl.gov
+inl.gov
+pnnl.gov
+
+# ============================================
+# FINANCIAL & ECONOMIC (12)
+# ============================================
+federalreserve.gov
+treasury.gov
+sec.gov
+cftc.gov
+fdic.gov
+occ.gov
+sba.gov
+usitc.gov
+ustr.gov
+bls.gov
+bea.gov
+census.gov
+
+# ============================================
+# JUDICIAL & LEGISLATIVE (10)
+# ============================================
+supremecourt.gov
+uscourts.gov
+congress.gov
+senate.gov
+house.gov
+gao.gov
+cbo.gov
+loc.gov
+gpo.gov
+constitution.congress.gov
+
+# ============================================
+# INDEPENDENT AGENCIES (20)
+# ============================================
+epa.gov
+cia.gov
+gsa.gov
+nara.gov
+nsf.gov
+sba.gov
+ssa.gov
+usps.com
+amtrak.com
+fdic.gov
+ftc.gov
+nlrb.gov
+pbgc.gov
+peace.gov
+cpsc.gov
+eeoc.gov
+fec.gov
+flra.gov
+mspb.gov
+ntsb.gov
+
+# ============================================
+# SCIENCE & TECHNOLOGY (10)
+# ============================================
+nist.gov
+nsf.gov
+doe.gov
+noaa.gov
+usgs.gov
+cdc.gov
+nih.gov
+nih.nlm.gov
+energy.gov
+ostp.gov
+
+# ============================================
+# STATE GOVERNMENTS (50)
+# ============================================
+alabama.gov
+alaska.gov
+az.gov
+arkansas.gov
+ca.gov
+colorado.gov
+ct.gov
+delaware.gov
+myflorida.com
+georgia.gov
+hawaii.gov
+idaho.gov
+illinois.gov
+in.gov
+iowa.gov
+kansas.gov
+kentucky.gov
+louisiana.gov
+maine.gov
+maryland.gov
+mass.gov
+michigan.gov
+mn.gov
+ms.gov
+mo.gov
+mt.gov
+nebraska.gov
+nv.gov
+nh.gov
+nj.gov
+nm.gov
+ny.gov
+nc.gov
+nd.gov
+ohio.gov
+oklahoma.gov
+oregon.gov
+pa.gov
+ri.gov
+sc.gov
+sd.gov
+tn.gov
+texas.gov
+utah.gov
+vermont.gov
+virginia.gov
+wa.gov
+wv.gov
+wisconsin.gov
+wyo.gov
+
+# ============================================
+# TERRITORY GOVERNMENTS (6)
+# ============================================
+dc.gov
+pr.gov
+vi.gov
+guam.gov
+cnmi.gov
+americansamoa.gov
+
+# ============================================
+# DEFENSE INDUSTRY - PRIME CONTRACTORS (10)
+# ============================================
+lockheedmartin.com
+rtx.com
+boeing.com
+northropgrumman.com
+generaldynamics.com
+l3harris.com
+bae.com
+leidos.com
+saic.com
+huntingtoningalls.com
+
+# ============================================
+# CYBER & INFORMATION SECURITY (8)
+# ============================================
+cisa.gov
+nsa.gov
+cybercom.mil
+nist.gov
+us-cert.gov
+ic3.gov
+ncijtf.gov
+stopransomware.gov
+
+# ============================================
+# MAJOR CITY GOVERNMENTS (15)
+# ============================================
+nyc.gov
+lacity.gov
+chicago.gov
+houston.gov
+phoenix.gov
+philadelphia.gov
+sanantonio.gov
+sandiego.gov
+dallas.gov
+seattle.gov
+denver.gov
+boston.gov
+nashville.gov
+baltimore.gov
+milwaukee.gov
+
+# ============================================
+# MEDIA - NATIONAL (15)
+# ============================================
+nytimes.com
+washingtonpost.com
+wsj.com
+cnn.com
+foxnews.com
+nbcnews.com
+abcnews.go.com
+cbsnews.com
+reuters.com
+apnews.com
+politico.com
+thehill.com
+axios.com
+npr.org
+pbs.org
+
+# ============================================
+# UNIVERSITIES - TOP RESEARCH (15)
+# ============================================
+mit.edu
+stanford.edu
+harvard.edu
+caltech.edu
+princeton.edu
+yale.edu
+columbia.edu
+uchicago.edu
+upenn.edu
+jhu.edu
+cornell.edu
+berkeley.edu
+gatech.edu
+umich.edu
+cmu.edu
+
+# ============================================
+# BANKS & ECONOMY (10)
+# ============================================
+federalreserve.gov
+jpmorgan.com
+bankofamerica.com
+citigroup.com
+wellsfargo.com
+goldmansachs.com
+morganstanley.com
+usbank.com
+pnc.com
+truist.com
+
+# ============================================
+# NATIONAL LABS & RESEARCH (12)
+# ============================================
+lanl.gov
+sandia.gov
+ornl.gov
+anl.gov
+bnl.gov
+fnal.gov
+lbl.gov
+pnnl.gov
+inl.gov
+srs.gov
+nrel.gov
+llnl.gov
+
+# ============================================
+# FFRDC & THINK TANKS (10)
+# ============================================
+rand.org
+mitre.org
+ida.org
+aerospace.org
+cna.org
+sei.cmu.edu
+lmi.org
+brookings.edu
+cfr.org
+csis.org
+
+# ============================================
+# SPORTS (5)
+# ============================================
+nfl.com
+nba.com
+mlb.com
+nhl.com
+ussoccer.com
+
+# ============================================
+# E-COMMERCE & TECH (10)
+# ============================================
+amazon.com
+google.com
+apple.com
+microsoft.com
+meta.com
+tesla.com
+nvidia.com
+salesforce.com
+oracle.com
+ibm.com
+
+# ============================================
+# TOURISM (3)
+# ============================================
+visittheusa.com
+nps.gov
+si.edu

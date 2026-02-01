@@ -1,0 +1,239 @@
+# Israeli Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 170 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (5)
+# ============================================
+gov.il
+pmo.gov.il
+knesset.gov.il
+president.gov.il
+justice.gov.il
+
+# ============================================
+# GOVERNMENT MINISTRIES (14)
+# ============================================
+mfa.gov.il
+mod.gov.il
+mof.gov.il
+education.gov.il
+health.gov.il
+economy.gov.il
+mops.gov.il
+transportation.gov.il
+energy.gov.il
+sviva.gov.il
+agriculture.gov.il
+tourism.gov.il
+culture.gov.il
+aliyah.gov.il
+
+# ============================================
+# MILITARY - IDF (10)
+# ============================================
+idf.il
+mod.gov.il
+aka.idf.il
+navy.idf.il
+iaf.org.il
+mazi.idf.il
+galatz.idf.il
+rafael.co.il
+imi-systems.com
+imod.gov.il
+
+# ============================================
+# INTELLIGENCE & SECURITY (8)
+# ============================================
+shabak.gov.il
+mossad.gov.il
+mod.gov.il
+aman.gov.il
+incd.gov.il
+police.gov.il
+isa.gov.il
+malmab.gov.il
+
+# ============================================
+# SPACE & AEROSPACE (6)
+# ============================================
+space.gov.il
+iai.co.il
+elbit.com
+rafael.co.il
+elta.co.il
+imagesat.com
+
+# ============================================
+# NUCLEAR & ENERGY (5)
+# ============================================
+iaec.gov.il
+soreq.gov.il
+nrcn.gov.il
+energy.gov.il
+iec.co.il
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+incd.gov.il
+iec.co.il
+mekorot.co.il
+nta.co.il
+rail.co.il
+iaa.gov.il
+pmo.gov.il
+bezeq.co.il
+cellcom.co.il
+partner.co.il
+
+# ============================================
+# LAW ENFORCEMENT (5)
+# ============================================
+police.gov.il
+shabak.gov.il
+taxauth.gov.il
+customs.gov.il
+immigration.gov.il
+
+# ============================================
+# JUDICIAL (5)
+# ============================================
+court.gov.il
+justice.gov.il
+ombudsman.gov.il
+ag.gov.il
+prosecution.gov.il
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+boi.org.il
+isa.gov.il
+taxes.gov.il
+cbs.gov.il
+mof.gov.il
+tase.co.il
+shaam.gov.il
+btl.gov.il
+
+# ============================================
+# DEFENSE INDUSTRY (10)
+# ============================================
+iai.co.il
+rafael.co.il
+elbit.com
+imi-systems.com
+elta.co.il
+aeronautics-sys.com
+checkpoint.com
+cyberark.com
+nso.group
+cellebrite.com
+
+# ============================================
+# CYBER SECURITY (8)
+# ============================================
+incd.gov.il
+checkpoint.com
+cyberark.com
+imperva.com
+radware.com
+varonis.com
+tenable.com
+sentinelone.com
+
+# ============================================
+# UNIVERSITIES (8)
+# ============================================
+huji.ac.il
+tau.ac.il
+technion.ac.il
+weizmann.ac.il
+biu.ac.il
+haifa.ac.il
+bgu.ac.il
+openu.ac.il
+
+# ============================================
+# MEDIA (8)
+# ============================================
+haaretz.co.il
+jpost.com
+ynetnews.com
+timesofisrael.com
+israelhayom.co.il
+kan.org.il
+i24news.tv
+walla.co.il
+
+# ============================================
+# BANKS (5)
+# ============================================
+boi.org.il
+bankhapoalim.com
+leumi.co.il
+discountbank.co.il
+mizrahi-tefahot.co.il
+
+# ============================================
+# MUNICIPALITIES (5)
+# ============================================
+tel-aviv.gov.il
+jerusalem.muni.il
+haifa.muni.il
+beer-sheva.muni.il
+netanya.muni.il
+
+# ============================================
+# HEALTH (4)
+# ============================================
+health.gov.il
+clalit.co.il
+maccabi4u.co.il
+meuhedet.co.il
+
+# ============================================
+# TECH (8)
+# ============================================
+checkpoint.com
+wix.com
+monday.com
+fiverr.com
+ironsource.com
+mobileye.com
+nice.com
+amdocs.com
+
+# ============================================
+# SPORTS (3)
+# ============================================
+ifa.org.il
+olympic.org.il
+basketball.org.il
+
+# ============================================
+# TOURISM (2)
+# ============================================
+goisrael.com
+parks.org.il
+
+# ============================================
+# THINK TANKS (5)
+# ============================================
+inss.org.il
+besa.org.il
+idi.org.il
+jcpa.org
+acri.org.il
+
+# ============================================
+# SETTLEMENTS & REGIONAL (5)
+# ============================================
+yosh.gov.il
+golan.org.il
+negev.gov.il
+galil.gov.il
+jda.gov.il

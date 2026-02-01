@@ -1,0 +1,263 @@
+# Australian Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 195 domains
+
+# ============================================
+# EXECUTIVE & PARLIAMENT (5)
+# ============================================
+pm.gov.au
+aph.gov.au
+pmc.gov.au
+gg.gov.au
+australia.gov.au
+
+# ============================================
+# GOVERNMENT DEPARTMENTS (15)
+# ============================================
+dfat.gov.au
+defence.gov.au
+treasury.gov.au
+homeaffairs.gov.au
+ag.gov.au
+health.gov.au
+education.gov.au
+infrastructure.gov.au
+dcceew.gov.au
+industry.gov.au
+agriculture.gov.au
+dss.gov.au
+employment.gov.au
+awe.gov.au
+veterans.gov.au
+
+# ============================================
+# MILITARY - ADF (10)
+# ============================================
+defence.gov.au
+army.gov.au
+navy.gov.au
+airforce.gov.au
+dst.defence.gov.au
+casg.defence.gov.au
+adfa.edu.au
+adf.gov.au
+jointops.gov.au
+socomd.gov.au
+
+# ============================================
+# INTELLIGENCE & SECURITY (8)
+# ============================================
+asis.gov.au
+asio.gov.au
+asd.gov.au
+aga.gov.au
+oni.gov.au
+agsva.gov.au
+cisc.gov.au
+acsc.gov.au
+
+# ============================================
+# SPACE & AEROSPACE (5)
+# ============================================
+space.gov.au
+ga.gov.au
+csiro.au
+bom.gov.au
+airservicesaustralia.com
+
+# ============================================
+# NUCLEAR & ENERGY (6)
+# ============================================
+ansto.gov.au
+arpansa.gov.au
+aer.gov.au
+arena.gov.au
+aemo.com.au
+cefc.com.au
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (12)
+# ============================================
+cisc.gov.au
+acsc.gov.au
+acma.gov.au
+accc.gov.au
+atsb.gov.au
+casa.gov.au
+amsa.gov.au
+nbn.com.au
+telstra.com.au
+optus.com.au
+transurban.com
+airservicesaustralia.com
+
+# ============================================
+# LAW ENFORCEMENT (8)
+# ============================================
+afp.gov.au
+abf.gov.au
+austrac.gov.au
+crimtrac.gov.au
+aclei.gov.au
+acc.gov.au
+cdpp.gov.au
+ombudsman.gov.au
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+hcourt.gov.au
+fedcourt.gov.au
+fwc.gov.au
+aat.gov.au
+aec.gov.au
+alrc.gov.au
+
+# ============================================
+# FINANCIAL & REGULATORY (10)
+# ============================================
+rba.gov.au
+apra.gov.au
+asic.gov.au
+ato.gov.au
+accc.gov.au
+asx.com.au
+efic.gov.au
+anao.gov.au
+pc.gov.au
+abs.gov.au
+
+# ============================================
+# AGENCIES (10)
+# ============================================
+abs.gov.au
+ip.gov.au
+csiro.au
+servicesaustralia.gov.au
+humanrights.gov.au
+nma.gov.au
+nla.gov.au
+screen.gov.au
+dva.gov.au
+ndis.gov.au
+
+# ============================================
+# STATE & TERRITORY GOVERNMENTS (8)
+# ============================================
+nsw.gov.au
+vic.gov.au
+qld.gov.au
+wa.gov.au
+sa.gov.au
+nt.gov.au
+tas.gov.au
+act.gov.au
+
+# ============================================
+# CITY GOVERNMENTS (8)
+# ============================================
+cityofsydney.nsw.gov.au
+melbourne.vic.gov.au
+brisbane.qld.gov.au
+perth.wa.gov.au
+adelaidecitycouncil.com
+hobartcity.com.au
+darwin.nt.gov.au
+canberra.com.au
+
+# ============================================
+# DEFENSE INDUSTRY (6)
+# ============================================
+baesystems.com.au
+raytheon.com.au
+thalesgroup.com.au
+cae.com.au
+ascspty.com.au
+electraoptic.com.au
+
+# ============================================
+# UNIVERSITIES (12)
+# ============================================
+unimelb.edu.au
+sydney.edu.au
+anu.edu.au
+unsw.edu.au
+uq.edu.au
+monash.edu
+uwa.edu.au
+adelaide.edu.au
+uts.edu.au
+rmit.edu.au
+mq.edu.au
+deakin.edu.au
+
+# ============================================
+# MEDIA (8)
+# ============================================
+abc.net.au
+sbs.com.au
+smh.com.au
+theaustralian.com.au
+9news.com.au
+7news.com.au
+news.com.au
+theguardian.com.au
+
+# ============================================
+# BANKS (6)
+# ============================================
+rba.gov.au
+commbank.com.au
+anz.com.au
+westpac.com.au
+nab.com.au
+macquarie.com
+
+# ============================================
+# CYBER SECURITY (5)
+# ============================================
+acsc.gov.au
+asd.gov.au
+cyber.gov.au
+cisc.gov.au
+staysmartonline.gov.au
+
+# ============================================
+# FIVE EYES / INTL PARTNERSHIPS (3)
+# ============================================
+asis.gov.au
+asd.gov.au
+defence.gov.au
+
+# ============================================
+# SPORTS (4)
+# ============================================
+afl.com.au
+nrl.com
+cricket.com.au
+olympics.com.au
+
+# ============================================
+# TOURISM (3)
+# ============================================
+australia.com
+tourism.australia.com
+parks.vic.gov.au
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+aspi.org.au
+lowyinstitute.org
+aiiia.asn.au
+anu.edu.au
+
+# ============================================
+# MINING & RESOURCES (5)
+# ============================================
+bhp.com
+riotinto.com
+fortescue.com
+woodside.com
+santos.com

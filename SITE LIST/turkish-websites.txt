@@ -1,0 +1,228 @@
+# Turkish Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 170 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (5)
+# ============================================
+tccb.gov.tr
+tbmm.gov.tr
+basbakanlik.gov.tr
+turkiye.gov.tr
+resmigazete.gov.tr
+
+# ============================================
+# GOVERNMENT MINISTRIES (16)
+# ============================================
+mfa.gov.tr
+msb.gov.tr
+hmb.gov.tr
+meb.gov.tr
+saglik.gov.tr
+icisleri.gov.tr
+adalet.gov.tr
+csb.gov.tr
+enerji.gov.tr
+uab.gov.tr
+ticaret.gov.tr
+tarimorman.gov.tr
+kultur.gov.tr
+ailevecalisma.gov.tr
+sanayi.gov.tr
+gib.gov.tr
+
+# ============================================
+# MILITARY - TAF (10)
+# ============================================
+msb.gov.tr
+tsk.tr
+kkk.tsk.tr
+dzkk.tsk.tr
+hvkk.tsk.tr
+jandarma.gov.tr
+sgk.tsk.tr
+ssb.gov.tr
+tskgv.org.tr
+hfrm.tsk.tr
+
+# ============================================
+# INTELLIGENCE & SECURITY (6)
+# ============================================
+mit.gov.tr
+egm.gov.tr
+jandarma.gov.tr
+sahilguvenlik.gov.tr
+masak.gov.tr
+udhb.gov.tr
+
+# ============================================
+# SPACE & AEROSPACE (6)
+# ============================================
+tua.gov.tr
+tubitak.gov.tr
+tai.com.tr
+roketsan.com.tr
+cta.aero
+tua.gov.tr
+
+# ============================================
+# NUCLEAR & ENERGY (6)
+# ============================================
+enerji.gov.tr
+taek.gov.tr
+euas.gov.tr
+epdk.gov.tr
+tpao.gov.tr
+botas.gov.tr
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+tcdd.gov.tr
+dhmi.gov.tr
+thy.com
+karayollari.gov.tr
+tedas.gov.tr
+teias.gov.tr
+telkoder.org.tr
+ptt.gov.tr
+dsi.gov.tr
+afad.gov.tr
+
+# ============================================
+# LAW ENFORCEMENT (5)
+# ============================================
+egm.gov.tr
+jandarma.gov.tr
+sahilguvenlik.gov.tr
+goc.gov.tr
+kgm.gov.tr
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+anayasa.gov.tr
+yargitay.gov.tr
+danistay.gov.tr
+hsyk.gov.tr
+sayistay.gov.tr
+tbb.org.tr
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+tcmb.gov.tr
+spk.gov.tr
+bddk.gov.tr
+gib.gov.tr
+tuik.gov.tr
+rekabet.gov.tr
+bist.gov.tr
+tmsf.org.tr
+
+# ============================================
+# DEFENSE INDUSTRY (8)
+# ============================================
+ssb.gov.tr
+tai.com.tr
+aselsan.com.tr
+roketsan.com.tr
+havelsan.com.tr
+fnss.com.tr
+baykartech.com
+stm.com.tr
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (10)
+# ============================================
+istanbul.gov.tr
+ankara.gov.tr
+izmir.gov.tr
+bursa.gov.tr
+antalya.gov.tr
+adana.gov.tr
+konya.gov.tr
+gaziantep.gov.tr
+diyarbakir.gov.tr
+trabzon.gov.tr
+
+# ============================================
+# UNIVERSITIES (10)
+# ============================================
+boun.edu.tr
+metu.edu.tr
+itu.edu.tr
+hacettepe.edu.tr
+ankara.edu.tr
+istanbul.edu.tr
+bilkent.edu.tr
+ku.edu.tr
+sabanciuniv.edu
+ytu.edu.tr
+
+# ============================================
+# MEDIA (8)
+# ============================================
+hurriyet.com.tr
+sabah.com.tr
+milliyet.com.tr
+sozcu.com.tr
+trt.net.tr
+ntv.com.tr
+haberturk.com
+aa.com.tr
+
+# ============================================
+# BANKS (6)
+# ============================================
+tcmb.gov.tr
+isbank.com.tr
+garanti.com.tr
+akbank.com
+yapikredi.com.tr
+halkbank.com.tr
+
+# ============================================
+# CYBER SECURITY (4)
+# ============================================
+usom.gov.tr
+btk.gov.tr
+kvkk.gov.tr
+sibermerkez.gov.tr
+
+# ============================================
+# SPORTS (3)
+# ============================================
+tff.org
+tbl.org.tr
+olimpiyatkomitesi.org.tr
+
+# ============================================
+# TOURISM (2)
+# ============================================
+goturkiye.com
+kultur.gov.tr
+
+# ============================================
+# NATO & ALLIANCES (3)
+# ============================================
+nato.int
+tsk.tr
+msb.gov.tr
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+seta.org
+tepav.org.tr
+tesev.org.tr
+edam.org.tr
+
+# ============================================
+# E-COMMERCE (4)
+# ============================================
+trendyol.com
+hepsiburada.com
+n11.com
+gittigidiyor.com

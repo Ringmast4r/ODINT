@@ -1,0 +1,285 @@
+# Chinese Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 195 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (6)
+# ============================================
+gov.cn
+npc.gov.cn
+cppcc.gov.cn
+scopsr.gov.cn
+china.org.cn
+xinhuanet.com
+
+# ============================================
+# STATE COUNCIL MINISTRIES (22)
+# ============================================
+fmprc.gov.cn
+mod.gov.cn
+mof.gov.cn
+moe.gov.cn
+nhc.gov.cn
+mps.gov.cn
+moj.gov.cn
+miit.gov.cn
+mca.gov.cn
+mohrss.gov.cn
+mnr.gov.cn
+mee.gov.cn
+mohurd.gov.cn
+mot.gov.cn
+mwr.gov.cn
+moa.gov.cn
+mofcom.gov.cn
+mct.gov.cn
+mva.gov.cn
+samr.gov.cn
+nea.gov.cn
+most.gov.cn
+
+# ============================================
+# MILITARY - PLA (12)
+# ============================================
+mod.gov.cn
+81.cn
+chinamil.com.cn
+pla.cn
+planavy.cn
+plaaf.cn
+plarf.cn
+plassf.cn
+xjlc.cn
+njlc.cn
+bjlc.cn
+cdlc.cn
+
+# ============================================
+# INTELLIGENCE & SECURITY (6)
+# ============================================
+mss.gov.cn
+mps.gov.cn
+12339.gov.cn
+gjfzjg.gov.cn
+mod.gov.cn
+cacr.org.cn
+
+# ============================================
+# SPACE & AEROSPACE (10)
+# ============================================
+cnsa.gov.cn
+casc.com.cn
+casic.com.cn
+cast.cn
+calt.com
+bice.org.cn
+avic.com
+comac.cc
+spacechina.com
+beidou.gov.cn
+
+# ============================================
+# NUCLEAR & ENERGY (10)
+# ============================================
+cnnc.com.cn
+cgn.com.cn
+snptc.com.cn
+ciae.ac.cn
+nea.gov.cn
+sgcc.com.cn
+csg.cn
+cnooc.com.cn
+sinopec.com
+cnpc.com.cn
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (12)
+# ============================================
+chinatelecom.com.cn
+10010.com
+10086.cn
+crcc.cn
+crecg.com
+ccccltd.cn
+chinalco.com.cn
+baowugroup.com
+cosco.com
+airchina.com.cn
+12306.cn
+crc.com.cn
+
+# ============================================
+# LAW ENFORCEMENT & SECURITY (8)
+# ============================================
+mps.gov.cn
+pap.mil.cn
+chinacourt.org
+spp.gov.cn
+spc.gov.cn
+12309.gov.cn
+chinapeace.org.cn
+moj.gov.cn
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+court.gov.cn
+spc.gov.cn
+spp.gov.cn
+moj.gov.cn
+npc.gov.cn
+chinalaw.gov.cn
+
+# ============================================
+# FINANCIAL & REGULATORY (10)
+# ============================================
+pbc.gov.cn
+csrc.gov.cn
+cbirc.gov.cn
+safe.gov.cn
+chinatax.gov.cn
+stats.gov.cn
+audit.gov.cn
+customs.gov.cn
+ndrc.gov.cn
+mof.gov.cn
+
+# ============================================
+# STATE-OWNED ENTERPRISES (15)
+# ============================================
+sasac.gov.cn
+sinopec.com
+cnpc.com.cn
+sgcc.com.cn
+cnooc.com.cn
+baowugroup.com
+chinalco.com.cn
+cosco.com
+cmhk.com
+crrc.cn
+cofco.com
+sinochem.com
+citic.com
+poly.com.cn
+cetc.com.cn
+
+# ============================================
+# CYBER & INFORMATION CONTROL (6)
+# ============================================
+cac.gov.cn
+cert.org.cn
+cnnic.cn
+miit.gov.cn
+12377.cn
+itsec.gov.cn
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (12)
+# ============================================
+beijing.gov.cn
+sh.gov.cn
+gd.gov.cn
+zj.gov.cn
+js.gov.cn
+sd.gov.cn
+fj.gov.cn
+sc.gov.cn
+hb.gov.cn
+ha.gov.cn
+hn.gov.cn
+cq.gov.cn
+
+# ============================================
+# SPECIAL REGIONS (3)
+# ============================================
+gov.hk
+gov.mo
+taiwan.gov.tw
+
+# ============================================
+# UNIVERSITIES - RESEARCH (12)
+# ============================================
+tsinghua.edu.cn
+pku.edu.cn
+fudan.edu.cn
+sjtu.edu.cn
+zju.edu.cn
+ustc.edu.cn
+nju.edu.cn
+hit.edu.cn
+whu.edu.cn
+xjtu.edu.cn
+nudt.edu.cn
+cas.cn
+
+# ============================================
+# DEFENSE INDUSTRY (8)
+# ============================================
+avic.com
+casic.com.cn
+casc.com.cn
+norinco.com
+cssc.net.cn
+csic.com.cn
+cetc.com.cn
+aero-engine.cn
+
+# ============================================
+# MEDIA - STATE (10)
+# ============================================
+xinhuanet.com
+people.com.cn
+cctv.com
+chinadaily.com.cn
+cgtn.com
+globaltimes.cn
+ecns.cn
+china.org.cn
+english.gov.cn
+scio.gov.cn
+
+# ============================================
+# BANKS (8)
+# ============================================
+pbc.gov.cn
+icbc.com.cn
+ccb.com
+boc.cn
+abchina.com
+bankcomm.com
+cdb.com.cn
+chexim.com.cn
+
+# ============================================
+# TECH COMPANIES (8)
+# ============================================
+huawei.com
+alibaba.com
+tencent.com
+baidu.com
+bytedance.com
+xiaomi.com
+jd.com
+dji.com
+
+# ============================================
+# SPORTS (3)
+# ============================================
+cfa.cn
+olympic.cn
+sport.gov.cn
+
+# ============================================
+# TOURISM (2)
+# ============================================
+travelchina.gov.cn
+cnta.gov.cn
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+ciis.org.cn
+cicir.ac.cn
+cass.cn
+siis.org.cn

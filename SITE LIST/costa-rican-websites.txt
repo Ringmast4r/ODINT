@@ -1,0 +1,200 @@
+# Costa Rican Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 130 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (10)
+# ============================================
+nacion.com
+crhoy.com
+ameliarueda.com
+larepublica.net
+diarioextra.com
+elpais.cr
+teletica.com
+semanariouniversidad.com
+elmundo.cr
+delfino.cr
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (5)
+# ============================================
+teletica.com
+repretel.com
+canal13.co.cr
+sinart.go.cr
+crc891.com
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+presidencia.go.cr
+gobierno.cr
+mrec.go.cr
+
+# ============================================
+# GOVERNMENT - MINISTRIES (16)
+# ============================================
+msp.go.cr
+mep.go.cr
+hacienda.go.cr
+salud.go.cr
+mopt.go.cr
+mag.go.cr
+mtss.go.cr
+minae.go.cr
+mcj.go.cr
+meic.go.cr
+mivah.go.cr
+micitt.go.cr
+mideplan.go.cr
+mideplam.go.cr
+seguridad.go.cr
+comex.go.cr
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (7)
+# ============================================
+asamblea.go.cr
+poder-judicial.go.cr
+tse.go.cr
+pgr.go.cr
+cgr.go.cr
+defensoriahabitantes.go.cr
+ministeriopublico.poder-judicial.go.cr
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (7)
+# ============================================
+bccr.fi.cr
+sugef.fi.cr
+sugeval.fi.cr
+sugese.fi.cr
+sutel.go.cr
+aresep.go.cr
+tributacion.hacienda.go.cr
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (12)
+# ============================================
+ccss.sa.cr
+inec.cr
+tse.go.cr
+registro.go.cr
+migracion.go.cr
+cne.go.cr
+imn.ac.cr
+conavi.go.cr
+imas.go.cr
+pani.go.cr
+procomer.com
+cinde.org
+
+# ============================================
+# SECURITY (4)
+# ============================================
+msp.go.cr
+fuerzapublica.go.cr
+oij.poder-judicial.go.cr
+dgme.go.cr
+
+# ============================================
+# STATE ENTERPRISES (6)
+# ============================================
+ice.go.cr
+recope.go.cr
+correos.go.cr
+cnfl.go.cr
+japdeva.go.cr
+incofer.go.cr
+
+# ============================================
+# BANKS & ECONOMY (8)
+# ============================================
+bccr.fi.cr
+bancobcr.com
+bncr.fi.cr
+bancopopular.fi.cr
+bac.net
+scotiabankcr.com
+davivienda.cr
+promerica.fi.cr
+
+# ============================================
+# UNIVERSITIES & EDUCATION (8)
+# ============================================
+ucr.ac.cr
+una.ac.cr
+tec.ac.cr
+uned.ac.cr
+utn.ac.cr
+veritas.cr
+ulead.ac.cr
+ulatina.ac.cr
+
+# ============================================
+# SPORTS (3)
+# ============================================
+fedefutbol.com
+comiteolimipicocrc.org
+unafut.com
+
+# ============================================
+# POLITICAL PARTIES (4)
+# ============================================
+ppsd.cr
+pln.cr
+pusc.cr
+pac.cr
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (7)
+# ============================================
+msj.go.cr
+municartago.go.cr
+muniheredia.go.cr
+munialajuela.go.cr
+muniliberia.go.cr
+munilimon.go.cr
+munipuntarenas.go.cr
+
+# ============================================
+# HUMAN RIGHTS / NGOs (4)
+# ============================================
+defensoriahabitantes.go.cr
+acceder.cr
+costaricasolidaria.org
+acnur.org
+
+# ============================================
+# E-COMMERCE & SERVICES (5)
+# ============================================
+kolbi.cr
+claro.cr
+libertad.cr
+mercadolibre.co.cr
+pricesmart.com
+
+# ============================================
+# TOURISM (3)
+# ============================================
+visitcostarica.com
+ict.go.cr
+sinac.go.cr
+
+# ============================================
+# ART & CULTURE (3)
+# ============================================
+mcj.go.cr
+museocostarica.go.cr
+teatronacional.go.cr
+
+# ============================================
+# DIASPORA & INTERNATIONAL (5)
+# ============================================
+procomer.com
+cinde.org
+comex.go.cr
+mrec.go.cr
+zonasfrancas.go.cr

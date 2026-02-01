@@ -1,0 +1,181 @@
+# Jamaican Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 105 domains
+
+# ============================================
+# NEWS & MEDIA (10)
+# ============================================
+jamaicaobserver.com
+jamaica-gleaner.com
+loopjamaica.com
+nationwideradiojm.com
+go-jamaica.com
+jamaicastar.com
+radiojamaicanews.com
+jis.gov.jm
+rjrgleaner.com
+cvmtv.com
+
+# ============================================
+# GOVERNMENT - EXECUTIVE (3)
+# ============================================
+opm.gov.jm
+jis.gov.jm
+gov.jm
+
+# ============================================
+# GOVERNMENT - MINISTRIES (14)
+# ============================================
+mfaft.gov.jm
+mof.gov.jm
+mns.gov.jm
+moey.gov.jm
+moh.gov.jm
+micaf.gov.jm
+mtbe.gov.jm
+megjc.gov.jm
+mlss.gov.jm
+mtwh.gov.jm
+mstem.gov.jm
+meyi.gov.jm
+mcges.gov.jm
+ment.gov.jm
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (5)
+# ============================================
+japarliament.gov.jm
+supremecourt.gov.jm
+courtofappeal.gov.jm
+eoj.com.jm
+oca.gov.jm
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (6)
+# ============================================
+taj.gov.jm
+fsc.gov.jm
+boj.org.jm
+jcc.gov.jm
+our.org.jm
+spectrum.gov.jm
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (12)
+# ============================================
+statin.gov.jm
+nidsjm.gov.jm
+pica.gov.jm
+rgd.gov.jm
+nwc.com.jm
+odpem.org.jm
+pioj.gov.jm
+nht.gov.jm
+jps.com.jm
+nla.gov.jm
+tad.gov.jm
+mstem.gov.jm
+
+# ============================================
+# MILITARY & SECURITY (4)
+# ============================================
+jdf.mil.jm
+jcf.gov.jm
+iscf.gov.jm
+mns.gov.jm
+
+# ============================================
+# STATE ENTERPRISES (4)
+# ============================================
+nwc.com.jm
+jps.com.jm
+petrojam.com
+aaj.com.jm
+
+# ============================================
+# BANKS & ECONOMY (7)
+# ============================================
+boj.org.jm
+jnbs.com
+ncb.com.jm
+scotiabank.com.jm
+cibc.com.jm
+dbj.gov.jm
+eximbankja.com
+
+# ============================================
+# UNIVERSITIES & EDUCATION (7)
+# ============================================
+uwi.edu
+utech.edu.jm
+ncu.edu.jm
+moneague.edu.jm
+exed.edu.jm
+utm.edu.jm
+cmu.edu.jm
+
+# ============================================
+# SPORTS (4)
+# ============================================
+jff.com.jm
+jaaa.org.jm
+joa.org.jm
+jadco.gov.jm
+
+# ============================================
+# POLITICAL PARTIES (3)
+# ============================================
+jlp.com.jm
+pnp.org.jm
+ndm.org.jm
+
+# ============================================
+# PARISH / LOCAL GOVERNMENTS (7)
+# ============================================
+ksamc.gov.jm
+portmore.gov.jm
+montegobay.org.jm
+spcpc.gov.jm
+manchester.gov.jm
+stann.gov.jm
+stjames.gov.jm
+
+# ============================================
+# HUMAN RIGHTS / NGOs (3)
+# ============================================
+jamaicansforjustice.org
+standpipe.org
+jflag.org
+
+# ============================================
+# E-COMMERCE & SERVICES (5)
+# ============================================
+digicel.com.jm
+flowjamaica.com
+cvm.com.jm
+pricesmart.com
+higlermarket.com
+
+# ============================================
+# TOURISM (4)
+# ============================================
+visitjamaica.com
+jtb.gov.jm
+tpdco.org
+jamaicatdc.com
+
+# ============================================
+# ART & CULTURE (3)
+# ============================================
+jnht.com
+nationalgalleryofjamaica.org
+jamaicanmusic.com
+
+# ============================================
+# DIASPORA & INTERNATIONAL (4)
+# ============================================
+mfaft.gov.jm
+jamprocorp.com
+tradeboard.gov.jm
+eximbankja.com

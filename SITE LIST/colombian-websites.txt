@@ -1,0 +1,323 @@
+# Colombian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 264 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (18)
+# ============================================
+eltiempo.com
+elespectador.com
+semana.com
+lasillavacia.com
+elcolombiano.com
+elheraldo.co
+vanguardia.com
+larepublica.co
+portafolio.co
+eluniversal.com.co
+elpais.com.co
+las2orillas.co
+pulzo.com
+cambio.com.co
+laopinion.com.co
+elnuevosiglo.com.co
+elmeridiano.co
+colombiareports.com
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (14)
+# ============================================
+caracoltv.com
+rcn.com.co
+canaluno.com.co
+rtvc.gov.co
+bluradio.com
+wradio.com.co
+rcnradio.com
+noticiasrcn.com
+canaltrece.com.co
+telepacifico.com
+telecafe.tv
+telecaribe.co
+telemedellin.tv
+citytv.com.co
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (4)
+# ============================================
+presidencia.gov.co
+vicepresidencia.gov.co
+funcionpublica.gov.co
+dapre.gov.co
+
+# ============================================
+# GOVERNMENT - MINISTRIES (18)
+# ============================================
+cancilleria.gov.co
+mininterior.gov.co
+minjusticia.gov.co
+minhacienda.gov.co
+mineducacion.gov.co
+minsalud.gov.co
+mintrabajo.gov.co
+minminas.gov.co
+mincomercio.gov.co
+minambiente.gov.co
+minvivienda.gov.co
+mintic.gov.co
+mintransporte.gov.co
+mincultura.gov.co
+minagricultura.gov.co
+mindeporte.gov.co
+minciencias.gov.co
+mincit.gov.co
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (12)
+# ============================================
+corteconstitucional.gov.co
+cortesuprema.gov.co
+consejodeestado.gov.co
+senado.gov.co
+camara.gov.co
+fiscalia.gov.co
+procuraduria.gov.co
+defensoria.gov.co
+contraloria.gov.co
+ramajudicial.gov.co
+jep.gov.co
+csjudicatura.gov.co
+
+# ============================================
+# GOVERNMENT - SUPERINTENDENCIAS & REGULATORY (15)
+# ============================================
+dian.gov.co
+superfinanciera.gov.co
+superindustria.gov.co
+supersalud.gov.co
+supersociedades.gov.co
+superservicios.gov.co
+supervigilancia.gov.co
+supernotariado.gov.co
+supertransporte.gov.co
+supersubsidio.gov.co
+crc.gov.co
+creg.gov.co
+uiaf.gov.co
+ugpp.gov.co
+antv.gov.co
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (30)
+# ============================================
+dane.gov.co
+registraduria.gov.co
+migracioncolombia.gov.co
+invias.gov.co
+ani.gov.co
+aerocivil.gov.co
+icbf.gov.co
+icetex.gov.co
+sena.edu.co
+colpensiones.gov.co
+igac.gov.co
+ideam.gov.co
+invima.gov.co
+ica.gov.co
+anla.gov.co
+ans.gov.co
+unp.gov.co
+uariv.gov.co
+dps.gov.co
+dnp.gov.co
+agenciadetierras.gov.co
+upra.gov.co
+colombiacompra.gov.co
+adr.gov.co
+sgc.gov.co
+archivogeneral.gov.co
+andje.gov.co
+arn.gov.co
+icanh.gov.co
+agencianacionaldeinfraestructura.gov.co
+
+# ============================================
+# MILITARY & SECURITY (10)
+# ============================================
+mindefensa.gov.co
+ejercito.mil.co
+armada.mil.co
+fac.mil.co
+cgfm.mil.co
+policia.gov.co
+dimar.mil.co
+justiciamilitar.gov.co
+gsed.gov.co
+inpec.gov.co
+
+# ============================================
+# STATE ENTERPRISES (10)
+# ============================================
+ecopetrol.com.co
+isagen.com.co
+isa.co
+etb.com.co
+serviciospostales.gov.co
+satena.com
+cisa.gov.co
+findeter.gov.co
+fiduprevisora.gov.co
+fondo-adaptacion.gov.co
+
+# ============================================
+# BANKS & ECONOMY (13)
+# ============================================
+banrep.gov.co
+bancolombia.com
+davivienda.com
+bancodebogota.com.co
+grupoaval.com
+bbva.com.co
+colpatria.com
+scotiabank.com.co
+bancopopular.com.co
+bancodeoccidente.com.co
+finagro.com.co
+bancoldex.com
+fng.gov.co
+
+# ============================================
+# UNIVERSITIES & EDUCATION (22)
+# ============================================
+unal.edu.co
+uniandes.edu.co
+javeriana.edu.co
+urosario.edu.co
+udea.edu.co
+univalle.edu.co
+uis.edu.co
+uninorte.edu.co
+eafit.edu.co
+icesi.edu.co
+uexternado.edu.co
+udistrital.edu.co
+uptc.edu.co
+unicauca.edu.co
+utp.edu.co
+unisabana.edu.co
+ucc.edu.co
+utadeo.edu.co
+unicartagena.edu.co
+unipamplona.edu.co
+uniquindio.edu.co
+usc.edu.co
+
+# ============================================
+# SPORTS (4)
+# ============================================
+fcf.com.co
+dimayor.com.co
+coc.org.co
+fedeciclismo.com
+
+# ============================================
+# POLITICAL PARTIES (6)
+# ============================================
+centrodemocratico.com
+partidoliberal.org.co
+partidoconservador.org
+partidoverde.org.co
+pactohistorico.com.co
+cambioradical.org.co
+
+# ============================================
+# DEPARTMENTAL GOVERNMENTS (33)
+# ============================================
+bogota.gov.co
+cundinamarca.gov.co
+antioquia.gov.co
+valledelcauca.gov.co
+atlantico.gov.co
+santander.gov.co
+bolivar.gov.co
+boyaca.gov.co
+tolima.gov.co
+narino.gov.co
+cauca.gov.co
+nortedesantander.gov.co
+magdalena.gov.co
+cordoba.gov.co
+cesar.gov.co
+huila.gov.co
+risaralda.gov.co
+caldas.gov.co
+quindio.gov.co
+meta.gov.co
+sucre.gov.co
+laguajira.gov.co
+casanare.gov.co
+putumayo.gov.co
+choco.gov.co
+caqueta.gov.co
+arauca.gov.co
+guaviare.gov.co
+amazonas.gov.co
+vaupes.gov.co
+vichada.gov.co
+sanandres.gov.co
+guainia.gov.co
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (15)
+# ============================================
+medellin.gov.co
+cali.gov.co
+barranquilla.gov.co
+cartagena.gov.co
+bucaramanga.gov.co
+cucuta.gov.co
+pereira.gov.co
+manizales.gov.co
+ibague.gov.co
+santa-marta.gov.co
+villavicencio.gov.co
+neiva.gov.co
+pasto.gov.co
+monteria.gov.co
+armenia.gov.co
+
+# ============================================
+# HUMAN RIGHTS / NGOs (5)
+# ============================================
+dejusticia.org
+ideaspaz.org
+cinep.org.co
+indepaz.org.co
+corpovisionarios.org
+
+# ============================================
+# ART & CULTURE (4)
+# ============================================
+banrepcultural.org
+bibliotecanacional.gov.co
+museonacional.gov.co
+cinematecadistrital.gov.co
+
+# ============================================
+# E-COMMERCE & SERVICES (7)
+# ============================================
+mercadolibre.com.co
+rappi.com.co
+falabella.com.co
+exito.com
+claro.com.co
+movistar.com.co
+tigo.com.co
+
+# ============================================
+# TOURISM (3)
+# ============================================
+colombia.travel
+procolombia.co
+fontur.com.co

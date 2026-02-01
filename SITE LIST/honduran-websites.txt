@@ -1,0 +1,184 @@
+# Honduran Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 108 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (8)
+# ============================================
+laprensa.hn
+elheraldo.hn
+latribuna.hn
+proceso.hn
+criterio.hn
+reporteros.hn
+contraciudad.hn
+hondurastips.hn
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (5)
+# ============================================
+tn5.hn
+hch.tv
+televicentro.hn
+hrn.hn
+radioamerica.hn
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+gob.hn
+presidencia.gob.hn
+secretariadecomunicaciones.gob.hn
+
+# ============================================
+# GOVERNMENT - MINISTRIES / SECRETARIAS (14)
+# ============================================
+sre.gob.hn
+seguridad.gob.hn
+seduc.gob.hn
+salud.gob.hn
+sefin.gob.hn
+sedesol.gob.hn
+trabajo.gob.hn
+sag.gob.hn
+miambiente.gob.hn
+ihtt.gob.hn
+sedena.gob.hn
+sic.gob.hn
+scgg.gob.hn
+seplan.gob.hn
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (7)
+# ============================================
+congresonacional.hn
+poderjudicial.gob.hn
+csj.gob.hn
+mp.gob.hn
+tsc.gob.hn
+conadeh.hn
+tse.hn
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (5)
+# ============================================
+sar.gob.hn
+cnbs.gob.hn
+dei.gob.hn
+ihss.gob.hn
+conatel.gob.hn
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (10)
+# ============================================
+ine.gob.hn
+rnp.hn
+inp.hn
+copeco.gob.hn
+dgm.gob.hn
+senasa.gob.hn
+cohcit.gob.hn
+iaip.gob.hn
+sapp.gob.hn
+sinager.gob.hn
+
+# ============================================
+# MILITARY & SECURITY (5)
+# ============================================
+ffaa.mil.hn
+ejercito.mil.hn
+fuerzanaval.mil.hn
+fuerzaaerea.mil.hn
+policianacional.gob.hn
+
+# ============================================
+# STATE ENTERPRISES (4)
+# ============================================
+enee.hn
+sanaa.hn
+hondutel.hn
+enphn.gob.hn
+
+# ============================================
+# BANKS & ECONOMY (7)
+# ============================================
+bch.hn
+bancatlan.hn
+bac.hn
+ficohsa.hn
+banpais.hn
+davivienda.hn
+occidente.hn
+
+# ============================================
+# UNIVERSITIES & EDUCATION (7)
+# ============================================
+unah.edu.hn
+unitec.edu.hn
+upnfm.edu.hn
+utm.hn
+unicah.edu.hn
+zamorano.edu
+ceutec.hn
+
+# ============================================
+# SPORTS (3)
+# ============================================
+fenafuth.org
+coh.hn
+ligahnacional.hn
+
+# ============================================
+# POLITICAL PARTIES (4)
+# ============================================
+libre.hn
+partidonacional.hn
+plh.hn
+psh.hn
+
+# ============================================
+# DEPARTMENTAL / MUNICIPAL (6)
+# ============================================
+amdc.hn
+sanpedrosula.hn
+lacelba.gob.hn
+choloma.gob.hn
+comayagua.gob.hn
+choluteca.gob.hn
+
+# ============================================
+# HUMAN RIGHTS / NGOs (4)
+# ============================================
+cofadeh.hn
+ciprodeh.hn
+asj.hn
+cespad.org.hn
+
+# ============================================
+# E-COMMERCE & SERVICES (5)
+# ============================================
+tigo.com.hn
+claro.com.hn
+honducompras.gob.hn
+pricesmart.com
+lacuracaosiempre.com
+
+# ============================================
+# TOURISM (3)
+# ============================================
+iht.hn
+visitehonduras.com
+honduras.travel
+
+# ============================================
+# DIASPORA & INTERNATIONAL (8)
+# ============================================
+sre.gob.hn
+fide.hn
+hondurassiexporta.hn
+prohonduras.hn
+bcie.org
+zolitur.hn
+cahda.hn
+conmigho.gob.hn

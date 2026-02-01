@@ -1,0 +1,243 @@
+# German Websites - Comprehensive List
+# Government, military, intelligence, space, infrastructure
+# Created: 2026-01-29
+# Total: 185 domains
+
+# ============================================
+# EXECUTIVE & PARLIAMENT (6)
+# ============================================
+bundesregierung.de
+bundeskanzler.de
+bundestag.de
+bundesrat.de
+bundespraesident.de
+gesetze-im-internet.de
+
+# ============================================
+# FEDERAL MINISTRIES (15)
+# ============================================
+auswaertiges-amt.de
+bmi.bund.de
+bmvg.de
+bmf.de
+bmj.de
+bmbf.de
+bmg.de
+bmuv.de
+bmel.de
+bmas.de
+bmwk.de
+bmdv.de
+bmwsb.de
+bmfsfj.de
+bmz.de
+
+# ============================================
+# MILITARY - BUNDESWEHR (10)
+# ============================================
+bundeswehr.de
+heer.de
+marine.de
+luftwaffe.de
+cyber.bundeswehr.de
+sanitaetsdienst.bundeswehr.de
+streitkraeftebasis.de
+baainbw.de
+bwi.de
+baks.bund.de
+
+# ============================================
+# INTELLIGENCE SERVICES (5)
+# ============================================
+bnd.de
+verfassungsschutz.de
+mad.bundeswehr.de
+bsi.bund.de
+bka.de
+
+# ============================================
+# SPACE & AEROSPACE (6)
+# ============================================
+dlr.de
+esa.int
+ohb.de
+airbus.com
+arianegroup.com
+bdli.de
+
+# ============================================
+# NUCLEAR & ENERGY (6)
+# ============================================
+bfe.bund.de
+bfs.de
+bundesnetzagentur.de
+bmwk.de
+dena.de
+bafa.de
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+bsi.bund.de
+bundesnetzagentur.de
+bafin.de
+eba.bund.de
+lba.de
+bsh.de
+dwd.de
+bbk.bund.de
+thw.de
+dfs.de
+
+# ============================================
+# LAW ENFORCEMENT (6)
+# ============================================
+bka.de
+bundespolizei.de
+zoll.de
+gba.de
+interpol.int
+europol.europa.eu
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+bundesverfassungsgericht.de
+bundesgerichtshof.de
+bundesarbeitsgericht.de
+bundessozialgericht.de
+bundesfinanzhof.de
+bverwg.de
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+bundesbank.de
+bafin.de
+destatis.de
+bmf.de
+bundesfinanzministerium.de
+drv.de
+bundesrechnungshof.de
+monopolkommission.de
+
+# ============================================
+# FEDERAL AGENCIES (10)
+# ============================================
+bamf.de
+bpb.de
+destatis.de
+dpma.de
+bafa.de
+bibb.de
+bbr.bund.de
+brk.de
+giz.de
+kfw.de
+
+# ============================================
+# STATE GOVERNMENTS (16)
+# ============================================
+bayern.de
+bw-bwl.de
+berlin.de
+brandenburg.de
+bremen.de
+hamburg.de
+hessen.de
+mv-regierung.de
+niedersachsen.de
+nrw.de
+rlp.de
+saarland.de
+sachsen.de
+sachsen-anhalt.de
+schleswig-holstein.de
+thueringen.de
+
+# ============================================
+# UNIVERSITIES - RESEARCH (12)
+# ============================================
+lmu.de
+tum.de
+hu-berlin.de
+fu-berlin.de
+uni-heidelberg.de
+uni-muenchen.de
+rwth-aachen.de
+kit.edu
+uni-bonn.de
+tu-berlin.de
+mpg.de
+helmholtz.de
+
+# ============================================
+# DEFENSE INDUSTRY (6)
+# ============================================
+rheinmetall.com
+thyssenkrupp.com
+hensoldt.net
+diehl.com
+krauss-maffeiwegmann.com
+airbus.com
+
+# ============================================
+# MEDIA (8)
+# ============================================
+spiegel.de
+zeit.de
+faz.net
+sueddeutsche.de
+welt.de
+bild.de
+tagesschau.de
+dw.com
+
+# ============================================
+# BANKS (6)
+# ============================================
+bundesbank.de
+db.com
+commerzbank.de
+kfw.de
+lbbw.de
+helaba.de
+
+# ============================================
+# CYBER SECURITY (5)
+# ============================================
+bsi.bund.de
+cert-bund.de
+allianz-fuer-cybersicherheit.de
+cyberagentur.de
+zitis.de
+
+# ============================================
+# SPORTS (3)
+# ============================================
+dfb.de
+bundesliga.de
+dosb.de
+
+# ============================================
+# TOURISM (2)
+# ============================================
+germany.travel
+visitberlin.de
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+swp-berlin.org
+dgap.org
+ifw-kiel.de
+diw.de
+
+# ============================================
+# MAJOR CITIES (5)
+# ============================================
+berlin.de
+muenchen.de
+hamburg.de
+koeln.de
+frankfurt.de

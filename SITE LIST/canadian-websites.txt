@@ -1,0 +1,281 @@
+# Canadian Websites - Comprehensive List
+# Government, military, intelligence, space, infrastructure, and critical sites
+# Created: 2026-01-29
+# Total: 210 domains
+
+# ============================================
+# EXECUTIVE & PARLIAMENT (5)
+# ============================================
+canada.ca
+pm.gc.ca
+pco-bcp.gc.ca
+parl.ca
+senate.ca
+
+# ============================================
+# FEDERAL DEPARTMENTS (25)
+# ============================================
+international.gc.ca
+forces.gc.ca
+justice.gc.ca
+fin.gc.ca
+hc-sc.gc.ca
+canada.ca/en/health-canada
+tc.gc.ca
+nrcan.gc.ca
+ec.gc.ca
+ic.gc.ca
+canada.ca/en/immigration-refugees-citizenship
+psc-cfp.gc.ca
+canada.ca/en/employment-social-development
+cic.gc.ca
+publicsafety.gc.ca
+rcmp-grc.gc.ca
+canada.ca/en/department-national-defence
+vac-acc.gc.ca
+pch.gc.ca
+ised-isde.canada.ca
+agriculture.canada.ca
+cer-rec.gc.ca
+nrc-cnrc.gc.ca
+cra-arc.gc.ca
+ircc.canada.ca
+
+# ============================================
+# MILITARY - CANADIAN ARMED FORCES (8)
+# ============================================
+forces.gc.ca
+army.gc.ca
+navy.gc.ca
+rcaf-arc.gc.ca
+canada.ca/en/department-national-defence
+norad.mil
+cjoc-coic.forces.gc.ca
+cansofcom.forces.gc.ca
+
+# ============================================
+# INTELLIGENCE & SECURITY (8)
+# ============================================
+csis-scrs.gc.ca
+cse-cst.gc.ca
+rcmp-grc.gc.ca
+publicsafety.gc.ca
+cbsa-asfc.gc.ca
+cccs-ccsc.gc.ca
+itac.gc.ca
+fintrac-canafe.gc.ca
+
+# ============================================
+# SPACE & AEROSPACE (5)
+# ============================================
+asc-csa.gc.ca
+nrc-cnrc.gc.ca
+space.gc.ca
+canada.ca/en/space
+macdonald-dettwiler.com
+
+# ============================================
+# NUCLEAR & ENERGY (6)
+# ============================================
+nuclearsafety.gc.ca
+aecl.ca
+nrcan.gc.ca
+cer-rec.gc.ca
+neb-one.gc.ca
+canada.ca/en/natural-resources
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+crtc.gc.ca
+otc-cta.gc.ca
+tc.gc.ca
+catsa-acsta.gc.ca
+navcanada.ca
+tsb-bst.gc.ca
+eccc.gc.ca
+infrastructure.gc.ca
+ccg-gcc.gc.ca
+ps-sp.gc.ca
+
+# ============================================
+# JUDICIAL & LEGAL (6)
+# ============================================
+scc-csc.gc.ca
+fct-cf.gc.ca
+fca-caf.gc.ca
+justice.gc.ca
+ppsc-sppc.gc.ca
+elections.ca
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+bankofcanada.ca
+cra-arc.gc.ca
+osfi-bsif.gc.ca
+fintrac-canafe.gc.ca
+cdic.ca
+fcac-acfc.gc.ca
+osc.gov.on.ca
+tmx.com
+
+# ============================================
+# AGENCIES & SERVICES (12)
+# ============================================
+statcan.gc.ca
+canada.ca/en/revenue-agency
+servicecanada.gc.ca
+ircc.canada.ca
+cbsa-asfc.gc.ca
+parks.canada.ca
+bdc.ca
+edc.ca
+cipo.gc.ca
+polar.gc.ca
+csc-scc.gc.ca
+nrc-cnrc.gc.ca
+
+# ============================================
+# PROVINCIAL & TERRITORIAL GOVERNMENTS (13)
+# ============================================
+ontario.ca
+quebec.ca
+gov.bc.ca
+alberta.ca
+gov.mb.ca
+saskatchewan.ca
+gov.ns.ca
+gov.nb.ca
+gov.nl.ca
+princeedwardisland.ca
+gov.nt.ca
+gov.nu.ca
+gov.yk.ca
+
+# ============================================
+# MAJOR CITY GOVERNMENTS (10)
+# ============================================
+toronto.ca
+montreal.ca
+vancouver.ca
+calgary.ca
+edmonton.ca
+ottawa.ca
+winnipeg.ca
+quebec.ca
+hamilton.ca
+halifax.ca
+
+# ============================================
+# UNIVERSITIES - TOP RESEARCH (15)
+# ============================================
+utoronto.ca
+ubc.ca
+mcgill.ca
+ualberta.ca
+umontreal.ca
+uottawa.ca
+uwaterloo.ca
+ucalgary.ca
+queensu.ca
+dal.ca
+usask.ca
+umanitoba.ca
+sfu.ca
+uvic.ca
+yorku.ca
+
+# ============================================
+# BANKS & ECONOMY (8)
+# ============================================
+bankofcanada.ca
+rbc.com
+td.com
+scotiabank.com
+bmo.com
+cibc.com
+desjardins.com
+nbc.ca
+
+# ============================================
+# DEFENSE INDUSTRY (5)
+# ============================================
+gdcanada.com
+cae.com
+imp.ca
+rheinmetall.ca
+baesystems.com
+
+# ============================================
+# MEDIA - NATIONAL (10)
+# ============================================
+cbc.ca
+globalnews.ca
+theglobeandmail.com
+nationalpost.com
+thestar.com
+ctv.ca
+tvanouvelles.ca
+lapresse.ca
+ledevoir.com
+macleans.ca
+
+# ============================================
+# LAW ENFORCEMENT (6)
+# ============================================
+rcmp-grc.gc.ca
+opp.ca
+sq.gouv.qc.ca
+torontopolice.on.ca
+edmontonpolice.ca
+vpd.ca
+
+# ============================================
+# SPORTS (5)
+# ============================================
+nhl.com
+cfl.ca
+canadasoccer.com
+hockeycanada.ca
+mlscanada.com
+
+# ============================================
+# E-COMMERCE & SERVICES (5)
+# ============================================
+bell.ca
+rogers.com
+telus.com
+shopify.com
+canadapost.ca
+
+# ============================================
+# CROWN CORPORATIONS (10)
+# ============================================
+cbc.ca
+canadapost.ca
+viarail.ca
+bdc.ca
+edc.ca
+cmhc-schl.gc.ca
+nrc-cnrc.gc.ca
+ccc.ca
+ppsc-sppc.gc.ca
+destinations.gc.ca
+
+# ============================================
+# TOURISM (3)
+# ============================================
+canada.travel
+pc.gc.ca
+destinationcanada.com
+
+# ============================================
+# INDIGENOUS (6)
+# ============================================
+rcaanc-cirnac.gc.ca
+sac-isc.gc.ca
+afn.ca
+itk.ca
+metis.ca
+nwac.ca

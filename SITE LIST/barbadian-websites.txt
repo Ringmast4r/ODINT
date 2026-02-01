@@ -1,0 +1,118 @@
+# Barbadian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 58 domains
+
+# ============================================
+# NEWS & MEDIA (6)
+# ============================================
+nationnews.com
+barbadostoday.bb
+loopnewsbarbados.com
+barbadosadvocate.com
+cbc.bb
+starcomnetwork.net
+
+# ============================================
+# GOVERNMENT - EXECUTIVE (2)
+# ============================================
+pmo.gov.bb
+gov.bb
+
+# ============================================
+# GOVERNMENT - MINISTRIES (10)
+# ============================================
+foreign.gov.bb
+education.gov.bb
+health.gov.bb
+finance.gov.bb
+agriculture.gov.bb
+housing.gov.bb
+tourism.gov.bb
+labour.gov.bb
+energy.gov.bb
+transport.gov.bb
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (4)
+# ============================================
+parliament.gov.bb
+judiciary.gov.bb
+dpp.gov.bb
+ombudsman.gov.bb
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (7)
+# ============================================
+bra.gov.bb
+customs.gov.bb
+immigration.gov.bb
+nis.gov.bb
+bss.gov.bb
+bdm.gov.bb
+dem.gov.bb
+
+# ============================================
+# MILITARY & SECURITY (3)
+# ============================================
+bdf.gov.bb
+police.gov.bb
+coastguard.gov.bb
+
+# ============================================
+# BANKS & ECONOMY (5)
+# ============================================
+centralbank.org.bb
+firstcitizensbb.com
+scotiabank.com.bb
+rbc.com.bb
+cibc.com.bb
+
+# ============================================
+# STATE ENTERPRISES (3)
+# ============================================
+blpc.com.bb
+bwsa.bb
+barbadosport.com
+
+# ============================================
+# UNIVERSITIES & EDUCATION (3)
+# ============================================
+uwi.edu
+bcc.edu.bb
+sjpi.edu.bb
+
+# ============================================
+# SPORTS (3)
+# ============================================
+barbadosfa.com
+boc.org.bb
+barbadoscricket.org
+
+# ============================================
+# POLITICAL PARTIES (3)
+# ============================================
+blp.org.bb
+dlp.org.bb
+appa.org.bb
+
+# ============================================
+# TOURISM (3)
+# ============================================
+visitbarbados.org
+btmi.bb
+barbados.org
+
+# ============================================
+# E-COMMERCE & SERVICES (3)
+# ============================================
+digicel.bb
+flow.co
+lime.com
+
+# ============================================
+# HUMAN RIGHTS / NGOs (3)
+# ============================================
+caribbeanexport.com
+bisee.org
+equalitybarbados.org

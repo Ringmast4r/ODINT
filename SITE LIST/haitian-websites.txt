@@ -1,0 +1,132 @@
+# Haitian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 68 domains
+
+# ============================================
+# NEWS & MEDIA (10)
+# ============================================
+lenouvelliste.com
+loophaiti.com
+haitilibre.com
+alterpresse.org
+ayibopost.com
+maghaiti.net
+radiotelevisioncaraibes.com
+metropolehaiti.com
+radiokiskeya.com
+vfrancehaiti.com
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+primature.gouv.ht
+communication.gouv.ht
+mef.gouv.ht
+
+# ============================================
+# GOVERNMENT - MINISTRIES (12)
+# ============================================
+mae.gouv.ht
+mjsp.gouv.ht
+menfp.gouv.ht
+mspp.gouv.ht
+mpce.gouv.ht
+mtptc.gouv.ht
+mast.gouv.ht
+mde.gouv.ht
+marndr.gouv.ht
+mcfdf.gouv.ht
+mjsac.gouv.ht
+mict.gouv.ht
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (4)
+# ============================================
+cfrhaiti.gouv.ht
+cscahaiti.gouv.ht
+cep.ht
+opc.gouv.ht
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (6)
+# ============================================
+ihsi.ht
+onis.gouv.ht
+oavct.gouv.ht
+ucref.gouv.ht
+dgi.gouv.ht
+douane.gouv.ht
+
+# ============================================
+# SECURITY (3)
+# ============================================
+pnh.ht
+policenationale.gouv.ht
+bpim.gouv.ht
+
+# ============================================
+# BANKS & ECONOMY (5)
+# ============================================
+brh.ht
+bnc.ht
+buh.ht
+unibank.ht
+sogebank.com
+
+# ============================================
+# STATE ENTERPRISES (3)
+# ============================================
+edh.ht
+natcom.com.ht
+onapha.ht
+
+# ============================================
+# UNIVERSITIES & EDUCATION (5)
+# ============================================
+ueh.edu.ht
+undh.edu.ht
+uniq.edu.ht
+isephait.edu.ht
+quisqueya.edu
+
+# ============================================
+# SPORTS (2)
+# ============================================
+fhfhaiti.com
+cohhaiti.org
+
+# ============================================
+# POLITICAL PARTIES (3)
+# ============================================
+phtk.ht
+fanmilavalas.org
+opl.ht
+
+# ============================================
+# HUMAN RIGHTS / NGOs (4)
+# ============================================
+rnddh.org
+nchr-haiti.org
+fjdh.org
+papda.org
+
+# ============================================
+# E-COMMERCE & SERVICES (3)
+# ============================================
+digicel.ht
+natcom.com.ht
+caraibesexpress.com
+
+# ============================================
+# TOURISM (2)
+# ============================================
+haiti.travel
+mtic.gouv.ht
+
+# ============================================
+# DIASPORA & INTERNATIONAL (3)
+# ============================================
+mae.gouv.ht
+haitiandiaspora.com
+haitipolicygroup.org

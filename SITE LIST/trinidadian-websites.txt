@@ -1,0 +1,171 @@
+# Trinidad and Tobago Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 95 domains
+
+# ============================================
+# NEWS & MEDIA (8)
+# ============================================
+guardian.co.tt
+newsday.co.tt
+trinidadexpress.com
+looptt.com
+cnc3.co.tt
+tv6tnt.com
+i95.5fm.com
+power102fm.com
+
+# ============================================
+# GOVERNMENT - EXECUTIVE (3)
+# ============================================
+opm.gov.tt
+ttparliament.org
+gov.tt
+
+# ============================================
+# GOVERNMENT - MINISTRIES (14)
+# ============================================
+foreign.gov.tt
+mns.gov.tt
+mof.gov.tt
+moe.gov.tt
+health.gov.tt
+mpd.gov.tt
+energy.gov.tt
+agriculture.gov.tt
+housing.gov.tt
+works.gov.tt
+sport.gov.tt
+labour.gov.tt
+planning.gov.tt
+trade.gov.tt
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (6)
+# ============================================
+ttparliament.org
+judiciary.gov.tt
+dpp.gov.tt
+ombudsman.gov.tt
+ebc.gov.tt
+lrc.gov.tt
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (6)
+# ============================================
+bfrtt.gov.tt
+ttsec.org.tt
+cbtt.org
+rbc.gov.tt
+ird.gov.tt
+customs.gov.tt
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (10)
+# ============================================
+cso.gov.tt
+ttps.gov.tt
+immigration.gov.tt
+nema.gov.tt
+niherst.gov.tt
+cdap.gov.tt
+ttconnect.gov.tt
+nalis.gov.tt
+tema.gov.tt
+nibtt.co.tt
+
+# ============================================
+# MILITARY & SECURITY (4)
+# ============================================
+ttdf.mil.tt
+ttps.gov.tt
+ttcg.mil.tt
+sautt.org.tt
+
+# ============================================
+# STATE ENTERPRISES (5)
+# ============================================
+tstt.co.tt
+wasa.gov.tt
+ttec.co.tt
+petrotrin.com
+nlcbtt.com
+
+# ============================================
+# BANKS & ECONOMY (7)
+# ============================================
+cbtt.org
+republictt.com
+scotiabank.com.tt
+fcb.co.tt
+jmmb.com
+rbtt.com
+eximbanktt.com
+
+# ============================================
+# UNIVERSITIES & EDUCATION (5)
+# ============================================
+uwi.edu
+utt.edu.tt
+usc.edu.tt
+cipriani.edu.tt
+costaatt.edu.tt
+
+# ============================================
+# SPORTS (3)
+# ============================================
+ttff.com
+ttoc.org
+cplt20.com
+
+# ============================================
+# POLITICAL PARTIES (3)
+# ============================================
+pnm.org.tt
+unc.org.tt
+cop.org.tt
+
+# ============================================
+# MUNICIPAL / REGIONAL (5)
+# ============================================
+poscity.gov.tt
+sfcity.gov.tt
+arima.gov.tt
+chag.gov.tt
+tha.gov.tt
+
+# ============================================
+# HUMAN RIGHTS / NGOs (3)
+# ============================================
+transparency.org.tt
+caricom.org
+ttcsi.org
+
+# ============================================
+# E-COMMERCE & SERVICES (4)
+# ============================================
+digicel.co.tt
+bmobile.co.tt
+amplia.co.tt
+massy.com
+
+# ============================================
+# TOURISM (3)
+# ============================================
+visittobago.gov.tt
+gotrinidadandtobago.com
+tourismtt.com
+
+# ============================================
+# ART & CULTURE (3)
+# ============================================
+ncctt.org
+natt.gov.tt
+nationalmuseum.gov.tt
+
+# ============================================
+# ENERGY SECTOR (3)
+# ============================================
+ngc.co.tt
+bptt.com
+atlantictt.com

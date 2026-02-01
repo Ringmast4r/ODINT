@@ -1,0 +1,226 @@
+# Saudi Arabian Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 155 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (4)
+# ============================================
+my.gov.sa
+spa.gov.sa
+shura.gov.sa
+boe.gov.sa
+
+# ============================================
+# GOVERNMENT MINISTRIES (18)
+# ============================================
+mofa.gov.sa
+mod.gov.sa
+mof.gov.sa
+moe.gov.sa
+moh.gov.sa
+moi.gov.sa
+moj.gov.sa
+mc.gov.sa
+mewa.gov.sa
+mot.gov.sa
+mci.gov.sa
+hrsd.gov.sa
+mep.gov.sa
+momra.gov.sa
+modon.gov.sa
+moenergy.gov.sa
+mcit.gov.sa
+misa.gov.sa
+
+# ============================================
+# MILITARY & NATIONAL GUARD (10)
+# ============================================
+mod.gov.sa
+rslf.gov.sa
+rsaf.gov.sa
+rsnf.gov.sa
+sang.gov.sa
+gip.gov.sa
+moi.gov.sa
+pnu.edu.sa
+ksu.edu.sa
+sami.com.sa
+
+# ============================================
+# INTELLIGENCE & SECURITY (6)
+# ============================================
+gip.gov.sa
+moi.gov.sa
+psp.gov.sa
+nctc.gov.sa
+ncsc.gov.sa
+safcsp.org.sa
+
+# ============================================
+# SPACE & TECHNOLOGY (5)
+# ============================================
+spa.gov.sa
+kacst.edu.sa
+mcit.gov.sa
+sdaia.gov.sa
+cst.gov.sa
+
+# ============================================
+# NUCLEAR & ENERGY (6)
+# ============================================
+moenergy.gov.sa
+kacare.gov.sa
+ecra.gov.sa
+sec.com.sa
+aramco.com
+sabic.com
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+swcc.gov.sa
+nwc.com.sa
+sar.com.sa
+saudia.com
+gaca.gov.sa
+saptco.com.sa
+stc.com.sa
+mobily.com.sa
+zain.com.sa
+sec.com.sa
+
+# ============================================
+# LAW ENFORCEMENT (5)
+# ============================================
+moi.gov.sa
+psp.gov.sa
+bgs.gov.sa
+gdp.gov.sa
+nazaha.gov.sa
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+moj.gov.sa
+boe.gov.sa
+hrc.gov.sa
+sca.gov.sa
+bog.gov.sa
+nshr.org.sa
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+sama.gov.sa
+cma.org.sa
+gazt.gov.sa
+tadawul.com.sa
+gosi.gov.sa
+zatca.gov.sa
+ncc.gov.sa
+cchi.gov.sa
+
+# ============================================
+# VISION 2030 & MEGA PROJECTS (8)
+# ============================================
+vision2030.gov.sa
+neom.com
+thereddeveloper.com
+qiddiya.com
+roshn.sa
+pif.gov.sa
+rcrc.gov.sa
+entertainmentsa.com
+
+# ============================================
+# STATE ENTERPRISES (8)
+# ============================================
+aramco.com
+sabic.com
+maaden.com.sa
+sami.com.sa
+stc.com.sa
+pif.gov.sa
+acwa.com.sa
+snb.com.sa
+
+# ============================================
+# UNIVERSITIES (8)
+# ============================================
+ksu.edu.sa
+kau.edu.sa
+kfupm.edu.sa
+kaust.edu.sa
+pnu.edu.sa
+qu.edu.sa
+iau.edu.sa
+uqu.edu.sa
+
+# ============================================
+# REGIONAL GOVERNMENTS (5)
+# ============================================
+riyadh.gov.sa
+makkah.gov.sa
+eamana.gov.sa
+jeddah.gov.sa
+med.gov.sa
+
+# ============================================
+# MEDIA (6)
+# ============================================
+alarabiya.net
+saudigazette.com.sa
+arabnews.com
+okaz.com.sa
+sba.gov.sa
+aleqt.com
+
+# ============================================
+# BANKS (6)
+# ============================================
+sama.gov.sa
+snb.com.sa
+alrajhibank.com.sa
+riyadbank.com
+bsf.com.sa
+sabb.com
+
+# ============================================
+# CYBER SECURITY (4)
+# ============================================
+ncsc.gov.sa
+safcsp.org.sa
+cert.gov.sa
+nca.gov.sa
+
+# ============================================
+# SPORTS (3)
+# ============================================
+saff.com.sa
+spl.com.sa
+soc.org.sa
+
+# ============================================
+# TOURISM (3)
+# ============================================
+visitsaudi.com
+sct.gov.sa
+mt.gov.sa
+
+# ============================================
+# RELIGIOUS (4)
+# ============================================
+gph.gov.sa
+moia.gov.sa
+islamhouse.com
+quran.gov.sa
+
+# ============================================
+# DEFENSE INDUSTRY (5)
+# ============================================
+sami.com.sa
+gami.gov.sa
+atrc.sa
+alsalamah.aero
+taqnia.com

@@ -1,0 +1,303 @@
+# United Kingdom Websites - Comprehensive List
+# Government, military, intelligence, space, infrastructure, and critical sites
+# Created: 2026-01-29
+# Total: 220 domains
+
+# ============================================
+# EXECUTIVE & PARLIAMENT (6)
+# ============================================
+gov.uk
+parliament.uk
+royal.uk
+number10.gov.uk
+privy-council.org.uk
+cabinetoffice.gov.uk
+
+# ============================================
+# GOVERNMENT DEPARTMENTS (20)
+# ============================================
+fcdo.gov.uk
+homeoffice.gov.uk
+mod.uk
+hmtreasury.gov.uk
+justice.gov.uk
+education.gov.uk
+healthandcare.gov.uk
+dwp.gov.uk
+beis.gov.uk
+defra.gov.uk
+dluhc.gov.uk
+transport.gov.uk
+dcms.gov.uk
+hmrc.gov.uk
+ons.gov.uk
+ukri.org
+cabinetoffice.gov.uk
+nhs.uk
+dhsc.gov.uk
+dsit.gov.uk
+
+# ============================================
+# MILITARY - ARMED FORCES (10)
+# ============================================
+army.mod.uk
+royalnavy.mod.uk
+raf.mod.uk
+royalmarines.mod.uk
+mod.uk
+ukstratcom.mod.uk
+armedforcescovenant.gov.uk
+dstl.gov.uk
+de.mod.uk
+ukho.gov.uk
+
+# ============================================
+# INTELLIGENCE SERVICES (6)
+# ============================================
+sis.gov.uk
+mi5.gov.uk
+gchq.gov.uk
+ncsc.gov.uk
+jic.gov.uk
+dstl.gov.uk
+
+# ============================================
+# SPACE & AEROSPACE (6)
+# ============================================
+ukspaceagency.gov.uk
+esa.int
+stfc.ukri.org
+airbus.com
+baesystems.com
+rolls-royce.com
+
+# ============================================
+# NUCLEAR & ENERGY (8)
+# ============================================
+onr.org.uk
+nda.gov.uk
+gov.uk/government/organisations/sellafield-ltd
+awe.co.uk
+ofgem.gov.uk
+nationalgrideso.com
+edfenergy.com
+gov.uk/government/organisations/uk-atomic-energy-authority
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (12)
+# ============================================
+ncsc.gov.uk
+cpni.gov.uk
+ofcom.org.uk
+caa.co.uk
+orr.gov.uk
+ofwat.gov.uk
+hse.gov.uk
+environment-agency.gov.uk
+networkrail.co.uk
+nats.aero
+ico.org.uk
+fca.org.uk
+
+# ============================================
+# LAW ENFORCEMENT & SECURITY (10)
+# ============================================
+police.uk
+met.police.uk
+nationalcrimeagency.gov.uk
+college.police.uk
+cps.gov.uk
+sfo.gov.uk
+mi5.gov.uk
+counterterrorism.police.uk
+iopc.org.uk
+btp.police.uk
+
+# ============================================
+# JUDICIAL & LEGAL (8)
+# ============================================
+judiciary.uk
+supremecourt.uk
+tribunals.gov.uk
+sentencingcouncil.org.uk
+legalservices.gov.uk
+lawcommission.gov.uk
+solicitors.gov.uk
+cps.gov.uk
+
+# ============================================
+# FINANCIAL & REGULATORY (10)
+# ============================================
+bankofengland.co.uk
+fca.org.uk
+hmrc.gov.uk
+hmtreasury.gov.uk
+tpr.gov.uk
+ons.gov.uk
+pra.org.uk
+fscs.org.uk
+londonstockexchange.com
+nao.org.uk
+
+# ============================================
+# HEALTH & NHS (8)
+# ============================================
+nhs.uk
+england.nhs.uk
+nhsdigital.nhs.uk
+nice.org.uk
+phe.gov.uk
+ukhsa.gov.uk
+gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency
+cqc.org.uk
+
+# ============================================
+# DEVOLVED GOVERNMENTS (4)
+# ============================================
+gov.scot
+gov.wales
+executiveoffice-ni.gov.uk
+london.gov.uk
+
+# ============================================
+# OVERSEAS TERRITORIES (10)
+# ============================================
+gov.gi
+gov.ky
+gov.vg
+gov.bm
+gov.gg
+gov.je
+gov.im
+gov.fk
+gov.sh
+gov.ms
+
+# ============================================
+# UNIVERSITIES - RESEARCH (15)
+# ============================================
+ox.ac.uk
+cam.ac.uk
+imperial.ac.uk
+ucl.ac.uk
+ed.ac.uk
+manchester.ac.uk
+kcl.ac.uk
+lse.ac.uk
+bristol.ac.uk
+warwick.ac.uk
+gla.ac.uk
+leeds.ac.uk
+nottingham.ac.uk
+sheffield.ac.uk
+southampton.ac.uk
+
+# ============================================
+# DEFENSE INDUSTRY (8)
+# ============================================
+baesystems.com
+rolls-royce.com
+qinetiq.com
+babcockinternational.com
+thalesgroup.com
+leonardocompany.com
+mbda-systems.com
+ultra.group
+
+# ============================================
+# CYBER SECURITY (6)
+# ============================================
+ncsc.gov.uk
+gchq.gov.uk
+cpni.gov.uk
+cesg.gov.uk
+cyberaware.gov.uk
+cisp.org.uk
+
+# ============================================
+# BANKS & ECONOMY (10)
+# ============================================
+bankofengland.co.uk
+hsbc.co.uk
+barclays.co.uk
+lloydsbank.com
+natwest.com
+standardchartered.com
+santander.co.uk
+nationwide.co.uk
+schroders.com
+londonstockexchange.com
+
+# ============================================
+# MEDIA - NATIONAL (10)
+# ============================================
+bbc.co.uk
+theguardian.com
+telegraph.co.uk
+thetimes.co.uk
+ft.com
+dailymail.co.uk
+independent.co.uk
+mirror.co.uk
+sky.com
+channel4.com
+
+# ============================================
+# LOCAL GOVERNMENT (10)
+# ============================================
+cityoflondon.gov.uk
+manchester.gov.uk
+birmingham.gov.uk
+leeds.gov.uk
+glasgow.gov.uk
+liverpool.gov.uk
+edinburgh.gov.uk
+cardiff.gov.uk
+belfast.gov.uk
+bristol.gov.uk
+
+# ============================================
+# NATIONAL LABS & RESEARCH (8)
+# ============================================
+dstl.gov.uk
+npl.co.uk
+ukri.org
+stfc.ac.uk
+mrc.ac.uk
+bbsrc.ac.uk
+nerc.ac.uk
+ahrc.ac.uk
+
+# ============================================
+# SPORTS (5)
+# ============================================
+thefa.com
+premierleague.com
+ecb.co.uk
+rfu.com
+teamgb.com
+
+# ============================================
+# E-COMMERCE & SERVICES (5)
+# ============================================
+bt.com
+vodafone.co.uk
+sky.com
+ee.co.uk
+royalmail.com
+
+# ============================================
+# TOURISM (3)
+# ============================================
+visitbritain.com
+visitscotland.com
+visitwales.com
+
+# ============================================
+# THINK TANKS & POLICY (5)
+# ============================================
+chathamhouse.org
+iiss.org
+rusi.org
+ifs.org.uk
+ippr.org

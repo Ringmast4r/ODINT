@@ -1,0 +1,260 @@
+# Cuban Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 176 domains
+
+# ============================================
+# NEWS & MEDIA - STATE NATIONAL (23)
+# ============================================
+granma.cu
+juventudrebelde.cu
+trabajadores.cu
+acn.cu
+prensa-latina.cu
+cubadebate.cu
+cubasi.cu
+cubahora.cu
+tvcubana.icrt.cu
+canalcaribe.icrt.cu
+radiorebelde.cu
+radioprogreso.icrt.cu
+radioreloj.cu
+radiohc.cu
+radiotaino.icrt.cu
+cmbfradio.cu
+radioenciclopedia.cu
+cubanradio.cu
+bohemia.cu
+mujeres.cu
+lajiribilla.cu
+caimanbarbudo.cu
+temas.cult.cu
+
+# ============================================
+# NEWS & MEDIA - STATE PROVINCIAL (16)
+# ============================================
+guerrillero.cu
+artemisadiario.cu
+tribuna.cu
+diariomayabeque.cu
+giron.cu
+vanguardia.cu
+5septiembre.cu
+escambray.cu
+invasor.cu
+adelante.cu
+periodico26.cu
+ahora.cu
+lademajagua.cu
+sierramaestra.cu
+venceremos.cu
+periodicovictoria.cu
+
+# ============================================
+# NEWS & MEDIA - INDEPENDENT / EXILE (13)
+# ============================================
+14ymedio.com
+diariodecuba.com
+cubanet.org
+cibercuba.com
+adncuba.com
+eltoque.com
+oncubanews.com
+havanatimes.org
+periodicocubano.com
+periodismodebarrio.org
+elestornudo.com
+hypermediamagazine.com
+martinoticias.com
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+presidencia.gob.cu
+cuba.cu
+mipais.cuba.cu
+
+# ============================================
+# GOVERNMENT - MINISTRIES (19)
+# ============================================
+cubaminrex.cu
+minag.gob.cu
+mincom.gob.cu
+micons.gob.cu
+ministeriodecultura.gob.cu
+mincin.gob.cu
+mep.gob.cu
+mined.gob.cu
+mes.edu.cu
+minem.gob.cu
+mfp.gob.cu
+minal.gob.cu
+mindus.gob.cu
+mtss.gob.cu
+minjus.gob.cu
+salud.msp.gob.cu
+citma.gob.cu
+mintur.gob.cu
+mitrans.gob.cu
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (4)
+# ============================================
+parlamentocubano.gob.cu
+tsp.gob.cu
+fgr.gob.cu
+gacetaoficial.gob.cu
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (5)
+# ============================================
+contraloria.gob.cu
+onei.gob.cu
+onat.gob.cu
+aduana.gob.cu
+ics.gob.cu
+
+# ============================================
+# MILITARY & SECURITY (4)
+# ============================================
+minfar.gob.cu
+minint.gob.cu
+gaviota-grupo.com
+zedmariel.com
+
+# ============================================
+# STATE ENTERPRISES (10)
+# ============================================
+etecsa.cu
+cubana.cu
+azcuba.cu
+cimex.com.cu
+artexsa.com
+habanos.com
+lacasadelhabano.com
+biocubafarma.cu
+jovenclub.cu
+esicuba.cu
+
+# ============================================
+# BANKS & ECONOMY (6)
+# ============================================
+bc.gob.cu
+bpa.cu
+bandec.cu
+bfi.cu
+bmetropolitano.cu
+camaracuba.cu
+
+# ============================================
+# UNIVERSITIES & EDUCATION (18)
+# ============================================
+uh.cu
+cujae.edu.cu
+uci.cu
+uclv.edu.cu
+uo.edu.cu
+reduc.edu.cu
+upr.edu.cu
+umcc.cu
+ucf.edu.cu
+uniss.edu.cu
+unica.cu
+ult.edu.cu
+uho.edu.cu
+udg.co.cu
+unah.edu.cu
+ismm.edu.cu
+isri.cu
+isa.cult.cu
+
+# ============================================
+# SPORTS (3)
+# ============================================
+inder.gob.cu
+beisbolcubano.cu
+jit.cu
+
+# ============================================
+# POLITICAL & MASS ORGANIZATIONS (2)
+# ============================================
+cdr.cu
+cubasocialista.cu
+
+# ============================================
+# HEALTH, BIOTECH & SCIENCE (7)
+# ============================================
+sld.cu
+cigb.edu.cu
+finlay.edu.cu
+academiaciencias.cu
+cneuro.cu
+ceniai.cu
+insmet.cu
+
+# ============================================
+# ART & CULTURE (5)
+# ============================================
+cubarte.cult.cu
+cubacine.cult.cu
+casadelasamericas.org
+bnjm.cu
+cubava.cu
+
+# ============================================
+# TOURISM (7)
+# ============================================
+cuba.travel
+cubatravel.cu
+havanatur.cu
+gaviotahotels.com
+cubanacanhoteles.com
+grancaribehotels.com
+infotur.cu
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (16)
+# ============================================
+redpinar.gob.cu
+artemisa.gob.cu
+lahabana.gob.cu
+mayabeque.gob.cu
+matanceros.gob.cu
+cienfuegos.gob.cu
+espirituano.gob.cu
+ciegodeavila.gob.cu
+camaguey.gob.cu
+lastunas.gob.cu
+holguin.gob.cu
+granma.gob.cu
+santiago.gob.cu
+guantanamo.gob.cu
+redisla.gob.cu
+soyvillaclara.gob.cu
+
+# ============================================
+# HUMAN RIGHTS / NGOs (5)
+# ============================================
+fhrcuba.org
+cubalex.org
+cubastudygroup.org
+cubacenter.org
+directoriocubano.info
+
+# ============================================
+# E-COMMERCE & SERVICES (5)
+# ============================================
+tuenvio.cu
+enzona.net
+correos.cu
+cubatramite.com
+nic.cu
+
+# ============================================
+# DIASPORA & INTERNATIONAL (5)
+# ============================================
+canf.org
+tricontinental.org
+cuba-solidarity.org.uk
+cubaone.org
+mediccreview.org

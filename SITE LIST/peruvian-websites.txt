@@ -1,0 +1,267 @@
+# Peruvian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 210 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (12)
+# ============================================
+elcomercio.pe
+larepublica.pe
+gestion.pe
+peru21.pe
+correo.pe
+exitosa.pe
+ojo.pe
+trome.pe
+expreso.com.pe
+idl-reporteros.pe
+ojo-publico.com
+convoca.pe
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (8)
+# ============================================
+americatv.com.pe
+panamericana.pe
+rpp.pe
+canalipe.tv
+tvperu.gob.pe
+radionacional.com.pe
+capitalradio.com.pe
+latina.pe
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+gob.pe
+presidencia.gob.pe
+pcm.gob.pe
+
+# ============================================
+# GOVERNMENT - MINISTRIES (19)
+# ============================================
+rree.gob.pe
+mininter.gob.pe
+minedu.gob.pe
+minsa.gob.pe
+mef.gob.pe
+minjus.gob.pe
+mtc.gob.pe
+minem.gob.pe
+produce.gob.pe
+midagri.gob.pe
+mincetur.gob.pe
+midis.gob.pe
+minam.gob.pe
+mtpe.gob.pe
+mvcs.gob.pe
+cultura.gob.pe
+mimp.gob.pe
+mincul.gob.pe
+mindef.gob.pe
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (10)
+# ============================================
+pj.gob.pe
+tc.gob.pe
+congreso.gob.pe
+mpfn.gob.pe
+defensoria.gob.pe
+contraloria.gob.pe
+jne.gob.pe
+jnj.gob.pe
+amag.edu.pe
+onajup.gob.pe
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (12)
+# ============================================
+sunat.gob.pe
+sbs.gob.pe
+bcrp.gob.pe
+smv.gob.pe
+indecopi.gob.pe
+osinergmin.gob.pe
+osiptel.gob.pe
+sunass.gob.pe
+ositran.gob.pe
+osce.gob.pe
+fonafe.gob.pe
+susalud.gob.pe
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (22)
+# ============================================
+onpe.gob.pe
+reniec.gob.pe
+inei.gob.pe
+migraciones.gob.pe
+sunarp.gob.pe
+essalud.gob.pe
+servir.gob.pe
+concytec.gob.pe
+sunedu.gob.pe
+ana.gob.pe
+senasa.gob.pe
+devida.gob.pe
+promperu.gob.pe
+provias.gob.pe
+cenepred.gob.pe
+senamhi.gob.pe
+sernanp.gob.pe
+oefa.gob.pe
+proinversion.gob.pe
+cofopri.gob.pe
+sineace.gob.pe
+osinfor.gob.pe
+
+# ============================================
+# MILITARY & SECURITY (7)
+# ============================================
+mindef.gob.pe
+ejercito.mil.pe
+marina.mil.pe
+fap.mil.pe
+ccffaa.mil.pe
+pnp.gob.pe
+dicapi.mil.pe
+
+# ============================================
+# STATE ENTERPRISES (6)
+# ============================================
+petroperu.com.pe
+sedapal.com.pe
+serpost.com.pe
+corpac.gob.pe
+sima.com.pe
+electroperu.com.pe
+
+# ============================================
+# BANKS & ECONOMY (10)
+# ============================================
+bcrp.gob.pe
+bcp.com.pe
+interbank.pe
+scotiabank.com.pe
+bbva.pe
+mibanco.com.pe
+cofide.com.pe
+agrobanco.com.pe
+bancodecredito.pe
+bancodelmundo.pe
+
+# ============================================
+# UNIVERSITIES & EDUCATION (16)
+# ============================================
+unmsm.edu.pe
+pucp.edu.pe
+uni.edu.pe
+unsa.edu.pe
+upc.edu.pe
+up.edu.pe
+ulima.edu.pe
+usmp.edu.pe
+unalm.edu.pe
+unsaac.edu.pe
+unitru.edu.pe
+unp.edu.pe
+cayetano.edu.pe
+esan.edu.pe
+unac.edu.pe
+ucsm.edu.pe
+
+# ============================================
+# SPORTS (4)
+# ============================================
+fpf.org.pe
+ligafutbolprofesional.com
+cop.org.pe
+ipd.gob.pe
+
+# ============================================
+# POLITICAL PARTIES (5)
+# ============================================
+fuerzapopular.pe
+alianzaparaelprogreso.pe
+accionpopular.com.pe
+partidomorado.pe
+perulibre.pe
+
+# ============================================
+# REGIONAL GOVERNMENTS (25)
+# ============================================
+regionlima.gob.pe
+regionarequipa.gob.pe
+regioncusco.gob.pe
+regionpiura.gob.pe
+regionlalibertad.gob.pe
+regionjunin.gob.pe
+regionlambayeque.gob.pe
+regionloreto.gob.pe
+regionancash.gob.pe
+regioncajamarca.gob.pe
+regionpuno.gob.pe
+regionica.gob.pe
+regionayacucho.gob.pe
+regionhuanuco.gob.pe
+regionucayali.gob.pe
+regiontacna.gob.pe
+regionmoquegua.gob.pe
+regiontumbes.gob.pe
+regionamazonas.gob.pe
+regionhuancavelica.gob.pe
+regionpasco.gob.pe
+regionapurimac.gob.pe
+regionmadredios.gob.pe
+regionsanmartin.gob.pe
+regioncallao.gob.pe
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (10)
+# ============================================
+munlima.gob.pe
+muniarequipa.gob.pe
+municusco.gob.pe
+munitrujillo.gob.pe
+municallao.gob.pe
+munipiura.gob.pe
+munichincha.gob.pe
+munisanjuan.gob.pe
+munihuancayo.gob.pe
+muniica.gob.pe
+
+# ============================================
+# HUMAN RIGHTS / NGOs (4)
+# ============================================
+idl.org.pe
+caaap.org.pe
+ojo-publico.com
+promsex.org
+
+# ============================================
+# ART & CULTURE (4)
+# ============================================
+bnp.gob.pe
+museos.cultura.pe
+granteatro.com.pe
+irtp.gob.pe
+
+# ============================================
+# E-COMMERCE & SERVICES (7)
+# ============================================
+mercadolibre.com.pe
+falabella.com.pe
+plazavea.com.pe
+claro.com.pe
+movistar.com.pe
+entel.pe
+wong.pe
+
+# ============================================
+# TOURISM (3)
+# ============================================
+peru.travel
+promperu.gob.pe
+mincetur.gob.pe

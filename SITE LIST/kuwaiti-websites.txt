@@ -1,0 +1,170 @@
+# Kuwaiti Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 110 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (4)
+# ============================================
+da.gov.kw
+kna.kw
+diwan.gov.kw
+e.gov.kw
+
+# ============================================
+# GOVERNMENT MINISTRIES (14)
+# ============================================
+mofa.gov.kw
+mod.gov.kw
+mof.gov.kw
+moe.edu.kw
+moh.gov.kw
+moi.gov.kw
+moj.gov.kw
+mew.gov.kw
+mosal.gov.kw
+moci.gov.kw
+mpw.gov.kw
+minfo.gov.kw
+moc.gov.kw
+paci.gov.kw
+
+# ============================================
+# MILITARY & DEFENSE (6)
+# ============================================
+mod.gov.kw
+kuwaitarmy.gov.kw
+kaf.gov.kw
+kuwaitnavy.gov.kw
+kng.gov.kw
+fireforce.gov.kw
+
+# ============================================
+# INTELLIGENCE & SECURITY (4)
+# ============================================
+moi.gov.kw
+knss.gov.kw
+kng.gov.kw
+nsc.gov.kw
+
+# ============================================
+# ENERGY & OIL (6)
+# ============================================
+mew.gov.kw
+kpc.com.kw
+knpc.com.kw
+koc.com.kw
+kipic.com.kw
+pec.com.kw
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (8)
+# ============================================
+mew.gov.kw
+moc.gov.kw
+zain.com.kw
+ooredoo.com.kw
+stc.com.kw
+dgca.gov.kw
+kuwaitairways.com
+kpa.gov.kw
+
+# ============================================
+# LAW ENFORCEMENT (4)
+# ============================================
+moi.gov.kw
+customs.gov.kw
+kng.gov.kw
+cid.gov.kw
+
+# ============================================
+# JUDICIAL (4)
+# ============================================
+moj.gov.kw
+sjc.gov.kw
+fatwa.gov.kw
+kls.org.kw
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+cbk.gov.kw
+cma.gov.kw
+boursakuwait.com.kw
+kia.gov.kw
+kdipa.gov.kw
+gac.gov.kw
+csb.gov.kw
+paci.gov.kw
+
+# ============================================
+# STATE ENTERPRISES (5)
+# ============================================
+kia.gov.kw
+kpc.com.kw
+pahw.gov.kw
+cait.gov.kw
+kifund.org
+
+# ============================================
+# UNIVERSITIES (5)
+# ============================================
+ku.edu.kw
+auk.edu.kw
+gust.edu.kw
+aum.edu.kw
+paaet.edu.kw
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (6)
+# ============================================
+baladia.gov.kw
+capital.gov.kw
+hawalli.gov.kw
+farwaniya.gov.kw
+ahmadi.gov.kw
+jahra.gov.kw
+
+# ============================================
+# MEDIA (5)
+# ============================================
+kuna.net.kw
+kuwaittimes.com
+arabtimesonline.com
+alqabas.com
+alrai.com
+
+# ============================================
+# BANKS (5)
+# ============================================
+cbk.gov.kw
+nbk.com
+kfh.com
+gbk.com.kw
+burgan.com
+
+# ============================================
+# CYBER SECURITY (3)
+# ============================================
+citra.gov.kw
+cert.gov.kw
+ncsc.gov.kw
+
+# ============================================
+# SPORTS (3)
+# ============================================
+kfa.org.kw
+koc-olympic.org
+kba.org.kw
+
+# ============================================
+# TOURISM (2)
+# ============================================
+e.gov.kw
+tourism.gov.kw
+
+# ============================================
+# THINK TANKS (2)
+# ============================================
+kisr.edu.kw
+kfas.org.kw

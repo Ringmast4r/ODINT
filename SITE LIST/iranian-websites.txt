@@ -1,0 +1,237 @@
+# Iranian Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 160 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (5)
+# ============================================
+president.ir
+dolat.ir
+parliran.ir
+leader.ir
+rc.majlis.ir
+
+# ============================================
+# GOVERNMENT MINISTRIES (16)
+# ============================================
+mfa.gov.ir
+mod.ir
+mof.ir
+medu.ir
+health.gov.ir
+moi.ir
+justice.ir
+moe.gov.ir
+mrud.ir
+mit.gov.ir
+mcls.gov.ir
+maj.ir
+mimt.gov.ir
+ict.gov.ir
+tourism.gov.ir
+msrt.ir
+
+# ============================================
+# MILITARY - ARMED FORCES (10)
+# ============================================
+mod.ir
+artesh.ir
+aja.ir
+nedaja.ir
+navaja.ir
+irgc.ir
+sepahnews.com
+basij.ir
+rahaja.ir
+defapress.ir
+
+# ============================================
+# MILITARY - IRGC (8)
+# ============================================
+irgc.ir
+sepahnews.com
+khatam.ir
+basij.ir
+qudsnews.com
+sepahcyber.ir
+irgcnavy.ir
+sepahaero.ir
+
+# ============================================
+# INTELLIGENCE & SECURITY (6)
+# ============================================
+vaja.ir
+moi.ir
+police.ir
+naja.ir
+faraja.ir
+dadiran.ir
+
+# ============================================
+# SPACE & AEROSPACE (6)
+# ============================================
+isa.ir
+aerospace.ir
+irso.ir
+sairan.ir
+irost.ir
+airtci.ir
+
+# ============================================
+# NUCLEAR & ENERGY (10)
+# ============================================
+aeoi.org.ir
+nstri.ir
+peo.ir
+mapnagroup.com
+tavanir.org.ir
+moe.gov.ir
+nioc.ir
+nigc.ir
+niordc.ir
+bargh.ir
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (8)
+# ============================================
+rai.ir
+irica.ir
+cao.ir
+iranair.com
+tci.ir
+mci.ir
+irancell.ir
+post.ir
+
+# ============================================
+# LAW ENFORCEMENT (5)
+# ============================================
+police.ir
+naja.ir
+faraja.ir
+gerdab.ir
+evin.ir
+
+# ============================================
+# JUDICIAL (6)
+# ============================================
+judiciary.ir
+dadiran.ir
+sccr.ir
+iranbar.org
+legalmed.ir
+prisons.ir
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+cbi.ir
+seo.ir
+bmi.ir
+tse.ir
+sso.ir
+irc.gov.ir
+customs.ir
+amar.org.ir
+
+# ============================================
+# DEFENSE INDUSTRY (8)
+# ============================================
+mod.ir
+sairan.ir
+aerospace.ir
+diomil.ir
+irist.ir
+tiam.ir
+hesa.ir
+irgc.ir
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (10)
+# ============================================
+tehran.ir
+ostan-es.ir
+ostan-fa.ir
+ostan-km.ir
+ostan-kz.ir
+ostan-ag.ir
+ostan-mz.ir
+ostan-gl.ir
+ostan-hm.ir
+ostan-zn.ir
+
+# ============================================
+# UNIVERSITIES (10)
+# ============================================
+ut.ac.ir
+sharif.edu
+aut.ac.ir
+iust.ac.ir
+modares.ac.ir
+sbu.ac.ir
+um.ac.ir
+shirazu.ac.ir
+tabriz.ac.ir
+guilan.ac.ir
+
+# ============================================
+# MEDIA - STATE (8)
+# ============================================
+irna.ir
+irib.ir
+presstv.ir
+farsnews.ir
+tasnimnews.com
+mehrnews.com
+isna.ir
+yjc.ir
+
+# ============================================
+# BANKS (6)
+# ============================================
+cbi.ir
+bmi.ir
+bpi.ir
+bankmellat.ir
+en-bank.net
+parsianbank.ir
+
+# ============================================
+# CYBER (4)
+# ============================================
+cert.ir
+ito.gov.ir
+afta.gov.ir
+ict.gov.ir
+
+# ============================================
+# RELIGIOUS & IDEOLOGICAL (6)
+# ============================================
+leader.ir
+iqna.ir
+hawzah.net
+islamicdoa.ir
+auqaf.ir
+bonyad.ir
+
+# ============================================
+# SPORTS (3)
+# ============================================
+ffiri.ir
+iriff.ir
+olympic.ir
+
+# ============================================
+# TOURISM (2)
+# ============================================
+tourismiran.ir
+ichto.ir
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+ipis.ir
+ciis.ir
+iscs.ir
+sfrategicstudies.ir

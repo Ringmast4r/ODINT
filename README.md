@@ -91,6 +91,71 @@ Every ODINT contributor operates under these non-negotiable principles:
 
 ---
 
+## Site List
+
+**49 Country Domain Lists | [`SITE LIST/`](SITE%20LIST/)**
+
+Curated lists of government, military, media, education, and business domains organized by country. Each file contains categorized targets for passive reconnaissance.
+
+<table><tr><td>
+
+- [Argentine](SITE%20LIST/argentine-websites.txt)
+- [Australian](SITE%20LIST/australian-websites.txt)
+- [Bahamian](SITE%20LIST/bahamian-websites.txt)
+- [Barbadian](SITE%20LIST/barbadian-websites.txt)
+- [Belizean](SITE%20LIST/belizean-websites.txt)
+- [Bermudian](SITE%20LIST/bermudian-websites.txt)
+- [Bolivian](SITE%20LIST/bolivian-websites.txt)
+- [Brazilian](SITE%20LIST/brazilian-websites.txt)
+- [Canadian](SITE%20LIST/canadian-websites.txt)
+- [Caribbean Territories](SITE%20LIST/caribbean-territories-websites.txt)
+- [Chilean](SITE%20LIST/chilean-websites.txt)
+- [Chinese](SITE%20LIST/chinese-websites.txt)
+- [Colombian](SITE%20LIST/colombian-websites.txt)
+- [Costa Rican](SITE%20LIST/costa-rican-websites.txt)
+- [Cuban](SITE%20LIST/cuban-websites.txt)
+- [Dominican Republic](SITE%20LIST/dominican-republic-websites.txt)
+- [Eastern Caribbean](SITE%20LIST/eastern-caribbean-websites.txt)
+- [Ecuadorian](SITE%20LIST/ecuadorian-websites.txt)
+- [French](SITE%20LIST/french-websites.txt)
+- [German](SITE%20LIST/german-websites.txt)
+- [Guatemalan](SITE%20LIST/guatemalan-websites.txt)
+- [Guyanese](SITE%20LIST/guyanese-websites.txt)
+- [Haitian](SITE%20LIST/haitian-websites.txt)
+- [Honduran](SITE%20LIST/honduran-websites.txt)
+- [Indian](SITE%20LIST/indian-websites.txt)
+
+</td><td>
+
+- [Iranian](SITE%20LIST/iranian-websites.txt)
+- [Iraqi](SITE%20LIST/iraqi-websites.txt)
+- [Israeli](SITE%20LIST/israeli-websites.txt)
+- [Jamaican](SITE%20LIST/jamaican-websites.txt)
+- [Japanese](SITE%20LIST/japanese-websites.txt)
+- [Kuwaiti](SITE%20LIST/kuwaiti-websites.txt)
+- [Mexican](SITE%20LIST/mexican-websites.txt)
+- [Nicaraguan](SITE%20LIST/nicaraguan-websites.txt)
+- [Panamanian](SITE%20LIST/panamanian-websites.txt)
+- [Paraguayan](SITE%20LIST/paraguayan-websites.txt)
+- [Peruvian](SITE%20LIST/peruvian-websites.txt)
+- [Qatari](SITE%20LIST/qatari-websites.txt)
+- [Russian](SITE%20LIST/russian-websites.txt)
+- [Salvadoran](SITE%20LIST/salvadoran-websites.txt)
+- [Saudi Arabian](SITE%20LIST/saudi-arabian-websites.txt)
+- [South Korean](SITE%20LIST/south-korean-websites.txt)
+- [Surinamese](SITE%20LIST/surinamese-websites.txt)
+- [Trinidadian](SITE%20LIST/trinidadian-websites.txt)
+- [Turkish](SITE%20LIST/turkish-websites.txt)
+- [UAE](SITE%20LIST/uae-websites.txt)
+- [UK](SITE%20LIST/uk-websites.txt)
+- [Uruguayan](SITE%20LIST/uruguayan-websites.txt)
+- [US](SITE%20LIST/us-websites.txt)
+- [Venezuelan](SITE%20LIST/venezuelan-websites.txt)
+
+</td></tr></table>
+
+---
+
 ## Cyber Recon Tour — Country Research Tracker
 
 **270 Countries & Territories | 14 Regions**

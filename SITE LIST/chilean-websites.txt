@@ -1,0 +1,278 @@
+# Chilean Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 214 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (12)
+# ============================================
+emol.com
+latercera.com
+biobiochile.cl
+cooperativa.cl
+df.cl
+elmostrador.cl
+theclinic.cl
+publimetro.cl
+ciperchile.cl
+interferencia.cl
+pauta.cl
+exante.cl
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (10)
+# ============================================
+t13.cl
+cnnchile.com
+mega.cl
+chvnoticias.cl
+tvn.cl
+24horas.cl
+radioagricultura.cl
+radioduna.cl
+adnradio.cl
+infinita.cl
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (4)
+# ============================================
+gob.cl
+presidencia.cl
+segpres.gob.cl
+segegob.gob.cl
+
+# ============================================
+# GOVERNMENT - MINISTRIES (23)
+# ============================================
+minrel.gob.cl
+interior.gob.cl
+hacienda.cl
+mineduc.cl
+minsal.cl
+mintrab.gob.cl
+justicia.gob.cl
+mop.cl
+economia.gob.cl
+mineria.gob.cl
+mtt.gob.cl
+bienes.cl
+energia.gob.cl
+minvu.gob.cl
+agricultura.gob.cl
+medioambiente.gob.cl
+deporte.gob.cl
+cultura.gob.cl
+mujer.gob.cl
+ciencia.gob.cl
+mideso.gob.cl
+misp.gob.cl
+defensa.cl
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (8)
+# ============================================
+pjud.cl
+senado.cl
+camara.cl
+fiscaliadechile.cl
+tribunalconstitucional.cl
+contraloria.cl
+servel.cl
+sma.gob.cl
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (10)
+# ============================================
+sii.cl
+cmfchile.cl
+subrei.gob.cl
+sernac.cl
+chilecompra.cl
+tdlc.cl
+dipres.gob.cl
+cne.cl
+sec.cl
+subtel.gob.cl
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (20)
+# ============================================
+registrocivil.cl
+ine.cl
+fonasa.gob.cl
+extranjeria.gob.cl
+chileatiende.gob.cl
+onemi.gob.cl
+sag.gob.cl
+sernatur.cl
+corfo.cl
+indap.gob.cl
+sence.cl
+junaeb.cl
+junji.gob.cl
+conicyt.cl
+dgac.gob.cl
+fosis.gob.cl
+odepa.gob.cl
+cnr.gob.cl
+siss.gob.cl
+senadis.gob.cl
+
+# ============================================
+# MILITARY & SECURITY (6)
+# ============================================
+ejercito.cl
+armada.cl
+fach.mil.cl
+carabineros.cl
+pdichile.cl
+defensa.cl
+
+# ============================================
+# STATE ENTERPRISES (8)
+# ============================================
+codelco.com
+enap.cl
+correos.cl
+bancoestado.cl
+metro.cl
+efe.cl
+tvn.cl
+sacyr.cl
+
+# ============================================
+# BANKS & ECONOMY (10)
+# ============================================
+bcentral.cl
+bci.cl
+bancochile.cl
+scotiabank.cl
+santander.cl
+itau.cl
+sofofa.cl
+ccs.cl
+abif.cl
+bolsadesantiago.com
+
+# ============================================
+# UNIVERSITIES & EDUCATION (20)
+# ============================================
+uchile.cl
+uc.cl
+usach.cl
+udec.cl
+uv.cl
+utfsm.cl
+pucv.cl
+uach.cl
+ubb.cl
+utalca.cl
+ucn.cl
+uandes.cl
+uai.cl
+udd.cl
+udp.cl
+ufro.cl
+usm.cl
+umag.cl
+ulagos.cl
+uda.cl
+
+# ============================================
+# SPORTS (4)
+# ============================================
+anfp.cl
+coch.cl
+febachi.cl
+ind.cl
+
+# ============================================
+# POLITICAL PARTIES (6)
+# ============================================
+chile-vamos.cl
+pschile.cl
+ppd.cl
+dc.cl
+renovacionnacional.cl
+udi.cl
+
+# ============================================
+# REGIONAL GOVERNMENTS (16)
+# ============================================
+gorearicayparinacota.cl
+goretarapaca.cl
+goreantofagasta.cl
+goreatacama.cl
+gorecoquimbo.cl
+gorevalparaiso.cl
+goremetropolitano.cl
+goreohiggins.cl
+goremaule.cl
+gorenuble.cl
+gorebiobio.cl
+gorearaucania.cl
+gorelosrios.cl
+goreloslagos.cl
+goreaysen.cl
+goremagallanes.cl
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (10)
+# ============================================
+munistgo.cl
+providencia.cl
+lascondes.cl
+nunoa.cl
+vina.cl
+concepcion.cl
+antofagasta.cl
+temuco.cl
+valparaiso.cl
+puertomontt.cl
+
+# ============================================
+# HUMAN RIGHTS / NGOs (5)
+# ============================================
+indh.cl
+movilh.cl
+observatorio.cl
+chiletransparente.cl
+flacso.cl
+
+# ============================================
+# ART & CULTURE (5)
+# ============================================
+mnba.gob.cl
+mhn.gob.cl
+gam.cl
+bncl.gob.cl
+centromori.cl
+
+# ============================================
+# E-COMMERCE & SERVICES (10)
+# ============================================
+mercadolibre.cl
+falabella.com
+ripley.cl
+paris.cl
+entel.cl
+movistar.cl
+claro.cl
+wom.cl
+lider.cl
+cornershop.cl
+
+# ============================================
+# TOURISM (3)
+# ============================================
+chile.travel
+sernatur.cl
+prochile.gob.cl
+
+# ============================================
+# DIASPORA & INTERNATIONAL (4)
+# ============================================
+investchile.gob.cl
+direcon.gob.cl
+agci.gob.cl
+chileanabroad.com

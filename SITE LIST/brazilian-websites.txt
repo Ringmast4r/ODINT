@@ -1,0 +1,318 @@
+# Brazilian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 259 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (14)
+# ============================================
+globo.com
+folha.uol.com.br
+estadao.com.br
+uol.com.br
+r7.com
+terra.com.br
+cartacapital.com.br
+gazetadopovo.com.br
+valor.globo.com
+conjur.com.br
+metropoles.com
+poder360.com.br
+nexojornal.com.br
+intercept.com.br
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (10)
+# ============================================
+ebc.com.br
+agenciabrasil.ebc.com.br
+cnnbrasil.com.br
+band.uol.com.br
+sbt.com.br
+record.com.br
+jovempan.com.br
+bandnewsfm.com.br
+cbn.com.br
+revistaforum.com.br
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (2)
+# ============================================
+gov.br
+planalto.gov.br
+
+# ============================================
+# GOVERNMENT - MINISTRIES (24)
+# ============================================
+itamaraty.gov.br
+defesa.gov.br
+fazenda.gov.br
+saude.gov.br
+mec.gov.br
+mj.gov.br
+mma.gov.br
+mds.gov.br
+mdic.gov.br
+trabalho.gov.br
+transportes.gov.br
+agricultura.gov.br
+mcom.gov.br
+mtur.gov.br
+esporte.gov.br
+cultura.gov.br
+mme.gov.br
+cidades.gov.br
+mcti.gov.br
+mpi.gov.br
+mdh.gov.br
+planejamento.gov.br
+previdencia.gov.br
+mulheres.gov.br
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (14)
+# ============================================
+stf.jus.br
+stj.jus.br
+tst.jus.br
+tse.jus.br
+stm.jus.br
+senado.leg.br
+camara.leg.br
+cnj.jus.br
+mpf.mp.br
+cnmp.mp.br
+tcu.gov.br
+agu.gov.br
+dpu.def.br
+cade.gov.br
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (14)
+# ============================================
+bcb.gov.br
+cvm.gov.br
+susep.gov.br
+receita.fazenda.gov.br
+anatel.gov.br
+aneel.gov.br
+anp.gov.br
+ans.gov.br
+anvisa.gov.br
+antaq.gov.br
+antt.gov.br
+anac.gov.br
+ana.gov.br
+cgu.gov.br
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (22)
+# ============================================
+ibge.gov.br
+inss.gov.br
+inep.gov.br
+capes.gov.br
+cnpq.gov.br
+funai.gov.br
+ibama.gov.br
+icmbio.gov.br
+inpe.gov.br
+ipea.gov.br
+dnit.gov.br
+incra.gov.br
+conab.gov.br
+suframa.gov.br
+serpro.gov.br
+dataprev.gov.br
+fnde.gov.br
+inmetro.gov.br
+iphan.gov.br
+funasa.gov.br
+secom.gov.br
+dpf.gov.br
+
+# ============================================
+# MILITARY & SECURITY (7)
+# ============================================
+eb.mil.br
+marinha.mil.br
+fab.mil.br
+pf.gov.br
+prf.gov.br
+abin.gov.br
+dpf.gov.br
+
+# ============================================
+# STATE ENTERPRISES (10)
+# ============================================
+petrobras.com.br
+eletrobras.com
+correios.com.br
+infraero.gov.br
+bb.com.br
+caixa.gov.br
+bndes.gov.br
+embrapa.br
+fiocruz.br
+telebras.com.br
+
+# ============================================
+# BANKS & ECONOMY (10)
+# ============================================
+itau.com.br
+bradesco.com.br
+santander.com.br
+banrisul.com.br
+safra.com.br
+btgpactual.com
+sicredi.com.br
+febraban.org.br
+banese.com.br
+brb.com.br
+
+# ============================================
+# UNIVERSITIES & EDUCATION (25)
+# ============================================
+usp.br
+unicamp.br
+ufrj.br
+ufmg.br
+ufrgs.br
+unb.br
+ufsc.br
+ufpr.br
+ufba.br
+ufscar.br
+ufpe.br
+ufc.br
+uff.br
+uerj.br
+unesp.br
+puc-rio.br
+fgv.br
+ita.br
+ufpa.br
+ufam.br
+ufrn.br
+ufma.br
+ufes.br
+ufg.br
+mackenzie.br
+
+# ============================================
+# SPORTS (5)
+# ============================================
+cbf.com.br
+cob.org.br
+flamengo.com.br
+palmeiras.com.br
+brasileirao.com.br
+
+# ============================================
+# POLITICAL PARTIES (8)
+# ============================================
+pt.org.br
+pl.org.br
+mdb.org.br
+psdb.org.br
+psol.org.br
+psd.org.br
+uniao.org.br
+podemos.org.br
+
+# ============================================
+# STATE GOVERNMENTS (27)
+# ============================================
+sp.gov.br
+rj.gov.br
+mg.gov.br
+ba.gov.br
+rs.gov.br
+pr.gov.br
+pe.gov.br
+ce.gov.br
+sc.gov.br
+go.gov.br
+df.gov.br
+am.gov.br
+pa.gov.br
+ma.gov.br
+es.gov.br
+pb.gov.br
+rn.gov.br
+al.gov.br
+se.gov.br
+pi.gov.br
+mt.gov.br
+ms.gov.br
+ro.gov.br
+to.gov.br
+ac.gov.br
+ap.gov.br
+rr.gov.br
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (15)
+# ============================================
+prefeitura.sp.gov.br
+rio.rj.gov.br
+pbh.gov.br
+salvador.ba.gov.br
+recife.pe.gov.br
+fortaleza.ce.gov.br
+curitiba.pr.gov.br
+belo-horizonte.mg.gov.br
+portoalegre.rs.gov.br
+brasilia.df.gov.br
+manaus.am.gov.br
+belem.pa.gov.br
+goiania.go.gov.br
+campinas.sp.gov.br
+natal.rn.gov.br
+
+# ============================================
+# HUMAN RIGHTS / NGOs (5)
+# ============================================
+conectas.org
+igarape.org.br
+transparenciainternacional.org.br
+institutosocioambiental.org
+abong.org.br
+
+# ============================================
+# ART & CULTURE (5)
+# ============================================
+funarte.gov.br
+bn.gov.br
+museus.gov.br
+cinemateca.gov.br
+itaucultural.org.br
+
+# ============================================
+# E-COMMERCE & SERVICES (10)
+# ============================================
+mercadolivre.com.br
+americanas.com.br
+magazineluiza.com.br
+casasbahia.com.br
+vivo.com.br
+claro.com.br
+oi.com.br
+tim.com.br
+nubank.com.br
+ifood.com.br
+
+# ============================================
+# TOURISM (2)
+# ============================================
+visitbrasil.com
+embratur.com.br
+
+# ============================================
+# DIASPORA & INTERNATIONAL (5)
+# ============================================
+thebrazilianreport.com
+braziljournal.com
+brasildefato.com.br
+batimes.com.ar
+riotimesonline.com

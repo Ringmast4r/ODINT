@@ -1,0 +1,215 @@
+# Bolivian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 131 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (10)
+# ============================================
+lostiempos.com
+eldeber.com.bo
+la-razon.com
+paginasiete.bo
+opinion.com.bo
+eldiario.net
+brujuladigital.net
+eju.tv
+correodelsur.com
+eldiariotarija.com
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (6)
+# ============================================
+atb.com.bo
+unitel.tv
+reduno.com.bo
+boliviatv.bo
+erbol.com.bo
+paginasiete.bo
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+gob.bo
+presidencia.gob.bo
+vicepresidencia.gob.bo
+
+# ============================================
+# GOVERNMENT - MINISTRIES (17)
+# ============================================
+cancilleria.gob.bo
+mingobierno.gob.bo
+minedu.gob.bo
+minsalud.gob.bo
+economiayfinanzas.gob.bo
+mindefensa.gob.bo
+justicia.gob.bo
+minenergias.gob.bo
+mineria.gob.bo
+comunicacion.gob.bo
+planificacion.gob.bo
+medioambiente.gob.bo
+obraspublicas.gob.bo
+desarrolloproductivo.gob.bo
+trabajoempleo.gob.bo
+culturas.gob.bo
+deportes.gob.bo
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (8)
+# ============================================
+tsj.bo
+tcp.bo
+fiscalia.gob.bo
+asamblealegislativa.gob.bo
+contraloria.gob.bo
+tse.gob.bo
+defensor.gob.bo
+procuraduria.gob.bo
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (6)
+# ============================================
+impuestos.gob.bo
+aduana.gob.bo
+asfi.gob.bo
+ait.gob.bo
+ati.gob.bo
+aps.gob.bo
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (10)
+# ============================================
+ine.gob.bo
+segip.gob.bo
+ajb.gob.bo
+senasag.gob.bo
+abc.gob.bo
+senavex.gob.bo
+abi.bo
+autoridad.gob.bo
+agetic.gob.bo
+senapi.gob.bo
+
+# ============================================
+# MILITARY & SECURITY (5)
+# ============================================
+mindef.gob.bo
+ejercito.mil.bo
+armadaboliviana.mil.bo
+fab.mil.bo
+policia.gob.bo
+
+# ============================================
+# STATE ENTERPRISES (8)
+# ============================================
+ypfb.gob.bo
+ende.bo
+entel.bo
+boa.bo
+ecobol.com.bo
+comibol.gob.bo
+aasana.gob.bo
+vinto.gob.bo
+
+# ============================================
+# BANKS & ECONOMY (7)
+# ============================================
+bcb.gob.bo
+bnb.com.bo
+bmsc.com.bo
+bancounion.com.bo
+bisa.com.bo
+ganadero.com.bo
+fie.com.bo
+
+# ============================================
+# UNIVERSITIES & EDUCATION (12)
+# ============================================
+umsa.bo
+umss.edu.bo
+uagrm.edu.bo
+ucb.edu.bo
+upb.edu
+uto.edu.bo
+uajms.edu.bo
+uabjb.edu.bo
+unsxx.edu.bo
+univalle.edu
+upea.edu.bo
+emi.edu.bo
+
+# ============================================
+# SPORTS (3)
+# ============================================
+fbf.org.bo
+cob.org.bo
+divisionprofesional.com.bo
+
+# ============================================
+# POLITICAL PARTIES (3)
+# ============================================
+masipsp.bo
+comunidadciudadana.bo
+creemos.bo
+
+# ============================================
+# DEPARTMENTAL GOVERNMENTS (9)
+# ============================================
+lapaz.gob.bo
+santacruz.gob.bo
+cochabamba.gob.bo
+oruro.gob.bo
+potosi.gob.bo
+chuquisaca.gob.bo
+tarija.gob.bo
+beni.gob.bo
+pando.gob.bo
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (9)
+# ============================================
+lapaz.bo
+santacruzdelasierra.gob.bo
+cochabamba.bo
+oruro.bo
+sucre.bo
+potosi.bo
+tarija.bo
+trinidad.bo
+cobija.bo
+
+# ============================================
+# HUMAN RIGHTS / NGOs (3)
+# ============================================
+cedla.org
+fundaciontierraviva.org.bo
+redunitas.org
+
+# ============================================
+# E-COMMERCE & SERVICES (4)
+# ============================================
+tigo.com.bo
+entel.bo
+mercadolibre.com.bo
+cre.com.bo
+
+# ============================================
+# TOURISM (2)
+# ============================================
+bolivia.travel
+boliviaentusmanos.com
+
+# ============================================
+# ART & CULTURE (3)
+# ============================================
+casadelalibertad.gob.bo
+fundacionculturalbcb.org.bo
+musef.gob.bo
+
+# ============================================
+# DIASPORA & INTERNATIONAL (3)
+# ============================================
+cancilleria.gob.bo
+probolivia.gob.bo
+ibce.org.bo

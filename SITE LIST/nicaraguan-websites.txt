@@ -1,0 +1,165 @@
+# Nicaraguan Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 93 domains
+
+# ============================================
+# NEWS & MEDIA - INDEPENDENT / OPPOSITION (8)
+# ============================================
+confidencial.digital
+laprensani.com
+100noticias.tv
+divergentes.com
+articulo66.com
+despacho505.com
+nicaraguaactual.tv
+nicaraguainvestiga.com
+
+# ============================================
+# NEWS & MEDIA - STATE / PRO-GOVERNMENT (7)
+# ============================================
+el19digital.com
+tn8.tv
+canal4.com.ni
+canal2.com.ni
+nuevaya.com.ni
+radionicaragua.com.ni
+multinoticias.com.ni
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (2)
+# ============================================
+presidencia.gob.ni
+cancilleria.gob.ni
+
+# ============================================
+# GOVERNMENT - MINISTRIES (13)
+# ============================================
+minsa.gob.ni
+mined.gob.ni
+mifamilia.gob.ni
+mhcp.gob.ni
+migob.gob.ni
+mific.gob.ni
+mti.gob.ni
+marena.gob.ni
+mag.gob.ni
+mitrab.gob.ni
+mem.gob.ni
+minjuve.gob.ni
+mefcca.gob.ni
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (5)
+# ============================================
+asamblea.gob.ni
+poderjudicial.gob.ni
+pgr.gob.ni
+ministeriopublico.gob.ni
+cse.gob.ni
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (4)
+# ============================================
+cgr.gob.ni
+siboif.gob.ni
+telcor.gob.ni
+conami.gob.ni
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (12)
+# ============================================
+dgi.gob.ni
+dga.gob.ni
+inss.gob.ni
+ineter.gob.ni
+inide.gob.ni
+inafor.gob.ni
+inta.gob.ni
+invur.gob.ni
+sinapred.gob.ni
+inpesca.gob.ni
+ipsa.gob.ni
+pronicaragua.gob.ni
+
+# ============================================
+# MILITARY & SECURITY (2)
+# ============================================
+ejercito.mil.ni
+policia.gob.ni
+
+# ============================================
+# STATE ENTERPRISES (7)
+# ============================================
+enatrel.gob.ni
+enacal.gob.ni
+enel.gob.ni
+petronic.gob.ni
+enabas.gob.ni
+correos.gob.ni
+epn.gob.ni
+
+# ============================================
+# BANKS & ECONOMY (8)
+# ============================================
+bcn.gob.ni
+banpro.com.ni
+bac.com.ni
+lafise.com
+ficohsa.com.ni
+avanz.com.ni
+cosep.org.ni
+amcham.org.ni
+
+# ============================================
+# UNIVERSITIES & EDUCATION (14)
+# ============================================
+unan.edu.ni
+unanleon.edu.ni
+uni.edu.ni
+una.edu.ni
+uca.edu.ni
+uam.edu.ni
+upoli.edu.ni
+uhispam.edu.ni
+uraccan.edu.ni
+bicu.edu.ni
+inatec.edu.ni
+cnu.edu.ni
+unica.edu.ni
+ualn.edu.ni
+
+# ============================================
+# SPORTS (2)
+# ============================================
+fenifut.org.ni
+ind.gob.ni
+
+# ============================================
+# POLITICAL PARTIES (1)
+# ============================================
+fsln.org.ni
+
+# ============================================
+# TOURISM (2)
+# ============================================
+intur.gob.ni
+visitanicaragua.com
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (1)
+# ============================================
+managua.gob.ni
+
+# ============================================
+# HUMAN RIGHTS / NGOs (2)
+# ============================================
+cenidh.org
+cinco.org.ni
+
+# ============================================
+# E-COMMERCE & SERVICES (3)
+# ============================================
+claro.com.ni
+tigo.com.ni
+nic.ni

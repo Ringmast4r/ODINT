@@ -1,0 +1,307 @@
+# Dominican Republic Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 211 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS (18)
+# ============================================
+listindiario.com
+diariolibre.com
+elcaribe.com.do
+hoy.com.do
+elnacional.com.do
+eldia.com.do
+elnuevodiario.com.do
+lainformacion.com.do
+eldinero.com.do
+diarioadiario.com.do
+metrord.do
+z101digital.com
+acento.com.do
+almomento.net
+dominicantoday.com
+dr1.com
+cachicha.com
+enfoquerd.com
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (11)
+# ============================================
+telemicro.com.do
+antenalatina.com
+colorvision.com.do
+teleantillas.com.do
+cdn.com.do
+telesistema11.com.do
+certv.gob.do
+ncdn.com.do
+z101fm.com
+la91fm.com
+zolfm.com
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (5)
+# ============================================
+presidencia.gob.do
+vicepresidencia.gob.do
+minpre.gob.do
+gob.do
+sismap.gob.do
+
+# ============================================
+# GOVERNMENT - MINISTRIES (23)
+# ============================================
+mirex.gob.do
+mip.gob.do
+hacienda.gob.do
+hacienda.gov.do
+economia.gob.do
+map.gob.do
+mem.gob.do
+minerd.gob.do
+mescyt.gob.do
+salud.gob.do
+agricultura.gob.do
+mic.gob.do
+mopc.gob.do
+ambiente.gob.do
+mitur.gob.do
+mt.gob.do
+ministeriodetrabajo.gob.do
+cultura.gob.do
+mujer.gob.do
+miderec.gob.do
+juventud.gob.do
+mived.gob.do
+mindefensa.gob.do
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (7)
+# ============================================
+senado.gob.do
+camaradediputados.gob.do
+suprema.gob.do
+tribunalconstitucional.gob.do
+pgr.gob.do
+procuraduria.gob.do
+imprentanacional.gob.do
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (10)
+# ============================================
+bancentral.gov.do
+dgii.gov.do
+aduanas.gob.do
+sb.gob.do
+siv.gob.do
+sipen.gob.do
+indotel.gob.do
+procompetencia.gob.do
+digepres.gob.do
+ogtic.gob.do
+
+# ============================================
+# GOVERNMENT - ELECTORAL & CIVIL REGISTRY (2)
+# ============================================
+jce.gob.do
+tse.gob.do
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (23)
+# ============================================
+migracion.gob.do
+saime.gob.do
+dgapp.gob.do
+prodominicana.gob.do
+cnzfe.gob.do
+one.gob.do
+snaipi.gob.do
+digesett.gob.do
+inacif.gob.do
+opsevi.gob.do
+defensa.gob.do
+inavi.gob.do
+fonper.gob.do
+senasa.gob.do
+sisalril.gob.do
+cnss.gob.do
+optic.gob.do
+daf.gob.do
+dgcp.gob.do
+contrataciones.gob.do
+nortic.gob.do
+transparencia.gob.do
+ign.gob.do
+
+# ============================================
+# MILITARY & SECURITY (13)
+# ============================================
+fuerzasarmadas.mil.do
+ejercito.mil.do
+armadadominicana.mil.do
+fad.mil.do
+policianacional.gob.do
+dncd.gob.do
+dni.gob.do
+cesfront.gob.do
+911.gob.do
+cbdn.gob.do
+defensacivil.gob.do
+politur.gob.do
+cesac.gob.do
+
+# ============================================
+# STATE ENTERPRISES - ELECTRICITY (6)
+# ============================================
+cdeee.gob.do
+edenorte.gob.do
+edesur.gob.do
+edeeste.gob.do
+eted.gob.do
+cne.gob.do
+
+# ============================================
+# STATE ENTERPRISES - WATER & OTHER (8)
+# ============================================
+inapa.gob.do
+caasd.gob.do
+coraasan.gob.do
+oisoe.gob.do
+cmc.gob.do
+loteria.gob.do
+leidsa.com
+bagricola.gob.do
+
+# ============================================
+# BUSINESS & ECONOMY - BANKS (13)
+# ============================================
+banreservas.com
+popularenlinea.com
+bhdleon.com.do
+scotiabank.com.do
+bancolopezdeharo.com.do
+bancoademi.com.do
+bancovimenca.com.do
+bancobdi.com.do
+promerica.com.do
+citibank.com.do
+asociacionpopular.com
+asociacioncibao.com
+bancocaribe.com.do
+
+# ============================================
+# BUSINESS & ECONOMY - ASSOCIATIONS (5)
+# ============================================
+aird.org.do
+aba.org.do
+conep.org.do
+camarasantiago.com
+camarasantodomingo.com
+
+# ============================================
+# UNIVERSITIES & EDUCATION (23)
+# ============================================
+uasd.edu.do
+pucmm.edu.do
+intec.edu.do
+unibe.edu.do
+unphu.edu.do
+unapec.edu.do
+utesa.edu.do
+uce.edu.do
+uapa.edu.do
+udoym.edu.do
+unicaribe.edu.do
+ucsd.edu.do
+ufhec.edu.do
+uniremhos.edu.do
+ucne.edu.do
+uteco.edu.do
+isa.edu.do
+uafam.edu.do
+unev.edu.do
+isfodosu.edu.do
+ince.edu.do
+itla.edu.do
+infotep.gob.do
+
+# ============================================
+# SPORTS (10)
+# ============================================
+lidom.com
+licey.com
+aguilas.com.do
+escogido.com
+estrellasorientales.com.do
+gigantessfm.com
+lostorosdeleste.com
+cod.org.do
+fedobe.org
+fedofutbol.org
+
+# ============================================
+# POLITICAL PARTIES (5)
+# ============================================
+pld.org.do
+prm.org.do
+prd.org.do
+prsc.com.do
+fuerzadelpueblo.do
+
+# ============================================
+# MUNICIPAL GOVERNMENTS / AYUNTAMIENTOS (5)
+# ============================================
+adn.gob.do
+ayuntamientosdo.gob.do
+ayuntamientosde.gob.do
+ayuntamientosantiago.gob.do
+ayuntamientosdn.gob.do
+
+# ============================================
+# TOURISM (3)
+# ============================================
+godominicanrepublic.com
+asonahores.com
+bavaro-puntacana.com
+
+# ============================================
+# HEALTH (3)
+# ============================================
+sns.gob.do
+ars-senasa.gob.do
+dps.gob.do
+
+# ============================================
+# E-COMMERCE & SERVICES (7)
+# ============================================
+corotos.com.do
+supermercadosnacional.com
+ccn.com.do
+claro.com.do
+altice.com.do
+viva.com.do
+edesur.com.do
+
+# ============================================
+# ART & CULTURE (5)
+# ============================================
+dgcine.gob.do
+teatronacional.gob.do
+bn.gob.do
+dgba.gob.do
+museodelartemodernosd.com
+
+# ============================================
+# HUMAN RIGHTS / NGOs (3)
+# ============================================
+participacionciudadana.org.do
+finjus.org.do
+alianzaong.org.do
+
+# ============================================
+# DIASPORA & INTERNATIONAL (3)
+# ============================================
+dominicanosrd.com
+dominicanaonline.org
+dominicanabroad.com

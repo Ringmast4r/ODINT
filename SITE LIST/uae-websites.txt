@@ -1,0 +1,250 @@
+# UAE Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 175 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (5)
+# ============================================
+uaegovernment.ae
+mopa.gov.ae
+fnc.gov.ae
+cda.gov.ae
+federalcourt.gov.ae
+
+# ============================================
+# GOVERNMENT MINISTRIES (16)
+# ============================================
+mofaic.gov.ae
+mod.gov.ae
+mof.gov.ae
+moe.gov.ae
+mohap.gov.ae
+moi.gov.ae
+moj.gov.ae
+mocd.gov.ae
+moccae.gov.ae
+moei.gov.ae
+economy.gov.ae
+mohre.gov.ae
+moid.gov.ae
+mcycd.gov.ae
+moiat.gov.ae
+fanr.gov.ae
+
+# ============================================
+# MILITARY & DEFENSE (10)
+# ============================================
+mod.gov.ae
+gccjointf.ae
+uaeaf.ae
+uaenavy.ae
+pguards.ae
+nhc.gov.ae
+ncema.gov.ae
+edic.ae
+isnr.ae
+idex.ae
+
+# ============================================
+# INTELLIGENCE & SECURITY (6)
+# ============================================
+moi.gov.ae
+ssd.gov.ae
+ncema.gov.ae
+tra.gov.ae
+aecert.ae
+nesa.gov.ae
+
+# ============================================
+# SPACE & TECHNOLOGY (6)
+# ============================================
+space.gov.ae
+mbrsc.ae
+emiratesmarsmission.ae
+tdra.gov.ae
+ai.gov.ae
+iacuae.gov.ae
+
+# ============================================
+# NUCLEAR & ENERGY (6)
+# ============================================
+fanr.gov.ae
+enec.gov.ae
+nawah.ae
+moei.gov.ae
+adnoc.ae
+ewec.ae
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (10)
+# ============================================
+etisalat.ae
+du.ae
+dewa.gov.ae
+addc.ae
+fewa.gov.ae
+sewa.gov.ae
+transad.ae
+rta.ae
+airports.ae
+adports.ae
+
+# ============================================
+# LAW ENFORCEMENT (5)
+# ============================================
+moi.gov.ae
+dubaipolice.gov.ae
+adpolice.gov.ae
+sjp.gov.ae
+ica.gov.ae
+
+# ============================================
+# JUDICIAL (5)
+# ============================================
+federalcourt.gov.ae
+adjd.gov.ae
+dc.gov.ae
+sjc.gov.ae
+moj.gov.ae
+
+# ============================================
+# FINANCIAL & REGULATORY (10)
+# ============================================
+centralbank.ae
+sca.gov.ae
+adx.ae
+dfm.ae
+difc.ae
+adgm.com
+fia.gov.ae
+cbuae.gov.ae
+mof.gov.ae
+ia.gov.ae
+
+# ============================================
+# EMIRATE GOVERNMENTS (7)
+# ============================================
+abudhabi.gov.ae
+dubai.gov.ae
+sharjah.gov.ae
+ajman.gov.ae
+uaq.gov.ae
+rak.gov.ae
+fujairah.gov.ae
+
+# ============================================
+# SOVEREIGN WEALTH & STATE ENTERPRISES (8)
+# ============================================
+adia.ae
+mubadala.com
+adnoc.ae
+adq.ae
+icd.gov.ae
+pif.gov.ae
+emaar.com
+dp.ae
+
+# ============================================
+# DEFENSE INDUSTRY (6)
+# ============================================
+edic.ae
+edge.ae
+tawazun.ae
+iggroup.ae
+nimr.ae
+halcon.ae
+
+# ============================================
+# UNIVERSITIES (8)
+# ============================================
+uaeu.ac.ae
+ku.ac.ae
+zu.ac.ae
+aus.edu
+aud.edu
+nyuad.nyu.edu
+mbzuai.ac.ae
+hct.ac.ae
+
+# ============================================
+# MEDIA (6)
+# ============================================
+wam.ae
+thenationalnews.com
+gulfnews.com
+khaleejtimes.com
+alittihad.ae
+skynewsarabia.com
+
+# ============================================
+# BANKS (6)
+# ============================================
+centralbank.ae
+fab.com
+emiratesnbd.com
+adcb.com
+dib.ae
+mashreqbank.com
+
+# ============================================
+# CYBER SECURITY (4)
+# ============================================
+aecert.ae
+tra.gov.ae
+csa.gov.ae
+desc.gov.ae
+
+# ============================================
+# FREE ZONES (8)
+# ============================================
+difc.ae
+adgm.com
+jafza.ae
+dafz.ae
+saif-zone.com
+dmcc.ae
+twofour54.com
+masdar.ae
+
+# ============================================
+# MEGA PROJECTS (6)
+# ============================================
+masdar.ae
+expo2020dubai.com
+neom.com
+saadiyat.ae
+dubaiholding.com
+meraas.com
+
+# ============================================
+# SPORTS (4)
+# ============================================
+uaefa.ae
+uaenoc.ae
+adsc.ae
+dubaisportscouncil.ae
+
+# ============================================
+# TOURISM (3)
+# ============================================
+visitabudhabi.ae
+visitdubai.com
+tourism.gov.ae
+
+# ============================================
+# THINK TANKS (4)
+# ============================================
+ecssr.ae
+agda.ae
+trends.ae
+epc.ae
+
+# ============================================
+# AIRLINES & TRANSPORT (5)
+# ============================================
+emirates.com
+etihad.com
+airarabia.com
+srta.gov.ae
+dot.abudhabi.ae

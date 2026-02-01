@@ -1,0 +1,203 @@
+# Iraqi Websites - Comprehensive List
+# Government, military, intelligence, space, nuclear, infrastructure
+# Created: 2026-01-29
+# Total: 135 domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (5)
+# ============================================
+pmo.iq
+cabinet.iq
+parliament.iq
+presidency.iq
+krg.org
+
+# ============================================
+# GOVERNMENT MINISTRIES (16)
+# ============================================
+mofa.gov.iq
+mod.gov.iq
+mof.gov.iq
+moedu.gov.iq
+moh.gov.iq
+moi.gov.iq
+moj.gov.iq
+moelc.gov.iq
+mowr.gov.iq
+mot.gov.iq
+moc.gov.iq
+mop.gov.iq
+mim.gov.iq
+molsa.gov.iq
+mohr.gov.iq
+moch.gov.iq
+
+# ============================================
+# MILITARY & DEFENSE (10)
+# ============================================
+mod.gov.iq
+jna.iq
+iraqiairforce.iq
+iraqinavy.iq
+cts.iq
+pmu.iq
+peshmerga.net
+isf.gov.iq
+nsc.gov.iq
+dma.gov.iq
+
+# ============================================
+# INTELLIGENCE & SECURITY (6)
+# ============================================
+nis.gov.iq
+moi.gov.iq
+nsa.gov.iq
+cts.iq
+falconint.iq
+pmu.iq
+
+# ============================================
+# NUCLEAR & ENERGY (6)
+# ============================================
+moelc.gov.iq
+oil.gov.iq
+somo.gov.iq
+nog.gov.iq
+scr.gov.iq
+iraqenergy.org
+
+# ============================================
+# CRITICAL INFRASTRUCTURE (8)
+# ============================================
+iraqitelecom.iq
+itpc.gov.iq
+gcaa.gov.iq
+iraqiairways.com.iq
+iraqiports.iq
+mowr.gov.iq
+ncmc.gov.iq
+isc.gov.iq
+
+# ============================================
+# LAW ENFORCEMENT (5)
+# ============================================
+moi.gov.iq
+federalpolice.iq
+borderforces.iq
+interpol.iq
+civildefense.gov.iq
+
+# ============================================
+# JUDICIAL (5)
+# ============================================
+hjc.iq
+iraqfsc.iq
+prosecution.gov.iq
+integrity.gov.iq
+bsa.gov.iq
+
+# ============================================
+# FINANCIAL & REGULATORY (8)
+# ============================================
+cbi.iq
+isx-iq.net
+cmc.iq
+fbsa.gov.iq
+gta.gov.iq
+cos.gov.iq
+tbi.gov.iq
+mof.gov.iq
+
+# ============================================
+# OIL & GAS (6)
+# ============================================
+oil.gov.iq
+somo.gov.iq
+inoc.gov.iq
+nog.gov.iq
+basraoil.com
+missan-oc.com
+
+# ============================================
+# KURDISTAN REGIONAL GOVERNMENT (8)
+# ============================================
+krg.org
+gov.krd
+parliament.krd
+cabinet.gov.krd
+mnr.krg.org
+peshmerga.net
+krso.gov.krd
+mop.gov.krd
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (8)
+# ============================================
+baghdad.gov.iq
+basra.gov.iq
+nineveh.gov.iq
+erbil.gov.krd
+sulaymaniyah.gov.krd
+duhok.gov.krd
+najaf.gov.iq
+karbala.gov.iq
+
+# ============================================
+# UNIVERSITIES (8)
+# ============================================
+uobaghdad.edu.iq
+uobasrah.edu.iq
+uomosul.edu.iq
+uokerbala.edu.iq
+su.edu.krd
+auis.edu.krd
+uokufa.edu.iq
+uoanbar.edu.iq
+
+# ============================================
+# MEDIA (6)
+# ============================================
+almadapaper.net
+alsumaria.tv
+rudaw.net
+nrt.news
+iraqinews.com
+imn.iq
+
+# ============================================
+# BANKS (5)
+# ============================================
+cbi.iq
+rafidain-bank.gov.iq
+rasheedbank.gov.iq
+tbi.gov.iq
+kurdistanbank.com
+
+# ============================================
+# CYBER SECURITY (3)
+# ============================================
+cert.gov.iq
+cmc.iq
+ncsc.gov.iq
+
+# ============================================
+# SPORTS (3)
+# ============================================
+ifa.iq
+iraqnoc.org
+iraqibasketball.iq
+
+# ============================================
+# TOURISM (2)
+# ============================================
+tourism.gov.iq
+iraqtourism.org
+
+# ============================================
+# RELIGIOUS & CULTURAL (5)
+# ============================================
+awqaf.gov.iq
+imamhussain.org
+alkadhumiya.com
+najaf.org
+marjaeyat.net

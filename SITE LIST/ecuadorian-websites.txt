@@ -1,0 +1,249 @@
+# Ecuadorian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 185 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (10)
+# ============================================
+eluniverso.com
+elcomercio.com
+ecuavisa.com
+primicias.ec
+expreso.ec
+lahora.com.ec
+planv.com.ec
+4pelagatos.com
+eltelegrafo.com.ec
+vistazo.com
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (6)
+# ============================================
+teleamazonas.com
+tc.com.ec
+ecuadorinmediato.com
+ectv.gob.ec
+radiohuancavilca.com.ec
+gamatv.com.ec
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+gob.ec
+presidencia.gob.ec
+vicepresidencia.gob.ec
+
+# ============================================
+# GOVERNMENT - MINISTRIES (17)
+# ============================================
+cancilleria.gob.ec
+finanzas.gob.ec
+educacion.gob.ec
+salud.gob.ec
+defensa.gob.ec
+interior.gob.ec
+telecomunicaciones.gob.ec
+trabajo.gob.ec
+turismo.gob.ec
+culturaypatrimonio.gob.ec
+ambiente.gob.ec
+transporte.gob.ec
+agricultura.gob.ec
+energia.gob.ec
+produccion.gob.ec
+inclusion.gob.ec
+vivienda.gob.ec
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (8)
+# ============================================
+cortenacional.gob.ec
+corteconstitucional.gob.ec
+asambleanacional.gob.ec
+fiscalia.gob.ec
+defensoria.gob.ec
+contraloria.gob.ec
+cne.gob.ec
+tce.gob.ec
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (10)
+# ============================================
+sri.gob.ec
+supercias.gob.ec
+seps.gob.ec
+arcotel.gob.ec
+arcsa.gob.ec
+superbancos.gob.ec
+sercop.gob.ec
+scpm.gob.ec
+supercom.gob.ec
+juntamonetaria.gob.ec
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (16)
+# ============================================
+iess.gob.ec
+registrocivil.gob.ec
+senescyt.gob.ec
+inec.gob.ec
+ant.gob.ec
+senadi.gob.ec
+senagua.gob.ec
+aduanas.gob.ec
+sngre.gob.ec
+inamhi.gob.ec
+planificacion.gob.ec
+migracion.gob.ec
+caces.gob.ec
+agrocalidad.gob.ec
+dgac.gob.ec
+sni.gob.ec
+
+# ============================================
+# MILITARY & SECURITY (7)
+# ============================================
+ccffaa.mil.ec
+ejercito.mil.ec
+armada.mil.ec
+fuerzaaerea.mil.ec
+policiaecuador.gob.ec
+issfa.mil.ec
+isspol.gob.ec
+
+# ============================================
+# STATE ENTERPRISES (7)
+# ============================================
+petroecuador.gob.ec
+cnt.gob.ec
+correos.gob.ec
+celec.gob.ec
+flopec.com.ec
+enfarma.gob.ec
+astinave.com.ec
+
+# ============================================
+# BANKS & ECONOMY (8)
+# ============================================
+bce.fin.ec
+banecuador.fin.ec
+cfn.fin.ec
+biess.fin.ec
+pichincha.com
+produbanco.com.ec
+bolivariano.com
+guayaquil.com
+
+# ============================================
+# UNIVERSITIES & EDUCATION (12)
+# ============================================
+uce.edu.ec
+epn.edu.ec
+espol.edu.ec
+puce.edu.ec
+usfq.edu.ec
+ucuenca.edu.ec
+ug.edu.ec
+utpl.edu.ec
+uees.edu.ec
+uazuay.edu.ec
+uta.edu.ec
+unl.edu.ec
+
+# ============================================
+# SPORTS (3)
+# ============================================
+fef.ec
+coe.org.ec
+ligapro.ec
+
+# ============================================
+# POLITICAL PARTIES (4)
+# ============================================
+creo.com.ec
+revolucionciudadana.ec
+pachakutik.ec
+socialcristiano.ec
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (24)
+# ============================================
+pichincha.gob.ec
+guayas.gob.ec
+azuay.gob.ec
+manabi.gob.ec
+tungurahua.gob.ec
+loja.gob.ec
+imbabura.gob.ec
+esmeraldas.gob.ec
+eloro.gob.ec
+losrios.gob.ec
+cotopaxi.gob.ec
+chimborazo.gob.ec
+bolivar.gob.ec
+canar.gob.ec
+carchi.gob.ec
+morona.gob.ec
+napo.gob.ec
+pastaza.gob.ec
+zamora.gob.ec
+sucumbios.gob.ec
+orellana.gob.ec
+galapagos.gob.ec
+santaelena.gob.ec
+santodomingo.gob.ec
+
+# ============================================
+# MUNICIPAL GOVERNMENTS (8)
+# ============================================
+quito.gob.ec
+guayaquil.gob.ec
+cuenca.gob.ec
+ambato.gob.ec
+machala.gob.ec
+loja.gob.ec
+portoviejo.gob.ec
+riobamba.gob.ec
+
+# ============================================
+# HUMAN RIGHTS / NGOs (4)
+# ============================================
+cedhu.org
+fundamedios.org.ec
+inredh.org
+faro.org.ec
+
+# ============================================
+# ART & CULTURE (3)
+# ============================================
+casadelacultura.gob.ec
+flacso.edu.ec
+museos.gob.ec
+
+# ============================================
+# E-COMMERCE & SERVICES (6)
+# ============================================
+mercadolibre.com.ec
+claro.com.ec
+movistar.com.ec
+deprati.com.ec
+supermaxi.com
+tventas.com
+
+# ============================================
+# TOURISM (2)
+# ============================================
+ecuador.travel
+vivecuador.com
+
+# ============================================
+# DIASPORA & INTERNATIONAL (7)
+# ============================================
+cancilleria.gob.ec
+proecuador.gob.ec
+consuladovirtual.gob.ec
+investecuador.ec
+ecuadorencifras.gob.ec
+seteci.gob.ec
+cancilleria.gob.ec

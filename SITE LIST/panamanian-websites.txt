@@ -1,0 +1,191 @@
+# Panamanian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-29
+# Total: 125 domains
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS & DIGITAL (8)
+# ============================================
+laestrella.com.pa
+prensa.com
+critica.com.pa
+metrolibre.com
+elsiglo.com.pa
+diaadia.com.pa
+laestrella.com.pa
+foco.com.pa
+
+# ============================================
+# NEWS & MEDIA - TV & RADIO (5)
+# ============================================
+tvn-2.com
+telemetro.com
+nexpanama.com
+rpctv.com
+sertv.gob.pa
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
+# ============================================
+presidencia.gob.pa
+gob.pa
+mire.gob.pa
+
+# ============================================
+# GOVERNMENT - MINISTRIES (14)
+# ============================================
+mingob.gob.pa
+mef.gob.pa
+mides.gob.pa
+meduca.gob.pa
+minsa.gob.pa
+mop.gob.pa
+mida.gob.pa
+mitradel.gob.pa
+mici.gob.pa
+miambiente.gob.pa
+miviot.gob.pa
+micultura.gob.pa
+spi.gob.pa
+atp.gob.pa
+
+# ============================================
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (7)
+# ============================================
+asamblea.gob.pa
+organojudicial.gob.pa
+ministeriopublico.gob.pa
+tribunalelectoral.gob.pa
+contraloria.gob.pa
+defensoria.gob.pa
+procuraduria.gob.pa
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (7)
+# ============================================
+dgi.gob.pa
+sba.gob.pa
+superbancos.gob.pa
+smv.gob.pa
+asep.gob.pa
+pancanal.com
+acodeco.gob.pa
+
+# ============================================
+# GOVERNMENT - AGENCIES & SERVICES (12)
+# ============================================
+css.gob.pa
+inec.gob.pa
+tribunal-electoral.gob.pa
+registro-publico.gob.pa
+sni.gob.pa
+senacyt.gob.pa
+sinaproc.gob.pa
+anam.gob.pa
+etesa.com.pa
+arap.gob.pa
+ampyme.gob.pa
+inadeh.gob.pa
+
+# ============================================
+# SECURITY (5)
+# ============================================
+senafront.gob.pa
+senafront.gob.pa
+policia.gob.pa
+spi.gob.pa
+senafront.gob.pa
+
+# ============================================
+# STATE ENTERPRISES (5)
+# ============================================
+pancanal.com
+etesa.com.pa
+edemet.com.pa
+edechi.com.pa
+ensa.com.pa
+
+# ============================================
+# BANKS & ECONOMY (8)
+# ============================================
+bnpanama.com
+bancogeneral.com
+bfranceses.com
+globalbank.com.pa
+banistmo.com
+scotiabank.com.pa
+bac.net
+bladex.com
+
+# ============================================
+# UNIVERSITIES & EDUCATION (7)
+# ============================================
+up.ac.pa
+utp.ac.pa
+udelas.ac.pa
+usma.ac.pa
+ulat.ac.pa
+uip.pa
+unachi.ac.pa
+
+# ============================================
+# SPORTS (3)
+# ============================================
+fepafut.com
+cop.org.pa
+lpf.com.pa
+
+# ============================================
+# POLITICAL PARTIES (4)
+# ============================================
+partidorevolucionariodemocratico.pa
+partidopanamenista.pa
+molirena.pa
+cd.com.pa
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (6)
+# ============================================
+panama.gob.pa
+chiriqui.gob.pa
+cocle.gob.pa
+veraguas.gob.pa
+herrera.gob.pa
+losantos.gob.pa
+
+# ============================================
+# HUMAN RIGHTS / NGOs (3)
+# ============================================
+alianzaciudadana.org.pa
+transparenciainternacional.pa
+fundacionlibertad.org.pa
+
+# ============================================
+# E-COMMERCE & SERVICES (5)
+# ============================================
+cwpanama.com
+tigo.com.pa
+claro.com.pa
+mercadolibre.com.pa
+rfranceses.com
+
+# ============================================
+# TOURISM (3)
+# ============================================
+atp.gob.pa
+visitpanama.com
+visitcanaldepanama.com
+
+# ============================================
+# ART & CULTURE (3)
+# ============================================
+micultura.gob.pa
+inac.gob.pa
+binal.ac.pa
+
+# ============================================
+# DIASPORA & INTERNATIONAL (3)
+# ============================================
+mire.gob.pa
+proinvex.gob.pa
+zonalibredocolon.gob.pa

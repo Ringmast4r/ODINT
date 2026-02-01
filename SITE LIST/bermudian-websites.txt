@@ -1,0 +1,190 @@
+# Bermudian Websites - Comprehensive List
+# Government, military, media, business, education, and cultural sites
+# Created: 2026-01-30
+
+# ============================================
+# NEWS & MEDIA
+# ============================================
+royalgazette.com
+bernews.com
+tnnbda.com
+bbc.bm
+bermudabroadcasting.com
+bermuda.com
+bermudarealestate.com
+bermudasun.bm
+vsb.bm
+bermudayp.com
+
+# ============================================
+# GOVERNMENT - EXECUTIVE
+# ============================================
+gov.bm
+forum.gov.bm
+forms.gov.bm
+uba.gov.bm
+
+# ============================================
+# GOVERNMENT - MINISTRIES & DEPARTMENTS
+# ============================================
+# Ministry of National Security
+# gov.bm/ministry/national-security
+# Ministry of Finance
+# gov.bm/ministry/finance
+# Ministry of Tourism and Transport
+# gov.bm/ministry/tourism-and-transport-culture-and-sport
+# Department of Planning
+planning.gov.bm
+# Department of Education
+moed.bm
+# Transport Control Department
+etcd.gov.bm
+# Customs Department
+customs.bm
+# Department of Immigration
+# gov.bm/department/immigration
+
+# ============================================
+# GOVERNMENT - AGENCIES & REGULATORY
+# ============================================
+ico.bm
+bma.bm
+ra.bm
+bermudaairport.com
+
+# ============================================
+# JUDICIAL & LEGISLATIVE
+# ============================================
+parliament.bm
+bermudalaws.bm
+# Supreme Court via gov.bm/department/supreme-court
+# Judiciary via gov.bm/department/judiciary
+# Court Judgments via gov.bm/court-judgments
+
+# ============================================
+# FINANCIAL & REGULATORY
+# ============================================
+bma.bm
+bsx.com
+abir.bm
+abic.bm
+bda.bm
+
+# ============================================
+# MILITARY & SECURITY
+# ============================================
+bermudaregiment.bm
+bermudapolice.bm
+# Bermuda Fire & Rescue Service via gov.bm/department/fire-and-rescue-service
+# Ministry of National Security via gov.bm/ministry/national-security
+
+# ============================================
+# BANKS & ECONOMY
+# ============================================
+hsbc.bm
+butterfieldgroup.com
+clarienbank.com
+bcb.bm
+bermudachamber.bm
+
+# ============================================
+# UNIVERSITIES & EDUCATION
+# ============================================
+college.bm
+saltus.bm
+warwick.bm
+bhs.bm
+bfis.bm
+bermudainstitute.bm
+somersfield.bm
+msa.bm
+bios.edu
+
+# ============================================
+# TOURISM
+# ============================================
+gotobermuda.com
+bermuda.com
+bermudaairport.com
+bermuda-online.org
+bermuda-attractions.com
+bermudatourism.org
+
+# ============================================
+# BUSINESS & COMMERCE
+# ============================================
+bermudachamber.bm
+bda.bm
+bsx.com
+abir.bm
+abic.bm
+bermudayp.com
+bermudabroadcasting.com
+bermudashipping.bm
+
+# ============================================
+# TELECOMMUNICATIONS
+# ============================================
+onecomm.bm
+digicelgroup.com/bm
+btc.bm
+linkbermuda.com
+telebermuda.com
+bluewave.bm
+
+# ============================================
+# POLITICAL PARTIES
+# ============================================
+plp.bm
+oba.bm
+# Free Democratic Movement (FDM) - no confirmed standalone domain
+
+# ============================================
+# HUMAN RIGHTS / NGOs
+# ============================================
+givebermuda.org
+bermudafoundation.org
+greenrock.org
+kbb.bm
+best.org.bm
+bnt.bm
+ycsbda.com
+curfrm.bm
+
+# ============================================
+# HEALTH & HOSPITALS
+# ============================================
+bermudahospitals.bm
+bhcs.bm
+bermudacancerfoundation.org
+
+# ============================================
+# ART & CULTURE
+# ============================================
+nmb.bm
+bng.bm
+masterworksbermuda.org
+bermudianheritagemuseum.com
+bermudafestival.org
+bermudaaquarium.bm
+bnt.bm
+
+# ============================================
+# SPORTS & RECREATION
+# ============================================
+bermudafa.com
+baa.bm
+sailing.bm
+cricket.bm
+worldrugby.bm
+bermudaolympic.bm
+
+# ============================================
+# DIASPORA & INTERNATIONAL
+# ============================================
+bda.bm
+bdalondonoffice.co.uk
+bm.usconsulate.gov
+# Bermuda Washington, D.C. Office via gov.bm
+# African Diaspora Heritage Trail via gotobermuda.com
+bermudianheritagemuseum.com
