@@ -97,6 +97,14 @@ Every ODINT contributor operates under these non-negotiable principles:
 
 ---
 
+## Submit a Tip
+
+Have information about exposed government infrastructure, data leaks, or something worth investigating? Submit it anonymously — no email, no sign-in, no tracking.
+
+**[Submit Anonymous Tip](https://docs.google.com/forms/d/e/1FAIpQLSf2d15QWPtmlYsXFllZ1Ib1RCMypqUQHd6X-f6VJRVAjNU6EA/viewform)**
+
+---
+
 ## Site List
 
 **49 Country Domain Lists | [`SITE LIST/`](SITE%20LIST/)**
