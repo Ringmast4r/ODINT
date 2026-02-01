@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ODINT logo.png" alt="ODINT — Observatory for Digital Infrastructure & Network Transparency" width="100%">
+  <img src="ODINT logo.png?v=2" alt="ODINT — Observatory for Digital Infrastructure & Network Transparency" width="100%">
 </p>
 
 <p align="center">
