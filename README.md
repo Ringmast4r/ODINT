@@ -232,7 +232,7 @@ Curated lists of government, military, media, education, and business domains or
 
 - [ ] Bermuda (UK)
 - [ ] Canada
-- [x] Greenland (Denmark)
+- 🟥 Greenland (Denmark)
 
 </td><td>
 
@@ -253,7 +253,7 @@ Curated lists of government, military, media, education, and business domains or
 - [ ] Bonaire (Netherlands)
 - [ ] British Virgin Islands (UK)
 - [ ] Cayman Islands (UK)
-- [x] Cuba
+- 🟥 Cuba
 - [ ] Curacao (Netherlands)
 - [ ] Dominica
 - [ ] Dominican Republic
@@ -305,7 +305,7 @@ Curated lists of government, military, media, education, and business domains or
 - [ ] Bolivia
 - [ ] Brazil
 - [ ] Chile
-- [x] Colombia
+- 🟥 Colombia
 - [ ] Ecuador
 - [ ] Falkland Islands (UK)
 
@@ -317,7 +317,7 @@ Curated lists of government, military, media, education, and business domains or
 - [ ] Peru
 - [ ] Suriname
 - [ ] Uruguay
-- [x] Venezuela
+- 🟥 Venezuela
 
 </td></tr></table>
 
@@ -406,7 +406,7 @@ Curated lists of government, military, media, education, and business domains or
 <table><tr><td>
 
 - [ ] Bahrain
-- [x] Iran
+- 🟥 Iran
 - [ ] Iraq
 - [ ] Israel
 - [ ] Jordan
@@ -612,7 +612,7 @@ Curated lists of government, military, media, education, and business domains or
 ### Antarctica (5)
 <table><tr><td>
 
-- [x] Antarctica
+- 🟥 Antarctica
 - [ ] Bouvet Island (Norway)
 - [ ] French Southern and Antarctic Lands (France)
 
