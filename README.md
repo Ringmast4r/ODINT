@@ -2,6 +2,10 @@
   <img src="ODINT_banner.png" alt="ODINT — Observatory for Digital Infrastructure & Network Transparency" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhits.dwyl.com%2FRingmast4r%2FODINT.json&query=%24.count&label=Visitors&color=000000&labelColor=ffffff&style=for-the-badge" alt="Visitors">
+</p>
+
 # ODINT — The Observatory for Digital Infrastructure & Network Transparency
 
 **Independent. Decentralized. Nonprofit.**
