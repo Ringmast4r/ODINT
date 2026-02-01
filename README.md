@@ -91,6 +91,310 @@ Every ODINT contributor operates under these non-negotiable principles:
 
 ---
 
+## Cyber Recon Tour — Country Research Tracker
+
+**270 Countries & Territories | 14 Regions**
+
+### North America (6)
+- [ ] Bermuda (UK)
+- [ ] Canada
+- [x] Greenland (Denmark)
+- [ ] Mexico
+- [ ] Saint Pierre and Miquelon (France)
+- [ ] United States
+
+### Caribbean (31)
+- [ ] Anguilla (UK)
+- [ ] Antigua and Barbuda
+- [ ] Aruba (Netherlands)
+- [ ] Bahamas
+- [ ] Barbados
+- [ ] Bonaire (Netherlands)
+- [ ] British Virgin Islands (UK)
+- [ ] Cayman Islands (UK)
+- [x] Cuba
+- [ ] Curacao (Netherlands)
+- [ ] Dominica
+- [ ] Dominican Republic
+- [ ] Grenada
+- [ ] Guadeloupe (France)
+- [ ] Haiti
+- [ ] Jamaica
+- [ ] Martinique (France)
+- [ ] Montserrat (UK)
+- [ ] Navassa Island (US)
+- [ ] Puerto Rico (US)
+- [ ] Saba (Netherlands)
+- [ ] Saint Barthelemy (France)
+- [ ] Saint Kitts and Nevis
+- [ ] Saint Lucia
+- [ ] Saint Martin (France)
+- [ ] Saint Vincent and the Grenadines
+- [ ] Sint Eustatius (Netherlands)
+- [ ] Sint Maarten (Netherlands)
+- [ ] Trinidad and Tobago
+- [ ] Turks and Caicos (UK)
+- [ ] US Virgin Islands (US)
+
+### Central America (7)
+- [ ] Belize
+- [ ] Costa Rica
+- [ ] El Salvador
+- [ ] Guatemala
+- [ ] Honduras
+- [ ] Nicaragua
+- [ ] Panama
+
+### South America (14)
+- [ ] Argentina
+- [ ] Bolivia
+- [ ] Brazil
+- [ ] Chile
+- [x] Colombia
+- [ ] Ecuador
+- [ ] Falkland Islands (UK)
+- [ ] French Guiana
+- [ ] Guyana
+- [ ] Paraguay
+- [ ] Peru
+- [ ] Suriname
+- [ ] Uruguay
+- [x] Venezuela
+
+### Europe (60)
+- [ ] Akrotiri and Dhekelia (UK)
+- [ ] Aland Islands (Finland)
+- [ ] Albania
+- [ ] Andorra
+- [ ] Austria
+- [ ] Azores (Portugal)
+- [ ] Belarus
+- [ ] Belgium
+- [ ] Bosnia and Herzegovina
+- [ ] Bulgaria
+- [ ] Canary Islands (Spain)
+- [ ] Ceuta (Spain)
+- [ ] Croatia
+- [ ] Cyprus
+- [ ] Czech Republic
+- [ ] Denmark
+- [ ] Estonia
+- [ ] Faroe Islands (Denmark)
+- [ ] Finland
+- [ ] France
+- [ ] Germany
+- [ ] Gibraltar (UK)
+- [ ] Greece
+- [ ] Guernsey (UK)
+- [ ] Hungary
+- [ ] Iceland
+- [ ] Ireland
+- [ ] Isle of Man (UK)
+- [ ] Italy
+- [ ] Jan Mayen (Norway)
+- [ ] Jersey (UK)
+- [ ] Kosovo
+- [ ] Latvia
+- [ ] Liechtenstein
+- [ ] Lithuania
+- [ ] Luxembourg
+- [ ] Madeira (Portugal)
+- [ ] Malta
+- [ ] Melilla (Spain)
+- [ ] Moldova
+- [ ] Monaco
+- [ ] Montenegro
+- [ ] Netherlands
+- [ ] North Macedonia
+- [ ] Norway
+- [ ] Poland
+- [ ] Portugal
+- [ ] Romania
+- [ ] Russia
+- [ ] San Marino
+- [ ] Serbia
+- [ ] Slovakia
+- [ ] Slovenia
+- [ ] Spain
+- [ ] Svalbard (Norway)
+- [ ] Sweden
+- [ ] Switzerland
+- [ ] Ukraine
+- [ ] United Kingdom
+- [ ] Vatican City
+
+### Caucasus (3)
+- [ ] Armenia
+- [ ] Azerbaijan
+- [ ] Georgia
+
+### Middle East (15)
+- [ ] Bahrain
+- [x] Iran
+- [ ] Iraq
+- [ ] Israel
+- [ ] Jordan
+- [ ] Kuwait
+- [ ] Lebanon
+- [ ] Oman
+- [ ] Palestine
+- [ ] Qatar
+- [ ] Saudi Arabia
+- [ ] Syria
+- [ ] Turkey
+- [ ] United Arab Emirates
+- [ ] Yemen
+
+### Central Asia (5)
+- [ ] Kazakhstan
+- [ ] Kyrgyzstan
+- [ ] Tajikistan
+- [ ] Turkmenistan
+- [ ] Uzbekistan
+
+### South Asia (9)
+- [ ] Afghanistan
+- [ ] Bangladesh
+- [ ] Bhutan
+- [ ] British Indian Ocean Territory (UK)
+- [ ] India
+- [ ] Maldives
+- [ ] Nepal
+- [ ] Pakistan
+- [ ] Sri Lanka
+
+### East Asia (8)
+- [ ] China
+- [ ] Hong Kong (China)
+- [ ] Japan
+- [ ] Macau (China)
+- [ ] Mongolia
+- [ ] North Korea
+- [ ] South Korea
+- [ ] Taiwan
+
+### Southeast Asia (11)
+- [ ] Brunei
+- [ ] Cambodia
+- [ ] East Timor
+- [ ] Indonesia
+- [ ] Laos
+- [ ] Malaysia
+- [ ] Myanmar
+- [ ] Philippines
+- [ ] Singapore
+- [ ] Thailand
+- [ ] Vietnam
+
+### Africa (60)
+- [ ] Algeria
+- [ ] Angola
+- [ ] Ascension Island (UK)
+- [ ] Benin
+- [ ] Botswana
+- [ ] Burkina Faso
+- [ ] Burundi
+- [ ] Cabo Verde
+- [ ] Cameroon
+- [ ] Central African Republic
+- [ ] Chad
+- [ ] Comoros
+- [ ] Cote d'Ivoire
+- [ ] Democratic Republic of the Congo
+- [ ] Djibouti
+- [ ] Egypt
+- [ ] Equatorial Guinea
+- [ ] Eritrea
+- [ ] Eswatini
+- [ ] Ethiopia
+- [ ] Gabon
+- [ ] Gambia
+- [ ] Ghana
+- [ ] Guinea
+- [ ] Guinea-Bissau
+- [ ] Kenya
+- [ ] Lesotho
+- [ ] Liberia
+- [ ] Libya
+- [ ] Madagascar
+- [ ] Malawi
+- [ ] Mali
+- [ ] Mauritania
+- [ ] Mauritius
+- [ ] Mayotte (France)
+- [ ] Morocco
+- [ ] Mozambique
+- [ ] Namibia
+- [ ] Niger
+- [ ] Nigeria
+- [ ] Republic of the Congo
+- [ ] Reunion (France)
+- [ ] Rwanda
+- [ ] Saint Helena (UK)
+- [ ] Sao Tome and Principe
+- [ ] Senegal
+- [ ] Seychelles
+- [ ] Sierra Leone
+- [ ] Somalia
+- [ ] South Africa
+- [ ] South Sudan
+- [ ] Sudan
+- [ ] Tanzania
+- [ ] Togo
+- [ ] Tristan da Cunha (UK)
+- [ ] Tunisia
+- [ ] Uganda
+- [ ] Western Sahara
+- [ ] Zambia
+- [ ] Zimbabwe
+
+### Oceania (36)
+- [ ] American Samoa (US)
+- [ ] Australia
+- [ ] Baker Island (US)
+- [ ] Christmas Island (Australia)
+- [ ] Clipperton Island (France)
+- [ ] Cocos Islands (Australia)
+- [ ] Cook Islands (NZ)
+- [ ] Fiji
+- [ ] French Polynesia (France)
+- [ ] Guam (US)
+- [ ] Howland Island (US)
+- [ ] Jarvis Island (US)
+- [ ] Johnston Atoll (US)
+- [ ] Kingman Reef (US)
+- [ ] Kiribati
+- [ ] Marshall Islands
+- [ ] Micronesia
+- [ ] Midway Atoll (US)
+- [ ] Nauru
+- [ ] New Caledonia (France)
+- [ ] New Zealand
+- [ ] Niue (NZ)
+- [ ] Norfolk Island (Australia)
+- [ ] Northern Mariana Islands (US)
+- [ ] Palau
+- [ ] Palmyra Atoll (US)
+- [ ] Papua New Guinea
+- [ ] Pitcairn Islands (UK)
+- [ ] Samoa
+- [ ] Solomon Islands
+- [ ] Tokelau (NZ)
+- [ ] Tonga
+- [ ] Tuvalu
+- [ ] Vanuatu
+- [ ] Wake Island (US)
+- [ ] Wallis and Futuna (France)
+
+### Antarctica (5)
+- [x] Antarctica
+- [ ] Bouvet Island (Norway)
+- [ ] French Southern and Antarctic Lands (France)
+- [ ] Heard Island and McDonald Islands (Australia)
+- [ ] South Georgia and South Sandwich Islands (UK)
+
+---
+
 ## Contact
 
 - **Email:** odint_io@proton.me
