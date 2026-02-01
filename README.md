@@ -96,14 +96,23 @@ Every ODINT contributor operates under these non-negotiable principles:
 **270 Countries & Territories | 14 Regions**
 
 ### North America (6)
+<table><tr><td>
+
 - [ ] Bermuda (UK)
 - [ ] Canada
 - [x] Greenland (Denmark)
+
+</td><td>
+
 - [ ] Mexico
 - [ ] Saint Pierre and Miquelon (France)
 - [ ] United States
 
+</td></tr></table>
+
 ### Caribbean (31)
+<table><tr><td>
+
 - [ ] Anguilla (UK)
 - [ ] Antigua and Barbuda
 - [ ] Aruba (Netherlands)
@@ -120,6 +129,9 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] Guadeloupe (France)
 - [ ] Haiti
 - [ ] Jamaica
+
+</td><td>
+
 - [ ] Martinique (France)
 - [ ] Montserrat (UK)
 - [ ] Navassa Island (US)
@@ -136,16 +148,27 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] Turks and Caicos (UK)
 - [ ] US Virgin Islands (US)
 
+</td></tr></table>
+
 ### Central America (7)
+<table><tr><td>
+
 - [ ] Belize
 - [ ] Costa Rica
 - [ ] El Salvador
 - [ ] Guatemala
+
+</td><td>
+
 - [ ] Honduras
 - [ ] Nicaragua
 - [ ] Panama
 
+</td></tr></table>
+
 ### South America (14)
+<table><tr><td>
+
 - [ ] Argentina
 - [ ] Bolivia
 - [ ] Brazil
@@ -153,6 +176,9 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [x] Colombia
 - [ ] Ecuador
 - [ ] Falkland Islands (UK)
+
+</td><td>
+
 - [ ] French Guiana
 - [ ] Guyana
 - [ ] Paraguay
@@ -161,7 +187,11 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] Uruguay
 - [x] Venezuela
 
+</td></tr></table>
+
 ### Europe (60)
+<table><tr><td>
+
 - [ ] Akrotiri and Dhekelia (UK)
 - [ ] Aland Islands (Finland)
 - [ ] Albania
@@ -192,6 +222,9 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] Isle of Man (UK)
 - [ ] Italy
 - [ ] Jan Mayen (Norway)
+
+</td><td>
+
 - [ ] Jersey (UK)
 - [ ] Kosovo
 - [ ] Latvia
@@ -223,12 +256,23 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] United Kingdom
 - [ ] Vatican City
 
+</td></tr></table>
+
 ### Caucasus (3)
+<table><tr><td>
+
 - [ ] Armenia
 - [ ] Azerbaijan
+
+</td><td>
+
 - [ ] Georgia
 
+</td></tr></table>
+
 ### Middle East (15)
+<table><tr><td>
+
 - [ ] Bahrain
 - [x] Iran
 - [ ] Iraq
@@ -237,6 +281,9 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] Kuwait
 - [ ] Lebanon
 - [ ] Oman
+
+</td><td>
+
 - [ ] Palestine
 - [ ] Qatar
 - [ ] Saudi Arabia
@@ -245,48 +292,80 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] United Arab Emirates
 - [ ] Yemen
 
+</td></tr></table>
+
 ### Central Asia (5)
+<table><tr><td>
+
 - [ ] Kazakhstan
 - [ ] Kyrgyzstan
 - [ ] Tajikistan
+
+</td><td>
+
 - [ ] Turkmenistan
 - [ ] Uzbekistan
 
+</td></tr></table>
+
 ### South Asia (9)
+<table><tr><td>
+
 - [ ] Afghanistan
 - [ ] Bangladesh
 - [ ] Bhutan
 - [ ] British Indian Ocean Territory (UK)
 - [ ] India
+
+</td><td>
+
 - [ ] Maldives
 - [ ] Nepal
 - [ ] Pakistan
 - [ ] Sri Lanka
 
+</td></tr></table>
+
 ### East Asia (8)
+<table><tr><td>
+
 - [ ] China
 - [ ] Hong Kong (China)
 - [ ] Japan
 - [ ] Macau (China)
+
+</td><td>
+
 - [ ] Mongolia
 - [ ] North Korea
 - [ ] South Korea
 - [ ] Taiwan
 
+</td></tr></table>
+
 ### Southeast Asia (11)
+<table><tr><td>
+
 - [ ] Brunei
 - [ ] Cambodia
 - [ ] East Timor
 - [ ] Indonesia
 - [ ] Laos
 - [ ] Malaysia
+
+</td><td>
+
 - [ ] Myanmar
 - [ ] Philippines
 - [ ] Singapore
 - [ ] Thailand
 - [ ] Vietnam
 
+</td></tr></table>
+
 ### Africa (60)
+<table><tr><td>
+
 - [ ] Algeria
 - [ ] Angola
 - [ ] Ascension Island (UK)
@@ -317,6 +396,9 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] Liberia
 - [ ] Libya
 - [ ] Madagascar
+
+</td><td>
+
 - [ ] Malawi
 - [ ] Mali
 - [ ] Mauritania
@@ -348,7 +430,11 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] Zambia
 - [ ] Zimbabwe
 
+</td></tr></table>
+
 ### Oceania (36)
+<table><tr><td>
+
 - [ ] American Samoa (US)
 - [ ] Australia
 - [ ] Baker Island (US)
@@ -367,6 +453,9 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] Marshall Islands
 - [ ] Micronesia
 - [ ] Midway Atoll (US)
+
+</td><td>
+
 - [ ] Nauru
 - [ ] New Caledonia (France)
 - [ ] New Zealand
@@ -386,12 +475,21 @@ Every ODINT contributor operates under these non-negotiable principles:
 - [ ] Wake Island (US)
 - [ ] Wallis and Futuna (France)
 
+</td></tr></table>
+
 ### Antarctica (5)
+<table><tr><td>
+
 - [x] Antarctica
 - [ ] Bouvet Island (Norway)
 - [ ] French Southern and Antarctic Lands (France)
+
+</td><td>
+
 - [ ] Heard Island and McDonald Islands (Australia)
 - [ ] South Georgia and South Sandwich Islands (UK)
+
+</td></tr></table>
 
 ---
 
