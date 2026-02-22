@@ -1,0 +1,49 @@
+================================================================================
+API ENDPOINT MAP: CONAPRED (Anti-Discrimination)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONAPRED/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONAPRED/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: informes_anuales_sobre_quejas_reclamaciones_CONAPRED_1_DA_Anual2019_Quejas_Entidad_Federativa.csv
+  Route: /api_update/CONAPRED/informes_anuales_sobre_quejas_reclamaciones_CONAPRED_1_DA_Anual2019_Quejas_Entidad_Federativa.csv
+  Size: 4.7K
+  Status: OPEN
+
+FILE: informes_anuales_sobre_quejas_reclamaciones_CONAPRED_2_DA_Informe_2018_Quejas_por_Entidad_Federativa.csv
+  Route: /api_update/CONAPRED/informes_anuales_sobre_quejas_reclamaciones_CONAPRED_2_DA_Informe_2018_Quejas_por_Entidad_Federativa.csv
+  Size: 4.7K
+  Status: OPEN
+
+FILE: informes_anuales_sobre_quejas_reclamaciones_CONAPRED_3_entidad-datos.csv
+  Route: /api_update/CONAPRED/informes_anuales_sobre_quejas_reclamaciones_CONAPRED_3_entidad-datos.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: informes_anuales_sobre_quejas_reclamaciones_CONAPRED_4_DA_Quejas_por_Entidad_Federativa_2017-copia.csv
+  Route: /api_update/CONAPRED/informes_anuales_sobre_quejas_reclamaciones_CONAPRED_4_DA_Quejas_por_Entidad_Federativa_2017-copia.csv
+  Size: 4.8K
+  Status: OPEN
+
+FILE: informes_anuales_sobre_quejas_reclamaciones_CONAPRED_5_Datos_abiertos_entidades_federativas_01.csv
+  Route: /api_update/CONAPRED/informes_anuales_sobre_quejas_reclamaciones_CONAPRED_5_Datos_abiertos_entidades_federativas_01.csv
+  Size: 1.4K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 5
+Total Size: 28K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

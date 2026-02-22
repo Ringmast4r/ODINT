@@ -1,0 +1,37 @@
+================================================================================
+TECH STACK: BANCOMEXT
+================================================================================
+
+DOMAIN: bancomext.com
+URL PROBED: https://www.bancomext.com
+SCAN DATE: 2026-01-15 17:03:56
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 403 Forbidden
+Server: NOT DISCLOSED
+Content-Type: text/html
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+subject=C=MX, L=Ciudad de Mexico, O=Banco Nacional de Comercio Exterior, S.N.C., CN=bancomext.com
+notBefore=Jul 14 00:00:00 2025 GMT
+notAfter=Aug 14 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 403 Forbidden
+Content-Length: 3657
+Content-Type: text/html
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+================================================================================
+END
+================================================================================

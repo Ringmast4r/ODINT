@@ -1,0 +1,49 @@
+================================================================================
+API ENDPOINT MAP: INBAL (Fine Arts)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INBAL/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INBAL/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: becas_escuelas_inbal_05_becas_escuelas_INBAL.csv
+  Route: /api_update/INBAL/becas_escuelas_inbal_05_becas_escuelas_INBAL.csv
+  Size: 3.3K
+  Status: OPEN
+
+FILE: directorio_inmuebles_inbal_inmuebles_INBAL_102025.csv
+  Route: /api_update/INBAL/directorio_inmuebles_inbal_inmuebles_INBAL_102025.csv
+  Size: 9.6K
+  Status: OPEN
+
+FILE: directorio_inmuebles_inbal_inmuebles_INBAL_102025_ok.csv
+  Route: /api_update/INBAL/directorio_inmuebles_inbal_inmuebles_INBAL_102025_ok.csv
+  Size: 10K
+  Status: OPEN
+
+FILE: matriculas_escuelas_inbal_08_matricula_escuelas_INBAL.csv
+  Route: /api_update/INBAL/matriculas_escuelas_inbal_08_matricula_escuelas_INBAL.csv
+  Size: 28K
+  Status: OPEN
+
+FILE: oferta_educativa_inbal_oferta_educativa_INBAL_102025.csv
+  Route: /api_update/INBAL/oferta_educativa_inbal_oferta_educativa_INBAL_102025.csv
+  Size: 64K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 5
+Total Size: 115K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

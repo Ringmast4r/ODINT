@@ -1,0 +1,59 @@
+================================================================================
+API ENDPOINT MAP: CEAV (Crime Victims)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CEAV/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CEAV/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: actividades_capacitacion_ceav_05_capacitaciones_1ersem_2025.csv
+  Route: /api_update/CEAV/actividades_capacitacion_ceav_05_capacitaciones_1ersem_2025.csv
+  Size: 2.8K
+  Status: OPEN
+
+FILE: convenios_interinstitucionales_ceav_01_convenios_suscritos_2022-2025.csv
+  Route: /api_update/CEAV/convenios_interinstitucionales_ceav_01_convenios_suscritos_2022-2025.csv
+  Size: 8.9K
+  Status: OPEN
+
+FILE: registro_federal_victimas_refevi_08_inscripciones_REFEVI_2014-2021.csv
+  Route: /api_update/CEAV/registro_federal_victimas_refevi_08_inscripciones_REFEVI_2014-2021.csv
+  Size: 2.1M
+  Status: OPEN
+
+FILE: registro_federal_victimas_refevi_09_solicitudes_REFEVI_2014-2018.csv
+  Route: /api_update/CEAV/registro_federal_victimas_refevi_09_solicitudes_REFEVI_2014-2018.csv
+  Size: 1.3M
+  Status: OPEN
+
+FILE: registro_federal_victimas_refevi_10_solicitudes_REFEVI_2014-2019.csv
+  Route: /api_update/CEAV/registro_federal_victimas_refevi_10_solicitudes_REFEVI_2014-2019.csv
+  Size: 1.7M
+  Status: OPEN
+
+FILE: viaticos_servidores_publicos_06_viaticos_2025.csv
+  Route: /api_update/CEAV/viaticos_servidores_publicos_06_viaticos_2025.csv
+  Size: 236K
+  Status: OPEN
+
+FILE: viaticos_servidores_publicos_06_viaticos_2025_ok.csv
+  Route: /api_update/CEAV/viaticos_servidores_publicos_06_viaticos_2025_ok.csv
+  Size: 232K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 7
+Total Size: 5.5M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

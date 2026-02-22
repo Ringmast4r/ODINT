@@ -1,0 +1,207 @@
+================================================================================
+                    MEXICO GOVERNMENT OSINT AUDIT - FINAL STATISTICS
+================================================================================
+                           Generated: January 15, 2026
+                           Status: COMPLETE
+================================================================================
+
+TOTAL DATA DOWNLOADED
+---------------------
+Agencies Downloaded:    118 (of 162 exposed)
+Total CSV Files:        1,675
+Total Data Size:        14 GB
+Source:                 repodatos.atdt.gob.mx (162 agencies exposed)
+
+================================================================================
+                              PII EXPOSURE SUMMARY
+================================================================================
+
+CRITICAL PII EXPOSURE (520,000+ Records Total)
+----------------------------------------------
+
+SAT (Tax Authority) - 464,153 Taxpayer Records
+----------------------------------------------
+SAT_3_Sentencias (Tax Convictions):         311 individuals
+SAT_4_Nolocalizados (Non-Located):       39,453 individuals
+SAT_5_Firmes (Final Tax Debts):         177,807 individuals
+SAT_7_Cancelados (Cancelled Status):    120,276 individuals
+                                        ---------------
+TOTAL INDIVIDUALS:                      337,847 people
+
+SAT Company Records:                    126,306 companies
+
+SAT_1_Donatarias (Charities):            10,798 organizations
+  - RFC + Name + Phone + Email + Full Address + Legal Rep Name
+
+SFP (Public Function) - 809 Sanctioned Officials
+------------------------------------------------
+Full names of sanctioned government officials including:
+- Edgar Torres Garrido (Pemex Fertilizantes)
+- Emilio Ricardo Lozoya Austin (PEMEX CEO - high-profile corruption case)
+- And 807 others with full names, sanctions, agencies
+
+INDAABIN (Federal Assets) - 1,396 Notaries
+------------------------------------------
+Full contact information exposed:
+- First name, last name, second last name
+- Complete street address with interior numbers
+- State, municipality, postal code
+- Notary number and appointment dates
+
+CEAV (Crime Victims) - Federal Victims Registry
+-----------------------------------------------
+- Inscriptions REFEVI 2014-2021 (2.2 MB)
+- Solicitations REFEVI 2014-2019 (3.0 MB)
+- Potentially ~50,000+ victim records
+
+================================================================================
+                           AGENCIES BY RISK LEVEL
+================================================================================
+
+CRITICAL PII RISK
+-----------------
+1. SAT (Tax Authority) - 464K+ taxpayer records with names
+
+HIGH PII RISK
+-------------
+2. SFP (Public Function) - 809 sanctioned officials with names
+3. INDAABIN (Federal Assets) - 1,396 notaries with full addresses
+4. CEAV (Crime Victims) - Federal victims registry data
+
+MEDIUM PII RISK
+---------------
+5. CONAHCYT (Science Council) - Evaluator databases with names
+6. SEP (Education) - Teacher payroll data
+7. SADER (Agriculture) - Fertilizer program beneficiaries
+8. ISSSTE (Public Workers) - Pensioner data
+9. SEDATU (Territorial) - Program beneficiaries
+10. PROFECO (Consumer Protection) - Complaint data
+
+LOW PII RISK
+------------
+Most remaining agencies contain aggregated statistics only:
+- INM, SRE, PEMEX, HACIENDA, NAFIN, CONSAR, IPAB, etc.
+
+================================================================================
+                           KEY DATA DOWNLOADS
+================================================================================
+
+SAT (Tax Authority) - 8 files, 69 MB
+------------------------------------
+- SAT_1_Donatarias_Aut.csv          27 MB    CRITICAL PII
+- SAT_2_Entespublicos.csv           1.8 MB   Medium
+- SAT_3_Sentencias.csv              45 KB    HIGH PII
+- SAT_4_Nolocalizados.csv           4.3 MB   HIGH PII
+- SAT_5_Firmes.csv                  18 MB    HIGH PII
+- SAT_6_Exigibles.csv               475 KB   Medium
+- SAT_7_Cancelados.csv              19 MB    HIGH PII
+- SAT_8_FORMATO_37.csv              17 KB    Low
+
+SFP (Public Function) - 188 MB
+------------------------------
+- servidores_publicos_sancionados   173 KB   HIGH PII (809 officials)
+- quejas_denuncias_ciudadanas       18 MB    SIDEC complaint data
+- SIDEC_historico_2012_2018         8.5 MB   Historical complaints
+- SIDEC_historico_2018_2023         110 MB   Historical complaints
+
+COMPRANET (Procurement) - 908 MB
+--------------------------------
+- compranet_historico.csv           908 MB
+- Records:                          2,851,250 contracts
+- Unique Vendors:                   327,194
+- Total Value:                      ~$130 BILLION USD
+
+INM (Immigration) - 317 MB
+--------------------------
+- 141_tramites_migratorios.csv      280 MB   1.98M rows (no individual PII)
+- 22 additional statistical files
+
+================================================================================
+                           INFRASTRUCTURE EXPOSURE
+================================================================================
+
+API ENDPOINT DISCOVERED
+-----------------------
+URL:        https://repodatos.atdt.gob.mx/api_update/
+Access:     NO AUTHENTICATION REQUIRED
+Directory:  LISTING ENABLED
+Agencies:   162 Mexican federal government organizations
+
+MAJOR AGENCIES EXPOSED
+----------------------
+- SAT (Tax Administration)
+- INM (Immigration)
+- SRE (Foreign Relations)
+- SEP (Education)
+- ISSSTE (Social Security)
+- PEMEX (National Oil)
+- CFE (Federal Electricity)
+- Tren Maya (Rail Infrastructure)
+- INAH (Anthropology)
+- SFP (Public Function)
+- And 152 more...
+
+================================================================================
+                           SAMPLE PII EXPOSED
+================================================================================
+
+SAT_5_Firmes (Individual Tax Debtors):
+--------------------------------------
+RFC: AAGL5405077Y7 | Name: JOSE LUIS ANDRADE GARCIA
+RFC: AAQC721208UCA | Name: CESAR AUGUSTO ALCARAZ QUIHUIS
+RFC: AURA650108EL7 | Name: AURELIA AGUIRRE RUIZ
+RFC: BACJ4004042D0 | Name: JORGE BARRERA CARRILLO
+RFC: BAPB740405TX1 | Name: BENJAMIN BARRETO PEREZ
+
+SFP Sanctioned Officials:
+-------------------------
+Exp: 000065/2018 | EMILIO RICARDO LOZOYA AUSTIN | PEMEX CEO | Inhabilitacion
+Exp: 000001/2018 | EDGAR TORRES GARRIDO | Pemex Fertilizantes | Inhabilitacion
+Exp: 000032/2019 | BIANCA YADIRA GAMA VELAZQUEZ | Policia Federal | Abuso de Autoridad
+
+INDAABIN Notaries:
+------------------
+NOTPIF-1 | Arturo G. Orenday González | Notaria 18 | Aguascalientes
+  Address: Adolfo Lopez Mateos 1001, Col. San Luis, C.P. 20250
+NOTPIF-6 | María Cristina Ochoa Amador | Notaria 5 | Aguascalientes
+  Address: Madero 442, planta baja, Col. Centro, C.P. 20000
+
+================================================================================
+                              FOLDER STRUCTURE
+================================================================================
+
+C:\Users\Squir\Desktop\Mexico\
+|-- stats.txt (this file)
+|-- research/
+    |-- AGENCY-FINDINGS-LOG.md
+    |-- MEXICO-OSINT-SUMMARY.md
+    |-- all_agencies.txt
+    |-- SAT (Tax Authority)/raw_data/ (8 files)
+    |-- INM (Immigration)/raw_data/ (22 files)
+    |-- SRE (Foreign Relations)/raw_data/ (64 files)
+    |-- SFP (Public Function)/raw_data/ (6+ files)
+    |-- COMPRANET (Procurement)/ (1 file, 908 MB)
+    |-- HACIENDA (Finance Ministry)/raw_data/ (10 files)
+    |-- INDAABIN (Federal Assets)/raw_data/ (1 file)
+    |-- CEAV (Crime Victims)/raw_data/ (7 files)
+    |-- [106 additional agency folders...]
+
+================================================================================
+                              RECOMMENDATIONS
+================================================================================
+
+IMMEDIATE ACTIONS REQUIRED:
+1. Report SAT PII exposure to CERT-MX (464K+ taxpayers)
+2. Notify about sanctioned officials list exposure
+3. Review notary address exposure for security risks
+4. Analyze crime victims registry for sensitive data
+
+INFRASTRUCTURE FIXES NEEDED:
+1. Implement API authentication
+2. Disable directory listing
+3. Add rate limiting
+4. Review all datasets for PII before publication
+
+================================================================================
+                                END OF REPORT
+================================================================================

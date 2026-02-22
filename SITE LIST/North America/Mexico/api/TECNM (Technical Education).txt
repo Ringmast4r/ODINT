@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: TECNM (Technical Education)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/TECNM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/TECNM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: adquisiciones_tecnm_01_TecNM_Adquisiciones_09_2025.csv
+  Route: /api_update/TECNM/adquisiciones_tecnm_01_TecNM_Adquisiciones_09_2025.csv
+  Size: 1.2K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_tecnm_03_TecNM_Bienes_Muebles_2025.csv
+  Route: /api_update/TECNM/inventario_bienes_muebles_tecnm_03_TecNM_Bienes_Muebles_2025.csv
+  Size: 21M
+  Status: OPEN
+
+FILE: procedimientos_contratacion_04_TecNM_procedimientos_contratacion_2025.csv
+  Route: /api_update/TECNM/procedimientos_contratacion_04_TecNM_procedimientos_contratacion_2025.csv
+  Size: 1019
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 21M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

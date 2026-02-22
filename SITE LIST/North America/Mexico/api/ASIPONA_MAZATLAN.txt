@@ -1,0 +1,114 @@
+================================================================================
+API ENDPOINT MAP: ASIPONA_MAZATLAN
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ASIPONA_MAZATLAN/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ASIPONA_MAZATLAN/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: reporte_carga_buques_01_CYB_ENE_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_carga_buques_01_CYB_ENE_2025.csv
+  Size: 988
+  Status: OPEN
+
+FILE: reporte_carga_buques_02_CYB_FEB_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_carga_buques_02_CYB_FEB_2025.csv
+  Size: 1011
+  Status: OPEN
+
+FILE: reporte_carga_buques_03_CYB_MAR_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_carga_buques_03_CYB_MAR_2025.csv
+  Size: 985
+  Status: OPEN
+
+FILE: reporte_carga_buques_04_CYB_ABR_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_carga_buques_04_CYB_ABR_2025.csv
+  Size: 986
+  Status: OPEN
+
+FILE: reporte_carga_buques_05_CYB_MAY_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_carga_buques_05_CYB_MAY_2025.csv
+  Size: 985
+  Status: OPEN
+
+FILE: reporte_carga_buques_06_CYB_JUN_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_carga_buques_06_CYB_JUN_2025.csv
+  Size: 975
+  Status: OPEN
+
+FILE: reporte_contenedores_01_C_ENE_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_contenedores_01_C_ENE_2025.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: reporte_contenedores_02_C_FEB_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_contenedores_02_C_FEB_2025.csv
+  Size: 3.2K
+  Status: OPEN
+
+FILE: reporte_contenedores_03_C_MAR_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_contenedores_03_C_MAR_2025.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: reporte_contenedores_04_C_ABR_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_contenedores_04_C_ABR_2025.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: reporte_contenedores_05_C_MAY_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_contenedores_05_C_MAY_2025.csv
+  Size: 3.0K
+  Status: OPEN
+
+FILE: reporte_contenedores_06_C_JUN_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_contenedores_06_C_JUN_2025.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: reporte_cruceros_01_CYP_ENE_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_cruceros_01_CYP_ENE_2025.csv
+  Size: 2.5K
+  Status: OPEN
+
+FILE: reporte_cruceros_02_CYP_FEB_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_cruceros_02_CYP_FEB_2025.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: reporte_cruceros_03_CYP_MAR_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_cruceros_03_CYP_MAR_2025.csv
+  Size: 2.8K
+  Status: OPEN
+
+FILE: reporte_cruceros_04_CYP_ABR_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_cruceros_04_CYP_ABR_2025.csv
+  Size: 2.3K
+  Status: OPEN
+
+FILE: reporte_cruceros_05_CYP_MAY_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_cruceros_05_CYP_MAY_2025.csv
+  Size: 1.5K
+  Status: OPEN
+
+FILE: reporte_cruceros_06_CYP_JUN_2025.csv
+  Route: /api_update/ASIPONA_MAZATLAN/reporte_cruceros_06_CYP_JUN_2025.csv
+  Size: 839
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 18
+Total Size: 36K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

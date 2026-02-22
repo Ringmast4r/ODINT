@@ -1,0 +1,189 @@
+================================================================================
+API ENDPOINT MAP: CENSIDA
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CENSIDA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CENSIDA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_13_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_diciembre_2022.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_13_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_diciembre_2022.csv
+  Size: 116K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_14_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_noviembre_2022.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_14_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_noviembre_2022.csv
+  Size: 113K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_15_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_octubre_2022.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_15_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_octubre_2022.csv
+  Size: 110K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_16_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_sep_2022.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_16_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_sep_2022.csv
+  Size: 114K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_17_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_agosto_2022.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_17_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_agosto_2022.csv
+  Size: 109K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_18_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_julio_2022.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_18_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_julio_2022.csv
+  Size: 108K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_19_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_junio_2022.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_19_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_junio_2022.csv
+  Size: 107K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_20_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_mayo_2022.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2022_CENSIDA_20_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_mayo_2022.csv
+  Size: 98K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_1_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_diciembre_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_1_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_diciembre_2023.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_10_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_marzo_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_10_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_marzo_2023.csv
+  Size: 117K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_11_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_febrero_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_11_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_febrero_2023.csv
+  Size: 120K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_12_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_enero_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_12_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_enero_2023.csv
+  Size: 117K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_2_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_noviembre_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_2_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_noviembre_2023.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_3_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_octubre_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_3_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_octubre_2023.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_4_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_sep_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_4_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_sep_2023.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_5_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_agosto_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_5_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_agosto_2023.csv
+  Size: 1022K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_6_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_julio_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_6_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_julio_2023.csv
+  Size: 1022K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_7_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_junio_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_7_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_junio_2023.csv
+  Size: 117K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_8_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_mayo_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_8_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_mayo_2023.csv
+  Size: 116K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_9_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_abril_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_CENSIDA_9_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_abril_2023.csv
+  Size: 117K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2023_personas_entidad_federativa_activas_sistema_tar_agosto_2023.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2023_personas_entidad_federativa_activas_sistema_tar_agosto_2023.csv
+  Size: 864K
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_21_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_diciembre_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_21_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_diciembre_2024.csv
+  Size: 1.2M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_22_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_noviembre_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_22_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_noviembre_2024.csv
+  Size: 1.2M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_23_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_octubre_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_23_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_octubre_2024.csv
+  Size: 1.2M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_24_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_sep_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_24_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_sep_2024.csv
+  Size: 1.2M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_25_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_agosto_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_25_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_agosto_2024.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_26_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_junio_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_26_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_junio_2024.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_27_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_julio_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_27_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_julio_2024.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_28_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_mayo_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_28_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_mayo_2024.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_29_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_abril_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_29_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_abril_2024.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_30_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_marzo_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_30_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_marzo_2024.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_31_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_febrero_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_31_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_febrero_2024.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_32_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_enero_2024.csv
+  Route: /api_update/CENSIDA/personas_activas_sistema_tratamiento_antirretroviral_2024_CENSIDA_32_Personas_por_entidad_federativa_activas_en_sistema_con_Tratamiento_Antirretroviral_-_enero_2024.csv
+  Size: 328K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 33
+Total Size: 21M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

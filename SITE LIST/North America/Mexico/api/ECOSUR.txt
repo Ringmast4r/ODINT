@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: ECOSUR
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ECOSUR/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ECOSUR/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: informacion_institucional_concesiones_contratos_convenios_10_Concesiones_contratos_Actualizacion.csv
+  Route: /api_update/ECOSUR/informacion_institucional_concesiones_contratos_convenios_10_Concesiones_contratos_Actualizacion.csv
+  Size: 20K
+  Status: OPEN
+
+FILE: informacion_institucional_convenios_coordinacion_concertacion_09_Convenios_colaboracion_Actualizacion.csv
+  Route: /api_update/ECOSUR/informacion_institucional_convenios_coordinacion_concertacion_09_Convenios_colaboracion_Actualizacion.csv
+  Size: 6.4K
+  Status: OPEN
+
+FILE: informacion_institucional_indicadores_interes_publico_06_Indicadores_interes_publico_Actualizado.csv
+  Route: /api_update/ECOSUR/informacion_institucional_indicadores_interes_publico_06_Indicadores_interes_publico_Actualizado.csv
+  Size: 46K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 72K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: CICESE
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CICESE/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CICESE/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: miembros_snii_personal_cicese_snii_20251015.csv
+  Route: /api_update/CICESE/miembros_snii_personal_cicese_snii_20251015.csv
+  Size: 16K
+  Status: OPEN
+
+FILE: publicaciones_cientificas_cicese_publicaciones_20251015.csv
+  Route: /api_update/CICESE/publicaciones_cientificas_cicese_publicaciones_20251015.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: tesis_maestria_doctorado_programas_posgrado_cicese_tesis_20251015.csv
+  Route: /api_update/CICESE/tesis_maestria_doctorado_programas_posgrado_cicese_tesis_20251015.csv
+  Size: 768K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 1.9M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

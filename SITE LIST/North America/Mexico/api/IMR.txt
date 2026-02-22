@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: IMR
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/IMR/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/IMR/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: numero_conferencias_organizadas_imr_03_conferencias_imr_2do_trim_2025.csv
+  Route: /api_update/IMR/numero_conferencias_organizadas_imr_03_conferencias_imr_2do_trim_2025.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: numero_cursos_ofrecidos_imr_05_cursos_imr_2do_trim_2025.csv
+  Route: /api_update/IMR/numero_cursos_ofrecidos_imr_05_cursos_imr_2do_trim_2025.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: numero_exposiciones_organizadas_museo_cancilleria_04_exposiciones_imr_2do_trim_2025.csv
+  Route: /api_update/IMR/numero_exposiciones_organizadas_museo_cancilleria_04_exposiciones_imr_2do_trim_2025.csv
+  Size: 1.7K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 5.1K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,45 @@
+================================================================================
+TECH STACK: CONADE
+================================================================================
+
+DOMAIN: conade.gob.mx
+URL PROBED: https://www.conade.gob.mx
+SCAN DATE: 2026-01-15 17:05:35
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 301 Moved Permanently
+Server: cloudflare
+Content-Type: text/html
+CDN: Cloudflare
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=Google Trust Services, CN=WE1
+subject=CN=conade.gob.mx
+notBefore=Dec 19 03:44:45 2025 GMT
+notAfter=Mar 19 04:44:33 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 15 Jan 2026 22:04:45 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Thu, 15 Jan 2026 23:04:45 GMT
+Location: http://www.gob.mx/conade
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=PK2niS3kHNDTAWb3NMjZknVN897XdPOUmZ28KI%2FpYYJOxto0CB5OGLcN06D0Nugh90422cUBX7qczafNlD2o63vKq3hZ6SxmI77h%2FWqEAFoshlmzMvR7FUUrb%2FmxNGzEiisX"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 9be8abb19b3955af-AMS
+alt-svc: h3=":443"; ma=86400
+server-timing: cfL4;desc="?proto=TCP&rtt=1606&min_rtt=1531&rtt_var=338&sent=5&recv=9&lost=0&retrans=0&sent_bytes=3306&recv_bytes=407&delivery_rate=2466780&cwnd=253&unsent_bytes=0&cid=952a509302316645&ts=237&x=0"
+
+================================================================================
+END
+================================================================================

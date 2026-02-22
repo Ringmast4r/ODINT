@@ -1,0 +1,74 @@
+================================================================================
+API ENDPOINT MAP: IPAB (Bank Insurance)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/IPAB/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/IPAB/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: comparativo_deuda_ipab_01_comparativodeudaactualvs1999-092025.csv
+  Route: /api_update/IPAB/comparativo_deuda_ipab_01_comparativodeudaactualvs1999-092025.csv
+  Size: 119K
+  Status: OPEN
+
+FILE: comparativo_deuda_ipab_comparativodeudaactualvs1999.csv
+  Route: /api_update/IPAB/comparativo_deuda_ipab_comparativodeudaactualvs1999.csv
+  Size: 112K
+  Status: OPEN
+
+FILE: demanda_bonos_proteccion_ahorro_bpas_02_demandabpas.csv
+  Route: /api_update/IPAB/demanda_bonos_proteccion_ahorro_bpas_02_demandabpas.csv
+  Size: 109K
+  Status: OPEN
+
+FILE: demanda_bonos_proteccion_ahorro_bpas_02_demandabpas_2002-2025.csv
+  Route: /api_update/IPAB/demanda_bonos_proteccion_ahorro_bpas_02_demandabpas_2002-2025.csv
+  Size: 109K
+  Status: OPEN
+
+FILE: evolucion_composicion_deuda_ipab_07_evcompdeudaipab.csv
+  Route: /api_update/IPAB/evolucion_composicion_deuda_ipab_07_evcompdeudaipab.csv
+  Size: 4.8K
+  Status: OPEN
+
+FILE: evolucion_composicion_deuda_ipab_08_evcompdeudaipab_1999-2025.csv
+  Route: /api_update/IPAB/evolucion_composicion_deuda_ipab_08_evcompdeudaipab_1999-2025.csv
+  Size: 4.6K
+  Status: OPEN
+
+FILE: montos_anuales_cuotas_pagadas_instituciones_banca_multiple_05_montosanualescuotasxinstitucion.csv
+  Route: /api_update/IPAB/montos_anuales_cuotas_pagadas_instituciones_banca_multiple_05_montosanualescuotasxinstitucion.csv
+  Size: 46K
+  Status: OPEN
+
+FILE: montos_anuales_cuotas_pagadas_instituciones_banca_multiple_11_montosanualescuotasxinstitucion_2000-092025.csv
+  Route: /api_update/IPAB/montos_anuales_cuotas_pagadas_instituciones_banca_multiple_11_montosanualescuotasxinstitucion_2000-092025.csv
+  Size: 45K
+  Status: OPEN
+
+FILE: sanciones_imponen_instituciones_banca_multiple_14_sanciones.csv
+  Route: /api_update/IPAB/sanciones_imponen_instituciones_banca_multiple_14_sanciones.csv
+  Size: 51K
+  Status: OPEN
+
+FILE: sanciones_imponen_instituciones_banca_multiple_14_sanciones_2017-082025.csv
+  Route: /api_update/IPAB/sanciones_imponen_instituciones_banca_multiple_14_sanciones_2017-082025.csv
+  Size: 55K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 10
+Total Size: 652K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

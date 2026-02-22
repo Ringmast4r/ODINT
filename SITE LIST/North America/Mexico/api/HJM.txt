@@ -1,0 +1,124 @@
+================================================================================
+API ENDPOINT MAP: HJM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/HJM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/HJM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2016.csv
+  Route: /api_update/HJM/activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2016.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2017.csv
+  Route: /api_update/HJM/activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2017.csv
+  Size: 1.3M
+  Status: OPEN
+
+FILE: activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2018.csv
+  Route: /api_update/HJM/activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2018.csv
+  Size: 112K
+  Status: OPEN
+
+FILE: activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2020.csv
+  Route: /api_update/HJM/activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2020.csv
+  Size: 970K
+  Status: OPEN
+
+FILE: activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2021.csv
+  Route: /api_update/HJM/activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2021.csv
+  Size: 933K
+  Status: OPEN
+
+FILE: activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2022.csv
+  Route: /api_update/HJM/activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2022.csv
+  Size: 965K
+  Status: OPEN
+
+FILE: activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2023.csv
+  Route: /api_update/HJM/activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2023.csv
+  Size: 879K
+  Status: OPEN
+
+FILE: activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2024.csv
+  Route: /api_update/HJM/activo_fijo_bienes_muebles_hjm_activo_fijo_hjm_2024.csv
+  Size: 879K
+  Status: OPEN
+
+FILE: bienes_consumo_hjm_inventario_bienes_consumo_hjm_2016.csv
+  Route: /api_update/HJM/bienes_consumo_hjm_inventario_bienes_consumo_hjm_2016.csv
+  Size: 74K
+  Status: OPEN
+
+FILE: bienes_consumo_hjm_inventario_bienes_consumo_hjm_2017.csv
+  Route: /api_update/HJM/bienes_consumo_hjm_inventario_bienes_consumo_hjm_2017.csv
+  Size: 23K
+  Status: OPEN
+
+FILE: bienes_consumo_hjm_inventario_bienes_consumo_hjm_2018.csv
+  Route: /api_update/HJM/bienes_consumo_hjm_inventario_bienes_consumo_hjm_2018.csv
+  Size: 51K
+  Status: OPEN
+
+FILE: bienes_consumo_hjm_inventario_bienes_consumo_hjm_2019.csv
+  Route: /api_update/HJM/bienes_consumo_hjm_inventario_bienes_consumo_hjm_2019.csv
+  Size: 56K
+  Status: OPEN
+
+FILE: bienes_consumo_hjm_inventario_bienes_consumo_hjm_2020.csv
+  Route: /api_update/HJM/bienes_consumo_hjm_inventario_bienes_consumo_hjm_2020.csv
+  Size: 82K
+  Status: OPEN
+
+FILE: bienes_consumo_hjm_inventario_bienes_consumo_hjm_2021.csv
+  Route: /api_update/HJM/bienes_consumo_hjm_inventario_bienes_consumo_hjm_2021.csv
+  Size: 152K
+  Status: OPEN
+
+FILE: bienes_consumo_hjm_inventario_bienes_consumo_hjm_2022.csv
+  Route: /api_update/HJM/bienes_consumo_hjm_inventario_bienes_consumo_hjm_2022.csv
+  Size: 135K
+  Status: OPEN
+
+FILE: bienes_consumo_hjm_inventario_bienes_consumo_hjm_2023.csv
+  Route: /api_update/HJM/bienes_consumo_hjm_inventario_bienes_consumo_hjm_2023.csv
+  Size: 142K
+  Status: OPEN
+
+FILE: bienes_consumo_hjm_inventario_bienes_consumo_hjm_2024.csv
+  Route: /api_update/HJM/bienes_consumo_hjm_inventario_bienes_consumo_hjm_2024.csv
+  Size: 155K
+  Status: OPEN
+
+FILE: capacitaciones_hjm_capacitacion_2022_hjm.csv
+  Route: /api_update/HJM/capacitaciones_hjm_capacitacion_2022_hjm.csv
+  Size: 9.4K
+  Status: OPEN
+
+FILE: capacitaciones_hjm_capacitacion_2023_hjm.csv
+  Route: /api_update/HJM/capacitaciones_hjm_capacitacion_2023_hjm.csv
+  Size: 10K
+  Status: OPEN
+
+FILE: capacitaciones_hjm_capacitacion_2024_hjm.csv
+  Route: /api_update/HJM/capacitaciones_hjm_capacitacion_2024_hjm.csv
+  Size: 11K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 20
+Total Size: 7.8M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

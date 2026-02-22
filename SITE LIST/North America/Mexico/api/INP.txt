@@ -1,0 +1,34 @@
+================================================================================
+API ENDPOINT MAP: INP
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INP/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INP/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: causas_morbilidad_consulta_externa_INP_4_Morbilidad_Consulta_Externa.csv
+  Route: /api_update/INP/causas_morbilidad_consulta_externa_INP_4_Morbilidad_Consulta_Externa.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: quejas_sugerencias_inp_INP_3_fel_que_sug.csv
+  Route: /api_update/INP/quejas_sugerencias_inp_INP_3_fel_que_sug.csv
+  Size: 663
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 2
+Total Size: 11K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

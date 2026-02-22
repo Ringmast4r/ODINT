@@ -1,0 +1,39 @@
+================================================================================
+TECH STACK: CENAPRED
+================================================================================
+
+DOMAIN: cenapred.gob.mx
+URL PROBED: https://www.cenapred.gob.mx
+SCAN DATE: 2026-01-15 17:06:33
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Apache
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+subject=C=MX, L=CIUDAD DE MEXICO, O=SECRETARIA DE SEGURIDAD Y PROTECCION CIUDADANA, CN=*.cenapred.gob.mx
+notBefore=Nov  3 00:00:00 2025 GMT
+notAfter=Dec  4 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:05:43 GMT
+Server: Apache
+Last-Modified: Thu, 08 Aug 2024 17:30:35 GMT
+ETag: "d6-61f2f626bc104"
+Accept-Ranges: bytes
+Content-Length: 214
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

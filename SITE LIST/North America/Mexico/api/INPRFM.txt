@@ -1,0 +1,274 @@
+================================================================================
+API ENDPOINT MAP: INPRFM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INPRFM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INPRFM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: adquisicion_medicamentos_demanda_adquisicionmedicamentos2025_ok.csv
+  Route: /api_update/INPRFM/adquisicion_medicamentos_demanda_adquisicionmedicamentos2025_ok.csv
+  Size: 467K
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_1999_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_1999_ok.csv
+  Size: 215
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2000_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2000_ok.csv
+  Size: 215
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2001_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2001_ok.csv
+  Size: 297
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2005_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2005_ok.csv
+  Size: 212
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2008_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2008_ok.csv
+  Size: 212
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2009_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2009_ok.csv
+  Size: 212
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2010_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2010_ok.csv
+  Size: 295
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2011_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2011_ok.csv
+  Size: 295
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2012_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2012_ok.csv
+  Size: 465
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2013_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2013_ok.csv
+  Size: 295
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2014_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2014_ok.csv
+  Size: 538
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2015_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2015_ok.csv
+  Size: 377
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2016_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2016_ok.csv
+  Size: 783
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2017_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2017_ok.csv
+  Size: 1.3K
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2018_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2018_ok.csv
+  Size: 800
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2019_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2019_ok.csv
+  Size: 465
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2020_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2020_ok.csv
+  Size: 797
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2021_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2021_ok.csv
+  Size: 716
+  Status: OPEN
+
+FILE: alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2022_ok.csv
+  Route: /api_update/INPRFM/alumnos_doctorado_salud_mental_publica_Doctorado_Salud_Mental_Publica_2022_ok.csv
+  Size: 296
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1991_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1991_ok.csv
+  Size: 765
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1992_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1992_ok.csv
+  Size: 346
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1993_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1993_ok.csv
+  Size: 352
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1994_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1994_ok.csv
+  Size: 343
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1995_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1995_ok.csv
+  Size: 8.4K
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1996_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1996_ok.csv
+  Size: 717
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1997_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1997_ok.csv
+  Size: 485
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1999_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_1999_ok.csv
+  Size: 562
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2000_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2000_ok.csv
+  Size: 350
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2001_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2001_ok.csv
+  Size: 424
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2002_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2002_ok.csv
+  Size: 572
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2003_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2003_ok.csv
+  Size: 276
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2004_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2004_ok.csv
+  Size: 347
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2005_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2005_ok.csv
+  Size: 424
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2006_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2006_ok.csv
+  Size: 4.0K
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2007_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2007_ok.csv
+  Size: 354
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2008_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2008_ok.csv
+  Size: 205
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2009_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2009_ok.csv
+  Size: 488
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2010_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2010_ok.csv
+  Size: 355
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2011_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2011_ok.csv
+  Size: 419
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2012_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2012_ok.csv
+  Size: 571
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2013_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2013_ok.csv
+  Size: 644
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2014_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2014_ok.csv
+  Size: 281
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2015_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2015_ok.csv
+  Size: 420
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2016_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2016_ok.csv
+  Size: 345
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2018_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2018_ok.csv
+  Size: 282
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2019_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2019_ok.csv
+  Size: 357
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2021_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2021_ok.csv
+  Size: 509
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2023_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2023_ok.csv
+  Size: 499
+  Status: OPEN
+
+FILE: alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2024_ok.csv
+  Route: /api_update/INPRFM/alumnos_maestria_psiquiatria_Maestria_en_Psiquiatria_2024_ok.csv
+  Size: 352
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 50
+Total Size: 500K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

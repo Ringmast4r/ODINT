@@ -1,0 +1,111 @@
+================================================================================
+TECH STACK ANALYSIS: repodatos.atdt.gob.mx
+================================================================================
+
+DOMAIN: repodatos.atdt.gob.mx
+PURPOSE: Government Open Data API Repository
+STATUS: ACTIVE
+
+================================================================================
+INFRASTRUCTURE
+================================================================================
+
+CDN / EDGE NETWORK
+------------------
+Provider:       Akamai Technologies
+Evidence:       Server-Timing header (ak_p), DNS CNAME chain
+DNS Chain:      repodatos.atdt.gob.mx
+                → repodatos.atdt.gob.mx.edgekey.net
+                → e309015.dscb.akamaiedge.net
+Edge IPs:       104.110.191.43, 104.110.191.45
+IPv6:           2a02:26f0:6d00:11::1749:34
+
+SSL / TLS
+---------
+Certificate:    Let's Encrypt
+Issuer:         R13 (Let's Encrypt)
+Subject CN:     akamai.atdt.gob.mx
+Valid From:     Jan 15, 2026
+Valid Until:    Apr 15, 2026
+Protocol:       TLS 1.2/1.3 (presumed)
+
+================================================================================
+SERVER CONFIGURATION
+================================================================================
+
+HTTP HEADERS
+------------
+Content-Type:   application/json
+Cache-Control:  max-age=0, no-cache, no-store
+Pragma:         no-cache
+Server:         NOT DISCLOSED (hidden behind Akamai)
+
+SECURITY HEADERS
+----------------
+X-Frame-Options:        NOT SET
+X-Content-Type-Options: NOT SET
+X-XSS-Protection:       NOT SET
+HSTS:                   NOT SET
+CSP:                    NOT SET
+
+AUTHENTICATION
+--------------
+Required:       NO
+Method:         None (public access)
+Rate Limiting:  NOT DETECTED
+
+================================================================================
+APPLICATION LAYER
+================================================================================
+
+Backend:        UNKNOWN (not disclosed)
+Framework:      UNKNOWN
+API Type:       REST-like (directory listing + file download)
+Response:       Static CSV files
+Directory:      Listing ENABLED
+
+================================================================================
+SECURITY ASSESSMENT
+================================================================================
+
+VULNERABILITIES IDENTIFIED
+--------------------------
+[HIGH]   No authentication on sensitive data endpoints
+[HIGH]   Directory listing enabled (information disclosure)
+[MEDIUM] Missing security headers (XSS, clickjacking protection)
+[MEDIUM] Short-lived SSL cert (Let's Encrypt 90-day)
+[LOW]    No rate limiting detected
+
+POSITIVE CONTROLS
+-----------------
+[OK]     HTTPS enforced
+[OK]     Akamai CDN (DDoS protection)
+[OK]     No server version disclosure
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. Implement API authentication (OAuth, API keys)
+2. Disable directory listing
+3. Add security headers (HSTS, X-Frame-Options, CSP)
+4. Implement rate limiting
+5. Consider longer-validity SSL certificate
+
+================================================================================
+RAW HEADER CAPTURE
+================================================================================
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 0
+Expires: Thu, 15 Jan 2026 21:50:23 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 15 Jan 2026 21:50:23 GMT
+Connection: keep-alive
+Server-Timing: ak_p; desc="1768513822653_390659499_678197368_52165_8797_1_229_-";dur=1
+
+================================================================================
+END OF TECH STACK ANALYSIS
+================================================================================

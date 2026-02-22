@@ -1,0 +1,22 @@
+# TURKS AND CAICOS - UK TERRITORY (10)
+# ============================================================
+
+# Government
+gov.tc
+immigration.gov.tc
+customs.gov.tc
+police.gov.tc
+tcinvest.tc
+
+# Media
+tcweeklynews.com
+suntci.com
+
+# Tourism
+visittci.com
+
+# Banks
+turksandcaicosbanking.tc
+
+# Education
+tcicollege.edu.tc

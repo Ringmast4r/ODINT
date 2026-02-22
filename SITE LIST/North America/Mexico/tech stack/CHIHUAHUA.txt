@@ -1,0 +1,40 @@
+================================================================================
+TECH STACK: CHIHUAHUA
+================================================================================
+
+DOMAIN: chihuahua.gob.mx
+DESCRIPTION: Chihuahua State Government
+SCAN DATE: 2026-01-15 17:15:11
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: Apache/2.4.62 (Debian)
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:03:32 GMT
+Server: Apache/2.4.62 (Debian)
+Cache-Control: max-age=3600, public
+X-Drupal-Dynamic-Cache: MISS
+X-UA-Compatible: IE=edge
+Content-language: es
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie
+X-Generator: Drupal 9 (https://www.drupal.org)
+X-Drupal-Cache: HIT
+Last-Modified: Thu, 15 Jan 2026 22:03:32 GMT
+ETag: "1768514612"
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

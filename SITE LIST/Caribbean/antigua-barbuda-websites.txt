@@ -1,0 +1,43 @@
+# ANTIGUA AND BARBUDA (28)
+# ============================================================
+
+# Government
+ab.gov.ag
+pm.gov.ag
+finance.gov.ag
+education.gov.ag
+health.gov.ag
+agriculture.gov.ag
+foreign.gov.ag
+tourism.gov.ag
+customs.gov.ag
+immigration.gov.ag
+parliament.gov.ag
+justice.gov.ag
+ird.gov.ag
+rbpfantigua.com
+
+# Media
+antiguaobserver.com
+pointexpress.com
+antiguanewsroom.com
+
+# Universities
+uwiab.edu.ag
+asc.edu.ag
+
+# Tourism
+visitantiguabarbuda.com
+antiguabarbuda.gov.ag
+
+# Banks
+ecab.com
+scotiabank.ag
+rbc.com.ag
+
+# Sports
+abfa.ag
+antiguabarbudaolympic.com
+
+# Telecom
+digicel.ag

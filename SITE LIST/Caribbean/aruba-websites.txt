@@ -1,0 +1,26 @@
+# ARUBA - DUTCH TERRITORY (16)
+# ============================================
+
+# Government
+gobierno.aw
+overheid.aw
+parlamento.aw
+diario.aw
+immigration.aw
+douane.aw
+dna.aw
+censo.aw
+cba.aw
+
+# Media
+diario.aw
+bondia.aw
+24ora.com
+
+# Tourism
+aruba.com
+visitaruba.com
+
+# Banks
+cbaruba.org
+arubabank.com

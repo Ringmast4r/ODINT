@@ -1,0 +1,42 @@
+================================================================================
+TECH STACK: LOTERIA_NACIONAL
+================================================================================
+
+DOMAIN: lotenal.gob.mx
+DESCRIPTION: National Lottery
+SCAN DATE: 2026-01-15 17:18:17
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: NOT DISCLOSED
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache,no-store
+Pragma: no-cache
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Content-Language: es-MX
+Expires: -1
+Strict-Transport-Security: max-age=2592000
+Set-Cookie: __Secure-PWLN.Session=CfDJ8Bs%2FHAqylhFLvTxz2jWk5JCEI9S0DgdTja8gxvYri8DiaGEvAA2joJF6732bQx1%2BOW742rEYB4s7GUVTLOnIx5GoqEHDpJJ1IQezit3F0ozkhUZOBXutfBxgtI40ka7tKLQtqmcFCYKgIVBfT08fgwp7kscehxBcc84ZohEH6BV5; path=/; secure; samesite=lax; httponly
+X-Frame-Options: deny
+Referrer-Policy: no-referrer
+X-XSS-Protection: 1;model=block
+Access-Control-Allow-Origin: www.loterianacional.gob.mx www.facebook.com www.youtube.com x.com www.instagram.com www.pronosports.net www.gob.mx
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' localhost:* ws://localhost:* *.openstreetmap.org a.tile.openstreetmap.org  *.tile.openstreetmap.org  framework-gb.cdn.gob.mx *.framework-gb.cdn.gob.mx      www.youtube.com *.www.youtube.com              www.loterianacional.gob.mx               www.pronosticos.gob.mx               www.lotenal.gob.mx               www.google.com *.www.google.com               stackpath.bootstrapcdn.com *.stackpath.bootstrapcdn.com               w3.org *.w3.org               www.googletagmanager.com *.www.googletagmanager.com               www.google-analytics.com *.www.google-analytics.com      documentservices.adobe.com *.documentservices.adobe.com      viewlicense.adobe.io *.viewlicense.adobe.io               unpkg.com *.unpkg.com               www.gob.mx   *.gob.mx; object-src 'self' localhost:* ws://localhost:*   www.gob.mx   *.gob.mx; font-src 'self'               fonts.gstatic.com *.fonts.gstatic.com               framework-gb.cdn.gob.mx *.framework-gb.cdn.gob.mx               kit-pro.fontawesome.com *.kit-pro.fontawesome.com                     www.gob.mx       data:               localhost:* ws://localhost:*;  style-src 'self' 'unsafe-inline'               www.googletagmanager.com               framework-gb.cdn.gob.mx *.framework-gb.cdn.gob.mx               stackpath.bootstrapcdn.com *.stackpath.bootstrapcdn.com               kit-pro.fontawesome.com *.kit-pro.fontawesome.com               unpkg.com *.unpkg.com               localhost:* ws://localhost:*;       media-src *;       img-src 'self' 'unsafe-inline' *.openstreetmap.org   a.tile.openstreetmap.org  *.tile.openstreetmap.org * data:;              script-src 'self' 'unsafe-inline'               framework-gb.cdn.gob.mx *.framework-gb.cdn.gob.mx               www.googletagmanager.com *.www.googletagmanager.com               www.google.com *.www.google.com               www.gstatic.com *.www.gstatic.com      documentservices.adobe.com *.documentservices.adobe.com               unpkg.com *.unpkg.com               localhost:* ws://localhost:*;              frame-ancestors 'self' www.google.com localhost:*    www.gob.mx   *.gob.mx;              
+Permissions-Policy: fullscreen=(self),accelerometer=(), camera=(), geolocation=(https://a.tile.openstreetmap.org https://b.tile.openstreetmap.org https://c.tile.openstreetmap.org), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+Date: Thu, 15 Jan 2026 22:17:30 GMT
+
+================================================================================
+END
+================================================================================

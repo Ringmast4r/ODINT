@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: CCC
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CCC/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CCC/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: historico_catalogo_premios_alumnos_ccc_CCC_5_Catalogo_Premios.csv
+  Route: /api_update/CCC/historico_catalogo_premios_alumnos_ccc_CCC_5_Catalogo_Premios.csv
+  Size: 150K
+  Status: OPEN
+
+FILE: historico_catalogo_producciones_cinematograficas_CCC_6_Catalogo_Producciones_Cinematograficas.csv
+  Route: /api_update/CCC/historico_catalogo_producciones_cinematograficas_CCC_6_Catalogo_Producciones_Cinematograficas.csv
+  Size: 26K
+  Status: OPEN
+
+FILE: peliculas_muestra_CCC_3_Peliculas_en_Muestra_CCC.csv
+  Route: /api_update/CCC/peliculas_muestra_CCC_3_Peliculas_en_Muestra_CCC.csv
+  Size: 1.5K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 176K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: PROFEDET (Federal Workers Defense)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/PROFEDET/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/PROFEDET/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: servicios_asesoria_juridica_PROFEDET_2_SERVICIOS-ASESORIA-PERSONAL-DIGITAL.csv
+  Route: /api_update/PROFEDET/servicios_asesoria_juridica_PROFEDET_2_SERVICIOS-ASESORIA-PERSONAL-DIGITAL.csv
+  Size: 4.8K
+  Status: OPEN
+
+FILE: servicios_medios_alternos_solucion_conflictos_PROFEDET_1_MECANISMOS-ALTERNOS-SOLUCION-CONFLICTOS.csv
+  Route: /api_update/PROFEDET/servicios_medios_alternos_solucion_conflictos_PROFEDET_1_MECANISMOS-ALTERNOS-SOLUCION-CONFLICTOS.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: servicios_representacion_juridica_PROFEDET_3_SERVICIOS-REPRESENTACION-JURIDICA.csv
+  Route: /api_update/PROFEDET/servicios_representacion_juridica_PROFEDET_3_SERVICIOS-REPRESENTACION-JURIDICA.csv
+  Size: 3.5K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 11K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

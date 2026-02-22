@@ -1,0 +1,837 @@
+# Nazi, Neo-Nazi, White Supremacist & Hate Threat Actor Websites
+# Known extremist and hate sites - threat actor list for research and monitoring
+
+# ============================================
+# NEO-NAZI & WHITE SUPREMACIST FORUMS
+# ============================================
+stormfront.org
+stormfront.com
+dailystormer.su
+dailystormer.in
+dailystormer.name
+dailystormer.red
+dailystormer.top
+dailystormer.is
+dailystormer.lol
+dailystormer.cn
+dailystormer.wang
+stormer-daily.rw
+vnnforum.com
+therightstuff.biz
+rightstuff.biz
+nationalvanguard.org
+natvan.com
+renegadetribune.com
+nationaljusticeparty.com
+national-justice.com
+natall.com
+nsm88.org
+bloodandhonour.com
+blood-honour.com
+creativityalliance.org
+wcotc.com
+aryanunity.com
+tightrope.cc
+fourteenwords.com
+whitebiocentrism.com
+aryanwear.com
+aryan-nations.org
+aryan-nation.org
+podblanc.guru
+christogenea.org
+chimpmania.com
+niggermania.net
+whitenationalism.com
+whiteresister.com
+resist.com
+newnation.org
+whitepower.com
+aryannations.com
+theapricity.com
+forums.skadi.net
+anthroscape.com
+white-history.com
+whitenewsnow.com
+dailyarchives.org
+nsforum.net
+aryanforum.com
+fascistforum.com
+thephora.net
+whitedateapp.com
+wasp.love
+whitedate.net
+
+# ============================================
+# WHITE NATIONALIST / ALT-RIGHT MEDIA
+# ============================================
+amren.com
+vdare.com
+unz.com
+counter-currents.com
+occidentalobserver.net
+theoccidentalobserver.net
+theoccidentalquarterly.com
+radixjournal.com
+arktos.com
+takimag.com
+chroniclesmagazine.org
+social-matter.net
+identitydixie.com
+americanfreepress.net
+barnesreview.org
+ihr.org
+codoh.com
+inconvenienthistory.com
+altright.com
+fash-the-nation.com
+redice.tv
+redicemembers.com
+lana-lokteff.com
+occidentaldissent.com
+faithandheritage.com
+traditionalyouth.org
+tradworker.org
+thepurityspiral.com
+theamericansun.com
+culturewars.com
+emjones.com
+freewestmedia.com
+voxday.net
+forgeandanvil.com
+americanrenaissancetv.com
+eurocanadian.ca
+councilofeuropeancanadians.ca
+attackthesystem.com
+toqonline.com
+freespeechproject.com
+cwny.blogspot.com
+majorityrights.com
+northwestfront.org
+thewhitenetwork.com
+tomatobubble.com
+smashculturalmarxism.com
+kevinastrom.com
+kevinalfredstrom.com
+nationalbugle.com
+whiterabbitradio.net
+radioaryan.com
+radioalbion.com
+radiowehrwolf.com
+raborevolution.com
+roperreport.com
+eurofolkradio.com
+truthmilitia.com
+theeuropeansun.com
+nationalistreview.net
+dissidentmag.com
+westernvoicesworldnews.com
+nowhiteguilt.com
+wayoftheworld.com
+theiconoclast.online
+natparty.com
+whitepolicyfoundation.org
+
+# ============================================
+# WHITE NATIONALIST PODCASTS / SHOWS
+# ============================================
+therightstuff.biz
+thedailyshoah.com
+strikeanmike.com
+thirdlisten.com
+paranormies.com
+mysteriouspodcast.com
+fulltriballivingpodcast.com
+norsemythuspod.com
+rebelyellpodcast.com
+nordicsunrise.com
+
+# ============================================
+# WHITE IDENTITY / ETHNONATIONALIST ORGS (USA)
+# ============================================
+patriotfront.us
+americanidentitymovement.com
+identityevropa.com
+europeanamericansunited.org
+councilofconservativecitizens.org
+nationalsocialistmovement.com
+americannaziparty.com
+nswpp.org
+nsalliancepower.com
+aryanbrotherhood.net
+peckerwoods.org
+evropaidentity.com
+northwestfront.org
+leagueofthesouth.com
+dixienet.org
+americafirst.live
+americanguardusa.com
+riseabovemovement.com
+thebaseusa.com
+njeha.com
+whitenationalistparty.org
+whitegenocidefacts.com
+americanfreedomparty.us
+a3pnews.com
+nationalpolicyinstitute.org
+npiamerica.org
+wolvesofvinland.com
+operationwerewolf.com
+whitelivesmatterusa.org
+activeclubusa.com
+patriotfrontusa.com
+nsorderofnineangles.com
+nationalallianceonline.org
+
+# ============================================
+# NEO-CONFEDERATE / SOUTHERN NATIONALIST
+# ============================================
+leagueofthesouth.com
+dixienet.org
+identitydixie.com
+freemagnolia.org
+occidentaldissent.com
+southernnationalist.com
+scvheritage.com
+abbeville-institute.org
+lsgac.com
+theconfederatesociety.com
+southernpatriot.org
+
+# ============================================
+# GROYPER / AMERICA FIRST NATIONALIST
+# ============================================
+americafirst.live
+cozy.tv
+nickjfuentes.com
+groyper.com
+americasfuture.net
+groyperforever.com
+afpac.us
+
+# ============================================
+# HOLOCAUST DENIAL / REVISIONISM
+# ============================================
+ihr.org
+codoh.com
+inconvenienthistory.com
+barnesreview.org
+zundelsite.org
+germarrudolf.com
+holocausthandbooks.com
+vho.org
+revisionisthistory.org
+thetruthseeker.co.uk
+holocaustdeprogrammingcourse.com
+fpp.co.uk
+carltonpress.com
+revisionists.com
+historiography-project.com
+historianscommission.com
+faurisson.com
+adelaideinstitute.org
+thegreateststorynevertold.tv
+europathelastreview.com
+denierbud.com
+questioningtheholocaust.com
+onethirdoftheholocaust.com
+
+# ============================================
+# ACCELERATIONIST / SIEGE CULTURE / TERROR
+# ============================================
+siegeculture.biz
+ironmarch.org
+fascistforge.com
+terrorwave.com
+thebaseusa.com
+atomwaffendivision.org
+nsoorder.com
+rwds.net
+brantarby.com
+o9a.org
+tempel-ov-blood.org
+feuerkriegdivision.com
+sonnenkrieg.com
+bowlpatrol.com
+saintculture.com
+terrorgram.me
+nationalactionns.org
+misanthropicofficial.com
+
+# ============================================
+# KKK & AFFILIATED
+# ============================================
+kkk.com
+kukluxklan.bz
+loyalwhiteknights.com
+traditionalistamericanknights.com
+knightsofthekkk.com
+kkkknights.com
+whitecamelia.com
+thekukluxklan.com
+churchofthekkk.com
+patriotsofthekkk.com
+kkkusa.com
+invisibleempire.com
+knightsparty.com
+theknightsparty.com
+americanknightskkk.com
+whitecamelliaknights.com
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - UK
+# ============================================
+nationalfront.org
+bnp.org.uk
+britainfirst.org
+patrioticalternative.org.uk
+national-action.info
+redwatch.org
+nationaldemocrat.org
+dailynationalist.com
+edlnews.co.uk
+englandsfuture.org
+heritageanddestiny.com
+sigmaformen.com
+forbritain.uk
+londonforumgroup.com
+traditionandorder.co.uk
+occidentalpress.co.uk
+sterlingbookpublishers.co.uk
+arktosuk.com
+scottishdawn.org
+nsscottish.com
+loyalwhiteknightsuk.com
+combatforever.com
+column88.com
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - GERMANY/AUSTRIA
+# ============================================
+npd.de
+dieheimat.de
+dierechte.at
+derdrittweg.de
+freiesachsen.net
+einprozent.de
+identitaere-bewegung.de
+compact-online.de
+junge-freiheit.de
+sezession.de
+antaios.de
+pi-news.net
+freiekameradschaften.de
+artgemeinschaft.de
+thuleseminar.de
+hdj-online.de
+wikingerversand.de
+frontrecords.de
+pcrecords.de
+odinversand.de
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - SCANDINAVIA
+# ============================================
+nordicresistancemovement.org
+nordfront.se
+nordfront.dk
+nordfront.fi
+svenskarnasparti.se
+motståndsrörelsen.se
+vastarintaliike.com
+frihetskamp.net
+soldiersofodin.com
+paganfront.com
+nordiskungdom.com
+nordiskaltright.com
+danskfront.dk
+norgespatriotene.no
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - ITALY
+# ============================================
+casapound.org
+forza-nuova.it
+lottastudentesca.org
+bloccostudentesco.org
+fiammatricolore.com
+ventocentenary.it
+skinhouse.it
+zetazeroalfa.com
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - FRANCE
+# ============================================
+actionfrancaise.net
+gudparis.com
+jeunenation.com
+generationidentity.org
+lesidentitaires.com
+refrancisation.com
+terreepeuple.com
+dissidence-francaise.com
+democratieparticipative.biz
+blanceurope.com
+oeuvrefrancaise.com
+bastion-social.org
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - GREECE
+# ============================================
+goldendawn.com
+xryshaygh.com
+propatria.gr
+ellinondiktyo.gr
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - SPAIN / PORTUGAL
+# ============================================
+democracianacional.org
+espana2000.net
+hogarsocial.com
+falange.es
+movimientosocial.es
+bastionfront.es
+voxespana.es
+dfrente.net
+nova-portugalidade.org
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - POLAND
+# ============================================
+onr.com.pl
+narodowe.net
+szturmowcy.com
+mw.org.pl
+falanga.org.pl
+niklot.org.pl
+autonom.pl
+bialaorlica.pl
+naszdziennik.pl
+nacjonalista.pl
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - HUNGARY
+# ============================================
+jobbik.com
+mi-hazank.hu
+betyarsereg.hu
+erhelynaplo.hu
+magyarjelen.hu
+hatvannegymegyemozgalom.hu
+verigazsag.hu
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - CZECH/SLOVAKIA
+# ============================================
+dsss.cz
+naslovakia.sk
+naseslovensko.net
+kotlebovci.sk
+dfronta.cz
+nacionalniodpor.cz
+autonomninacionaliste.cz
+slovensko.sk
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - BALKANS/SE EUROPE
+# ============================================
+obfrancuz.org
+nacionalnistroj.org
+novadreapta.org
+ataka.bg
+bnr.bg
+lukovmarsh.info
+nacionalnarevija.rs
+obraz.rs
+legionar.net
+zbor.rs
+ustasa.net
+hrborci.com
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - RUSSIA
+# ============================================
+rusnarod.org
+slavialand.ru
+rusimperia.org
+dpni.org
+rnf.ru
+runarsborg.com
+nazbol.ru
+slavia.cc
+russki-obraz.org
+format18.org
+russkiymarch.ru
+rossia3.ru
+whiteworld.ru
+sfrn.ru
+ns-russia.org
+russianmarch.org
+imperiallegion.org
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - UKRAINE
+# ============================================
+azov.org.ua
+pravyysektor.info
+c14news.com
+svoboda.org.ua
+nationalcorps.org
+misanthropicdivision.com
+centuria.org
+karpatskasich.com
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - BALTIC
+# ============================================
+estoniannazis.org
+perkonkrusts.lv
+vairasviesturs.com
+ltfront.lt
+
+# ============================================
+# EUROPEAN NEO-NAZI / FASCIST - OTHER
+# ============================================
+combat18.com
+nsfront.com
+ns131.com
+nationbuilders.eu
+europeanknightsproject.com
+bloodandhonourworldwide.co.uk
+swissresistance.ch
+parteivolk.ch
+eurasianmovement.org
+
+# ============================================
+# AUSTRALIAN / NEW ZEALAND NEO-NAZI
+# ============================================
+antipodeanresistance.org
+ladssociety.com
+nswnetwork.org
+unitedpatriotsfront.com
+truebluecrew.com
+dingopress.com
+nationalsocialistnetwork.com
+actionzealandia.com
+dominionmovement.com
+europeanaustralians.com
+rightwingresistance.com
+dinkumfolk.com
+patrioticyouthleague.com
+australiandefenceleague.org
+squadronoffortune.com
+
+# ============================================
+# CANADIAN WHITE SUPREMACIST
+# ============================================
+eurocanadian.ca
+councilofeuropeancanadians.ca
+cafe.nfshost.com
+heritagefront.com
+aryanguard.com
+whitepower.ca
+canadianpatriots.org
+nordwave.ca
+northernorder.ca
+freedomreport.ca
+alternativeforcanada.com
+
+# ============================================
+# SOUTH AFRICAN / RHODESIAN EXTREMIST
+# ============================================
+suidlanders.org
+afriforum.co.za
+boerstate.com
+rhodesia.me
+rhodesians.net
+oraniafoundation.co.za
+awb.co.za
+boeremag.co.za
+boerecrisis.co.za
+southafricanwhitegenocide.com
+boerevolkstaat.co.za
+blankebevrydingsbeweging.org
+orangeblanje.co.za
+dieafrikaner.co.za
+boerekryger.co.za
+vfreedommedia.co.za
+
+# ============================================
+# LATIN AMERICAN NEO-NAZI
+# ============================================
+movimientonacionalsocialista.org
+patrianovabrasileira.org
+valhalla88.com
+resistencianacionalargentina.org
+nsargentina.com
+integralismo.org.br
+vanguardiaargentina.com
+frentenacional.cl
+
+# ============================================
+# JAPANESE / ASIAN FAR-RIGHT ULTRANATIONALIST
+# ============================================
+zaitokukai.info
+ganbare-nippon.net
+nipponkaigi.org
+uyoku.wiki
+genyosha.org
+
+# ============================================
+# CHRISTIAN IDENTITY / RACIST THEOLOGY
+# ============================================
+christogenea.org
+kfrministries.org
+kingidentity.com
+churchoftrueisrael.com
+arkansasidentity.com
+sacredtruthministries.com
+twelvearyanationschurch.org
+creativityalliance.org
+rahowa.com
+cosmotheism.org
+aryanchurch.com
+kingdomidentity.com
+weilandsministries.org
+ernestlmartin.com
+scriptures4all.com
+anglo-israelism.com
+israelidentity.com
+swift.christogenea.org
+comparet.christogenea.org
+eliyah.com
+bnti.org
+missiontoisrael.org
+ufomm.com
+
+# ============================================
+# RACIST ODINISM / WOTANSVOLK / FOLKISH PAGAN
+# ============================================
+wotansvolk.com
+odinistfellowship.com
+asatrualliance.org
+aryanodinistalliance.org
+folkishresistancemovement.com
+wolfsangel.com
+wotansreich.com
+odinsvolk.org
+volkischpaganism.com
+wodensvolk.com
+northernresistance.net
+grimnir.org
+vinlandfreestate.com
+folkbuilder.com
+runestone.org
+rfrn.org
+
+# ============================================
+# RACIST SKINHEAD NETWORKS
+# ============================================
+hammerskins.net
+blood-honour.com
+volksfront.com
+vinlanderssc.com
+acskinheads.com
+bootparty.com
+keystoneunited.com
+supremewhitealliance.com
+crew38.org
+confederatehammerskins.com
+easternhammerskins.com
+westernhammerskins.com
+midlandhammerskins.com
+northernhammerskins.com
+aryanstrikeforce.com
+boundforglory.net
+h8machine.com
+marylandstateskinheads.com
+northeastskins.com
+bayareaskins.com
+doc-martens.net
+bootboys.com
+skinheadnation.net
+oicore.net
+blood-honour-usa.com
+blood-and-honour.de
+bhdivision.info
+
+# ============================================
+# PRISON GANGS / WHITE PRISON NETWORKS
+# ============================================
+aryanbrotherhood.net
+aryancircle.com
+aryanwarriors.com
+nazilowriders.com
+europeankindrednw.com
+sacramaniacs.com
+publicenemy1.org
+dirtywhiteboys.net
+simondurante.com
+whiteprisongangs.com
+
+# ============================================
+# PROPAGANDA / MERCH / HATE MUSIC LABELS
+# ============================================
+tightrope.cc
+resistrecords.com
+midgardsrecords.com
+panzerfaust.com
+micetrap.net
+arktos.com
+antelope-hill.com
+castaliapub.com
+finaliansol.com
+pcrecords.net
+aryanwear.com
+hatecore.com
+rebelbrigade.com
+nsrecords.com
+label56.com
+elegyrecords.com
+steelcaprecords.com
+rock-o-ramarecords.com
+totenkopfpropaganda.com
+sunwheelrecords.com
+werwolfrecords.com
+rfrrecords.com
+rac-records.com
+oi-punk.com
+skullfactory.com
+darkerthblackrecords.com
+capricornusrecords.com
+stellarwinterrecords.com
+satunicskinhd.com
+wolfpackrecords.com
+oldeuropacafe.com
+ironpagesmail.de
+dimrecords.com
+volkfrontrecords.com
+unholyrecords.com
+werewolfrecords.com
+heathenharvest.org
+isd-records.com
+rebelles-europeens.com
+blockwindrecords.com
+hateworks.com
+warisglory.com
+
+# ============================================
+# WHITE NATIONALIST PUBLISHERS / BOOKSTORES
+# ============================================
+arktos.com
+counter-currents.com
+antelope-hill.com
+castaliapub.com
+barnesreview.org
+ostarapublications.com
+libertybellpublications.com
+natvan.com
+washingtonsummitpublishers.com
+imperiumpress.org
+ninebandedbooks.com
+challengerpressbooks.com
+noontidepress.com
+nationalvanguardbooks.com
+historicalreviewpress.com
+sacredtextspress.com
+sovereignpress.com
+amfirstbooks.com
+
+# ============================================
+# CONSPIRACY / ANTISEMITIC
+# ============================================
+davidduke.com
+henrymakow.com
+realjewnews.com
+smoloko.com
+goyimtv.tv
+jewwatch.com
+myjewishproblem.com
+nowthenews.com
+veteranstoday.com
+rense.com
+whatreallyhappened.com
+theuglytruth.wordpress.com
+thezog.info
+whocontrols.net
+culturewars.com
+emjones.com
+tomatobubble.com
+thegreateststorynevertold.tv
+eurofolkradio.com
+truthmilitia.com
+sovereignindependentuk.co.uk
+zioncrimefactory.com
+jewishfaces.com
+jewishcriminalrecord.com
+jewworldorder.org
+thesynagogueofsatan.com
+exposingjudaism.com
+talmudunmasked.com
+jewsagainstglobalism.com
+
+# ============================================
+# MILITIA / SOVEREIGN CITIZEN / FAR-RIGHT
+# ============================================
+oathkeepers.org
+3percentersflag.com
+proudboysusa.com
+gavinmcinnes.com
+patriotprayerusa.com
+infowars.com
+gettr.com
+boogalooboys.com
+civiliandefenseforce.com
+lightfootmilitia.com
+americandefenseparty.com
+
+# ============================================
+# ALT-TECH / EXTREMIST HOSTING PLATFORMS
+# ============================================
+gab.com
+gab.ai
+poast.org
+kiwifarms.net
+8kun.top
+endchan.org
+neinchan.com
+16chan.xyz
+8chan.moe
+bitchute.com
+odysee.com
+cozy.tv
+dlive.tv
+worldtruthvideos.website
+brandnewtube.com
+153news.net
+altcensored.com
+banned.video
+brighteon.com
+ugetube.com
+lbry.tv
+catbox.moe
+guilded.gg
+pocketnet.app
+wimkin.com
+mewe.com
+parler.com
+frankspeech.com
+foxhole.forum
+scored.co
+patriots.win
+communities.win
+
+# ============================================
+# HISTORICAL NEO-NAZI FIGURES' ARCHIVES
+# ============================================
+georgelincolnrockwell.info
+williamluterpierce.com
+benklasson.com
+revilo-oliver.com
+francisparkeryockey.com
+imperium-yockey.com
+colinflaherty.com
+haroldfranklincovington.com
+tommetger.com
+donblack.com
+matthewhale.com

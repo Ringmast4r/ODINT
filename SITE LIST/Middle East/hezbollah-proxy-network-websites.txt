@@ -1,0 +1,182 @@
+# Hezbollah & Iran-Linked Proxy Network Websites
+# Covers: Hezbollah media, political, social orgs; Iraqi PMF; Houthi/Ansarollah; Axis of Resistance media
+# Created: 2026-02-19
+# Sources: DOJ seizure records, Meir Amit ITIC, MOM Lebanon, Wikipedia, ISD, RAND, Treasury SDN
+# Note: Some domains have been seized by US DOJ or may be offline. Included for reference.
+# Total: ~100 domains
+
+# ============================================
+# HEZBOLLAH - OFFICIAL MEDIA (TV/RADIO/NEWS)
+# ============================================
+# Al-Manar TV (Hezbollah satellite TV, designated SDG terrorist entity by US Treasury)
+almanar.com.lb
+english.almanar.com.lb
+# Al-Nour Radio (Hezbollah radio, est. 1988)
+alnour.com.lb
+# Al-Ahed News (Official Hezbollah newspaper/news site, est. 1984)
+alahednews.com.lb
+english.alahednews.news
+# Moqawama (Islamic Resistance in Lebanon - main Hezbollah web portal)
+moqawama.org
+moqawama.org.lb
+
+# ============================================
+# HEZBOLLAH - US DOJ SEIZED DOMAINS (2023/2025)
+# These were seized by the Eastern District of Virginia
+# under IEEPA for being SDN/SDGT property
+# ============================================
+# Al-Manar related seizures
+almanarnews.org
+manarnews.org
+almanar-tv.org
+manartv.net
+manarnews.net
+almanar-tv.com
+almanar-tv.net
+# Hezbollah officials' personal domains
+alidaamouch.com
+ibrahim-alsayed.net
+naimkassem.net
+# Hezbollah charities (Emdad Committee)
+alemdad.net
+# Al-Shahid Foundation (Martyrs Foundation - Hezbollah)
+alshahid.org
+
+# ============================================
+# HEZBOLLAH - SOCIAL/CHARITABLE FRONT ORGS
+# ============================================
+# Jihad al-Bina Development Association (Hezbollah construction arm, US Treasury designated)
+jihadbinaa.org.lb
+# Al-Qard al-Hassan Association (Hezbollah quasi-bank, sanctioned by US/Saudi Arabia)
+# Note: Website has been taken offline after Israeli strikes on branches in Oct 2024
+# Previous domain was qardalhassan.com.lb
+# Islamic Health Society (Hezbollah health org)
+# Imam al-Mahdi Scouts Association (Hezbollah youth movement, 40,000+ members)
+# No confirmed standalone websites; operates under Hezbollah umbrella
+
+# ============================================
+# HEZBOLLAH-ALIGNED LEBANESE MEDIA
+# ============================================
+# Al-Mayadeen (Pro-Hezbollah/Iran pan-Arab news network, est. 2012 Beirut)
+almayadeen.net
+english.almayadeen.net
+# Al-Akhbar (Pro-Hezbollah/March 8 daily newspaper, Beirut)
+al-akhbar.com
+english.al-akhbar.com
+# National News Agency Lebanon (state agency but Hezbollah-influenced)
+nna-leb.gov.lb
+# OTV / Orange TV (Free Patriotic Movement - Hezbollah ally)
+otv.com.lb
+# NBN TV (Amal Movement - Hezbollah ally Nabih Berri)
+nbn.com.lb
+# Al-Intiqad (Hezbollah weekly publication)
+alintiqad.com
+
+# ============================================
+# HEZBOLLAH POLITICAL WING
+# ============================================
+# Loyalty to the Resistance Bloc (Hezbollah parliamentary bloc)
+# Note: Uses almanar.com.lb and moqawama.org as primary web presence
+# Hezbollah official statements published through alahednews.com.lb
+
+# ============================================
+# IRAN-BACKED IRAQI MILITIA MEDIA (PMF/Hashd al-Shaabi)
+# ============================================
+# Popular Mobilization Forces (PMF/Hashd al-Shaabi - official)
+al-hashd.net
+# Kata'ib Hezbollah (Iraq) - 45th-47th PMF Brigades
+kaborc.com
+# Asa'ib Ahl al-Haq (League of the Righteous) - 41st-43rd PMF Brigades
+ahlualhaq.com
+# Badr Organization media
+baikinenews.com
+# Harakat Hezbollah al-Nujaba
+alnujaba.com
+# Al-Ahd News (Iraqi Hezbollah-linked)
+alahdnews.net
+# Kata'ib Sayyid al-Shuhada
+saidalshuhada.com
+# Al-Nujaba TV
+alnujabatv.com
+
+# ============================================
+# HOUTHI / ANSAROLLAH (YEMEN) MEDIA
+# ============================================
+# Ansarollah official website (Ansar Allah / Houthi movement)
+ansarollah.com.ye
+# Al-Masirah TV (Main Houthi TV channel, est. 2012, HQ in Beirut)
+almasirah.net
+english.masirahtv.net
+almasirah.tv
+# Saba News Agency (Houthi-controlled version of Yemen state news agency)
+sabanew.net
+# Al-Hawiyah TV (Pro-Houthi Yemeni channel)
+# Yemen Today TV (Houthi-aligned)
+
+# ============================================
+# AXIS OF RESISTANCE - REGIONAL MEDIA NETWORK
+# ============================================
+# These outlets promote Iran's "Axis of Resistance" narrative
+# Al-Mayadeen (already listed above - key axis node)
+almayadeen.net
+# Press TV (Iranian state English-language, axis voice)
+presstv.ir
+# Al-Alam (Iranian state Arabic-language)
+alalam.ir
+# Al-Ahed News (Hezbollah)
+alahednews.com.lb
+# Al-Masirah (Houthi)
+almasirah.net
+# Hamas-linked media
+# Palestinian Information Center
+palinfo.com
+# Al-Quds Press International News Agency
+alquds.co.uk
+# Felesteen Online (Gaza/Hamas-linked)
+felesteen.ps
+# Shehab News Agency (Gaza)
+shehabnews.com
+# Palestine Today TV
+paltoday.tv
+# SANA - Syrian Arab News Agency (Assad/Iran ally)
+sana.sy
+# Al-Watan Syria (pro-Assad)
+alwatanonline.com
+# Tishreen (Syrian state newspaper)
+tishreen.news.sy
+
+# ============================================
+# IRAN-LINKED INFLUENCE/PROPAGANDA SITES
+# ============================================
+# IRGC Quds Force information operations
+# These have been identified in various US sanctions/seizure operations
+# Iran Front Page (English-language soft influence)
+ifpnews.com
+# Parstoday (IRIB multilingual propaganda, 30+ languages)
+parstoday.ir
+# HispanTV (IRIB Spanish-language)
+hispantv.ir
+# iFilm (IRIB entertainment/cultural export)
+ifilm.ir
+# Mehr News Agency (owned by Islamic Propagation Org)
+mehrnews.com
+# Tasnim News Agency (IRGC-affiliated, international reach)
+tasnimnews.com
+# Fars News Agency (IRGC-linked)
+farsnews.ir
+
+# ============================================
+# HEZBOLLAH-LINKED EDUCATIONAL / CULTURAL
+# ============================================
+# Al-Mustafa International University (Iran, trains foreign clerics for influence operations)
+miu.ac.ir
+# Risalat Center (Hezbollah cultural)
+# Imam al-Mahdi Scouts (operates under Lebanese Scout Federation license)
+# Al-Mahdi Schools network (Lebanon)
+
+# ============================================
+# IRANIAN CULTURAL CENTERS ABROAD (INFLUENCE OPS)
+# ============================================
+# Islamic Culture and Relations Organisation (ICRO - Iran cultural diplomacy/propaganda arm)
+icro.ir
+en.icro.ir

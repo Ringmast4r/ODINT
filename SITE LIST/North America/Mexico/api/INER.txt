@@ -1,0 +1,54 @@
+================================================================================
+API ENDPOINT MAP: INER
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INER/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INER/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: entrada_medicamentos_INER_4_ENTRADASMEDICAMENTOS2019-21JUNIO2023.csv
+  Route: /api_update/INER/entrada_medicamentos_INER_4_ENTRADASMEDICAMENTOS2019-21JUNIO2023.csv
+  Size: 228K
+  Status: OPEN
+
+FILE: presupuesto_autorizado_iner_autorizado
+  Route: /api_update/INER/presupuesto_autorizado_iner_autorizado
+  Size: 146
+  Status: OPEN
+
+FILE: presupuesto_autorizado_iner_ejercido_2019-2023.csv
+  Route: /api_update/INER/presupuesto_autorizado_iner_ejercido_2019-2023.csv
+  Size: 146
+  Status: OPEN
+
+FILE: presupuesto_autorizado_iner_INER_1_presupuesto
+  Route: /api_update/INER/presupuesto_autorizado_iner_INER_1_presupuesto
+  Size: 146
+  Status: OPEN
+
+FILE: presupuesto_autorizado_iner_INER_1_presupuesto_autorizado_ejercido_2019-2023.csv
+  Route: /api_update/INER/presupuesto_autorizado_iner_INER_1_presupuesto_autorizado_ejercido_2019-2023.csv
+  Size: 2.8K
+  Status: OPEN
+
+FILE: presupuesto_autorizado_iner_y
+  Route: /api_update/INER/presupuesto_autorizado_iner_y
+  Size: 146
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 6
+Total Size: 231K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

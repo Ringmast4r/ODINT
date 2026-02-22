@@ -1,0 +1,49 @@
+================================================================================
+API ENDPOINT MAP: CENAM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CENAM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CENAM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: servicios_calibracion_medicion_cenam_2016_calibraciones_2016_cenam.csv
+  Route: /api_update/CENAM/servicios_calibracion_medicion_cenam_2016_calibraciones_2016_cenam.csv
+  Size: 407K
+  Status: OPEN
+
+FILE: servicios_calibracion_medicion_cenam_2017_calibraciones_2017_cenam.csv
+  Route: /api_update/CENAM/servicios_calibracion_medicion_cenam_2017_calibraciones_2017_cenam.csv
+  Size: 407K
+  Status: OPEN
+
+FILE: servicios_calibracion_medicion_cenam_2020__cenam.csv
+  Route: /api_update/CENAM/servicios_calibracion_medicion_cenam_2020__cenam.csv
+  Size: 146
+  Status: OPEN
+
+FILE: servicios_calibracion_medicion_cenam_2020_calibraciones_2020
+  Route: /api_update/CENAM/servicios_calibracion_medicion_cenam_2020_calibraciones_2020
+  Size: 146
+  Status: OPEN
+
+FILE: servicios_calibracion_medicion_cenam_2020_calibraciones_2020_cenam.csv
+  Route: /api_update/CENAM/servicios_calibracion_medicion_cenam_2020_calibraciones_2020_cenam.csv
+  Size: 494K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 5
+Total Size: 1.3M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,34 @@
+================================================================================
+API ENDPOINT MAP: BIOETICA
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/BIOETICA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/BIOETICA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: comites_hospitalarios_bioetica_registros_emitidos_CONBIOETICA_3_Datos_abiertos_registros_emitidos.csv
+  Route: /api_update/BIOETICA/comites_hospitalarios_bioetica_registros_emitidos_CONBIOETICA_3_Datos_abiertos_registros_emitidos.csv
+  Size: 290K
+  Status: OPEN
+
+FILE: registro_comites_etica_investigacion_cei_CONBIOETICA_4_RegistrosCEI.csv
+  Route: /api_update/BIOETICA/registro_comites_etica_investigacion_cei_CONBIOETICA_4_RegistrosCEI.csv
+  Size: 94K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 2
+Total Size: 384K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

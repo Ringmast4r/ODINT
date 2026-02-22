@@ -1,0 +1,74 @@
+================================================================================
+API ENDPOINT MAP: SFP (Public Function)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SFP/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SFP/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: concursos_puestos_sistema_trabajaen_03_Datos_abiertos_concursos_
+  Route: /api_update/SFP/concursos_puestos_sistema_trabajaen_03_Datos_abiertos_concursos_
+  Size: 146
+  Status: OPEN
+
+FILE: concursos_puestos_sistema_trabajaen_03_Datos_abiertos_concursos_2019-2025.csv
+  Route: /api_update/SFP/concursos_puestos_sistema_trabajaen_03_Datos_abiertos_concursos_2019-2025.csv
+  Size: 4.8M
+  Status: OPEN
+
+FILE: concursos_puestos_sistema_trabajaen_2019-2025.csv
+  Route: /api_update/SFP/concursos_puestos_sistema_trabajaen_2019-2025.csv
+  Size: 146
+  Status: OPEN
+
+FILE: ocupacion_temporal_puestos_04_Datos_abiertos_nombramientos_temporales_2019-2025.csv
+  Route: /api_update/SFP/ocupacion_temporal_puestos_04_Datos_abiertos_nombramientos_temporales_2019-2025.csv
+  Size: 5.0M
+  Status: OPEN
+
+FILE: quejas_denuncias_ciudadanas_SFP_281_sidec.csv
+  Route: /api_update/SFP/quejas_denuncias_ciudadanas_SFP_281_sidec.csv
+  Size: 18M
+  Status: OPEN
+
+FILE: quejas_denuncias_ciudadanas_sidec_historico_01_SIDEC_historico_2012_2018.csv
+  Route: /api_update/SFP/quejas_denuncias_ciudadanas_sidec_historico_01_SIDEC_historico_2012_2018.csv
+  Size: 8.2M
+  Status: OPEN
+
+FILE: quejas_denuncias_ciudadanas_sidec_historico_02_SIDEC_historico_2018_2023.csv
+  Route: /api_update/SFP/quejas_denuncias_ciudadanas_sidec_historico_02_SIDEC_historico_2018_2023.csv
+  Size: 106M
+  Status: OPEN
+
+FILE: quejas_denuncias_ciudadanas_sidec_historico_SIDEC_historico_2012_2018.csv
+  Route: /api_update/SFP/quejas_denuncias_ciudadanas_sidec_historico_SIDEC_historico_2012_2018.csv
+  Size: 52M
+  Status: OPEN
+
+FILE: quejas_denuncias_ciudadanas_sidec_historico_SIDEC_historico_2018_2023.csv
+  Route: /api_update/SFP/quejas_denuncias_ciudadanas_sidec_historico_SIDEC_historico_2018_2023.csv
+  Size: 49M
+  Status: OPEN
+
+FILE: servidores_publicos_sancionados_SPF_30_ServPubSancionados.csv
+  Route: /api_update/SFP/servidores_publicos_sancionados_SPF_30_ServPubSancionados.csv
+  Size: 169K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 10
+Total Size: 241M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

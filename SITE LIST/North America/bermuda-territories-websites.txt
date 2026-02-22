@@ -1,0 +1,22 @@
+# BERMUDA - UK TERRITORY (12)
+# ============================================================
+
+# Government
+gov.bm
+parliament.bm
+customs.gov.bm
+immigration.gov.bm
+police.bm
+bma.bm
+bda.bm
+
+# Media
+royalgazette.com
+bermudasun.bm
+
+# Tourism
+gotobermuda.com
+
+# Banks
+bma.bm
+bermudamonetary.bm

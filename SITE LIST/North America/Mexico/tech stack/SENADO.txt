@@ -1,0 +1,32 @@
+================================================================================
+TECH STACK: SENADO
+================================================================================
+
+DOMAIN: senado.gob.mx
+DESCRIPTION: Senate of Mexico
+SCAN DATE: 2026-01-15 17:14:34
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 403 Forbidden
+Server: NOT DISCLOSED
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 403 Forbidden
+Content-Type: text/html
+Cache-Control: no-cache, no-store
+Connection: close
+Content-Length: 864
+X-Iinfo: 13-164339180-0 0NNN RT(1768515227025 513) q(0 -1 -1 1) r(0 -1) B16 U6
+Set-Cookie: visid_incap_2985191=JalYCWZGSWygcBDwe05oSJtmaWkAAAAAQUIPAAAAAABPoffrAFb6MNckKgNAzyPi; expires=Fri, 15 Jan 2027 07:02:42 GMT; HttpOnly; path=/; Domain=.senado.gob.mx
+Set-Cookie: incap_ses_274_2985191=bJIpHCZgvWRtYu6U/nHNA5tmaWkAAAAArFduBLtjuLXlbhyPm+HvpA==; path=/; Domain=.senado.gob.mx
+
+================================================================================
+END
+================================================================================

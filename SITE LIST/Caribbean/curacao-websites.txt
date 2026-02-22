@@ -1,0 +1,34 @@
+# CURACAO - DUTCH TERRITORY (18)
+# ============================================================
+
+# Government
+gobiernu.cw
+overheid.cw
+staten.cw
+ombudsman.cw
+immigration.cw
+douane.cw
+
+# Media
+curacaochronicle.com
+antiliaansdagblad.com
+extra.cw
+
+# Tourism
+curacao.com
+visitcuracao.com
+
+# Banks
+centralbank.cw
+mcb-bank.com
+vidanova.cw
+
+# Universities
+uoc.cw
+
+# State Enterprises
+aqualectra.com
+utsn.cw
+
+# Security
+politie.cw

@@ -1,0 +1,184 @@
+================================================================================
+API ENDPOINT MAP: CECUT
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CECUT/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CECUT/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: asistencia_acciones_culturales_est_act_sus_2018.csv
+  Route: /api_update/CECUT/asistencia_acciones_culturales_est_act_sus_2018.csv
+  Size: 4.7K
+  Status: OPEN
+
+FILE: asistencia_acciones_culturales_est_act_sus_2019.csv
+  Route: /api_update/CECUT/asistencia_acciones_culturales_est_act_sus_2019.csv
+  Size: 4.5K
+  Status: OPEN
+
+FILE: asistencia_acciones_culturales_est_act_sus_2020.csv
+  Route: /api_update/CECUT/asistencia_acciones_culturales_est_act_sus_2020.csv
+  Size: 4.2K
+  Status: OPEN
+
+FILE: asistencia_acciones_culturales_est_act_sus_2021.csv
+  Route: /api_update/CECUT/asistencia_acciones_culturales_est_act_sus_2021.csv
+  Size: 4.1K
+  Status: OPEN
+
+FILE: asistencia_acciones_culturales_est_act_sus_2022.csv
+  Route: /api_update/CECUT/asistencia_acciones_culturales_est_act_sus_2022.csv
+  Size: 4.4K
+  Status: OPEN
+
+FILE: asistencia_acciones_culturales_est_act_sus_2023.csv
+  Route: /api_update/CECUT/asistencia_acciones_culturales_est_act_sus_2023.csv
+  Size: 4.3K
+  Status: OPEN
+
+FILE: asistencia_acciones_culturales_est_act_sus_2024.csv
+  Route: /api_update/CECUT/asistencia_acciones_culturales_est_act_sus_2024.csv
+  Size: 4.4K
+  Status: OPEN
+
+FILE: asistencia_acciones_culturales_est_act_sus_2025.csv
+  Route: /api_update/CECUT/asistencia_acciones_culturales_est_act_sus_2025.csv
+  Size: 3.9K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_abr_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_abr_2023.csv
+  Size: 10K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_ago_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_ago_2023.csv
+  Size: 8.3K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_dic_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_dic_2023.csv
+  Size: 6.1K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_ene_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_ene_2023.csv
+  Size: 5.0K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_feb_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_feb_2023.csv
+  Size: 9.6K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_jul_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_jul_2023.csv
+  Size: 7.1K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_jun_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_jun_2023.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_mar_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_mar_2023.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_may_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_may_2023.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_nov_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_nov_2023.csv
+  Size: 10K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_oct_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_oct_2023.csv
+  Size: 8.6K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2023_cal_act_sep_2023.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2023_cal_act_sep_2023.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_abr_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_abr_2024.csv
+  Size: 8.9K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_ago_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_ago_2024.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_dic_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_dic_2024.csv
+  Size: 6.2K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_ene_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_ene_2024.csv
+  Size: 3.9K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_feb_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_feb_2024.csv
+  Size: 9.5K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_jul_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_jul_2024.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_jun_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_jun_2024.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_mar_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_mar_2024.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_may_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_may_2024.csv
+  Size: 14K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_nov_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_nov_2024.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_oct_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_oct_2024.csv
+  Size: 16K
+  Status: OPEN
+
+FILE: calendario_actividades_cecut_2024_cal_act_sep_2024.csv
+  Route: /api_update/CECUT/calendario_actividades_cecut_2024_cal_act_sep_2024.csv
+  Size: 13K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 32
+Total Size: 287K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

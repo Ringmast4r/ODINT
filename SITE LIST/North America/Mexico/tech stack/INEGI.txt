@@ -1,0 +1,43 @@
+================================================================================
+TECH STACK: INEGI
+================================================================================
+
+DOMAIN: inegi.org.mx
+URL PROBED: https://www.inegi.org.mx
+SCAN DATE: 2026-01-15 17:06:33
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Microsoft-IIS/10.0
+Content-Type: text/html
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+subject=C=MX, ST=Aguascalientes, O=INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA, CN=www.inegi.org.mx
+notBefore=Oct 28 00:00:00 2025 GMT
+notAfter=Nov  4 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store, must-revalidate, max-age=10
+Content-Length: 143724
+Content-Type: text/html
+Last-Modified: Fri, 31 Oct 2025 22:00:20 GMT
+Accept-Ranges: bytes
+ETag: "4563f4bfb14adc1:0"
+Server: Microsoft-IIS/10.0
+X-Powered-By: C_Asp.net_pro11
+X-UA-Compatible: IE=Edge
+Date: Thu, 15 Jan 2026 22:05:43 GMT
+Set-Cookie: BIGipServerLB_NuevoPortal=990550282.20480.0000; expires=Thu, 15-Jan-2026 22:25:43 GMT; path=/; Httponly; Secure
+
+================================================================================
+END
+================================================================================

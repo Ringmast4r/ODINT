@@ -1,0 +1,38 @@
+================================================================================
+TECH STACK: CONACYT
+================================================================================
+
+DOMAIN: conacyt.gob.mx
+URL PROBED: https://www.conacyt.gob.mx
+SCAN DATE: 2026-01-15 17:05:48
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 301 Moved Permanently
+Server: NOT DISCLOSED
+Content-Type: Unknown
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2025 Q3
+subject=CN=imperva.com
+notBefore=Sep  8 08:18:20 2025 GMT
+notAfter=Mar  7 08:18:20 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://conahcyt.mx/
+Set-Cookie: visid_incap_2224088=DeOuNngiQtKI8+XQf6gTyIlkaWkAAAAAQUIPAAAAAAAXbA64XVnEzne8aaTB1EwG; expires=Thu, 14 Jan 2027 22:29:55 GMT; HttpOnly; path=/; Domain=.conacyt.gob.mx
+Set-Cookie: incap_ses_281_2224088=ubTdB0QxawrwICN7flDmA4lkaWkAAAAAusrTPlYBMOds6hXjnP90RQ==; path=/; Domain=.conacyt.gob.mx
+X-CDN: Imperva
+X-Iinfo: 9-73917228-73917230 NNNN CT(151 306 0) RT(1768514697466 346) q(0 0 5 1) r(6 6) U24
+
+================================================================================
+END
+================================================================================

@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: IPICYT
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/IPICYT/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/IPICYT/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: actividades_ipicyt_IPICYT_2_divulgacion.csv
+  Route: /api_update/IPICYT/actividades_ipicyt_IPICYT_2_divulgacion.csv
+  Size: 5.0K
+  Status: OPEN
+
+FILE: alumnos_graduados_ipicyt_IPICYT_8_graduados.csv
+  Route: /api_update/IPICYT/alumnos_graduados_ipicyt_IPICYT_8_graduados.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: proyectos_vinculados_ipicyt_IPICYT_4_proyectos.csv
+  Route: /api_update/IPICYT/proyectos_vinculados_ipicyt_IPICYT_4_proyectos.csv
+  Size: 5.6K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 21K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

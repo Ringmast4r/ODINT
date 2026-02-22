@@ -1,0 +1,191 @@
+================================================================================
+MEXICO GOVERNMENT API ENDPOINT INDEX
+================================================================================
+
+Generated: January 15, 2026
+Total Endpoints Documented: 242
+
+================================================================================
+PRIMARY DATA SOURCE
+================================================================================
+
+Repository:     https://repodatos.atdt.gob.mx/api_update/
+Access:         NO AUTHENTICATION REQUIRED
+Directory:      LISTING ENABLED
+Agencies:       162 federal organizations exposed
+Data Format:    CSV files
+
+================================================================================
+API CATEGORIES
+================================================================================
+
+CRITICAL PII DATA (High Priority)
+---------------------------------
+SAT (Tax Authority).txt          - 464K taxpayer records
+SFP (Public Function).txt        - 809 sanctioned officials
+INDAABIN (Federal Assets).txt    - 1,396 notary addresses
+CEAV (Crime Victims).txt         - ~50K victim registry entries
+
+MAJOR DATASETS
+--------------
+COMPRANET (Procurement).txt      - 2.8M contracts, $130B USD
+INM (Immigration).txt            - 1.98M migration records
+PROFECO (Consumer Protection).txt - 4.9 GB complaint data
+HACIENDA (Finance Ministry).txt  - 480 MB fiscal data
+
+TAX / FINANCE
+-------------
+SAT (Tax Authority).txt
+HACIENDA (Finance Ministry).txt
+NAFIN (Development Bank).txt
+CONSAR (Pension Regulator).txt
+IPAB (Bank Insurance).txt
+PRODECON (Taxpayer Defense).txt
+BANOBRAS.txt
+BANXICO.txt
+SHCP.txt
+SHF.txt
+
+IMMIGRATION / FOREIGN RELATIONS
+-------------------------------
+INM (Immigration).txt
+SRE (Foreign Relations).txt
+COMAR.txt
+
+GOVERNMENT ADMINISTRATION
+-------------------------
+SFP (Public Function).txt
+COMPRANET (Procurement).txt
+INDAABIN (Federal Assets).txt
+SEGOB.txt
+INAI.txt
+
+SOCIAL SECURITY / BENEFITS
+--------------------------
+ISSSTE (Public Workers Security).txt
+ISSFAM (Military Social Security).txt
+IMSS.txt
+FONACOT (Worker Credit).txt
+FOVISSSTE.txt
+INFONAVIT.txt
+
+EDUCATION
+---------
+SEP (Education).txt
+CONAHCYT (Science Council).txt
+CONALEP (Technical Education).txt
+IPN (National Polytechnic).txt
+TECNM (Technical Education).txt
+CONAFE (Education Council).txt
+CIDE (Research Center).txt
+
+ENERGY / INFRASTRUCTURE
+-----------------------
+PEMEX (National Oil).txt
+CFE.txt
+CENAGAS (Natural Gas).txt
+CAPUFE (Highways).txt
+AICM (Mexico City Airport).txt
+TREN_MAYA (Rail Project).txt
+CRE.txt
+CNH.txt
+SENER.txt
+
+AGRICULTURE / ENVIRONMENT
+-------------------------
+SADER (Agriculture).txt
+CONAPESCA (Fisheries).txt
+CONANP (Protected Areas).txt
+RAN (Agrarian Registry).txt
+AGROASEMEX (Agriculture Insurance).txt
+SENASICA (Food Safety).txt
+CONAGUA.txt
+CONAFOR.txt
+SEMARNAT.txt
+PROFEPA.txt
+
+HEALTH
+------
+SALUD.txt
+CENATRA (Organ Transplants).txt
+CENSIDA.txt
+COFEPRIS.txt
+INSABI.txt
+
+CULTURE / ARTS
+--------------
+CULTURA (Culture Ministry).txt
+INAH (Anthropology).txt
+INBAL (Fine Arts).txt
+IMCINE (Film Institute).txt
+CANAL22 (Public TV).txt
+
+CONSUMER / LABOR
+----------------
+PROFECO (Consumer Protection).txt
+CONAPRED (Anti-Discrimination).txt
+STPS (Labor).txt
+PROFEDET (Federal Workers Defense).txt
+CONDUSEF.txt
+
+JUSTICE / SECURITY
+------------------
+FGR.txt
+SCJN.txt
+CJF.txt
+TEPJF.txt
+CNDH.txt
+SSPC.txt
+SESNSP (Public Safety).txt
+
+RESEARCH CENTERS
+----------------
+CICESE.txt
+CIBNOR.txt
+ECOSUR.txt
+CIAD.txt
+CIQA.txt
+INAOE.txt
+COLPOS.txt
+CMM.txt
+
+PORT AUTHORITIES
+----------------
+ASIPONA_CABO_SAN_LUCAS.txt
+ASIPONA_ENSENADA.txt
+ASIPONA_MAZATLAN.txt
+API.txt
+
+================================================================================
+ACCESS METHODS
+================================================================================
+
+List all agencies:
+  curl https://repodatos.atdt.gob.mx/api_update/
+
+List agency files:
+  curl https://repodatos.atdt.gob.mx/api_update/{AGENCY}/
+
+Download file:
+  curl -O https://repodatos.atdt.gob.mx/api_update/{AGENCY}/{FILE}.csv
+
+================================================================================
+FILE NAMING CONVENTION
+================================================================================
+
+{AGENCY}.txt                     - Short name (e.g., SAT.txt)
+{AGENCY} (Description).txt       - Full name (e.g., SAT (Tax Authority).txt)
+
+Both formats may exist for the same agency.
+
+================================================================================
+RELATED FOLDERS
+================================================================================
+
+../tech stack/    - Technology stack analysis for each endpoint
+../reports/       - Intelligence reports by agency
+../research/      - Raw downloaded data (14 GB)
+
+================================================================================
+END OF INDEX
+================================================================================

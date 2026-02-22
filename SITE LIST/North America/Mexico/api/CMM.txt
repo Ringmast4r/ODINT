@@ -1,0 +1,44 @@
+================================================================================
+API ENDPOINT MAP: CMM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CMM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CMM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: acunacion_monedas_curso_legal_04_monedas_curso_legal_102025.csv
+  Route: /api_update/CMM/acunacion_monedas_curso_legal_04_monedas_curso_legal_102025.csv
+  Size: 131
+  Status: OPEN
+
+FILE: acunacion_monedas_curso_legal_CMM_27_monedas_curso_legal.csv
+  Route: /api_update/CMM/acunacion_monedas_curso_legal_CMM_27_monedas_curso_legal.csv
+  Size: 404
+  Status: OPEN
+
+FILE: acunacion_monedas_medallas_CMM_14_monedas_y_medallas_metal_fino.csv
+  Route: /api_update/CMM/acunacion_monedas_medallas_CMM_14_monedas_y_medallas_metal_fino.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: flujo_efectivo_modificado_cmm_04_monedas_curso_legal_102025.csv
+  Route: /api_update/CMM/flujo_efectivo_modificado_cmm_04_monedas_curso_legal_102025.csv
+  Size: 131
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 4
+Total Size: 2.3K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

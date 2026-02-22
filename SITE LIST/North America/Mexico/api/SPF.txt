@@ -1,0 +1,124 @@
+================================================================================
+API ENDPOINT MAP: SPF
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SPF/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SPF/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: certificaciones_estandares_competencia_edad_evaluaciones_2021.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_edad_evaluaciones_2021.csv
+  Size: 643
+  Status: OPEN
+
+FILE: certificaciones_estandares_competencia_edad_evaluaciones_2022.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_edad_evaluaciones_2022.csv
+  Size: 655
+  Status: OPEN
+
+FILE: certificaciones_estandares_competencia_edad_evaluaciones_2023.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_edad_evaluaciones_2023.csv
+  Size: 624
+  Status: OPEN
+
+FILE: certificaciones_estandares_competencia_edad_evaluaciones_2024.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_edad_evaluaciones_2024.csv
+  Size: 1.1K
+  Status: OPEN
+
+FILE: certificaciones_estandares_competencia_edad_evaluaciones_2025.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_edad_evaluaciones_2025.csv
+  Size: 451
+  Status: OPEN
+
+FILE: certificaciones_estandares_competencia_genero_evaluaciones_2021.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_genero_evaluaciones_2021.csv
+  Size: 528
+  Status: OPEN
+
+FILE: certificaciones_estandares_competencia_genero_evaluaciones_2022.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_genero_evaluaciones_2022.csv
+  Size: 513
+  Status: OPEN
+
+FILE: certificaciones_estandares_competencia_genero_evaluaciones_2023.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_genero_evaluaciones_2023.csv
+  Size: 506
+  Status: OPEN
+
+FILE: certificaciones_estandares_competencia_genero_evaluaciones_2024.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_genero_evaluaciones_2024.csv
+  Size: 769
+  Status: OPEN
+
+FILE: certificaciones_estandares_competencia_genero_evaluaciones_2025.csv
+  Route: /api_update/SPF/certificaciones_estandares_competencia_genero_evaluaciones_2025.csv
+  Size: 352
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_edad_formacion_2021.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_edad_formacion_2021.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_edad_formacion_2022.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_edad_formacion_2022.csv
+  Size: 2.0K
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_edad_formacion_2023.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_edad_formacion_2023.csv
+  Size: 624
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_edad_formacion_2024.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_edad_formacion_2024.csv
+  Size: 3.6K
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_edad_formacion_2025.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_edad_formacion_2025.csv
+  Size: 609
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_genero_formacion_2021.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_genero_formacion_2021.csv
+  Size: 1.4K
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_genero_formacion_2022.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_genero_formacion_2022.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_genero_formacion_2023.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_genero_formacion_2023.csv
+  Size: 506
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_genero_formacion_2024.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_genero_formacion_2024.csv
+  Size: 3.2K
+  Status: OPEN
+
+FILE: formacion_inicial_guardias_policias_genero_formacion_2025.csv
+  Route: /api_update/SPF/formacion_inicial_guardias_policias_genero_formacion_2025.csv
+  Size: 541
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 20
+Total Size: 22K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

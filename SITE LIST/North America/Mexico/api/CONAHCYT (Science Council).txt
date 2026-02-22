@@ -1,0 +1,114 @@
+================================================================================
+API ENDPOINT MAP: CONAHCYT (Science Council)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONAHCYT/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONAHCYT/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: evaluadores_base_evaluadores_2014_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2014_ok.csv
+  Size: 1.3M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2015_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2015_ok.csv
+  Size: 1.5M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2016_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2016_ok.csv
+  Size: 1.5M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2017_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2017_ok.csv
+  Size: 1.6M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2018_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2018_ok.csv
+  Size: 1.7M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2019_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2019_ok.csv
+  Size: 3.7M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2020_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2020_ok.csv
+  Size: 4.2M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2021_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2021_ok.csv
+  Size: 4.5M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2022_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2022_ok.csv
+  Size: 5.1M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2023_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2023_ok.csv
+  Size: 5.7M
+  Status: OPEN
+
+FILE: evaluadores_base_evaluadores_2024_ok.csv
+  Route: /api_update/CONAHCYT/evaluadores_base_evaluadores_2024_ok.csv
+  Size: 6.0M
+  Status: OPEN
+
+FILE: fondos_institucionales_mixtos_sectoriales_fondos_institucionales_mixtos_y_sectoriales_2019_c.csv
+  Route: /api_update/CONAHCYT/fondos_institucionales_mixtos_sectoriales_fondos_institucionales_mixtos_y_sectoriales_2019_c.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: fondos_institucionales_mixtos_sectoriales_fondos_institucionales_mixtos_y_sectoriales_2020_c.csv
+  Route: /api_update/CONAHCYT/fondos_institucionales_mixtos_sectoriales_fondos_institucionales_mixtos_y_sectoriales_2020_c.csv
+  Size: 1.6M
+  Status: OPEN
+
+FILE: indicadores_base_indicador-cfr02_2024_ok.csv
+  Route: /api_update/CONAHCYT/indicadores_base_indicador-cfr02_2024_ok.csv
+  Size: 224
+  Status: OPEN
+
+FILE: programas_presupuestarios_conahcyt_base_becas-s190_2020_ok.csv
+  Route: /api_update/CONAHCYT/programas_presupuestarios_conahcyt_base_becas-s190_2020_ok.csv
+  Size: 11M
+  Status: OPEN
+
+FILE: programas_presupuestarios_conahcyt_base_becas-s190_2021_ok.csv
+  Route: /api_update/CONAHCYT/programas_presupuestarios_conahcyt_base_becas-s190_2021_ok.csv
+  Size: 11M
+  Status: OPEN
+
+FILE: programas_presupuestarios_conahcyt_programa_presupuestario_f002_y_f003_2021_c.csv
+  Route: /api_update/CONAHCYT/programas_presupuestarios_conahcyt_programa_presupuestario_f002_y_f003_2021_c.csv
+  Size: 2.3M
+  Status: OPEN
+
+FILE: programas_presupuestarios_conahcyt_programa_presupuestario_f002_y_f003_2022_c.csv
+  Route: /api_update/CONAHCYT/programas_presupuestarios_conahcyt_programa_presupuestario_f002_y_f003_2022_c.csv
+  Size: 11M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 18
+Total Size: 74M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

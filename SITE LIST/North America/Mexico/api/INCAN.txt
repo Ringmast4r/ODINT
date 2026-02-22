@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: INCAN
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INCAN/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INCAN/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: registro_pacientes_(1).csv
+  Route: /api_update/INCAN/registro_pacientes_(1).csv
+  Size: 146
+  Status: OPEN
+
+FILE: registro_pacientes_INCAN_1_CONSULTA_EXTERNA_OTORGADA_2024
+  Route: /api_update/INCAN/registro_pacientes_INCAN_1_CONSULTA_EXTERNA_OTORGADA_2024
+  Size: 146
+  Status: OPEN
+
+FILE: registro_pacientes_INCAN_1_CONSULTA_EXTERNA_OTORGADA_2024(1).csv
+  Route: /api_update/INCAN/registro_pacientes_INCAN_1_CONSULTA_EXTERNA_OTORGADA_2024(1).csv
+  Size: 424
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 716
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

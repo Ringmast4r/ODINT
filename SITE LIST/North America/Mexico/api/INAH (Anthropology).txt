@@ -1,0 +1,94 @@
+================================================================================
+API ENDPOINT MAP: INAH (Anthropology)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INAH/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INAH/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: alumnos_becados_inah_INAH_4_alumnos_becados.csv
+  Route: /api_update/INAH/alumnos_becados_inah_INAH_4_alumnos_becados.csv
+  Size: 134K
+  Status: OPEN
+
+FILE: alumnos_becados_inah_INAH_alumnos_becados_ok.csv
+  Route: /api_update/INAH/alumnos_becados_inah_INAH_alumnos_becados_ok.csv
+  Size: 262K
+  Status: OPEN
+
+FILE: alumnos_egresados_inah_INAH_3_alumnos_egresados.csv
+  Route: /api_update/INAH/alumnos_egresados_inah_INAH_3_alumnos_egresados.csv
+  Size: 35K
+  Status: OPEN
+
+FILE: alumnos_egresados_inah_INAH_alumnos_egresados_ok.csv
+  Route: /api_update/INAH/alumnos_egresados_inah_INAH_alumnos_egresados_ok.csv
+  Size: 70K
+  Status: OPEN
+
+FILE: alumnos_inscritos_escuelas_inah_INAH_1_alumnos_inscritos.csv
+  Route: /api_update/INAH/alumnos_inscritos_escuelas_inah_INAH_1_alumnos_inscritos.csv
+  Size: 298K
+  Status: OPEN
+
+FILE: alumnos_inscritos_escuelas_inah_INAH_alumnos_inscritos_ok.csv
+  Route: /api_update/INAH/alumnos_inscritos_escuelas_inah_INAH_alumnos_inscritos_ok.csv
+  Size: 614K
+  Status: OPEN
+
+FILE: alumnos_titulados_inah_INAH_5_alumnos_titulados.csv
+  Route: /api_update/INAH/alumnos_titulados_inah_INAH_5_alumnos_titulados.csv
+  Size: 27K
+  Status: OPEN
+
+FILE: alumnos_titulados_inah_INAH_alumnos_titulados_ok.csv
+  Route: /api_update/INAH/alumnos_titulados_inah_INAH_alumnos_titulados_ok.csv
+  Size: 55K
+  Status: OPEN
+
+FILE: bibliotecas_abiertas_publico_INAH_bibliotecas_abiertas_ok.csv
+  Route: /api_update/INAH/bibliotecas_abiertas_publico_INAH_bibliotecas_abiertas_ok.csv
+  Size: 29K
+  Status: OPEN
+
+FILE: exposiciones_inah_INAH_9_exposiciones.csv
+  Route: /api_update/INAH/exposiciones_inah_INAH_9_exposiciones.csv
+  Size: 97K
+  Status: OPEN
+
+FILE: monumentos_historicos_registrados_INAH_6_monumentos_registrados.csv
+  Route: /api_update/INAH/monumentos_historicos_registrados_INAH_6_monumentos_registrados.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: museos_inah_INAH_museos_ok.csv
+  Route: /api_update/INAH/museos_inah_INAH_museos_ok.csv
+  Size: 24K
+  Status: OPEN
+
+FILE: visitantes_zonas_arqueologicas_INAH_visitantes_zonas_general_ok.csv
+  Route: /api_update/INAH/visitantes_zonas_arqueologicas_INAH_visitantes_zonas_general_ok.csv
+  Size: 626K
+  Status: OPEN
+
+FILE: zonas_arqueologicas_abiertas_publico_INAH_zonas_arqueologicas_ok.csv
+  Route: /api_update/INAH/zonas_arqueologicas_abiertas_publico_INAH_zonas_arqueologicas_ok.csv
+  Size: 38K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 14
+Total Size: 2.3M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

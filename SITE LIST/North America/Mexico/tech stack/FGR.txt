@@ -1,0 +1,40 @@
+================================================================================
+TECH STACK: FGR
+================================================================================
+
+DOMAIN: fgr.org.mx
+URL PROBED: https://www.fgr.org.mx
+SCAN DATE: 2026-01-15 17:05:37
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 
+Server: NOT DISCLOSED
+Content-Type: text/html;charset=UTF8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+subject=C=MX, L=Ciudad de México, O=FISCALIA GENERAL DE LA REPUBLICA, CN=*.fgr.org.mx
+notBefore=Jul  7 00:00:00 2025 GMT
+notAfter=Jul  6 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: JSESSIONID=30E8F06232F3EA3BA10D035623888210; Path=/; Secure; HttpOnly
+Charset: UTF-8
+Pragma: no-cache
+Content-Type: text/html;charset=UTF8
+Transfer-Encoding: chunked
+Date: Thu, 15 Jan 2026 22:04:46 GMT
+
+================================================================================
+END
+================================================================================

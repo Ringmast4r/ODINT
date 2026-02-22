@@ -1,0 +1,124 @@
+================================================================================
+API ENDPOINT MAP: CIQA
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CIQA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CIQA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_sibsidios_trim12023.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_sibsidios_trim12023.csv
+  Size: 385
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_sibsidios_sem2_2023.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_sibsidios_sem2_2023.csv
+  Size: 916
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_sibsidios_sem3_2023.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_sibsidios_sem3_2023.csv
+  Size: 1.2K
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_sibsidios_sem4_2023.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_sibsidios_sem4_2023.csv
+  Size: 2.3K
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem1_2024.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem1_2024.csv
+  Size: 933
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem1_2025.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem1_2025.csv
+  Size: 823
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem2_2024.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem2_2024.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem2_2025.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem2_2025.csv
+  Size: 1.5K
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem3_2024.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem3_2024.csv
+  Size: 2.9K
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem3_2025.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem3_2025.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem4_2024.csv
+  Route: /api_update/CIQA/ayudas_subsidios_otorgados_por_ciqa_ayudas_y_subsidios_sem4_2024.csv
+  Size: 1.1K
+  Status: OPEN
+
+FILE: patentes_registradas_ciqa_patentes_registradas_2021.csv
+  Route: /api_update/CIQA/patentes_registradas_ciqa_patentes_registradas_2021.csv
+  Size: 23K
+  Status: OPEN
+
+FILE: patentes_registradas_ciqa_patentes_registradas_2022.csv
+  Route: /api_update/CIQA/patentes_registradas_ciqa_patentes_registradas_2022.csv
+  Size: 30K
+  Status: OPEN
+
+FILE: patentes_registradas_ciqa_patentes_registradas_2023.csv
+  Route: /api_update/CIQA/patentes_registradas_ciqa_patentes_registradas_2023.csv
+  Size: 34K
+  Status: OPEN
+
+FILE: patentes_registradas_ciqa_patentes_registradas_2024.csv
+  Route: /api_update/CIQA/patentes_registradas_ciqa_patentes_registradas_2024.csv
+  Size: 45K
+  Status: OPEN
+
+FILE: patentes_registradas_ciqa_patentes_registradas_2025.csv
+  Route: /api_update/CIQA/patentes_registradas_ciqa_patentes_registradas_2025.csv
+  Size: 60K
+  Status: OPEN
+
+FILE: pedidos_ciqa_pedidos_2022.csv
+  Route: /api_update/CIQA/pedidos_ciqa_pedidos_2022.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: pedidos_ciqa_pedidos_2023.csv
+  Route: /api_update/CIQA/pedidos_ciqa_pedidos_2023.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: pedidos_ciqa_pedidos_2024.csv
+  Route: /api_update/CIQA/pedidos_ciqa_pedidos_2024.csv
+  Size: 828K
+  Status: OPEN
+
+FILE: pedidos_ciqa_pedidos_2025.csv
+  Route: /api_update/CIQA/pedidos_ciqa_pedidos_2025.csv
+  Size: 732K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 20
+Total Size: 3.8M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

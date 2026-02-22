@@ -1,0 +1,50 @@
+================================================================================
+TECH STACK: INE
+================================================================================
+
+DOMAIN: ine.mx
+URL PROBED: https://www.ine.mx
+SCAN DATE: 2026-01-15 17:04:51
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Apache
+Content-Type: text/html; charset=UTF-8
+CDN: AWS CloudFront
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+subject=C=MX, L=Ciudad de México, O=Instituto Nacional Electoral, CN=www.ine.mx
+notBefore=Oct 16 00:00:00 2025 GMT
+notAfter=Nov 14 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Date: Thu, 15 Jan 2026 22:04:02 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Server: Apache
+Link: <https://www.ine.mx/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.ine.mx/wp-json/wp/v2/pages/192605>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.ine.mx/>; rel=shortlink
+Link: <https://www.ine.mx/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.ine.mx/wp-json/wp/v2/pages/192605>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.ine.mx/>; rel=shortlink
+Last-Modified: Thu, 15 Jan 2026 21:59:53 GMT
+Expires: Thu, 15 Jan 2026 22:59:53 GMT
+ETag: "9c6550711e6b35bd3811e821a95b8aad"
+X-Cache: Miss from cloudfront
+Via: 1.1 045d55468661252b6be78e701e36b492.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: AMS1-P1
+X-Amz-Cf-Id: MY5g1EPpy4lVTghS-aaCTTJ_4ux9KIVw2vVYZx076T3CNhR0ywudug==
+
+================================================================================
+END
+================================================================================

@@ -1,0 +1,40 @@
+# PUERTO RICO - US TERRITORY (30)
+# ============================================================
+
+# Government
+pr.gov
+fortaleza.pr.gov
+hacienda.pr.gov
+salud.pr.gov
+educacion.pr.gov
+justicia.pr.gov
+trabajo.pr.gov
+dtop.pr.gov
+policia.pr.gov
+senado.pr.gov
+camara.pr.gov
+tribunalpr.org
+ceepr.org
+aafaf.pr.gov
+assmca.pr.gov
+oatrh.pr.gov
+ombudsman.pr.gov
+aeepr.com
+
+# Media
+elnuevodia.com
+primerahora.com
+noticel.com
+metroPR.com
+wapa.tv
+telemundopr.com
+
+# Universities
+upr.edu
+uprm.edu
+sagrado.edu
+inter.edu
+
+# Banks
+bfrpr.gov
+bppr.com

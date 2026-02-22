@@ -1,0 +1,74 @@
+================================================================================
+API ENDPOINT MAP: AGROASEMEX (Agriculture Insurance)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/AGROASEMEX/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/AGROASEMEX/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: contratos_agroasemex_12_Lista_de_contratos_Direccion_Administracion.csv
+  Route: /api_update/AGROASEMEX/contratos_agroasemex_12_Lista_de_contratos_Direccion_Administracion.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: lista_activos_agroasemex_06_Lista_de_activos.csv
+  Route: /api_update/AGROASEMEX/lista_activos_agroasemex_06_Lista_de_activos.csv
+  Size: 200K
+  Status: OPEN
+
+FILE: reaseguros_agroasemex_07_Base_de_Datos_de_Suscripcion_Danios_a_Bienes_Conexos.csv
+  Route: /api_update/AGROASEMEX/reaseguros_agroasemex_07_Base_de_Datos_de_Suscripcion_Danios_a_Bienes_Conexos.csv
+  Size: 9.1K
+  Status: OPEN
+
+FILE: reaseguros_agroasemex_08_Base_de_Datos_de_Suscripción_de_Reaseguro_Agricola_a_Fondos_de_Aseguramiento.csv
+  Route: /api_update/AGROASEMEX/reaseguros_agroasemex_08_Base_de_Datos_de_Suscripción_de_Reaseguro_Agricola_a_Fondos_de_Aseguramiento.csv
+  Size: 146
+  Status: OPEN
+
+FILE: reaseguros_agroasemex_09_Padron_de_Fondos_que_operan_ramo_Agricola.csv
+  Route: /api_update/AGROASEMEX/reaseguros_agroasemex_09_Padron_de_Fondos_que_operan_ramo_Agricola.csv
+  Size: 8.8K
+  Status: OPEN
+
+FILE: reaseguros_agroasemex_09_Padron_de_Fondos_que_operan_ramo_Agricola_ok.csv
+  Route: /api_update/AGROASEMEX/reaseguros_agroasemex_09_Padron_de_Fondos_que_operan_ramo_Agricola_ok.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: reaseguros_agroasemex_10_Base_de_Datos_de_Suscripcion_Ganadero.csv
+  Route: /api_update/AGROASEMEX/reaseguros_agroasemex_10_Base_de_Datos_de_Suscripcion_Ganadero.csv
+  Size: 9.7K
+  Status: OPEN
+
+FILE: reaseguros_agroasemex_11_Padron_de_Fondos_que_operan_ramo_Ganadero_y_Danos_a_Bienes_Conexos.csv
+  Route: /api_update/AGROASEMEX/reaseguros_agroasemex_11_Padron_de_Fondos_que_operan_ramo_Ganadero_y_Danos_a_Bienes_Conexos.csv
+  Size: 5.6K
+  Status: OPEN
+
+FILE: reaseguros_agroasemex_11_Padron_Fondos_ramo_Ganadero_Danos_Bienes_Conexos_ok.csv
+  Route: /api_update/AGROASEMEX/reaseguros_agroasemex_11_Padron_Fondos_ramo_Ganadero_Danos_Bienes_Conexos_ok.csv
+  Size: 5.5K
+  Status: OPEN
+
+FILE: subsidio_seguro_agropecuario_01_Padron_de_integrantes_sistema_nacional_de_aseguramiento_al_medio_rural.csv
+  Route: /api_update/AGROASEMEX/subsidio_seguro_agropecuario_01_Padron_de_integrantes_sistema_nacional_de_aseguramiento_al_medio_rural.csv
+  Size: 48K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 10
+Total Size: 317K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,54 @@
+================================================================================
+API ENDPOINT MAP: INGER
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INGER/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INGER/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: actividades_divulgacion_personal_inger_actividades_divulgacion_2015_ok.csv
+  Route: /api_update/INGER/actividades_divulgacion_personal_inger_actividades_divulgacion_2015_ok.csv
+  Size: 9.9K
+  Status: OPEN
+
+FILE: actividades_divulgacion_personal_inger_actividades_divulgacion_2017_ok.csv
+  Route: /api_update/INGER/actividades_divulgacion_personal_inger_actividades_divulgacion_2017_ok.csv
+  Size: 28K
+  Status: OPEN
+
+FILE: actividades_divulgacion_personal_inger_actividades_divulgacion_2018_ok.csv
+  Route: /api_update/INGER/actividades_divulgacion_personal_inger_actividades_divulgacion_2018_ok.csv
+  Size: 5.3K
+  Status: OPEN
+
+FILE: catalogo_coleccion_digital_biblioteca_virtual_especializada_envejecimiento_salud_colecciones_biblioteca_virtual_2010_2015.csv
+  Route: /api_update/INGER/catalogo_coleccion_digital_biblioteca_virtual_especializada_envejecimiento_salud_colecciones_biblioteca_virtual_2010_2015.csv
+  Size: 85K
+  Status: OPEN
+
+FILE: catalogo_coleccion_digital_biblioteca_virtual_especializada_envejecimiento_salud_colecciones_biblioteca_virtual_2018.csv
+  Route: /api_update/INGER/catalogo_coleccion_digital_biblioteca_virtual_especializada_envejecimiento_salud_colecciones_biblioteca_virtual_2018.csv
+  Size: 85K
+  Status: OPEN
+
+FILE: catalogo_cursos_inger_oferta_cursos_educacion_continua_2018_ok.csv
+  Route: /api_update/INGER/catalogo_cursos_inger_oferta_cursos_educacion_continua_2018_ok.csv
+  Size: 588
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 6
+Total Size: 213K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

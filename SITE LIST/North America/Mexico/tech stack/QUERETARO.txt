@@ -1,0 +1,44 @@
+================================================================================
+TECH STACK: QUERETARO
+================================================================================
+
+DOMAIN: queretaro.gob.mx
+DESCRIPTION: Queretaro State Government
+SCAN DATE: 2026-01-15 17:15:39
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 
+Server: nginx
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 
+server: nginx
+date: Thu, 15 Jan 2026 22:14:56 GMT
+content-type: text/html;charset=UTF-8
+content-length: 238542
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1
+set-cookie: JSESSIONID=B74F50FD8EF2C2EA1984CAAA062F8EC5; Path=/; Secure; HttpOnly
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+cache-control: private, no-cache, no-store, must-revalidate
+pragma: no-cache
+set-cookie: COOKIE_SUPPORT=true; Max-Age=31536000; Expires=Fri, 15-Jan-2027 22:16:31 GMT; Path=/; Secure; HttpOnly
+set-cookie: GUEST_LANGUAGE_ID=es_ES; Max-Age=31536000; Expires=Fri, 15-Jan-2027 22:16:31 GMT; Path=/; Secure; HttpOnly
+liferay-portal: Liferay Digital Experience Platform
+etag: "0"
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: default-src 'self'; font-src 'self' data:; frame-src 'self'; connect-src 'self'; script-src 'nonce-r@nd0m' 'strict-dynamic'; base-uri 'self'; img-src 'self'; manifest-src 'self'; media-src 'self'; object-src 'none'; style-src 'self'; worker-src 'self'
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+
+================================================================================
+END
+================================================================================

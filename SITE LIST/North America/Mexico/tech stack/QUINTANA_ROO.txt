@@ -1,0 +1,33 @@
+================================================================================
+TECH STACK: QUINTANA_ROO
+================================================================================
+
+DOMAIN: qroo.gob.mx
+DESCRIPTION: Quintana Roo State
+SCAN DATE: 2026-01-15 17:17:10
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: Apache
+CDN: Cloudflare
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:16:23 GMT
+Server: Apache
+X-UA-Compatible: IE=edge
+Permissions-Policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+Link: <https://qroo.gob.mx/wp-json/>; rel="https://api.w.org/"
+Link: <https://qroo.gob.mx/wp-json/wp/v2/pages/9>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://qroo.gob.mx/>; rel=shortlink
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

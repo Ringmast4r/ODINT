@@ -1,0 +1,49 @@
+================================================================================
+API ENDPOINT MAP: SEDATU (Territorial Development)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SEDATU/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SEDATU/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: atencion_conflictos_sociales_medio_rural_programa_cosomer_06_Atencion_Conflictos_Agrarios_COSOMER_2024.csv
+  Route: /api_update/SEDATU/atencion_conflictos_sociales_medio_rural_programa_cosomer_06_Atencion_Conflictos_Agrarios_COSOMER_2024.csv
+  Size: 2.0K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_sedatu_11_inventario_bm_30_marzo_2025.csv
+  Route: /api_update/SEDATU/inventario_bienes_muebles_sedatu_11_inventario_bm_30_marzo_2025.csv
+  Size: 3.1M
+  Status: OPEN
+
+FILE: padron_beneficiarios_programas_presupuestarios_sedatu_04_S273_MIB_2024_CCP_Jul2025_Datos_Abiertos.csv
+  Route: /api_update/SEDATU/padron_beneficiarios_programas_presupuestarios_sedatu_04_S273_MIB_2024_CCP_Jul2025_Datos_Abiertos.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: padron_beneficiarios_programas_presupuestarios_sedatu_05_S273_VOC_2024_CCP_Jul2025_Datos_Abiertos.csv
+  Route: /api_update/SEDATU/padron_beneficiarios_programas_presupuestarios_sedatu_05_S273_VOC_2024_CCP_Jul2025_Datos_Abiertos.csv
+  Size: 55K
+  Status: OPEN
+
+FILE: padron_beneficiarios_programas_presupuestarios_sedatu_07_S273_VIE_2025_DGIE_Jul2025_Datos_Abiertos.csv
+  Route: /api_update/SEDATU/padron_beneficiarios_programas_presupuestarios_sedatu_07_S273_VIE_2025_DGIE_Jul2025_Datos_Abiertos.csv
+  Size: 8.6K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 5
+Total Size: 3.2M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

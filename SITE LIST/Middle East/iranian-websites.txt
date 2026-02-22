@@ -1,15 +1,31 @@
-# Iranian Websites - Comprehensive List
-# Government, military, intelligence, space, nuclear, infrastructure
-# Created: 2026-01-29
-# Total: 160 domains
+# Iranian Websites - Maximum Coverage List
+# Government, military, intelligence, defense, healthcare, municipalities, infrastructure
+# Created: 2026-01-29 | Updated: 2026-02-19
+# Total: ~633 domains
+# Sources: IranWatch, IRNIC, OpenSanctions, US Treasury SDN, OFAC, Iran Data Portal, Wikipedia
 
 # ============================================
-# EXECUTIVE & LEGISLATURE (5)
+# SUPREME LEADERSHIP & CONSTITUTIONAL BODIES (5)
+# ============================================
+khamenei.ir
+leader.ir
+maslehat.ir
+shora-gc.ir
+majlis.ir
+
+# ============================================
+# EXECUTIVE / PRESIDENCY (5)
 # ============================================
 president.ir
 dolat.ir
-parliran.ir
-leader.ir
+irangov.ir
+iran.gov.ir
+cabinetoffice.ir
+
+# ============================================
+# PARLIAMENT / LEGISLATIVE (2)
+# ============================================
+majlis.ir
 rc.majlis.ir
 
 # ============================================
@@ -19,7 +35,7 @@ mfa.gov.ir
 mod.ir
 mof.ir
 medu.ir
-health.gov.ir
+behdasht.gov.ir
 moi.ir
 justice.ir
 moe.gov.ir
@@ -33,21 +49,43 @@ tourism.gov.ir
 msrt.ir
 
 # ============================================
-# MILITARY - ARMED FORCES (10)
+# NATIONAL ORGANIZATIONS & AGENCIES (20)
 # ============================================
-mod.ir
-artesh.ir
-aja.ir
-nedaja.ir
-navaja.ir
-irgc.ir
-sepahnews.com
-basij.ir
-rahaja.ir
-defapress.ir
+amar.org.ir
+inso.gov.ir
+irimo.ir
+doe.ir
+frw.ir
+ivo.ir
+irantvto.ir
+ncc.ir
+gsi.ir
+nlai.ir
+sco.ir
+spo.ir
+sabteahval.ir
+imo.org.ir
+caa.gov.ir
+airport.ir
+post.ir
+irica.gov.ir
+intamedia.ir
+freezones.ir
 
 # ============================================
-# MILITARY - IRGC (8)
+# MILITARY - ARTESH (Regular Armed Forces) (8)
+# ============================================
+artesh.ir
+aja.ir
+nezaja.ir
+nedaja.ir
+nahaja.ir
+nepaja.ir
+dafoos.ir
+afagir.ir
+
+# ============================================
+# MILITARY - IRGC & AFFILIATES (12)
 # ============================================
 irgc.ir
 sepahnews.com
@@ -57,6 +95,20 @@ qudsnews.com
 sepahcyber.ir
 irgcnavy.ir
 sepahaero.ir
+bfrss.ir
+moghavemat.ir
+sepahbank.ir
+bfrss.com
+
+# ============================================
+# MILITARY - UNIVERSITIES & ACADEMIES (6)
+# ============================================
+ihu.ac.ir
+mut.ac.ir
+bmsu.ac.ir
+sndu.ac.ir
+afaghir.ac.ir
+police.ac.ir
 
 # ============================================
 # INTELLIGENCE & SECURITY (6)
@@ -69,28 +121,77 @@ faraja.ir
 dadiran.ir
 
 # ============================================
-# SPACE & AEROSPACE (6)
+# DEFENSE INDUSTRY (14)
 # ============================================
-isa.ir
-aerospace.ir
-irso.ir
+mod.ir
 sairan.ir
-irost.ir
-airtci.ir
+aerospace.ir
+diomil.ir
+irist.ir
+tiam.ir
+hesa.ir
+sasadja.ir
+iei.ir
+dio.ir
+iaci.ir
+mindex-center.ir
+dtsrc.ir
+sfrpco.ir
 
 # ============================================
-# NUCLEAR & ENERGY (10)
+# SPACE & AEROSPACE (4)
+# ============================================
+isa.ir
+space.ir
+irso.ir
+irost.ir
+
+# ============================================
+# NUCLEAR & ATOMIC ENERGY (7)
 # ============================================
 aeoi.org.ir
 nstri.ir
 peo.ir
-mapnagroup.com
-tavanir.org.ir
-moe.gov.ir
+nfcir.ir
+rwmo.ir
+inra.ir
+bnrc.ir
+
+# ============================================
+# OIL & GAS (13)
+# ============================================
 nioc.ir
 nigc.ir
 niordc.ir
-bargh.ir
+nipc.ir
+mop.ir
+nidco.ir
+iooc.ir
+pedec.ir
+pogc.ir
+nisoc.ir
+ioec.ir
+kepco.ir
+shana.ir
+
+# ============================================
+# PETROCHEMICAL (4)
+# ============================================
+nipc.ir
+pgpdig.ir
+bfrpc.ir
+npc.ir
+
+# ============================================
+# POWER & ENERGY (7)
+# ============================================
+tavanir.org.ir
+igmc.ir
+saba.org.ir
+irec.ir
+satba.gov.ir
+tbtb.ir
+farsedc.ir
 
 # ============================================
 # CRITICAL INFRASTRUCTURE (8)
@@ -105,133 +206,671 @@ irancell.ir
 post.ir
 
 # ============================================
-# LAW ENFORCEMENT (5)
+# SHIPPING & TRANSPORT - SANCTIONED (10)
+# ============================================
+irisl.net
+mahanair.ir
+iranair.com
+kishtransport.ir
+valfajr8.ir
+safirans.com
+raja.ir
+asiaairlines.ir
+sahaairlines.com
+kishairlines.ir
+
+# ============================================
+# TRANSPORTATION (11)
+# ============================================
+rai.ir
+raja.ir
+pmo.ir
+caa.gov.ir
+airport.ir
+ikia.ir
+iaa.ir
+mahan.aero
+rmto.ir
+nitc.co.ir
+irisl.net
+
+# ============================================
+# TELECOM & ISP (10)
+# ============================================
+tci.ir
+mci.ir
+irancell.ir
+rightel.ir
+shatel.ir
+asiatech.ir
+pars-online.net
+fanaptelecom.ir
+mobinnet.ir
+nic.ir
+
+# ============================================
+# LAW ENFORCEMENT (4)
 # ============================================
 police.ir
 naja.ir
 faraja.ir
 gerdab.ir
-evin.ir
 
 # ============================================
-# JUDICIAL (6)
+# JUDICIAL (8)
 # ============================================
 judiciary.ir
 dadiran.ir
-sccr.ir
-iranbar.org
-legalmed.ir
+eadl.ir
+sana.ir
+lmo.ir
+bazresi.ir
+divan-edalat.ir
 prisons.ir
 
 # ============================================
-# FINANCIAL & REGULATORY (8)
+# FINANCIAL & REGULATORY (7)
 # ============================================
 cbi.ir
 seo.ir
-bmi.ir
 tse.ir
-sso.ir
-irc.gov.ir
-customs.ir
-amar.org.ir
+ifb.ir
+ime.ir
+irenex.ir
+csdiran.ir
 
 # ============================================
-# DEFENSE INDUSTRY (8)
+# BANKS - GOVERNMENT OWNED (9)
 # ============================================
-mod.ir
-sairan.ir
-aerospace.ir
-diomil.ir
-irist.ir
-tiam.ir
-hesa.ir
-irgc.ir
+bmi.ir
+banksepah.ir
+bim.ir
+bki.ir
+maskan.ir
+edbi.ir
+postbank.ir
+ttbank.ir
+mebank.ir
 
 # ============================================
-# PROVINCIAL GOVERNMENTS (10)
+# BANKS - PRIVATE / PRIVATIZED (20)
 # ============================================
-tehran.ir
+mellat.ir
+saderat.ir
+tejarat.ir
+refah-bank.ir
+ansar.ir
+bankmellat.ir
+banksaderat.ir
+en-bank.net
+parsianbank.ir
+bpi.ir
+sbank.ir
+samanbank.ir
+sarmayebank.ir
+sinabank.com
+bankayandeh.ir
+daybank.ir
+bankshahr.ir
+ghbi.ir
+iranzaminbank.ir
+bankresalat.ir
+
+# ============================================
+# INSURANCE (19)
+# ============================================
+centinsur.ir
+iraninsurance.ir
+asiainsurance.ir
+alborzinsurance.ir
+danainsurance.ir
+parsianinsurance.ir
+pasargadinsurance.ir
+samaninsurance.ir
+kosar-insurance.ir
+mellatinsurance.ir
+novininsurance.ir
+dayinsurance.ir
+taavoninsurance.ir
+armaninsurance.ir
+mainsurance.ir
+sinainurance.ir
+karafarininsurance.ir
+razi-insurance.ir
+atieinsurance.ir
+
+# ============================================
+# PENSION & SOCIAL SECURITY (2)
+# ============================================
+tamin.ir
+cspf.ir
+
+# ============================================
+# WELFARE & SOCIAL SERVICES (5)
+# ============================================
+tamin.ir
+behzisti.ir
+emdad.ir
+cspf.ir
+salamat.gov.ir
+
+# ============================================
+# PROVINCIAL GOVERNMENTS (31)
+# ============================================
+ostan-th.ir
 ostan-es.ir
-ostan-fa.ir
-ostan-km.ir
-ostan-kz.ir
 ostan-ag.ir
-ostan-mz.ir
+ostan-ab.ir
+ostan-al.ir
+ostan-ar.ir
+ostan-bk.ir
+ostan-bs.ir
+ostan-ch.ir
+ostan-fa.ir
 ostan-gl.ir
+ostan-gn.ir
 ostan-hm.ir
+ostan-hr.ir
+ostan-il.ir
+ostan-kb.ir
+ostan-kd.ir
+ostan-ke.ir
+ostan-kh.ir
+ostan-km.ir
+ostan-kr.ir
+ostan-ks.ir
+ostan-lo.ir
+ostan-mk.ir
+ostan-mn.ir
+ostan-qm.ir
+ostan-qz.ir
+ostan-sb.ir
+ostan-sm.ir
+ostan-ya.ir
 ostan-zn.ir
 
 # ============================================
-# UNIVERSITIES (10)
+# MUNICIPALITIES - MAJOR CITIES (51)
+# Population 100k+ cities with .ir domains
+# ============================================
+tehran.ir
+mashhad.ir
+isfahan.ir
+shiraz.ir
+tabriz.ir
+ahvaz.ir
+karaj.ir
+qom.ir
+kermanshah.ir
+rasht.ir
+zahedan.ir
+hamadan.ir
+arak.ir
+yazd.ir
+ardabil.ir
+bandarabbas.ir
+zanjan.ir
+sanandaj.ir
+khorramabad.ir
+gorgan.ir
+eslamshahr.ir
+borujerd.ir
+dezful.ir
+sabzevar.ir
+neyshabur.ir
+babol.ir
+amol.ir
+birjand.ir
+bushehr.ir
+qaemshahr.ir
+bojnurd.ir
+sirjan.ir
+varamin.ir
+shahriar.ir
+kashan.ir
+najafabad.ir
+ilam.ir
+yasuj.ir
+semnan.ir
+saqqez.ir
+khoy.ir
+malayer.ir
+saveh.ir
+marivan.ir
+mahabad.ir
+gonbad.ir
+shahroud.ir
+sarab.ir
+shahrekord.ir
+maragheh.ir
+mahallat.ir
+
+# ============================================
+# CITY COUNCILS (1)
+# ============================================
+shorayeshahr.ir
+
+# ============================================
+# FREE TRADE & SPECIAL ECONOMIC ZONES (11)
+# ============================================
+freezones.ir
+kish.ir
+qeshm.ir
+chabahar.ir
+arasfz.ir
+anzalifz.ir
+arvandfreezone.ir
+maku.ir
+petzone.ir
+pseez.ir
+ksez.ir
+
+# ============================================
+# HEALTHCARE - MEDICAL UNIVERSITIES (41)
+# Each runs teaching hospitals and clinics
+# ============================================
+tums.ac.ir
+iums.ac.ir
+sbmu.ac.ir
+sums.ac.ir
+mums.ac.ir
+tbzmed.ac.ir
+mui.ac.ir
+ajums.ac.ir
+kmu.ac.ir
+kums.ac.ir
+arums.ac.ir
+gums.ac.ir
+lums.ac.ir
+bums.ac.ir
+qums.ac.ir
+muq.ac.ir
+zums.ac.ir
+umsu.ac.ir
+yums.ac.ir
+zaums.ac.ir
+semums.ac.ir
+hums.ac.ir
+medilam.ac.ir
+bpums.ac.ir
+mazums.ac.ir
+skums.ac.ir
+mubabol.ac.ir
+goums.ac.ir
+nkums.ac.ir
+rums.ac.ir
+ssu.ac.ir
+medsab.ac.ir
+shmu.ac.ir
+kaums.ac.ir
+abadanums.ac.ir
+arakmu.ac.ir
+fums.ac.ir
+jums.ac.ir
+dums.ac.ir
+muk.ac.ir
+thums.ac.ir
+
+# ============================================
+# HEALTHCARE - AGENCIES (8)
+# ============================================
+fda.gov.ir
+ibto.ir
+rcs.ir
+behdasht.gov.ir
+salamat.gov.ir
+irimc.ir
+iranvc.ir
+pasteur.ac.ir
+
+# ============================================
+# UNIVERSITIES - STATE (48)
 # ============================================
 ut.ac.ir
 sharif.edu
 aut.ac.ir
-iust.ac.ir
 modares.ac.ir
 sbu.ac.ir
+iust.ac.ir
+guilan.ac.ir
+basu.ac.ir
+razi.ac.ir
+susc.ac.ir
+uk.ac.ir
 um.ac.ir
 shirazu.ac.ir
-tabriz.ac.ir
-guilan.ac.ir
+tabrizu.ac.ir
+uoz.ac.ir
+bou.ac.ir
+znu.ac.ir
+semnan.ac.ir
+qom.ac.ir
+uut.ac.ir
+yazd.ac.ir
+sku.ac.ir
+lu.ac.ir
+uok.ac.ir
+usb.ac.ir
+uma.ac.ir
+ikiu.ac.ir
+sru.ac.ir
+kashanu.ac.ir
+vru.ac.ir
+birjand.ac.ir
+nit.ac.ir
+bzte.ac.ir
+gonbad.ac.ir
+shahed.ac.ir
+sut.ac.ir
+qut.ac.ir
+ub.ac.ir
+kntu.ac.ir
+usku.ac.ir
+hormozgan.ac.ir
+ilam.ac.ir
+atu.ac.ir
+scu.ac.ir
+iau.ac.ir
+iau.ir
+srbiau.ac.ir
+pnu.ac.ir
 
 # ============================================
-# MEDIA - STATE (8)
+# RESEARCH INSTITUTES (9)
+# ============================================
+ipm.ac.ir
+irost.org
+ihcs.ac.ir
+nigeb.ac.ir
+merc.ac.ir
+ismo.ac.ir
+iasbs.ac.ir
+isrc.ac.ir
+nrcam.ac.ir
+
+# ============================================
+# WATER & SEWAGE - PROVINCIAL (27)
+# ============================================
+abfatehran.ir
+abfaesfahan.ir
+abfaazarbaijan.ir
+abfa-ilam.ir
+abfakhorasan.ir
+abfa-ardabil.co.ir
+abfa-qom.ir
+abfa-fars.ir
+abfagilan.ir
+abfa-kz.ir
+abfa-hamedan.ir
+abfa-hormozgan.ir
+abfa-kb.ir
+abfa-semnan.ir
+abfa-yazd.ir
+abfa-lorestan.ir
+abfa-golestan.ir
+abfa-markazi.ir
+abfa-bushehr.ir
+abfa-zanjan.ir
+abfa-kermanshah.ir
+abfa-mazandaran.ir
+abfa-kordestan.ir
+abfa-sb.ir
+abfa-sk.ir
+abfa-km.ir
+abfa-nkh.ir
+
+# ============================================
+# GAS DISTRIBUTION - PROVINCIAL (31)
+# ============================================
+nigc-th.ir
+nigc-es.ir
+nigc-ag.ir
+nigc-ab.ir
+nigc-al.ir
+nigc-ar.ir
+nigc-bk.ir
+nigc-bs.ir
+nigc-ch.ir
+nigc-ea.ir
+nigc-fa.ir
+nigc-gl.ir
+nigc-gn.ir
+nigc-hm.ir
+nigc-hr.ir
+nigc-il.ir
+nigc-kb.ir
+nigc-kd.ir
+nigc-ke.ir
+nigc-kh.ir
+nigc-ks.ir
+nigc-lo.ir
+nigc-mk.ir
+nigc-mn.ir
+nigc-nk.ir
+nigc-qm.ir
+nigc-qz.ir
+nigc-sb.ir
+nigc-sk.ir
+nigc-sm.ir
+nigc-wa.ir
+
+# ============================================
+# STATE-OWNED ENTERPRISES - AUTOMOTIVE (6)
+# ============================================
+ikco.ir
+saipa.ir
+bahman.ir
+zamyad.ir
+pfrpc.ir
+saipayedak.ir
+
+# ============================================
+# STATE-OWNED ENTERPRISES - STEEL (7)
+# ============================================
+msc.ir
+ksc.ir
+iasco.ir
+niscoir.com
+esfahansteel.ir
+hormozgansteel.ir
+oxinsteel.ir
+
+# ============================================
+# STATE-OWNED ENTERPRISES - MINING (5)
+# ============================================
+imidro.ir
+nicico.com
+chadormalu.com
+golgohar.com
+gfrpc.ir
+
+# ============================================
+# MEDIA - STATE NEWS AGENCIES (14)
 # ============================================
 irna.ir
 irib.ir
+iribnews.ir
 presstv.ir
 farsnews.ir
 tasnimnews.com
 mehrnews.com
 isna.ir
+icana.ir
+ilna.ir
+pana.ir
+shana.ir
+ana.ir
+alalam.ir
+
+# ============================================
+# MEDIA - STATE TV & RADIO (8)
+# ============================================
+irib.ir
+presstv.ir
+alalam.ir
+hispantv.ir
+iribnews.ir
+ifilm.ir
+saharTV.ir
+parstoday.ir
+
+# ============================================
+# MEDIA - IRGC-LINKED & HARDLINE (12)
+# ============================================
+farsnews.ir
+tasnimnews.com
+mashreghnews.ir
+rajanews.com
+javanonline.ir
+defapress.ir
+tabnak.ir
 yjc.ir
+bultannews.com
+jahannews.com
+seratnews.com
+alef.ir
 
 # ============================================
-# BANKS (6)
+# MEDIA - NEWSPAPERS (20)
 # ============================================
-cbi.ir
-bmi.ir
-bpi.ir
-bankmellat.ir
-en-bank.net
-parsianbank.ir
+kayhan.ir
+ettelaat.com
+hamshahrionline.ir
+jamejamonline.ir
+irannewspaper.ir
+sharghdaily.ir
+etemadnewspaper.ir
+resalat-news.com
+donya-e-eqtesad.com
+khorasannews.com
+qudsdaily.com
+vatanemrooz.ir
+mardomsalari.ir
+armanmeli.ir
+hemayatonline.ir
+sobhe-no.ir
+7sobh.com
+ion.ir
+siasatrooz.ir
+ghanoondaily.ir
 
 # ============================================
-# CYBER (4)
+# MEDIA - ENGLISH LANGUAGE (6)
+# ============================================
+tehrantimes.com
+financialtribune.com
+irandaily.ir
+ifpnews.com
+iranherald.com
+irannewsdaily.com
+
+# ============================================
+# MEDIA - OTHER NEWS PORTALS (14)
+# ============================================
+khabaronline.ir
+eghtesadonline.com
+entekhab.ir
+aftabnews.ir
+fardanews.com
+mojnews.com
+rasanews.ir
+hawzahnews.com
+ana.press
+snn.ir
+borna.news
+irdiplomacy.ir
+mizan.news
+dolat.ir
+
+# ============================================
+# CYBER & ICT (6)
 # ============================================
 cert.ir
 ito.gov.ir
 afta.gov.ir
 ict.gov.ir
+nic.ir
+gerdab.ir
 
 # ============================================
-# RELIGIOUS & IDEOLOGICAL (6)
+# RELIGIOUS & IDEOLOGICAL (14)
 # ============================================
 leader.ir
+khamenei.ir
 iqna.ir
 hawzah.net
 islamicdoa.ir
 auqaf.ir
 bonyad.ir
+aqr.ir
+hawzahnews.com
+ido.ir
+tebyan.net
+alhassanain.com
+sistani.org
+makarem.ir
 
 # ============================================
-# SPORTS (3)
+# BONYADS / FOUNDATIONS (6)
+# ============================================
+bonyad.ir
+mostazafan.ir
+emdad.ir
+isaar.ir
+razavi.ir
+setad.ir
+
+# ============================================
+# CULTURAL & HERITAGE (6)
+# ============================================
+ichto.ir
+mcth.ir
+nlai.ir
+fcf.ir
+itto.org
+honaronline.ir
+
+# ============================================
+# CULTURAL / PROPAGANDA ORGANIZATIONS (6)
+# ============================================
+ido.ir
+icro.ir
+farhang.gov.ir
+nlai.ir
+farhangsara.ir
+miu.ac.ir
+
+# ============================================
+# SPORTS FEDERATIONS (16)
 # ============================================
 ffiri.ir
 iriff.ir
 olympic.ir
+iranvolleyball.ir
+irisfd.ir
+wrestling.ir
+basketball.ir
+taekwondoiri.ir
+irangymnastics.ir
+iranhandball.ir
+archery.ir
+irsf.ir
+swimming.ir
+irantennis.ir
+boxing.ir
+fencing.ir
 
 # ============================================
-# TOURISM (2)
+# TOURISM (3)
 # ============================================
 tourismiran.ir
 ichto.ir
+itto.org
 
 # ============================================
-# THINK TANKS (4)
+# THINK TANKS & POLICY (4)
 # ============================================
 ipis.ir
 ciis.ir
-iscs.ir
-sfrategicstudies.ir
+iiss.ir
+csr.ir

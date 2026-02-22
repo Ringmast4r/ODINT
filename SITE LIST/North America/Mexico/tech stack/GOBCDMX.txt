@@ -1,0 +1,32 @@
+================================================================================
+TECH STACK: GOBCDMX
+================================================================================
+
+DOMAIN: cdmx.gob.mx
+DESCRIPTION: Mexico City Government
+SCAN DATE: 2026-01-15 17:14:42
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 403 Forbidden
+Server: NOT DISCLOSED
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 403 Forbidden
+Content-Type: text/html
+Cache-Control: no-cache, no-store
+Connection: close
+Content-Length: 865
+X-Iinfo: 7-85132493-0 0NNN RT(1768515234287 1072) q(0 -1 -1 0) r(0 -1) B16 U6
+Set-Cookie: visid_incap_3023639=29tYCXkuQ6uTCIUOTiQr9qJmaWkAAAAAQUIPAAAAAAAe3/oUJnaZEeU2Iby0PUqS; expires=Fri, 15 Jan 2027 07:00:16 GMT; HttpOnly; path=/; Domain=.cdmx.gob.mx
+Set-Cookie: incap_ses_1864_3023639=CudwVSnZ6n6umkU7KULeGaJmaWkAAAAAGEGjhRZFBDnRcd/ztR6++A==; path=/; Domain=.cdmx.gob.mx
+
+================================================================================
+END
+================================================================================

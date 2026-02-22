@@ -1,0 +1,154 @@
+================================================================================
+API ENDPOINT MAP: SPR
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SPR/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SPR/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_12_spr-clasificacion_programacion_ene-feb_2025.csv
+  Route: /api_update/SPR/clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_12_spr-clasificacion_programacion_ene-feb_2025.csv
+  Size: 3.6K
+  Status: OPEN
+
+FILE: clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_13_spr-clasificacion_programacion_jul-ago_2024.csv
+  Route: /api_update/SPR/clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_13_spr-clasificacion_programacion_jul-ago_2024.csv
+  Size: 3.6K
+  Status: OPEN
+
+FILE: clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_15_spr-clasificacion_programacion_2021.csv
+  Route: /api_update/SPR/clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_15_spr-clasificacion_programacion_2021.csv
+  Size: 3.7K
+  Status: OPEN
+
+FILE: clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_16_spr-clasificacion_programacion_2019.csv
+  Route: /api_update/SPR/clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_16_spr-clasificacion_programacion_2019.csv
+  Size: 3.7K
+  Status: OPEN
+
+FILE: clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_17_spr-clasificacion_programacion_2020.csv
+  Route: /api_update/SPR/clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_17_spr-clasificacion_programacion_2020.csv
+  Size: 3.7K
+  Status: OPEN
+
+FILE: clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_2-clasificacion_programacion_2022.csv
+  Route: /api_update/SPR/clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_2-clasificacion_programacion_2022.csv
+  Size: 3.7K
+  Status: OPEN
+
+FILE: clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_2-clasificacion_programacion_2023.csv
+  Route: /api_update/SPR/clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_2-clasificacion_programacion_2023.csv
+  Size: 3.7K
+  Status: OPEN
+
+FILE: clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_2-clasificacion_programacion_junio_2025.csv
+  Route: /api_update/SPR/clasificacion_programacion_ejes_rectores_programacion_canal_catorce_spr_SPR_2-clasificacion_programacion_junio_2025.csv
+  Size: 3.6K
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_1_spr-composicion_programacion_ene-feb_2025.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_1_spr-composicion_programacion_ene-feb_2025.csv
+  Size: 288
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_1_spr-composicion_programacion_jun_2025.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_1_spr-composicion_programacion_jun_2025.csv
+  Size: 279
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_1_spr-composicion_programacion_junio_2025.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_1_spr-composicion_programacion_junio_2025.csv
+  Size: 279
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_10_spr-composicion_programacion_2016.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_10_spr-composicion_programacion_2016.csv
+  Size: 295
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_11_spr-composicion_programacion_2015.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_11_spr-composicion_programacion_2015.csv
+  Size: 294
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_2_spr-composicion_programacion_nov-dic_2024.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_2_spr-composicion_programacion_nov-dic_2024.csv
+  Size: 291
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_3_spr-composicion_programacion_nov-dic_2023.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_3_spr-composicion_programacion_nov-dic_2023.csv
+  Size: 291
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_4_spr-composicion_programacion_diciembre_2022.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_4_spr-composicion_programacion_diciembre_2022.csv
+  Size: 299
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_5_spr-composicion_programacion_2021.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_5_spr-composicion_programacion_2021.csv
+  Size: 300
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_6_spr-composicion_programacion_2020.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_6_spr-composicion_programacion_2020.csv
+  Size: 300
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_7_spr-composicion_programacion_2019.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_7_spr-composicion_programacion_2019.csv
+  Size: 298
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_8_spr-composicion_programacion_2018.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_8_spr-composicion_programacion_2018.csv
+  Size: 298
+  Status: OPEN
+
+FILE: composicion_programacion_SPR_9_spr-composicion_programacion_2017.csv
+  Route: /api_update/SPR/composicion_programacion_SPR_9_spr-composicion_programacion_2017.csv
+  Size: 300
+  Status: OPEN
+
+FILE: estaciones_transmision_09_spr_cobertura_estaciones_fm_altavoz_Jun_2025.csv
+  Route: /api_update/SPR/estaciones_transmision_09_spr_cobertura_estaciones_fm_altavoz_Jun_2025.csv
+  Size: 7.3K
+  Status: OPEN
+
+FILE: estaciones_transmision_10_spr_cobertura_estaciones_tdt_Jun_2025.csv
+  Route: /api_update/SPR/estaciones_transmision_10_spr_cobertura_estaciones_tdt_Jun_2025.csv
+  Size: 44K
+  Status: OPEN
+
+FILE: estaciones_transmision_10_spr_cobertura_estaciones_tdt_Junio_2025.csv
+  Route: /api_update/SPR/estaciones_transmision_10_spr_cobertura_estaciones_tdt_Junio_2025.csv
+  Size: 42K
+  Status: OPEN
+
+FILE: estaciones_transmision_SPR_41_spr_cobertura_estaciones_fm_altavoz.csv
+  Route: /api_update/SPR/estaciones_transmision_SPR_41_spr_cobertura_estaciones_fm_altavoz.csv
+  Size: 6.3K
+  Status: OPEN
+
+FILE: estaciones_transmision_SPR_42_spr_cobertura_estaciones_tdt.csv
+  Route: /api_update/SPR/estaciones_transmision_SPR_42_spr_cobertura_estaciones_tdt.csv
+  Size: 40K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 26
+Total Size: 170K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

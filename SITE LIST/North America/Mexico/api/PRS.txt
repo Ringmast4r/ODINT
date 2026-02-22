@@ -1,0 +1,494 @@
+================================================================================
+API ENDPOINT MAP: PRS
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/PRS/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/PRS/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: informacion_estadistica_penitenciaria_nacional_01_ing_eg_sex_ent.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_01_ing_eg_sex_ent.csv
+  Size: 3.0K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_02_fue_sjur_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_02_fue_sjur_sex_ent_feb25.csv
+  Size: 5.1K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_03_sobrepob_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_03_sobrepob_ent_feb25.csv
+  Size: 2.9K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_04_tipos_centro_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_04_tipos_centro_ent_feb25.csv
+  Size: 2.0K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_05_altiplano_fue_sjur_sex_ente_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_05_altiplano_fue_sjur_sex_ente_feb25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_06_noroeste_fue_sjur_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_06_noroeste_fue_sjur_sex_ent_feb25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_07_oriente_fue_sjur_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_07_oriente_fue_sjur_sex_ent_feb25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_08_nornoroeste_fue_sjur_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_08_nornoroeste_fue_sjur_sex_ent_feb25.csv
+  Size: 1.5K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_09_norponiente_fue_sjur_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_09_norponiente_fue_sjur_sex_ent_feb25.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_10_cps_sonora_fue_sju_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_10_cps_sonora_fue_sju_sex_ent_feb25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_11_cps_guanajuato_fue_sju_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_11_cps_guanajuato_fue_sju_sex_ent_feb25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_12_cps_oaxaca_fue_sju_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_12_cps_oaxaca_fue_sju_sex_ent_feb25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_13_cps_durango_fue_sju_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_13_cps_durango_fue_sju_sex_ent_feb25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_14_cps_chiapas_fue_sjur_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_14_cps_chiapas_fue_sjur_sex_ent_feb25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_15_cps_morelos_fue_sju_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_15_cps_morelos_fue_sju_sex_ent_feb25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_16_cps_michoacan_fue_sju_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_16_cps_michoacan_fue_sju_sex_ent_feb25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_17_cps_coahuila_fue_sju_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_17_cps_coahuila_fue_sju_sex_ent_feb25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_18_ceferepsi_fue_sjur_sex_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_18_ceferepsi_fue_sjur_sex_ent_feb25.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_19_gpo_edad_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_19_gpo_edad_ent_feb25.csv
+  Size: 3.2K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_20_gpo_edad_fuero_sjur_sexo_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_20_gpo_edad_fuero_sjur_sexo_feb25.csv
+  Size: 1.2K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_21_niv_esc_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_21_niv_esc_ent_feb25.csv
+  Size: 4.4K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_22_niv_esc_fuero_sjur_sexo_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_22_niv_esc_fuero_sjur_sexo_feb25.csv
+  Size: 2.2K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_23_inicio_vigilancia_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_23_inicio_vigilancia_feb25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_24_libertad_vigilada_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_24_libertad_vigilada_feb25.csv
+  Size: 2.9K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_25_concluyo_vigilancia_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_25_concluyo_vigilancia_feb25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_26_incidencias_ent_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_26_incidencias_ent_feb25.csv
+  Size: 4.0K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_27_incidencias_centro_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_27_incidencias_centro_feb25.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_28_incidencias_fuero-sjur_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_28_incidencias_fuero-sjur_feb25.csv
+  Size: 933
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_29_traslados_extrad_fue_sex2_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_29_traslados_extrad_fue_sex2_feb25.csv
+  Size: 2.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_30_fue_sjur_var_mensual_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_30_fue_sjur_var_mensual_feb25.csv
+  Size: 2.3K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_31_fue_sjur_sex_centro1_feb_25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_31_fue_sjur_sex_centro1_feb_25.csv
+  Size: 33K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_31_fue_sjur_sex_centro1_feb25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_31_fue_sjur_sex_centro1_feb25.csv
+  Size: 35K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_01_ing_eg_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_01_ing_eg_sex_ent_abr25.csv
+  Size: 3.0K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_02_fue_sjur_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_02_fue_sjur_sex_ent_abr25.csv
+  Size: 5.1K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_03_sobrepob_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_03_sobrepob_ent_abr25.csv
+  Size: 2.9K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_04_tipos_centro_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_04_tipos_centro_ent_abr25.csv
+  Size: 2.0K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_05_altiplano_fue_sjur_sex_ente_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_05_altiplano_fue_sjur_sex_ente_abr25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_06_noroeste_fue_sjur_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_06_noroeste_fue_sjur_sex_ent_abr25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_07_oriente_fue_sjur_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_07_oriente_fue_sjur_sex_ent_abr25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_08_nornoroeste_fue_sjur_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_08_nornoroeste_fue_sjur_sex_ent_abr25.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_09_norponiente_fue_sjur_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_09_norponiente_fue_sjur_sex_ent_abr25.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_10_cps_sonora_fue_sju_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_10_cps_sonora_fue_sju_sex_ent_abr25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_11_cps_guanajuato_fue_sju_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_11_cps_guanajuato_fue_sju_sex_ent_abr25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_12_cps_oaxaca_fue_sju_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_12_cps_oaxaca_fue_sju_sex_ent_abr25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_13_cps_durango_fue_sju_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_13_cps_durango_fue_sju_sex_ent_abr25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_14_cps_chiapas_fue_sjur_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_14_cps_chiapas_fue_sjur_sex_ent_abr25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_15_cps_morelos_fue_sju_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_15_cps_morelos_fue_sju_sex_ent_abr25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_16_cps_michoacan_fue_sju_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_16_cps_michoacan_fue_sju_sex_ent_abr25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_17_cps_coahuila_fue_sju_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_17_cps_coahuila_fue_sju_sex_ent_abr25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_18_ceferepsi_fue_sjur_sex_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_18_ceferepsi_fue_sjur_sex_ent_abr25.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_19_gpo_edad_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_19_gpo_edad_ent_abr25.csv
+  Size: 3.2K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_20_gpo_edad_fuero_sjur_sexo_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_20_gpo_edad_fuero_sjur_sexo_abr25.csv
+  Size: 1.2K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_21_niv_esc_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_21_niv_esc_ent_abr25.csv
+  Size: 4.4K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_22_niv_esc_fuero_sjur_sexo_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_22_niv_esc_fuero_sjur_sexo_abr25.csv
+  Size: 2.2K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_23_inicio_vigilancia_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_23_inicio_vigilancia_abr25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_24_libertad_vigilada_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_24_libertad_vigilada_abr25.csv
+  Size: 2.9K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_25_concluyo_vigilancia_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_25_concluyo_vigilancia_abr25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_26_incidencias_ent_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_26_incidencias_ent_abr25.csv
+  Size: 4.0K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_27_incidencias_centro_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_27_incidencias_centro_abr25.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_28_incidencias_fuero-sjur_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_28_incidencias_fuero-sjur_abr25.csv
+  Size: 939
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_29_traslados_extrad_fue_sex2_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_29_traslados_extrad_fue_sex2_abr25.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_30_fue_sjur_var_mensual_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_30_fue_sjur_var_mensual_abr25.csv
+  Size: 2.3K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_abril_2025_31_fue_sjur_sex_centro1_abr25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_abril_2025_31_fue_sjur_sex_centro1_abr25.csv
+  Size: 35K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_01_ing_eg_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_01_ing_eg_sex_ent_ene25.csv
+  Size: 3.0K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_02_fue_sjur_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_02_fue_sjur_sex_ent_ene25.csv
+  Size: 5.1K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_03_sobrepob_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_03_sobrepob_ent_ene25.csv
+  Size: 2.9K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_04_tipos_centro_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_04_tipos_centro_ent_ene25.csv
+  Size: 2.0K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_05_altiplano_fue_sjur_sex_ente_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_05_altiplano_fue_sjur_sex_ente_ene25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_06_noroeste_fue_sjur_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_06_noroeste_fue_sjur_sex_ent_ene25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_07_oriente_fue_sjur_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_07_oriente_fue_sjur_sex_ent_ene25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_08_nornoroeste_fue_sjur_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_08_nornoroeste_fue_sjur_sex_ent_ene25.csv
+  Size: 1.5K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_09_norponiente_fue_sjur_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_09_norponiente_fue_sjur_sex_ent_ene25.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_10_cps_sonora_fue_sju_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_10_cps_sonora_fue_sju_sex_ent_ene25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_11_cps_guanajuato_fue_sju_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_11_cps_guanajuato_fue_sju_sex_ent_ene25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_12_cps_oaxaca_fue_sju_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_12_cps_oaxaca_fue_sju_sex_ent_ene25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_13_cps_durango_fue_sju_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_13_cps_durango_fue_sju_sex_ent_ene25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_14_cps_chiapas_fue_sjur_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_14_cps_chiapas_fue_sjur_sex_ent_ene25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_15_cps_morelos_fue_sju_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_15_cps_morelos_fue_sju_sex_ent_ene25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_16_cps_michoacan_fue_sju_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_16_cps_michoacan_fue_sju_sex_ent_ene25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_17_cps_coahuila_fue_sju_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_17_cps_coahuila_fue_sju_sex_ent_ene25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_18_ceferepsi_fue_sjur_sex_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_18_ceferepsi_fue_sjur_sex_ent_ene25.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_19_gpo_edad_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_19_gpo_edad_ent_ene25.csv
+  Size: 3.2K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_20_gpo_edad_fuero_sjur_sexo_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_20_gpo_edad_fuero_sjur_sexo_ene25.csv
+  Size: 1.3K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_21_niv_esc_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_21_niv_esc_ent_ene25.csv
+  Size: 4.4K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_22_niv_esc_fuero_sjur_sexo_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_22_niv_esc_fuero_sjur_sexo_ene25.csv
+  Size: 2.2K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_23_inicio_vigilancia_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_23_inicio_vigilancia_ene25.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_24_libertad_vigilada_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_24_libertad_vigilada_ene25.csv
+  Size: 2.9K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_25_concluyo_vigilancia_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_25_concluyo_vigilancia_ene25.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_26_incidencias_ent_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_26_incidencias_ent_ene25.csv
+  Size: 4.0K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_27_incidencias_centro_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_27_incidencias_centro_ene25.csv
+  Size: 3.2K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_28_incidencias_fuero-sjur_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_28_incidencias_fuero-sjur_ene25.csv
+  Size: 935
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_29_traslados_extrad_fue_sex2_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_29_traslados_extrad_fue_sex2_ene25.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_30_fue_sjur_var_mensual_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_30_fue_sjur_var_mensual_ene25.csv
+  Size: 2.3K
+  Status: OPEN
+
+FILE: informacion_estadistica_penitenciaria_nacional_enero_2025_31_fue_sjur_sex_centro1_ene25.csv
+  Route: /api_update/PRS/informacion_estadistica_penitenciaria_nacional_enero_2025_31_fue_sjur_sex_centro1_ene25.csv
+  Size: 35K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 94
+Total Size: 335K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

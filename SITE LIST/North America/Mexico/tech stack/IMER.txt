@@ -1,0 +1,42 @@
+================================================================================
+TECH STACK: IMER
+================================================================================
+
+DOMAIN: imer.mx
+URL PROBED: https://www.imer.mx
+SCAN DATE: 2026-01-15 17:03:26
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: LiteSpeed
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=Let's Encrypt, CN=R12
+subject=CN=webdisk.principal.imer.mx
+notBefore=Dec 10 02:03:40 2025 GMT
+notAfter=Mar 10 02:03:39 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.imer.mx/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.imer.mx/wp-json/wp/v2/pages/93003>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.imer.mx/>; rel=shortlink
+Date: Thu, 15 Jan 2026 22:02:36 GMT
+Server: LiteSpeed
+Vary: User-Agent
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+================================================================================
+END
+================================================================================

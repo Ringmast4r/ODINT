@@ -1,0 +1,489 @@
+================================================================================
+API ENDPOINT MAP: CNBBBJ
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CNBBBJ/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CNBBBJ/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_01_Aguascalientes_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_01_Aguascalientes_4to_Trim2019.csv
+  Size: 2.9M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_02_Baja_California_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_02_Baja_California_4to_Trim2019.csv
+  Size: 6.1M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_03_Baja_California_Sur_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_03_Baja_California_Sur_4to_Trim2019.csv
+  Size: 2.7M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_04_Campeche_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_04_Campeche_4to_Trim2019.csv
+  Size: 4.5M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_05_Coahuila_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_05_Coahuila_4to_Trim2019.csv
+  Size: 2.1M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_06_Colima_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_06_Colima_4to_Trim2019.csv
+  Size: 1.5M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_08_Chihuahua_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_08_Chihuahua_4to_Trim2019.csv
+  Size: 8.2M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_09_Cdmx_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_09_Cdmx_4to_Trim2019.csv
+  Size: 3.4M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_10_Durango_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_10_Durango_4to_Trim2019.csv
+  Size: 6.8M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_11_Guanajuato_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_11_Guanajuato_4to_Trim2019.csv
+  Size: 22M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_12_Guerrero_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_12_Guerrero_4to_Trim2019.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_13_Hidalgo_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_13_Hidalgo_4to_Trim2019.csv
+  Size: 20M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_14_Jalisco_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_14_Jalisco_4to_Trim2019.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_15_Mexico_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_15_Mexico_4to_Trim2019.csv
+  Size: 16M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_16_Michoacan_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_16_Michoacan_4to_Trim2019.csv
+  Size: 22M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_17_Morelos_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_17_Morelos_4to_Trim2019.csv
+  Size: 4.6M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_18_Nayarit_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_18_Nayarit_4to_Trim2019.csv
+  Size: 2.6M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_19_Nuevo_Leon_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_19_Nuevo_Leon_4to_Trim2019.csv
+  Size: 3.4M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_20_Oaxaca_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_20_Oaxaca_4to_Trim2019.csv
+  Size: 42M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_21_Puebla_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_21_Puebla_4to_Trim2019.csv
+  Size: 42M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_22_Queretaro_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_22_Queretaro_4to_Trim2019.csv
+  Size: 6.2M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_23_Quintana_Roo_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_23_Quintana_Roo_4to_Trim2019.csv
+  Size: 5.2M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_24_San_Luis_Potosi_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_24_San_Luis_Potosi_4to_Trim2019.csv
+  Size: 16M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_25_Sinaloa_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_25_Sinaloa_4to_Trim2019.csv
+  Size: 8.6M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_26_Sonora_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_26_Sonora_4to_Trim2019.csv
+  Size: 3.3M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_27_Tabasco_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_27_Tabasco_4to_Trim2019.csv
+  Size: 15M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_28_Tamaulipas_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_28_Tamaulipas_4to_Trim2019.csv
+  Size: 8.3M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_29_Tlaxcala_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_29_Tlaxcala_4to_Trim2019.csv
+  Size: 4.6M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_30_Veracruz_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_30_Veracruz_4to_Trim2019.csv
+  Size: 42M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_31_Yucatan_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_31_Yucatan_4to_Trim2019.csv
+  Size: 8.4M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_32_Zacatecas_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s072_S072_EDO_32_Zacatecas_4to_Trim2019.csv
+  Size: 5.2M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_01_Aguascalientes_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_01_Aguascalientes_4to_Trim2019.csv
+  Size: 238K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_02_Baja_Caifornia_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_02_Baja_Caifornia_4to_Trim2019.csv
+  Size: 113K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_03_Baja_Caifornia_Sur_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_03_Baja_Caifornia_Sur_4to_Trim2019.csv
+  Size: 128K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_04_Campeche_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_04_Campeche_4to_Trim2019.csv
+  Size: 217K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_05_Coahuila_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_05_Coahuila_4to_Trim2019.csv
+  Size: 283K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_06_Colima_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_06_Colima_4to_Trim2019.csv
+  Size: 92K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_08_Chihuahua_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_08_Chihuahua_4to_Trim2019.csv
+  Size: 246K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_09_Cdmx_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_09_Cdmx_4to_Trim2019.csv
+  Size: 1.3M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_10_Durango_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_10_Durango_4to_Trim2019.csv
+  Size: 267K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_11_Guanajuato_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_11_Guanajuato_4to_Trim2019.csv
+  Size: 431K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_12_Guerrero_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_12_Guerrero_4to_Trim2019.csv
+  Size: 1.3M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_13_Hidalgo_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_13_Hidalgo_4to_Trim2019.csv
+  Size: 1.3M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_14_Jalisco_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_14_Jalisco_4to_Trim2019.csv
+  Size: 462K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_15_Mexico_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_15_Mexico_4to_Trim2019.csv
+  Size: 1.6M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_16_Michoacan_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_16_Michoacan_4to_Trim2019.csv
+  Size: 792K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_17_Morelos_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_17_Morelos_4to_Trim2019.csv
+  Size: 714K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_18_Nayarit_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_18_Nayarit_4to_Trim2019.csv
+  Size: 118K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_20_Oaxaca_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_20_Oaxaca_4to_Trim2019.csv
+  Size: 1.5M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_21_Puebla_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_21_Puebla_4to_Trim2019.csv
+  Size: 1.5M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_22_Queretaro_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_22_Queretaro_4to_Trim2019.csv
+  Size: 238K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_23_Quintana_Roo_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_23_Quintana_Roo_4to_Trim2019.csv
+  Size: 296K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_24_San_Luis_Potosi_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_24_San_Luis_Potosi_4to_Trim2019.csv
+  Size: 565K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_25_Sinaloa_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_25_Sinaloa_4to_Trim2019.csv
+  Size: 487K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_26_Sonora_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_26_Sonora_4to_Trim2019.csv
+  Size: 286K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_27_Tabasco_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_27_Tabasco_4to_Trim2019.csv
+  Size: 894K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_28_Tamaulipas_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_28_Tamaulipas_4to_Trim2019.csv
+  Size: 361K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_29_Tlaxcala_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_29_Tlaxcala_4to_Trim2019.csv
+  Size: 217K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_30_Veracruz_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_30_Veracruz_4to_Trim2019.csv
+  Size: 1.8M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_31_Yucatan_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_31_Yucatan_4to_Trim2019.csv
+  Size: 414K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_32_Zacatecas_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s283_S283_EDO_32_Zacatecas_4to_Trim2019.csv
+  Size: 184K
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_01_Aguascalientes_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_01_Aguascalientes_4to_Trim2019.csv
+  Size: 3.4M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_02_Baja_California_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_02_Baja_California_4to_Trim2019.csv
+  Size: 6.4M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_03_Baja_Califoria_Sur_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_03_Baja_Califoria_Sur_4to_Trim2019.csv
+  Size: 2.5M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_04_Campeche_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_04_Campeche_4to_Trim2019.csv
+  Size: 2.3M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_05_Coahuila_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_05_Coahuila_4to_Trim2019.csv
+  Size: 4.4M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_06_Colima_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_06_Colima_4to_Trim2019.csv
+  Size: 1.7M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_07_Chiapas_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_07_Chiapas_4to_Trim2019.csv
+  Size: 16M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_08_Chihuahua_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_08_Chihuahua_4to_Trim2019.csv
+  Size: 7.4M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_09_Cdmx_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_09_Cdmx_4to_Trim2019.csv
+  Size: 30M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_10_Durango_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_10_Durango_4to_Trim2019.csv
+  Size: 4.7M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_11_Guanajuato_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_11_Guanajuato_4to_Trim2019.csv
+  Size: 14M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_12_Guerrero_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_12_Guerrero_4to_Trim2019.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_13_Hidalgo_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_13_Hidalgo_4to_Trim2019.csv
+  Size: 9.4M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_14_Jalisco_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_14_Jalisco_4to_Trim2019.csv
+  Size: 16M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_15_Mexico_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_15_Mexico_4to_Trim2019.csv
+  Size: 39M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_16_Michoacan_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_16_Michoacan_4to_Trim2019.csv
+  Size: 9.1M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_17_Morelos_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_17_Morelos_4to_Trim2019.csv
+  Size: 4.0M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_18_Nayarit_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_18_Nayarit_4to_Trim2019.csv
+  Size: 2.7M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_19_Nuevo_Leon_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_19_Nuevo_Leon_4to_Trim2019.csv
+  Size: 9.0M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_20_Oaxaca_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_20_Oaxaca_4to_Trim2019.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_21_Puebla_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_21_Puebla_4to_Trim2019.csv
+  Size: 20M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_22_Queretaro_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_22_Queretaro_4to_Trim2019.csv
+  Size: 5.4M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_23_Quintana_Roo_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_23_Quintana_Roo_4to_Trim2019.csv
+  Size: 4.2M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_24_San_Luis_Potosi_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_24_San_Luis_Potosi_4to_Trim2019.csv
+  Size: 7.6M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_25_Sinaloa_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_25_Sinaloa_4to_Trim2019.csv
+  Size: 7.3M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_26_Sonora_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_26_Sonora_4to_Trim2019.csv
+  Size: 6.5M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_27_Tabasco_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_27_Tabasco_4to_Trim2019.csv
+  Size: 7.5M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_28_Tamaulipas_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_28_Tamaulipas_4to_Trim2019.csv
+  Size: 6.2M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_29_Tlaxcala_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_29_Tlaxcala_4to_Trim2019.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_30_Veracruz_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_30_Veracruz_4to_Trim2019.csv
+  Size: 7.9M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_31_Yucatan_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_31_Yucatan_4to_Trim2019.csv
+  Size: 4.6M
+  Status: OPEN
+
+FILE: programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_32_Zacatecas_4to_Trim2019.csv
+  Route: /api_update/CNBBBJ/programa_nacional_becas_bienestar_benito_juarez_2019_programa_s311_S311_EDO_32_Zacatecas_4to_Trim2019.csv
+  Size: 4.1M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 93
+Total Size: 662M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

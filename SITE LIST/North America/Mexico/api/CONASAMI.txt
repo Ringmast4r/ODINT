@@ -1,0 +1,319 @@
+================================================================================
+API ENDPOINT MAP: CONASAMI
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONASAMI/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONASAMI/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2021.csv
+  Route: /api_update/CONASAMI/equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2021.csv
+  Size: 1.9K
+  Status: OPEN
+
+FILE: equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2022.csv
+  Route: /api_update/CONASAMI/equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2022.csv
+  Size: 1.9K
+  Status: OPEN
+
+FILE: equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2023.csv
+  Route: /api_update/CONASAMI/equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2023.csv
+  Size: 1.9K
+  Status: OPEN
+
+FILE: equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2024.csv
+  Route: /api_update/CONASAMI/equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2024.csv
+  Size: 1.9K
+  Status: OPEN
+
+FILE: equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2025.csv
+  Route: /api_update/CONASAMI/equivalencia_ocupaciones_equivalencia_conasami_inegi_imss_2025.csv
+  Size: 6.8K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_clasif_objeto_gasto_2019.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_clasif_objeto_gasto_2019.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_clasif_objeto_gasto_2020.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_clasif_objeto_gasto_2020.csv
+  Size: 29K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_clasif_objeto_gasto_2021.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_clasif_objeto_gasto_2021.csv
+  Size: 29K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_clasif_objeto_gasto_2022.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_clasif_objeto_gasto_2022.csv
+  Size: 29K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_clasif_objeto_gasto_2023.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_clasif_objeto_gasto_2023.csv
+  Size: 29K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_clasif_objeto_gasto_2024.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_clasif_objeto_gasto_2024.csv
+  Size: 29K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_clasif_objeto_gasto_2025.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_clasif_objeto_gasto_2025.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_act_2019.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_act_2019.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_act_2020.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_act_2020.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_act_2021.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_act_2021.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_act_2022.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_act_2022.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_act_2023.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_act_2023.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_act_2024.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_act_2024.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_act_2025.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_act_2025.csv
+  Size: 8.4K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_cam_sit_fin_2019.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_cam_sit_fin_2019.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_cam_sit_fin_2020.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_cam_sit_fin_2020.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_cam_sit_fin_2021.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_cam_sit_fin_2021.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_cam_sit_fin_2022.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_cam_sit_fin_2022.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_cam_sit_fin_2023.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_cam_sit_fin_2023.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_cam_sit_fin_2024.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_cam_sit_fin_2024.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_est_cam_sit_fin_2025.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_est_cam_sit_fin_2025.csv
+  Size: 7.5K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_gto_cat_programatico_2019.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_gto_cat_programatico_2019.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_gto_cat_programatico_2020.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_gto_cat_programatico_2020.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_gto_cat_programatico_2021.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_gto_cat_programatico_2021.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_gto_cat_programatico_2022.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_gto_cat_programatico_2022.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_gto_cat_programatico_2023.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_gto_cat_programatico_2023.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_gto_cat_programatico_2024.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_gto_cat_programatico_2024.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_gto_cat_programatico_2025.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_gto_cat_programatico_2025.csv
+  Size: 5.6K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_sit_fin_2019.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_sit_fin_2019.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_sit_fin_2020.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_sit_fin_2020.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_sit_fin_2021.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_sit_fin_2021.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_sit_fin_2022.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_sit_fin_2022.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_sit_fin_2023.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_sit_fin_2023.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_sit_fin_2024.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_sit_fin_2024.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: informacion_financiera_gubernamental_sit_fin_2025.csv
+  Route: /api_update/CONASAMI/informacion_financiera_gubernamental_sit_fin_2025.csv
+  Size: 7.3K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_1_semestre_inventario_2019.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_1_semestre_inventario_2019.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_1_semestre_inventario_2020.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_1_semestre_inventario_2020.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_1_semestre_inventario_2021.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_1_semestre_inventario_2021.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_1_semestre_inventario_2022.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_1_semestre_inventario_2022.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_1_semestre_inventario_2023.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_1_semestre_inventario_2023.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_1_semestre_inventario_2024.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_1_semestre_inventario_2024.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_1_semestre_inventario_2025.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_1_semestre_inventario_2025.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_2_semestre_inventario_2019.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_2_semestre_inventario_2019.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_2_semestre_inventario_2020.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_2_semestre_inventario_2020.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_2_semestre_inventario_2021.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_2_semestre_inventario_2021.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_2_semestre_inventario_2022.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_2_semestre_inventario_2022.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_2_semestre_inventario_2023.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_2_semestre_inventario_2023.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_2_semestre_inventario_2024.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_2_semestre_inventario_2024.csv
+  Size: 243K
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2019.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2019.csv
+  Size: 146
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2020.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2020.csv
+  Size: 146
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2021.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2021.csv
+  Size: 146
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2022.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2022.csv
+  Size: 146
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2023.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2023.csv
+  Size: 146
+  Status: OPEN
+
+FILE: inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2024.csv
+  Route: /api_update/CONASAMI/inventario_bienes_muebles_inmuebles_anual_bienes_inmuebles_2024.csv
+  Size: 146
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 59
+Total Size: 3.7M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

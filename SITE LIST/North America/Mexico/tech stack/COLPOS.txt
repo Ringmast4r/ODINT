@@ -1,0 +1,36 @@
+================================================================================
+TECH STACK: COLPOS
+================================================================================
+
+DOMAIN: colpos.mx
+URL PROBED: https://www.colpos.mx
+SCAN DATE: 2026-01-15 17:03:04
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 302 Found
+Server: Apache
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, ST=Arizona, L=Scottsdale, O=Starfield Technologies, Inc., OU=http://certs.starfieldtech.com/repository/, CN=Starfield Secure Certificate Authority - G2
+subject=CN=colpos.mx
+notBefore=Nov 27 00:29:34 2025 GMT
+notAfter=Feb 25 00:29:34 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 302 Found
+Date: Thu, 15 Jan 2026 22:02:14 GMT
+Server: Apache
+Location: https://www.colpos.mx/cp
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

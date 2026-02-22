@@ -1,0 +1,74 @@
+================================================================================
+API ENDPOINT MAP: SGM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SGM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SGM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: anuario_estadistico_mineria_mexicana_Geologico
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_Geologico
+  Size: 146
+  Status: OPEN
+
+FILE: anuario_estadistico_mineria_mexicana_Mexicano_1_Importaciones_Areas_Geograficas_UTF8.csv
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_Mexicano_1_Importaciones_Areas_Geograficas_UTF8.csv
+  Size: 146
+  Status: OPEN
+
+FILE: anuario_estadistico_mineria_mexicana_Servicio
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_Servicio
+  Size: 146
+  Status: OPEN
+
+FILE: anuario_estadistico_mineria_mexicana_sgm_1_Importaciones_Areas_Geograficas_UTF8.csv
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_sgm_1_Importaciones_Areas_Geograficas_UTF8.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: anuario_estadistico_mineria_mexicana_sgm_2_Exportaciones_Areas_Geograficas_UTF8.csv
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_sgm_2_Exportaciones_Areas_Geograficas_UTF8.csv
+  Size: 2.4K
+  Status: OPEN
+
+FILE: anuario_estadistico_mineria_mexicana_sgm_3_Importaciones_Metalicos_NoMetalicos_UTF8.csv
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_sgm_3_Importaciones_Metalicos_NoMetalicos_UTF8.csv
+  Size: 3.6K
+  Status: OPEN
+
+FILE: anuario_estadistico_mineria_mexicana_sgm_4_Exportaciones_Metalicos_NoMetalicos_UTF8.csv
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_sgm_4_Exportaciones_Metalicos_NoMetalicos_UTF8.csv
+  Size: 2.9K
+  Status: OPEN
+
+FILE: anuario_estadistico_mineria_mexicana_sgm_5_Produccion_Minera_Total_Producto_UTF8.csv
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_sgm_5_Produccion_Minera_Total_Producto_UTF8.csv
+  Size: 4.0K
+  Status: OPEN
+
+FILE: anuario_estadistico_mineria_mexicana_sgm_6_Produccion_Minera_Por_Entidades_UTF8.csv
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_sgm_6_Produccion_Minera_Por_Entidades_UTF8.csv
+  Size: 2.3K
+  Status: OPEN
+
+FILE: anuario_estadistico_mineria_mexicana_sgm_7_Metalicos_No_Metalicos_Minas_UTF8.csv
+  Route: /api_update/SGM/anuario_estadistico_mineria_mexicana_sgm_7_Metalicos_No_Metalicos_Minas_UTF8.csv
+  Size: 178K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 10
+Total Size: 196K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

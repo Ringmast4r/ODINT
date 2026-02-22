@@ -1,0 +1,94 @@
+================================================================================
+API ENDPOINT MAP: SECIHTI
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SECIHTI/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SECIHTI/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: indicadores_base_indicador-cfp02_2018.csv
+  Route: /api_update/SECIHTI/indicadores_base_indicador-cfp02_2018.csv
+  Size: 410
+  Status: OPEN
+
+FILE: indicadores_base_indicador-cfp02_2024.csv
+  Route: /api_update/SECIHTI/indicadores_base_indicador-cfp02_2024.csv
+  Size: 286
+  Status: OPEN
+
+FILE: indicadores_base_indicador-cfp03_2018.csv
+  Route: /api_update/SECIHTI/indicadores_base_indicador-cfp03_2018.csv
+  Size: 403
+  Status: OPEN
+
+FILE: indicadores_base_indicador-cfp03_2024.csv
+  Route: /api_update/SECIHTI/indicadores_base_indicador-cfp03_2024.csv
+  Size: 281
+  Status: OPEN
+
+FILE: indicadores_base_indicador-cfr02_2018.csv
+  Route: /api_update/SECIHTI/indicadores_base_indicador-cfr02_2018.csv
+  Size: 403
+  Status: OPEN
+
+FILE: indicadores_base_indicador-cfr02_2024.csv
+  Route: /api_update/SECIHTI/indicadores_base_indicador-cfr02_2024.csv
+  Size: 261
+  Status: OPEN
+
+FILE: programa_presupuestario_desarrollo_actividades_relacionadas_hcti_f002_f003_base_pp-f002-f003_2023.csv
+  Route: /api_update/SECIHTI/programa_presupuestario_desarrollo_actividades_relacionadas_hcti_f002_f003_base_pp-f002-f003_2023.csv
+  Size: 4.9M
+  Status: OPEN
+
+FILE: programa_presupuestario_desarrollo_actividades_relacionadas_hcti_f002_f003_base_pp-f002-f003_2024.csv
+  Route: /api_update/SECIHTI/programa_presupuestario_desarrollo_actividades_relacionadas_hcti_f002_f003_base_pp-f002-f003_2024.csv
+  Size: 4.2M
+  Status: OPEN
+
+FILE: programa_presupuestario_p001_base_catedras-p001_2019.csv
+  Route: /api_update/SECIHTI/programa_presupuestario_p001_base_catedras-p001_2019.csv
+  Size: 28K
+  Status: OPEN
+
+FILE: programa_presupuestario_p001_base_catedras-p001_2020.csv
+  Route: /api_update/SECIHTI/programa_presupuestario_p001_base_catedras-p001_2020.csv
+  Size: 3.4K
+  Status: OPEN
+
+FILE: programa_presupuestario_p001_base_catedras-p001_2021.csv
+  Route: /api_update/SECIHTI/programa_presupuestario_p001_base_catedras-p001_2021.csv
+  Size: 34K
+  Status: OPEN
+
+FILE: programa_presupuestario_p001_base_catedras-p001_2022.csv
+  Route: /api_update/SECIHTI/programa_presupuestario_p001_base_catedras-p001_2022.csv
+  Size: 40K
+  Status: OPEN
+
+FILE: programa_presupuestario_p001_base_catedras-p001_2023.csv
+  Route: /api_update/SECIHTI/programa_presupuestario_p001_base_catedras-p001_2023.csv
+  Size: 42K
+  Status: OPEN
+
+FILE: programa_presupuestario_p001_base_catedras-p001_2024.csv
+  Route: /api_update/SECIHTI/programa_presupuestario_p001_base_catedras-p001_2024.csv
+  Size: 74K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 14
+Total Size: 9.3M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

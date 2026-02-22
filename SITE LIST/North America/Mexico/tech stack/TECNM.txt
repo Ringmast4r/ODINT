@@ -1,0 +1,46 @@
+================================================================================
+TECH STACK: TECNM
+================================================================================
+
+DOMAIN: tecnm.mx
+URL PROBED: https://www.tecnm.mx
+SCAN DATE: 2026-01-15 17:03:04
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: cloudflare
+Content-Type: text/html; charset=UTF-8
+CDN: Cloudflare
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA
+subject=CN=*.tecnm.mx
+notBefore=Dec  3 00:00:00 2024 GMT
+notAfter=Dec  3 23:59:59 2025 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:02:14 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Server: cloudflare
+vary: Accept-Encoding
+x-powered-by: PHP/7.4.33
+Set-Cookie: PHPSESSID=mc9j4hjmou7jnoig2s3c94urvn; path=/
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+pragma: no-cache
+access-control-allow-credentials: true
+access-control-allow-headers: Content-Type, Authorization
+cf-cache-status: DYNAMIC
+CF-RAY: 9be8a7fd9b4bbe6e-AMS
+
+================================================================================
+END
+================================================================================

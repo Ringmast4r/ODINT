@@ -1,0 +1,79 @@
+================================================================================
+API ENDPOINT MAP: CAPUFE (Highways)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CAPUFE/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CAPUFE/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: aforo_tramos_carreteros_puentes_red_propia_capufe_fonadin_14_Aforo_CAPUFE_FONADIN.csv
+  Route: /api_update/CAPUFE/aforo_tramos_carreteros_puentes_red_propia_capufe_fonadin_14_Aforo_CAPUFE_FONADIN.csv
+  Size: 186K
+  Status: OPEN
+
+FILE: auxilio_vial_red_propia_capufe_06_reporte
+  Route: /api_update/CAPUFE/auxilio_vial_red_propia_capufe_06_reporte
+  Size: 146
+  Status: OPEN
+
+FILE: auxilio_vial_red_propia_capufe_06_reporte_servicios_auxilio_vial_capufe_jun25.csv
+  Route: /api_update/CAPUFE/auxilio_vial_red_propia_capufe_06_reporte_servicios_auxilio_vial_capufe_jun25.csv
+  Size: 6.4K
+  Status: OPEN
+
+FILE: auxilio_vial_red_propia_capufe_servicios_auxilio_vial_capufe_jun25.csv
+  Route: /api_update/CAPUFE/auxilio_vial_red_propia_capufe_servicios_auxilio_vial_capufe_jun25.csv
+  Size: 146
+  Status: OPEN
+
+FILE: contratos_formalizados_obra_publica_red_propia_10_Contratos_
+  Route: /api_update/CAPUFE/contratos_formalizados_obra_publica_red_propia_10_Contratos_
+  Size: 146
+  Status: OPEN
+
+FILE: contratos_formalizados_obra_publica_red_propia_10_Contratos_formalizados_obra_publica_2025.csv
+  Route: /api_update/CAPUFE/contratos_formalizados_obra_publica_red_propia_10_Contratos_formalizados_obra_publica_2025.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: contratos_formalizados_obra_publica_red_propia_formalizados_obra_publica_2025.csv
+  Route: /api_update/CAPUFE/contratos_formalizados_obra_publica_red_propia_formalizados_obra_publica_2025.csv
+  Size: 146
+  Status: OPEN
+
+FILE: infraestructura_red_propia_01_Infraestructura_de_la_red_propia_2025.csv
+  Route: /api_update/CAPUFE/infraestructura_red_propia_01_Infraestructura_de_la_red_propia_2025.csv
+  Size: 4.7K
+  Status: OPEN
+
+FILE: infraestructura_red_propia_CAPUFE_1_Infraestructura-RedPropia.csv
+  Route: /api_update/CAPUFE/infraestructura_red_propia_CAPUFE_1_Infraestructura-RedPropia.csv
+  Size: 6.4K
+  Status: OPEN
+
+FILE: padron_proveedores_contratistas_12_padron_proveedores_contratistas_2025.csv
+  Route: /api_update/CAPUFE/padron_proveedores_contratistas_12_padron_proveedores_contratistas_2025.csv
+  Size: 536
+  Status: OPEN
+
+FILE: siniestros_seguro_usuario_red_propia_responsabilidad_autopista_09_responsabilidad_autopistas_siniestros_2025.csv
+  Route: /api_update/CAPUFE/siniestros_seguro_usuario_red_propia_responsabilidad_autopista_09_responsabilidad_autopistas_siniestros_2025.csv
+  Size: 2.3K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 11
+Total Size: 208K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

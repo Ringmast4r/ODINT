@@ -1,0 +1,36 @@
+================================================================================
+TECH STACK: TREN_MAYA (Rail Project)
+================================================================================
+
+AGENCY: TREN_MAYA (Rail Project)
+SCAN DATE: 2026-01-15 17:12:46
+
+================================================================================
+DATA SOURCE
+================================================================================
+
+Repository: repodatos.atdt.gob.mx/api_update/
+Status: Data available in API folder
+Website: See gob.mx or agency-specific domain
+
+================================================================================
+INFRASTRUCTURE (From Parent API)
+================================================================================
+
+CDN: Akamai (inherited from repodatos)
+SSL: Let's Encrypt (repodatos certificate)
+Authentication: NONE REQUIRED
+Access: PUBLIC
+
+================================================================================
+NOTES
+================================================================================
+
+This agency's data was obtained from the repodatos.atdt.gob.mx repository.
+Individual agency website tech stack may differ from the data repository.
+
+For detailed tech stack of agency's own website, probe their specific domain.
+
+================================================================================
+END
+================================================================================

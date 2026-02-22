@@ -1,0 +1,204 @@
+================================================================================
+API ENDPOINT MAP: SEP (Education)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SEP/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SEP/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: actividades_sensibilizacion_ddhh_igualdad_genero_prevencion_violencia_01_personas_sensibilizadas_UA.csv
+  Route: /api_update/SEP/actividades_sensibilizacion_ddhh_igualdad_genero_prevencion_violencia_01_personas_sensibilizadas_UA.csv
+  Size: 4.0K
+  Status: OPEN
+
+FILE: actividades_sensibilizacion_ddhh_igualdad_genero_prevencion_violencia_02_actividades_sensibilización.csv
+  Route: /api_update/SEP/actividades_sensibilizacion_ddhh_igualdad_genero_prevencion_violencia_02_actividades_sensibilización.csv
+  Size: 146
+  Status: OPEN
+
+FILE: catalogo_centros_trabajo_sep_Catalogo_SIC_2024.csv
+  Route: /api_update/SEP/catalogo_centros_trabajo_sep_Catalogo_SIC_2024.csv
+  Size: 78M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_aguascalientes_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_aguascalientes_2trimestre2025_DGSANEF.csv
+  Size: 4.5M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_bajacalifornia_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_bajacalifornia_2trimestre2025_DGSANEF.csv
+  Size: 6.5M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_bajacaliforniasur_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_bajacaliforniasur_2trimestre2025_DGSANEF.csv
+  Size: 3.6M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_campeche_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_campeche_2trimestre2025_DGSANEF.csv
+  Size: 3.2M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_chiapas_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_chiapas_2trimestre2025_DGSANEF.csv
+  Size: 8.0M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_chihuahua_2trimestre_2025
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_chihuahua_2trimestre_2025
+  Size: 146
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_chihuahua_2trimestre_2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_chihuahua_2trimestre_2025_DGSANEF.csv
+  Size: 11M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_coahuila_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_coahuila_2trimestre2025_DGSANEF.csv
+  Size: 7.9M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_colima_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_colima_2trimestre2025_DGSANEF.csv
+  Size: 2.4M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_DGSANEF.csv
+  Size: 146
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_durango_2trimestre_2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_durango_2trimestre_2025_DGSANEF.csv
+  Size: 5.4M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_guanajuato_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_guanajuato_2trimestre2025_DGSANEF.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_guerrero_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_guerrero_2trimestre2025_DGSANEF.csv
+  Size: 14M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_hidalgo_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_hidalgo_2trimestre2025_DGSANEF.csv
+  Size: 7.1M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_jalisco_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_jalisco_2trimestre2025_DGSANEF.csv
+  Size: 11M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_mexico_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_mexico_2trimestre2025_DGSANEF.csv
+  Size: 9.2M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_michoacan_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_michoacan_2trimestre2025_DGSANEF.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_morelos_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_morelos_2trimestre2025_DGSANEF.csv
+  Size: 6.0M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_nayarit_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_nayarit_2trimestre2025_DGSANEF.csv
+  Size: 4.7M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_nuevoleon_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_nuevoleon_2trimestre2025_DGSANEF.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_oaxaca_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_oaxaca_2trimestre2025_DGSANEF.csv
+  Size: 17M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_puebla_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_puebla_2trimestre2025_DGSANEF.csv
+  Size: 8.3M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_queretaro_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_queretaro_2trimestre2025_DGSANEF.csv
+  Size: 5.0M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_quintanaroo_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_quintanaroo_2trimestre2025_DGSANEF.csv
+  Size: 4.9M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_sanluispotosi_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_sanluispotosi_2trimestre2025_DGSANEF.csv
+  Size: 8.4M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_sinaloa_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_sinaloa_2trimestre2025_DGSANEF.csv
+  Size: 8.0M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_sonora_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_sonora_2trimestre2025_DGSANEF.csv
+  Size: 6.9M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_tabasco_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_tabasco_2trimestre2025_DGSANEF.csv
+  Size: 5.1M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_tamaulipas_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_tamaulipas_2trimestre2025_DGSANEF.csv
+  Size: 4.5M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_tlaxcala_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_tlaxcala_2trimestre2025_DGSANEF.csv
+  Size: 5.2M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_veracruz_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_veracruz_2trimestre2025_DGSANEF.csv
+  Size: 18M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_yucatan_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_yucatan_2trimestre2025_DGSANEF.csv
+  Size: 5.5M
+  Status: OPEN
+
+FILE: sistema_nomina_educativa_federalizada_zacatecas_2trimestre2025_DGSANEF.csv
+  Route: /api_update/SEP/sistema_nomina_educativa_federalizada_zacatecas_2trimestre2025_DGSANEF.csv
+  Size: 5.4M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 36
+Total Size: 318M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

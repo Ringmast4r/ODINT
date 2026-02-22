@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: DICONSA (Food Distribution)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/DICONSA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/DICONSA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: articulos_comercializa_diconsa_DICONSA_8_Listado_de_articulos_por_proveedor.csv
+  Route: /api_update/DICONSA/articulos_comercializa_diconsa_DICONSA_8_Listado_de_articulos_por_proveedor.csv
+  Size: 698K
+  Status: OPEN
+
+FILE: presupuesto_anual_modificado_DICONSA_11_Presupuesto_anual_modificado.csv
+  Route: /api_update/DICONSA/presupuesto_anual_modificado_DICONSA_11_Presupuesto_anual_modificado.csv
+  Size: 8.7K
+  Status: OPEN
+
+FILE: presupuesto_ejercido_diconsa_DICONSA_7_Presupuesto_anual_ejercido.csv
+  Route: /api_update/DICONSA/presupuesto_ejercido_diconsa_DICONSA_7_Presupuesto_anual_ejercido.csv
+  Size: 9.9K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 717K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

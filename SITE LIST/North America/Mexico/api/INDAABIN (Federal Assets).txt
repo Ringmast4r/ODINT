@@ -1,0 +1,29 @@
+================================================================================
+API ENDPOINT MAP: INDAABIN (Federal Assets)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INDAABIN/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INDAABIN/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: padron_notarios_patrimonio_inmobiliario_federal_INDAABIN_2_padron_notarios_patrimonio_2024.csv
+  Route: /api_update/INDAABIN/padron_notarios_patrimonio_inmobiliario_federal_INDAABIN_2_padron_notarios_patrimonio_2024.csv
+  Size: 291K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 1
+Total Size: 291K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

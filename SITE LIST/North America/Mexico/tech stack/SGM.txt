@@ -1,0 +1,42 @@
+================================================================================
+TECH STACK: SGM
+================================================================================
+
+DOMAIN: sgm.gob.mx
+URL PROBED: https://www.sgm.gob.mx
+SCAN DATE: 2026-01-15 17:01:24
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Apache/2.4.48 (Unix) OpenSSL/1.0.2y mod_jk/1.2.41
+Content-Type: text/html
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA OV R36
+subject=C=MX, ST=Hidalgo, O=Servicio Geológico Mexicano, CN=*.sgm.gob.mx
+notBefore=Aug 28 00:00:00 2025 GMT
+notAfter=Sep 28 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 21:55:42 GMT
+Server: Apache/2.4.48 (Unix) OpenSSL/1.0.2y mod_jk/1.2.41
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Wed, 13 Nov 2019 22:25:47 GMT
+ETag: "295-59741d8a650c0"
+Accept-Ranges: bytes
+Content-Length: 661
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html
+
+================================================================================
+END
+================================================================================

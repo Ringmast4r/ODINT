@@ -1,0 +1,49 @@
+================================================================================
+API ENDPOINT MAP: CONALEP (Technical Education)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONALEP/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONALEP/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: docentes_formados_sistema_conalep_CONALEP_8_cd_Docentes_formados_CONALEP_Dic2024.csv
+  Route: /api_update/CONALEP/docentes_formados_sistema_conalep_CONALEP_8_cd_Docentes_formados_CONALEP_Dic2024.csv
+  Size: 20K
+  Status: OPEN
+
+FILE: egresados_sistema_conalep_colocados_sector_productivo_CONALEP_11_cd_egresados_colocados_CONALEP_Ene_Dic_2024.csv
+  Route: /api_update/CONALEP/egresados_sistema_conalep_colocados_sector_productivo_CONALEP_11_cd_egresados_colocados_CONALEP_Ene_Dic_2024.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: matricula_alumnos_discapacidad_conalep_CONALEP_6_cd_Alumnos_con_Discapacidad_CONALEP_1-2425.csv
+  Route: /api_update/CONALEP/matricula_alumnos_discapacidad_conalep_CONALEP_6_cd_Alumnos_con_Discapacidad_CONALEP_1-2425.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: numero_becas_sistema_conalep_CONALEP_12_cd_becas_externas_CONALEP_Anual2024.csv
+  Route: /api_update/CONALEP/numero_becas_sistema_conalep_CONALEP_12_cd_becas_externas_CONALEP_Anual2024.csv
+  Size: 5.2M
+  Status: OPEN
+
+FILE: ubicacion_planteles_conalep_CONALEP_3_cd_GeoReferenciaPlanteles_CONALEP_Dic2024.csv
+  Route: /api_update/CONALEP/ubicacion_planteles_conalep_CONALEP_3_cd_GeoReferenciaPlanteles_CONALEP_Dic2024.csv
+  Size: 33K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 5
+Total Size: 6.3M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,194 @@
+================================================================================
+API ENDPOINT MAP: RAN
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/RAN/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/RAN/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: indicadores_basicos_propiedad_social_RAN_1_ran_da_dgos_estadistica_agraria_12_ejsolar.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_1_ran_da_dgos_estadistica_agraria_12_ejsolar.csv
+  Size: 24K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_10_ran_da_dgos_estadistica_agraria_23_consolar.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_10_ran_da_dgos_estadistica_agraria_23_consolar.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_11_ran_da_dgos_estadistica_agraria_22_coczur.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_11_ran_da_dgos_estadistica_agraria_22_coczur.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_12_ran_da_dgos_estadistica_agraria_21_scocah.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_12_ran_da_dgos_estadistica_agraria_21_scocah.csv
+  Size: 25K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_13_ran_da_dgos_estadistica_agraria_20_cocah.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_13_ran_da_dgos_estadistica_agraria_20_cocah.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_14_ran_da_dgos_estadistica_agraria_31_ernc.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_14_ran_da_dgos_estadistica_agraria_31_ernc.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_15_ran_da_dgos_estadistica_agraria_29_crdrc.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_15_ran_da_dgos_estadistica_agraria_29_crdrc.csv
+  Size: 20K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_16_ran_da_dgos_estadistica_agraria_19_scodelim.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_16_ran_da_dgos_estadistica_agraria_19_scodelim.csv
+  Size: 26K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_17_ran_da_dgos_estadistica_agraria_18_codelim.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_17_ran_da_dgos_estadistica_agraria_18_codelim.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_18_ran_da_dgos_estadistica_agraria_17_scr.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_18_ran_da_dgos_estadistica_agraria_17_scr.csv
+  Size: 26K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_19_ran_da_dgos_estadistica_agraria_16_cr.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_19_ran_da_dgos_estadistica_agraria_16_cr.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_2_ran_da_dgos_estadistica_agraria_11_ejczur.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_2_ran_da_dgos_estadistica_agraria_11_ejczur.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_20_ran_da_dgos_estadistica_agraria_15_sejcrcre.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_20_ran_da_dgos_estadistica_agraria_15_sejcrcre.csv
+  Size: 26K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_21_ran_da_dgos_estadistica_agraria_14_ejcrcre.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_21_ran_da_dgos_estadistica_agraria_14_ejcrcre.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_22_ran_da_dgos_estadistica_agraria_13_sejsolar.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_22_ran_da_dgos_estadistica_agraria_13_sejsolar.csv
+  Size: 27K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_23_ran_da_dgos_estadistica_agraria_33_crnc.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_23_ran_da_dgos_estadistica_agraria_33_crnc.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_24_ran_da_dgos_estadistica_agraria_32_sernc.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_24_ran_da_dgos_estadistica_agraria_32_sernc.csv
+  Size: 26K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_25_ran_da_dgos_estadistica_agraria_9_ejcuc.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_25_ran_da_dgos_estadistica_agraria_9_ejcuc.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_26_ran_da_dgos_estadistica_agraria_10_sejcuc.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_26_ran_da_dgos_estadistica_agraria_10_sejcuc.csv
+  Size: 27K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_27_ran_da_dgos_estadistica_agraria_8_sejcpar.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_27_ran_da_dgos_estadistica_agraria_8_sejcpar.csv
+  Size: 27K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_28_ran_da_dgos_estadistica_agraria_7_ejcpar.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_28_ran_da_dgos_estadistica_agraria_7_ejcpar.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_29_ran_da_dgos_estadistica_agraria_6_sejcah.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_29_ran_da_dgos_estadistica_agraria_6_sejcah.csv
+  Size: 27K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_3_ran_da_dgos_estadistica_agraria_28_sduccr.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_3_ran_da_dgos_estadistica_agraria_28_sduccr.csv
+  Size: 26K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_30_ran_da_dgos_estadistica_agraria_5_ejcah.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_30_ran_da_dgos_estadistica_agraria_5_ejcah.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_31_ran_da_dgos_estadistica_agraria_2_ser.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_31_ran_da_dgos_estadistica_agraria_2_ser.csv
+  Size: 27K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_32_ran_da_dgos_estadistica_agraria_4_serdt.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_32_ran_da_dgos_estadistica_agraria_4_serdt.csv
+  Size: 27K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_33_ran_da_dgos_estadistica_agraria_3_erdt.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_33_ran_da_dgos_estadistica_agraria_3_erdt.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_34_ran_da_dgos_estadistica_agraria_1_er.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_34_ran_da_dgos_estadistica_agraria_1_er.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_4_ran_da_dgos_estadistica_agraria_27_crduc.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_4_ran_da_dgos_estadistica_agraria_27_crduc.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_5_ran_da_dgos_estadistica_agraria_30_sdrccr.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_5_ran_da_dgos_estadistica_agraria_30_sdrccr.csv
+  Size: 24K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_6_ran_da_dgos_estadistica_agraria_26_sdpcr.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_6_ran_da_dgos_estadistica_agraria_26_sdpcr.csv
+  Size: 26K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_7_ran_da_dgos_estadistica_agraria_34_scrnc.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_7_ran_da_dgos_estadistica_agraria_34_scrnc.csv
+  Size: 23K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_8_ran_da_dgos_estadistica_agraria_25_crdp.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_8_ran_da_dgos_estadistica_agraria_25_crdp.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: indicadores_basicos_propiedad_social_RAN_9_ran_da_dgos_estadistica_agraria_24_sconsolar.csv
+  Route: /api_update/RAN/indicadores_basicos_propiedad_social_RAN_9_ran_da_dgos_estadistica_agraria_24_sconsolar.csv
+  Size: 25K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 34
+Total Size: 784K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

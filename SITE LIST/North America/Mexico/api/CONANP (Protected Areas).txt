@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: CONANP (Protected Areas)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONANP/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONANP/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: humedales_importancia_internacional_relacion_sitios_ramsar_mexico.csv
+  Route: /api_update/CONANP/humedales_importancia_internacional_relacion_sitios_ramsar_mexico.csv
+  Size: 55K
+  Status: OPEN
+
+FILE: reservas_biosfera_mab_unesco_mexico_relacion_rb_mab_2025.csv
+  Route: /api_update/CONANP/reservas_biosfera_mab_unesco_mexico_relacion_rb_mab_2025.csv
+  Size: 5.9K
+  Status: OPEN
+
+FILE: sitios_patrimonio_mundial_anp_mexico_sitios_patrimonio_mundial.csv
+  Route: /api_update/CONANP/sitios_patrimonio_mundial_anp_mexico_sitios_patrimonio_mundial.csv
+  Size: 5.0K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 66K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

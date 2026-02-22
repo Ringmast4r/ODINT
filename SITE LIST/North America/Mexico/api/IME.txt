@@ -1,0 +1,34 @@
+================================================================================
+API ENDPOINT MAP: IME
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/IME/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/IME/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: asociaciones_organizaciones_mexicanos_exterior_01_organizaciones_mexicanos_exterior_2do_trim_2025.csv
+  Route: /api_update/IME/asociaciones_organizaciones_mexicanos_exterior_01_organizaciones_mexicanos_exterior_2do_trim_2025.csv
+  Size: 1.2M
+  Status: OPEN
+
+FILE: poblacion_mexicana_exterior_02_mexicanos_extranjero_2do_trim_2025.csv
+  Route: /api_update/IME/poblacion_mexicana_exterior_02_mexicanos_extranjero_2do_trim_2025.csv
+  Size: 159K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 2
+Total Size: 1.4M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

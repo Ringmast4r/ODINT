@@ -1,0 +1,39 @@
+================================================================================
+TECH STACK: SSC
+================================================================================
+
+DOMAIN: ssc.cdmx.gob.mx
+URL PROBED: https://www.ssc.cdmx.gob.mx
+SCAN DATE: 2026-01-15 17:05:38
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) PHP/7.2.24
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=Let's Encrypt, CN=R13
+subject=CN=ssc.cdmx.gob.mx
+notBefore=Nov 23 08:45:50 2025 GMT
+notAfter=Feb 21 08:45:49 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:04:47 GMT
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) PHP/7.2.24
+Vary: X-Forwarded-Proto,User-Agent
+X-Powered-By: PHP/7.2.24
+Cache-Control: no-cache, private
+Set-Cookie: october_session=eyJpdiI6IjZ6dnM4TzdRS3NDblJoRGxtRnRTUUE9PSIsInZhbHVlIjoiREYzbEFYXC9VT0F1aktjWVVFelZPb0pWWFJFNDdpcnNsK2tNYnJueDRiajJqSUJNQXdScWFIQnA1dFJnUVVtQzdxV3Z3K1laT21KUDNKWXJnUmJXRDFRPT0iLCJtYWMiOiIwNzk3NTE3NjJiNWRiZWU4NTZkYzFhZWViZThmMjg2OTIzNDUzYWRlNDc1YWE5MmEzZTRmOWY1YTI2ZWVlNGQ5In0%3D; expires=Fri, 16-Jan-2026 00:04:47 GMT; Max-Age=7200; path=/; httponly
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

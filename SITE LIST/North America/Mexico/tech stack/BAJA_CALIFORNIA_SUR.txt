@@ -1,0 +1,31 @@
+================================================================================
+TECH STACK: BAJA_CALIFORNIA_SUR
+================================================================================
+
+DOMAIN: bcs.gob.mx
+DESCRIPTION: Baja California Sur State
+SCAN DATE: 2026-01-15 17:16:07
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 301 Moved Permanently
+Server: Apache
+CDN: Cloudflare
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 15 Jan 2026 22:15:18 GMT
+Server: Apache
+Permissions-Policy: private-state-token-redemption=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com"), private-state-token-issuance=(self "https://www.google.com" "https://www.gstatic.com" "https://recaptcha.net" "https://challenges.cloudflare.com" "https://hcaptcha.com")
+X-Redirect-By: WordPress
+Location: https://www.bcs.gob.mx/
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

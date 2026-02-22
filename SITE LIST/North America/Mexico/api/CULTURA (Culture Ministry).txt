@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: CULTURA (Culture Ministry)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CULTURA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CULTURA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: apoyo_infraestructura_cultural_estados_paice_2021_2024.csv
+  Route: /api_update/CULTURA/apoyo_infraestructura_cultural_estados_paice_2021_2024.csv
+  Size: 146
+  Status: OPEN
+
+FILE: apoyo_infraestructura_cultural_estados_paice_PAICE_
+  Route: /api_update/CULTURA/apoyo_infraestructura_cultural_estados_paice_PAICE_
+  Size: 146
+  Status: OPEN
+
+FILE: apoyo_instituciones_estatales_cultura_aiec_AIEC_2021_2024.csv
+  Route: /api_update/CULTURA/apoyo_instituciones_estatales_cultura_aiec_AIEC_2021_2024.csv
+  Size: 126K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 126K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

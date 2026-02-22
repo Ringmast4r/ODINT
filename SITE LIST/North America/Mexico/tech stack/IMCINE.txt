@@ -1,0 +1,40 @@
+================================================================================
+TECH STACK: IMCINE
+================================================================================
+
+DOMAIN: imcine.gob.mx
+URL PROBED: https://www.imcine.gob.mx
+SCAN DATE: 2026-01-15 17:00:40
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 302 Found
+Server: Apache/2.4.52 (Ubuntu)
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=Let's Encrypt, CN=R12
+subject=CN=imcine.gob.mx
+notBefore=Nov 20 17:41:09 2025 GMT
+notAfter=Feb 18 17:41:08 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 302 Found
+Date: Thu, 15 Jan 2026 21:59:50 GMT
+Server: Apache/2.4.52 (Ubuntu)
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Location: imcine
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

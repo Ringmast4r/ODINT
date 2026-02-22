@@ -1,0 +1,114 @@
+================================================================================
+TECH STACK ANALYSIS: gob.mx
+================================================================================
+
+DOMAIN: www.gob.mx
+PURPOSE: Main Mexican Government Portal
+STATUS: ACTIVE
+
+================================================================================
+INFRASTRUCTURE
+================================================================================
+
+CDN / EDGE NETWORK
+------------------
+Provider:       Akamai Technologies
+Evidence:       Server-Timing header (ak_p)
+
+CONTAINER ORCHESTRATION
+-----------------------
+Platform:       Kubernetes
+Evidence:       INGRESS_STICKY cookie pattern
+                Cookie: INGRESS_STICKY=....|e111204022b23e5bf7a7a6e3313c6224
+Load Balancer:  Kubernetes Ingress Controller
+
+SSL / TLS
+---------
+Certificate:    DigiCert
+Issuer:         DigiCert Global G3 TLS ECC SHA384 2020 CA1
+Subject:        CN=www.gob.mx
+Organization:   PRESIDENCIA DE LA REPUBLICA
+Location:       Ciudad de Mexico, MX
+Valid From:     Oct 26, 2025
+Valid Until:    Oct 27, 2026
+
+================================================================================
+APPLICATION LAYER
+================================================================================
+
+APPLICATION SERVER
+------------------
+Server:         WildFly (formerly JBoss)
+Evidence:       JSESSIONID=...gobmx-wildfly-0
+Language:       Java
+Framework:      Java EE / Jakarta EE
+
+SESSION MANAGEMENT
+------------------
+Session Cookie: JSESSIONID
+Format:         JSESSIONID=Ka0UJ2lfmF-4KpY-PgvQdySYnnDTTsfED0FXp5Wx.gobmx-wildfly-0
+Sticky Session: Pod-based (gobmx-wildfly-0 indicates pod name)
+
+================================================================================
+SERVER CONFIGURATION
+================================================================================
+
+HTTP HEADERS
+------------
+Content-Type:   text/html;charset=UTF-8
+Cache-Control:  max-age=0, no-cache, no-store
+Pragma:         no-cache
+
+COOKIES SET
+-----------
+1. INGRESS_STICKY  - Kubernetes ingress session affinity
+2. JSESSIONID      - Java application session
+
+================================================================================
+TECHNOLOGY SUMMARY
+================================================================================
+
+Layer               Technology
+------------------  ------------------------------------------
+CDN                 Akamai
+Orchestration       Kubernetes
+Ingress             Kubernetes Ingress Controller
+Application Server  WildFly (JBoss)
+Language            Java
+Framework           Java EE / Jakarta EE
+SSL Cert            DigiCert ECC
+
+================================================================================
+ARCHITECTURE ASSESSMENT
+================================================================================
+
+MODERN STACK INDICATORS
+-----------------------
+[+] Kubernetes container orchestration
+[+] Akamai CDN for edge delivery
+[+] ECC SSL certificates
+[+] HTTP/3 support (Alt-Svc header)
+
+LEGACY INDICATORS
+-----------------
+[-] WildFly/JBoss (mature but older technology)
+[-] JSESSIONID sticky sessions (scaling limitations)
+
+================================================================================
+RAW HEADER CAPTURE
+================================================================================
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Expires: Thu, 15 Jan 2026 21:50:53 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Thu, 15 Jan 2026 21:50:53 GMT
+Connection: keep-alive
+Set-Cookie: INGRESS_STICKY=1768513854.883.8024.388646|e111204022b23e5bf7a7a6e3313c6224; Path=/; HttpOnly
+Set-Cookie: JSESSIONID=Ka0UJ2lfmF-4KpY-PgvQdySYnnDTTsfED0FXp5Wx.gobmx-wildfly-0; path=/
+Server-Timing: ak_p; desc="..."
+
+================================================================================
+END OF TECH STACK ANALYSIS
+================================================================================

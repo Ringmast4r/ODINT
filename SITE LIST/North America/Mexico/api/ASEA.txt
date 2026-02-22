@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: ASEA
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ASEA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ASEA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: generacion_estimada_residuos_peligrosos_tipo_residuo_ASEA_3_Generacio_n_estimada_de_residuos_peligrosos_por_tipo_de_residuo_2017-2023.csv
+  Route: /api_update/ASEA/generacion_estimada_residuos_peligrosos_tipo_residuo_ASEA_3_Generacio_n_estimada_de_residuos_peligrosos_por_tipo_de_residuo_2017-2023.csv
+  Size: 917K
+  Status: OPEN
+
+FILE: sitios_contaminados-por-tipo-de-contaminante_ASEA_2_Cantidad_de_sitios_contaminados_por_tipo_de_contaminante_2015-2023.csv
+  Route: /api_update/ASEA/sitios_contaminados-por-tipo-de-contaminante_ASEA_2_Cantidad_de_sitios_contaminados_por_tipo_de_contaminante_2015-2023.csv
+  Size: 32K
+  Status: OPEN
+
+FILE: solicitudes_acceso_informacion_datos_personales_ASEA_1_Solicitudes_de_acceso_a_la_informacio_n_y_de_datos_personales.csv
+  Route: /api_update/ASEA/solicitudes_acceso_informacion_datos_personales_ASEA_1_Solicitudes_de_acceso_a_la_informacio_n_y_de_datos_personales.csv
+  Size: 337
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 949K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

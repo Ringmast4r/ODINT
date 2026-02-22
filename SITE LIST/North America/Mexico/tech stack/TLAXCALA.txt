@@ -1,0 +1,36 @@
+================================================================================
+TECH STACK: TLAXCALA
+================================================================================
+
+DOMAIN: tlaxcala.gob.mx
+DESCRIPTION: Tlaxcala State Government
+SCAN DATE: 2026-01-15 17:16:35
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: Apache
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:15:46 GMT
+Server: Apache
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+cross-origin-opener-policy: same-origin
+Expires: Wed, 17 Aug 2005 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: a4e2d6895010c5253c1c28982405ed08=7429e13cbaa71d374776d0b7c09bbde0; path=/; secure; HttpOnly
+Last-Modified: Thu, 15 Jan 2026 22:15:48 GMT
+Content-Type: text/html; charset=utf-8
+
+================================================================================
+END
+================================================================================

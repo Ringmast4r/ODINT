@@ -1,0 +1,89 @@
+================================================================================
+API ENDPOINT MAP: SSPC
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SSPC/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SSPC/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: gestion_riesgos_1_Declaratorias_Desastre_DGGR_1er_trim_2025.csv
+  Route: /api_update/SSPC/gestion_riesgos_1_Declaratorias_Desastre_DGGR_1er_trim_2025.csv
+  Size: 73K
+  Status: OPEN
+
+FILE: gestion_riesgos_2_Declaratorias_Emergencia_1er_trim_2025.csv
+  Route: /api_update/SSPC/gestion_riesgos_2_Declaratorias_Emergencia_1er_trim_2025.csv
+  Size: 141K
+  Status: OPEN
+
+FILE: gestion_riesgos_2_Declaratorias_Emergencia_1er_trim_2025_2.csv
+  Route: /api_update/SSPC/gestion_riesgos_2_Declaratorias_Emergencia_1er_trim_2025_2.csv
+  Size: 142K
+  Status: OPEN
+
+FILE: gestion_riesgos_2025.csv
+  Route: /api_update/SSPC/gestion_riesgos_2025.csv
+  Size: 146
+  Status: OPEN
+
+FILE: gestion_riesgos_3_Proyectos_Prevencion.csv
+  Route: /api_update/SSPC/gestion_riesgos_3_Proyectos_Prevencion.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: gestion_riesgos_Declaratorias_desastre_3er
+  Route: /api_update/SSPC/gestion_riesgos_Declaratorias_desastre_3er
+  Size: 146
+  Status: OPEN
+
+FILE: gestion_riesgos_Declaratorias_desastre_3er_trim_2025.csv
+  Route: /api_update/SSPC/gestion_riesgos_Declaratorias_desastre_3er_trim_2025.csv
+  Size: 73K
+  Status: OPEN
+
+FILE: gestion_riesgos_Declaratorias_emergencia_3er_trim_2025.csv
+  Route: /api_update/SSPC/gestion_riesgos_Declaratorias_emergencia_3er_trim_2025.csv
+  Size: 255K
+  Status: OPEN
+
+FILE: gestion_riesgos_proyectos_Prevencio´n_3er_trim_2025.csv
+  Route: /api_update/SSPC/gestion_riesgos_proyectos_Prevencio´n_3er_trim_2025.csv
+  Size: 146
+  Status: OPEN
+
+FILE: gestion_riesgos_proyectos_Prevención_3er
+  Route: /api_update/SSPC/gestion_riesgos_proyectos_Prevención_3er
+  Size: 146
+  Status: OPEN
+
+FILE: gestion_riesgos_trim
+  Route: /api_update/SSPC/gestion_riesgos_trim
+  Size: 146
+  Status: OPEN
+
+FILE: informacion_general_materia_proteccion_civil_2025_09_Alertamiento_DGPC_3T.csv
+  Route: /api_update/SSPC/informacion_general_materia_proteccion_civil_2025_09_Alertamiento_DGPC_3T.csv
+  Size: 11M
+  Status: OPEN
+
+FILE: informacion_general_materia_proteccion_civil_4_Alertamiento.csv
+  Route: /api_update/SSPC/informacion_general_materia_proteccion_civil_4_Alertamiento.csv
+  Size: 12M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 13
+Total Size: 23M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

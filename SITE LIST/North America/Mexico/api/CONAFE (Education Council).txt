@@ -1,0 +1,44 @@
+================================================================================
+API ENDPOINT MAP: CONAFE (Education Council)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONAFE/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONAFE/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: control_escolar_estadistica_conafe_CONAFE_10_Concentrado-de-Servicios-Educativos-Educacion-Inicial.csv
+  Route: /api_update/CONAFE/control_escolar_estadistica_conafe_CONAFE_10_Concentrado-de-Servicios-Educativos-Educacion-Inicial.csv
+  Size: 923
+  Status: OPEN
+
+FILE: control_escolar_estadistica_conafe_CONAFE_7_Concentrado-de-Estudiantes.csv
+  Route: /api_update/CONAFE/control_escolar_estadistica_conafe_CONAFE_7_Concentrado-de-Estudiantes.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: control_escolar_estadistica_conafe_CONAFE_8_Concentrado-de-Figuras-Educativas.csv
+  Route: /api_update/CONAFE/control_escolar_estadistica_conafe_CONAFE_8_Concentrado-de-Figuras-Educativas.csv
+  Size: 2.2K
+  Status: OPEN
+
+FILE: control_escolar_estadistica_conafe_CONAFE_9_Concentrado-de-Servicios-Educativos-por-Grado-Escolar.csv
+  Route: /api_update/CONAFE/control_escolar_estadistica_conafe_CONAFE_9_Concentrado-de-Servicios-Educativos-por-Grado-Escolar.csv
+  Size: 2.3K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 4
+Total Size: 8.0K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

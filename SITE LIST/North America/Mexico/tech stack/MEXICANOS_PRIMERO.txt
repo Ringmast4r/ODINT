@@ -1,0 +1,38 @@
+================================================================================
+TECH STACK: MEXICANOS_PRIMERO
+================================================================================
+
+DOMAIN: mexicanosprimero.org
+DESCRIPTION: Education NGO
+SCAN DATE: 2026-01-15 17:17:43
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: Apache
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:16:56 GMT
+Server: Apache
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Referrer-Policy: same-origin
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: PHPSESSID=khbv240nsoaoj9chie409dlcne; path=/;HttpOnly;Secure;SameSite=strict
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

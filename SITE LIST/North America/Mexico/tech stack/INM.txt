@@ -1,0 +1,41 @@
+================================================================================
+TECH STACK: INM
+================================================================================
+
+DOMAIN: inm.gob.mx
+URL PROBED: https://www.inm.gob.mx
+SCAN DATE: 2026-01-15 16:56:59
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: XXXXXXX
+Content-Type: text/html
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+subject=C=MX, L=Ciudad De Mexico, O=Instituto Nacional de Migracion, CN=www.inm.gob.mx
+notBefore=Jan  6 00:00:00 2025 GMT
+notAfter=Feb  6 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 21:32:02 GMT
+Server:XXXXXXX
+Last-Modified: Thu, 21 Aug 2014 16:11:01 GMT
+ETag: "1a0f16-1f-50125f77aef40"
+Accept-Ranges: bytes
+Content-Length: 31
+Vary: Accept-Encoding
+Content-Type: text/html
+Set-Cookie: cookiesession1=678B286BB0F77D05254FA7E6887B023A;Expires=Fri, 15 Jan 2027 21:56:09 GMT;Path=/;HttpOnly
+
+================================================================================
+END
+================================================================================

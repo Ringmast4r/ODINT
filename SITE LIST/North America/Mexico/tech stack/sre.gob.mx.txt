@@ -1,0 +1,90 @@
+================================================================================
+TECH STACK ANALYSIS: sre.gob.mx
+================================================================================
+
+DOMAIN: sre.gob.mx / www.sre.gob.mx
+PURPOSE: Mexican Ministry of Foreign Relations Portal
+STATUS: ACTIVE (with redirect)
+
+================================================================================
+INFRASTRUCTURE
+================================================================================
+
+REDIRECT BEHAVIOR
+-----------------
+HTTPS Request:  302 Found
+Redirects To:   http://sre.gob.mx/ (HTTP - insecure!)
+Note:           HTTPS downgrades to HTTP (security concern)
+
+================================================================================
+SERVER CONFIGURATION
+================================================================================
+
+HTTP HEADERS
+------------
+Content-Type:   text/html; charset=iso-8859-1
+Connection:     keep-alive
+Location:       http://sre.gob.mx/
+
+SECURITY HEADERS
+----------------
+HSTS:               max-age=63072000; includeSubDomains (2 years)
+X-Frame-Options:    SAMEORIGIN
+Note:               Good security headers but HTTPS redirect is broken
+
+================================================================================
+SECURITY ASSESSMENT
+================================================================================
+
+CRITICAL ISSUE
+--------------
+[CRITICAL] HTTPS redirects to HTTP (302 → http://sre.gob.mx/)
+           This defeats the purpose of HSTS header
+           Users are downgraded to insecure connection
+
+POSITIVE CONTROLS
+-----------------
+[+] HSTS header present (but ineffective due to redirect)
+[+] X-Frame-Options: SAMEORIGIN (clickjacking protection)
+[+] Strict-Transport-Security with includeSubDomains
+
+CONFIGURATION ERROR
+-------------------
+The server has HSTS configured but then redirects to HTTP.
+This is a misconfiguration that should be fixed immediately.
+
+================================================================================
+TECHNOLOGY SUMMARY
+================================================================================
+
+Layer               Technology
+------------------  ------------------------------------------
+Web Server          Unknown (no Server header)
+Encoding            ISO-8859-1 (Latin-1)
+Security Headers    Partial (HSTS, X-Frame-Options)
+SSL/TLS             Present but misconfigured
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+1. Fix redirect to point to HTTPS, not HTTP
+2. Ensure all resources load over HTTPS
+3. Add Content-Type-Options: nosniff
+4. Add X-XSS-Protection header
+
+================================================================================
+RAW HEADER CAPTURE
+================================================================================
+
+HTTP/1.1 302 Found
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Date: Thu, 15 Jan 2026 21:52:12 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+Location: http://sre.gob.mx/
+
+================================================================================
+END OF TECH STACK ANALYSIS
+================================================================================

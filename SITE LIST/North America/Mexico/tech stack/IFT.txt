@@ -1,0 +1,37 @@
+================================================================================
+TECH STACK: IFT
+================================================================================
+
+DOMAIN: ift.org.mx
+DESCRIPTION: Federal Telecom Institute
+SCAN DATE: 2026-01-15 17:17:16
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 301 Moved Permanently
+Server: nginx/1.22.1
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.22.1
+Date: Thu, 15 Jan 2026 22:16:29 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Location: https://www.ift.org.mx/
+X-Whom: www-node75
+Set-Cookie: visid_incap_2778994=Jyx/yx+pTCGIkhbfrtAhkjxnaWkAAAAAQUIPAAAAAACrAvoSw8ferqJ1MHvGtw28; expires=Fri, 15 Jan 2027 08:21:00 GMT; HttpOnly; path=/; Domain=.ift.org.mx
+Set-Cookie: nlbi_2778994=+8/ndUB+jRpJNLDnvGnKPQAAAABwmeEhJsoP/lExSHrNehbc; HttpOnly; path=/; Domain=.ift.org.mx
+Set-Cookie: incap_ses_995_2778994=hp4TGMV5Skya2/u3WPPODT1naWkAAAAA5RInFOUrG613Wa8s5ScLRQ==; path=/; Domain=.ift.org.mx
+X-CDN: Imperva
+X-Iinfo: 12-14422687-14422799 NNNN CT(52 54 0) RT(1768515388964 566) q(0 0 1 0) r(1 1) U24
+
+================================================================================
+END
+================================================================================

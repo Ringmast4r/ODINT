@@ -1,0 +1,44 @@
+================================================================================
+API ENDPOINT MAP: INDEP
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INDEP/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INDEP/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: donacion_bienes_indep_INDEP_6_Donacion_de_bienes.csv
+  Route: /api_update/INDEP/donacion_bienes_indep_INDEP_6_Donacion_de_bienes.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: listado_bienes_eventos_comerciales_curso_indep_INDEP_7_Catalogo_de_Bienes_Inmuebles_en_administracion_susceptibles_de_venta.csv
+  Route: /api_update/INDEP/listado_bienes_eventos_comerciales_curso_indep_INDEP_7_Catalogo_de_Bienes_Inmuebles_en_administracion_susceptibles_de_venta.csv
+  Size: 281K
+  Status: OPEN
+
+FILE: registro_empresas_indep_INDEP_12_Empresas.csv
+  Route: /api_update/INDEP/registro_empresas_indep_INDEP_12_Empresas.csv
+  Size: 57K
+  Status: OPEN
+
+FILE: resultado_eventos_comerciales_indep_INDEP_5_Resultados_de_Ventas.csv
+  Route: /api_update/INDEP/resultado_eventos_comerciales_indep_INDEP_5_Resultados_de_Ventas.csv
+  Size: 4.6M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 4
+Total Size: 5.0M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

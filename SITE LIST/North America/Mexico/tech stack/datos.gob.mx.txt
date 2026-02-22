@@ -1,0 +1,119 @@
+================================================================================
+TECH STACK ANALYSIS: datos.gob.mx
+================================================================================
+
+DOMAIN: datos.gob.mx / www.datos.gob.mx
+PURPOSE: Mexican Government Open Data Portal
+STATUS: ACTIVE
+
+================================================================================
+INFRASTRUCTURE
+================================================================================
+
+CDN / EDGE NETWORK
+------------------
+Provider:       Akamai Technologies
+Evidence:       Server-Timing header (ak_p), Akamai-GRN header, Alt-Svc header
+Edge Location:  Distributed globally
+
+LOAD BALANCING
+--------------
+Method:         Akamai edge distribution
+Evidence:       Alt-Svc: h3=":443" (HTTP/3 support advertised)
+
+SSL / TLS
+---------
+Certificate:    DigiCert
+Issuer:         DigiCert Global G3 TLS ECC SHA384 2020 CA1
+Subject:        CN=www.gob.mx
+Organization:   PRESIDENCIA DE LA REPUBLICA
+Location:       Ciudad de Mexico, MX
+Valid From:     Oct 26, 2025
+Valid Until:    Oct 27, 2026
+Key Type:       ECC (Elliptic Curve)
+
+================================================================================
+APPLICATION LAYER
+================================================================================
+
+WEB SERVER
+----------
+Server:         nginx
+Evidence:       Server: nginx header
+
+APPLICATION PLATFORM
+--------------------
+Platform:       CKAN (Comprehensive Knowledge Archive Network)
+Evidence:       Set-Cookie: ckan=...
+Version:        Unknown (not disclosed)
+Language:       Python (CKAN is Python-based)
+Framework:      Pylons/Flask (CKAN backend)
+
+SESSION MANAGEMENT
+------------------
+Cookie Name:    ckan
+Cookie Flags:   HttpOnly, SameSite=Lax, Path=/
+CSRF Token:     Embedded in session cookie
+
+================================================================================
+SERVER CONFIGURATION
+================================================================================
+
+HTTP HEADERS
+------------
+Content-Type:   text/html; charset=utf-8
+Cache-Control:  private, max-age=0
+Vary:           Cookie
+Server:         nginx
+
+SECURITY HEADERS
+----------------
+HttpOnly:       YES (on session cookie)
+SameSite:       Lax
+Secure:         NOT SET (should be set)
+HSTS:           NOT SET
+
+================================================================================
+TECHNOLOGY SUMMARY
+================================================================================
+
+Layer               Technology
+------------------  ------------------------------------------
+CDN                 Akamai
+Web Server          nginx
+Application         CKAN (Open Data Portal)
+Language            Python
+Database            PostgreSQL (typical for CKAN)
+Search              Solr (typical for CKAN)
+SSL Cert            DigiCert ECC
+
+================================================================================
+CKAN PLATFORM INFO
+================================================================================
+
+CKAN is an open-source data management system used by many governments:
+- Developed by Open Knowledge Foundation
+- Powers data.gov (US), data.gov.uk, and many others
+- Features: Dataset management, API, visualization
+- Default API endpoint: /api/3/action/
+
+================================================================================
+RAW HEADER CAPTURE
+================================================================================
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Content-Length: 25578
+Vary: Cookie
+Cache-Control: private, max-age=0
+Date: Thu, 15 Jan 2026 21:50:40 GMT
+Connection: keep-alive
+Set-Cookie: ckan=eyJfY3NyZl90b2tlbiI6IjVhMDZlMjBhYWNhZjlhMTI0OThiOTkzOWE3YmE0ZmEyNzFhYzRmOTYifQ.aWlgGw.X4HxfrWCZxrZQQsxqDbFmCnDNvQ; HttpOnly; Path=/; SameSite=Lax
+Alt-Svc: h3=":443"; ma=93600
+Akamai-GRN: 0.b9fd4817.1768513839.452f3e19
+Server-Timing: ak_p; desc="..."
+
+================================================================================
+END OF TECH STACK ANALYSIS
+================================================================================

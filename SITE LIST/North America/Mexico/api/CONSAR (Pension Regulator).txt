@@ -1,0 +1,54 @@
+================================================================================
+API ENDPOINT MAP: CONSAR (Pension Regulator)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONSAR/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONSAR/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: activos_netos_siefore_07_activos_netos.csv
+  Route: /api_update/CONSAR/activos_netos_siefore_07_activos_netos.csv
+  Size: 558K
+  Status: OPEN
+
+FILE: comisiones_siefore_06_comisiones.csv
+  Route: /api_update/CONSAR/comisiones_siefore_06_comisiones.csv
+  Size: 51K
+  Status: OPEN
+
+FILE: cuentas_administradas_afore_05_cuentas.csv
+  Route: /api_update/CONSAR/cuentas_administradas_afore_05_cuentas.csv
+  Size: 308K
+  Status: OPEN
+
+FILE: flujo_recursos_afore_04_entradas_salidas.csv
+  Route: /api_update/CONSAR/flujo_recursos_afore_04_entradas_salidas.csv
+  Size: 68K
+  Status: OPEN
+
+FILE: rendimientos_afore_10_rendimientos_precio_bolsa.csv
+  Route: /api_update/CONSAR/rendimientos_afore_10_rendimientos_precio_bolsa.csv
+  Size: 2.3M
+  Status: OPEN
+
+FILE: traspasos_afore_afore_08_traspasos.csv
+  Route: /api_update/CONSAR/traspasos_afore_afore_08_traspasos.csv
+  Size: 102K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 6
+Total Size: 3.4M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

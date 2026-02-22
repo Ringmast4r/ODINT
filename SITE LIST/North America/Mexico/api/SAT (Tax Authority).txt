@@ -1,0 +1,64 @@
+================================================================================
+API ENDPOINT MAP: SAT (Tax Authority)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SAT/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SAT/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: SAT_1_Donatarias_Aut.csv
+  Route: /api_update/SAT/SAT_1_Donatarias_Aut.csv
+  Size: 27M
+  Status: OPEN
+
+FILE: SAT_2_EntespublicosydeGobiernoomisos.csv
+  Route: /api_update/SAT/SAT_2_EntespublicosydeGobiernoomisos.csv
+  Size: 1.8M
+  Status: OPEN
+
+FILE: SAT_3_Sentencias.csv
+  Route: /api_update/SAT/SAT_3_Sentencias.csv
+  Size: 45K
+  Status: OPEN
+
+FILE: SAT_4_Nolocalizados.csv
+  Route: /api_update/SAT/SAT_4_Nolocalizados.csv
+  Size: 4.3M
+  Status: OPEN
+
+FILE: SAT_5_Firmes.csv
+  Route: /api_update/SAT/SAT_5_Firmes.csv
+  Size: 18M
+  Status: OPEN
+
+FILE: SAT_6_Exigibles.csv
+  Route: /api_update/SAT/SAT_6_Exigibles.csv
+  Size: 475K
+  Status: OPEN
+
+FILE: SAT_7_Cancelados.csv
+  Route: /api_update/SAT/SAT_7_Cancelados.csv
+  Size: 19M
+  Status: OPEN
+
+FILE: SAT_8_FORMATO_37_resecntie2.csv
+  Route: /api_update/SAT/SAT_8_FORMATO_37_resecntie2.csv
+  Size: 17K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 8
+Total Size: 69M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

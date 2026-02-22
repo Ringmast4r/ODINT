@@ -1,0 +1,274 @@
+================================================================================
+API ENDPOINT MAP: PROFECO (Consumer Protection)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/PROFECO/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/PROFECO/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: programa_quien_es_quien_precios_2024_01-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_01-2024_01.csv
+  Size: 169M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_01-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_01-2024_02.csv
+  Size: 214M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_02-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_02-2024_01.csv
+  Size: 180M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_02-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_02-2024_02.csv
+  Size: 188M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_03-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_03-2024_01.csv
+  Size: 204M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_03-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_03-2024_02.csv
+  Size: 139M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_04-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_04-2024_01.csv
+  Size: 26M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_04-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_04-2024_02.csv
+  Size: 15M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_05-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_05-2024_01.csv
+  Size: 42M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_05-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_05-2024_02.csv
+  Size: 6.8M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_06-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_06-2024_01.csv
+  Size: 6.9M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_06-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_06-2024_02.csv
+  Size: 99M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_07-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_07-2024_01.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_07-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_07-2024_02.csv
+  Size: 73M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_08-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_08-2024_01.csv
+  Size: 6.1M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_08-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_08-2024_02.csv
+  Size: 24M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_09-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_09-2024_01.csv
+  Size: 89M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_09-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_09-2024_02.csv
+  Size: 16M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_10-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_10-2024_01.csv
+  Size: 76M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_10-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_10-2024_02.csv
+  Size: 6.6M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_11-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_11-2024_01.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_11-2024_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_11-2024_02.csv
+  Size: 118M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2024_12-2024_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2024_12-2024_01.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_01-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_01-2025_01.csv
+  Size: 165M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_01-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_01-2025_02.csv
+  Size: 209M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_02-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_02-2025_01.csv
+  Size: 162M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_02-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_02-2025_02.csv
+  Size: 182M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_03-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_03-2025_01.csv
+  Size: 176M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_03-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_03-2025_02.csv
+  Size: 85M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_04-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_04-2025_01.csv
+  Size: 99M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_04-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_04-2025_02.csv
+  Size: 7.0M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_05-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_05-2025_01.csv
+  Size: 79M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_05-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_05-2025_02.csv
+  Size: 158M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_06-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_06-2025_01.csv
+  Size: 161M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_06-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_06-2025_02.csv
+  Size: 173M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_07-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_07-2025_01.csv
+  Size: 200M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_07-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_07-2025_02.csv
+  Size: 126M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_08-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_08-2025_01.csv
+  Size: 7.2M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_08-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_08-2025_02.csv
+  Size: 147M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_09-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_09-2025_01.csv
+  Size: 163M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_09-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_09-2025_02.csv
+  Size: 160M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_10-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_10-2025_01.csv
+  Size: 159M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_10-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_10-2025_02.csv
+  Size: 2.1M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_11-2025_01.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_11-2025_01.csv
+  Size: 147M
+  Status: OPEN
+
+FILE: programa_quien_es_quien_precios_2025_11-2025_02.csv
+  Route: /api_update/PROFECO/programa_quien_es_quien_precios_2025_11-2025_02.csv
+  Size: 133M
+  Status: OPEN
+
+FILE: proveedores_responsables_comercio_electronico_proveedores_responsables_comercio_electronico_2021_2025.csv
+  Route: /api_update/PROFECO/proveedores_responsables_comercio_electronico_proveedores_responsables_comercio_electronico_2021_2025.csv
+  Size: 39K
+  Status: OPEN
+
+FILE: quejas_buro_comercial_buro_comercial_2019_2025.csv
+  Route: /api_update/PROFECO/quejas_buro_comercial_buro_comercial_2019_2025.csv
+  Size: 129M
+  Status: OPEN
+
+FILE: quejas_materia_servicios_conciliaciones_2019_2025.csv
+  Route: /api_update/PROFECO/quejas_materia_servicios_conciliaciones_2019_2025.csv
+  Size: 220M
+  Status: OPEN
+
+FILE: quejas_materia_telecomunicaciones_quejas_telecomunicaciones_2022_2025.csv
+  Route: /api_update/PROFECO/quejas_materia_telecomunicaciones_quejas_telecomunicaciones_2022_2025.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: registro_publico_casas_empeno_registro_casas_empeno_2014_2025.csv
+  Route: /api_update/PROFECO/registro_publico_casas_empeno_registro_casas_empeno_2014_2025.csv
+  Size: 1.2M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 50
+Total Size: 4.9G
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

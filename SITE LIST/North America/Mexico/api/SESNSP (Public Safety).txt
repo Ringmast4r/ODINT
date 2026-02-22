@@ -1,0 +1,134 @@
+================================================================================
+API ENDPOINT MAP: SESNSP (Public Safety)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SESNSP/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SESNSP/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: incidencia_delictiva_IDM_NM_ago25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDM_NM_ago25.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDM_NM_jul25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDM_NM_jul25.csv
+  Size: 14M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDM_NM_jun25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDM_NM_jun25.csv
+  Size: 113M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDM_NM_may25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDM_NM_may25.csv
+  Size: 29M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDM_NM_nov25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDM_NM_nov25.csv
+  Size: 17M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDM_NM_oct25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDM_NM_oct25.csv
+  Size: 41M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDM_NM_sep25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDM_NM_sep25.csv
+  Size: 15M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDVFC_NM_ago25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDVFC_NM_ago25.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDVFC_NM_jul25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDVFC_NM_jul25.csv
+  Size: 6.8M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDVFC_NM_jun25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDVFC_NM_jun25.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDVFC_NM_may25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDVFC_NM_may25.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDVFC_NM_nov25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDVFC_NM_nov25.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDVFC_NM_oct25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDVFC_NM_oct25.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: incidencia_delictiva_IDVFC_NM_sep25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_IDVFC_NM_sep25.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: incidencia_delictiva_INAH_4_alumnos_becados.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_INAH_4_alumnos_becados.csv
+  Size: 134K
+  Status: OPEN
+
+FILE: incidencia_delictiva_INM_estatal_ago25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_INM_estatal_ago25.csv
+  Size: 9.4M
+  Status: OPEN
+
+FILE: incidencia_delictiva_INM_estatal_jul25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_INM_estatal_jul25.csv
+  Size: 11M
+  Status: OPEN
+
+FILE: incidencia_delictiva_INM_estatal_jun25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_INM_estatal_jun25.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: incidencia_delictiva_INM_estatal_may25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_INM_estatal_may25.csv
+  Size: 15M
+  Status: OPEN
+
+FILE: incidencia_delictiva_INM_estatal_nov25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_INM_estatal_nov25.csv
+  Size: 9.8M
+  Status: OPEN
+
+FILE: incidencia_delictiva_INM_estatal_oct25.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_INM_estatal_oct25.csv
+  Size: 14M
+  Status: OPEN
+
+FILE: incidencia_delictiva_prueba.csv
+  Route: /api_update/SESNSP/incidencia_delictiva_prueba.csv
+  Size: 33K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 22
+Total Size: 385M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

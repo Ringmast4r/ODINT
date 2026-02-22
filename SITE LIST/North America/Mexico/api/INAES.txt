@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: INAES
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INAES/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INAES/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: beneficiarios_acciones_capacitacion_beneficiarios_acciones_capacitacion_2024_2030.csv
+  Route: /api_update/INAES/beneficiarios_acciones_capacitacion_beneficiarios_acciones_capacitacion_2024_2030.csv
+  Size: 2.2K
+  Status: OPEN
+
+FILE: directorio_nodess_directorio_NODESS.csv
+  Route: /api_update/INAES/directorio_nodess_directorio_NODESS.csv
+  Size: 57K
+  Status: OPEN
+
+FILE: solicitudes_informacion_solicitudes_informacion_atendidas_2024_2030.csv
+  Route: /api_update/INAES/solicitudes_informacion_solicitudes_informacion_atendidas_2024_2030.csv
+  Size: 41
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 60K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

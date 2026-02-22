@@ -1,0 +1,45 @@
+================================================================================
+TECH STACK: COLSAN
+================================================================================
+
+DOMAIN: colsan.edu.mx
+URL PROBED: https://www.colsan.edu.mx
+SCAN DATE: 2026-01-15 17:03:05
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+subject=CN=*.colsan.edu.mx
+notBefore=Jun 23 21:14:02 2025 GMT
+notAfter=May 26 19:00:10 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Thu, 15 Jan 2026 22:01:49 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Cache-Control: no-cache, must-revalidate
+Expires: Wen, 17 May 2023 10:00:00 GMT
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src * data: 'unsafe-eval' 'unsafe-inline' blob:
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+================================================================================
+END
+================================================================================

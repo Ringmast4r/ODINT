@@ -1,0 +1,49 @@
+================================================================================
+TECH STACK: SAT
+================================================================================
+
+DOMAIN: sat.gob.mx
+URL PROBED: https://sat.gob.mx
+SCAN DATE: 2026-01-15 16:57:09
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html
+CDN: AWS CloudFront
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+subject=C=MX, ST=Ciudad de México, L=Ciudad de México, O=Servicio de Administración Tributaria, CN=www.sat.gob.mx
+notBefore=Sep  4 16:11:02 2025 GMT
+notAfter=Oct  6 16:11:01 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 1507
+Connection: keep-alive
+Date: Thu, 15 Jan 2026 15:43:41 GMT
+Server: nginx
+Last-Modified: Wed, 07 Jan 2026 14:35:21 GMT
+Accept-Ranges: bytes
+ETag: "695e6f29-5e3"
+Cache-Control: no-store
+Cache-Control: no-cache
+Via: 1.1 wwwnp.sat.gob.mx (Access Gateway-ag-D4142B13AC5CD217-95135429), 1.1 9cd85e528eb96b937681f7f81aea46c8.cloudfront.net (CloudFront)
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: IAD61-P2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: HjePbcepS6TUBXm817gS_yJq8KnuFVsS2I9fSMa_iGB98sscmHGp7w==
+Age: 22358
+
+================================================================================
+END
+================================================================================

@@ -1,0 +1,94 @@
+================================================================================
+API ENDPOINT MAP: SENASICA (Food Safety)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SENASICA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SENASICA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: acciones_vigilancia_contra_moscas_exoticas_fruta_08_Moscas_exoticas_Acciones_vigilancia_sept2025.csv
+  Route: /api_update/SENASICA/acciones_vigilancia_contra_moscas_exoticas_fruta_08_Moscas_exoticas_Acciones_vigilancia_sept2025.csv
+  Size: 22M
+  Status: OPEN
+
+FILE: campana_nacional_contra_moscas_fruta_12_campana_moscas_fruta.csv
+  Route: /api_update/SENASICA/campana_nacional_contra_moscas_fruta_12_campana_moscas_fruta.csv
+  Size: 1.4K
+  Status: OPEN
+
+FILE: directorio_bioterios_autorizados_01_padron-bioterios_oct2025.csv
+  Route: /api_update/SENASICA/directorio_bioterios_autorizados_01_padron-bioterios_oct2025.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: directorio_bioterios_autorizados_16_bioterios.csv
+  Route: /api_update/SENASICA/directorio_bioterios_autorizados_16_bioterios.csv
+  Size: 14K
+  Status: OPEN
+
+FILE: directorio_laboratorios_diagnostico_autorizados_06_laboratorios-diagnostico-autorizados_oct2025.csv
+  Route: /api_update/SENASICA/directorio_laboratorios_diagnostico_autorizados_06_laboratorios-diagnostico-autorizados_oct2025.csv
+  Size: 71K
+  Status: OPEN
+
+FILE: directorio_laboratorios_diagnostico_autorizados_08_padron-medicos-veterinarios-responsables-autorizados_oct2025.csv
+  Route: /api_update/SENASICA/directorio_laboratorios_diagnostico_autorizados_08_padron-medicos-veterinarios-responsables-autorizados_oct2025.csv
+  Size: 718K
+  Status: OPEN
+
+FILE: directorio_laboratorios_diagnostico_autorizados_24_laboratorios-diagnostico-autorizados.csv
+  Route: /api_update/SENASICA/directorio_laboratorios_diagnostico_autorizados_24_laboratorios-diagnostico-autorizados.csv
+  Size: 80K
+  Status: OPEN
+
+FILE: directorio_laboratorios_diagnostico_autorizados_padron_laboratorios_diagnostico_autorizados_nov2025_ok.csv
+  Route: /api_update/SENASICA/directorio_laboratorios_diagnostico_autorizados_padron_laboratorios_diagnostico_autorizados_nov2025_ok.csv
+  Size: 72K
+  Status: OPEN
+
+FILE: empresas_certificadas_buenas_practicas_manufactura_04_padron_empresas-certificadas-bpm_oct2025.csv
+  Route: /api_update/SENASICA/empresas_certificadas_buenas_practicas_manufactura_04_padron_empresas-certificadas-bpm_oct2025.csv
+  Size: 50K
+  Status: OPEN
+
+FILE: empresas_certificadas_buenas_practicas_manufactura_04_padron-empresas-certificadas-oct2025.csv
+  Route: /api_update/SENASICA/empresas_certificadas_buenas_practicas_manufactura_04_padron-empresas-certificadas-oct2025.csv
+  Size: 50K
+  Status: OPEN
+
+FILE: empresas_certificadas_buenas_practicas_manufactura_56_empresas-certificadas-bpm.csv
+  Route: /api_update/SENASICA/empresas_certificadas_buenas_practicas_manufactura_56_empresas-certificadas-bpm.csv
+  Size: 47K
+  Status: OPEN
+
+FILE: empresas_certificadas_buenas_practicas_manufactura_de_empresas_certificadas_bpm_nov2025_ok.csv
+  Route: /api_update/SENASICA/empresas_certificadas_buenas_practicas_manufactura_de_empresas_certificadas_bpm_nov2025_ok.csv
+  Size: 146
+  Status: OPEN
+
+FILE: empresas_certificadas_buenas_practicas_manufactura_padron_
+  Route: /api_update/SENASICA/empresas_certificadas_buenas_practicas_manufactura_padron_
+  Size: 146
+  Status: OPEN
+
+FILE: empresas_certificadas_buenas_practicas_manufactura_padron_de_empresas_certificadas_bpm_nov2025_ok.csv
+  Route: /api_update/SENASICA/empresas_certificadas_buenas_practicas_manufactura_padron_de_empresas_certificadas_bpm_nov2025_ok.csv
+  Size: 50K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 14
+Total Size: 23M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

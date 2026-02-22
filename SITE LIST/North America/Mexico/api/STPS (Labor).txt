@@ -1,0 +1,219 @@
+================================================================================
+API ENDPOINT MAP: STPS (Labor)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/STPS/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/STPS/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: agentes_capacitadores_externos_registrados_stps_03_Registro_Agentes_Externos_Jul-Sep2025.csv
+  Route: /api_update/STPS/agentes_capacitadores_externos_registrados_stps_03_Registro_Agentes_Externos_Jul-Sep2025.csv
+  Size: 2.0K
+  Status: OPEN
+
+FILE: agentes_capacitadores_externos_registrados_stps_04_ok_Registro_Agentes_Externos.csv
+  Route: /api_update/STPS/agentes_capacitadores_externos_registrados_stps_04_ok_Registro_Agentes_Externos.csv
+  Size: 2.4K
+  Status: OPEN
+
+FILE: agentes_capacitadores_externos_registrados_stps_04_Registro_Agentes_Externos.csv
+  Route: /api_update/STPS/agentes_capacitadores_externos_registrados_stps_04_Registro_Agentes_Externos.csv
+  Size: 2.4K
+  Status: OPEN
+
+FILE: capacitaciones_distancia_plataforma_procadist_02_PROCADIST_Capacitados.csv
+  Route: /api_update/STPS/capacitaciones_distancia_plataforma_procadist_02_PROCADIST_Capacitados.csv
+  Size: 2.0K
+  Status: OPEN
+
+FILE: capacitaciones_distancia_plataforma_procadist_02_PROCADIST_Capacitados_Jul-Sep2025.csv
+  Route: /api_update/STPS/capacitaciones_distancia_plataforma_procadist_02_PROCADIST_Capacitados_Jul-Sep2025.csv
+  Size: 1.5K
+  Status: OPEN
+
+FILE: contratos_colectivos_02_Contratos_Colectivos.csv
+  Route: /api_update/STPS/contratos_colectivos_02_Contratos_Colectivos.csv
+  Size: 5.4M
+  Status: OPEN
+
+FILE: contratos_colectivos_Contratos_Colectivos.csv
+  Route: /api_update/STPS/contratos_colectivos_Contratos_Colectivos.csv
+  Size: 7.2M
+  Status: OPEN
+
+FILE: contratos_colectivos_Contratos_Colectivos_octubre2025.csv
+  Route: /api_update/STPS/contratos_colectivos_Contratos_Colectivos_octubre2025.csv
+  Size: 5.4M
+  Status: OPEN
+
+FILE: contratos_colectivos_contratos_colectivos_stps_072025.csv
+  Route: /api_update/STPS/contratos_colectivos_contratos_colectivos_stps_072025.csv
+  Size: 5.4M
+  Status: OPEN
+
+FILE: emplazamientos_huelga_03_Emplazamientos_a_Huelga.csv
+  Route: /api_update/STPS/emplazamientos_huelga_03_Emplazamientos_a_Huelga.csv
+  Size: 9.3M
+  Status: OPEN
+
+FILE: emplazamientos_huelga_Emplazamientos_a_Huelga.csv
+  Route: /api_update/STPS/emplazamientos_huelga_Emplazamientos_a_Huelga.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: emplazamientos_huelga_Emplazamientos_a_Huelga_octubre2025.csv
+  Route: /api_update/STPS/emplazamientos_huelga_Emplazamientos_a_Huelga_octubre2025.csv
+  Size: 9.5M
+  Status: OPEN
+
+FILE: emplazamientos_huelga_emplazamientos_huelga_stps_072025.csv
+  Route: /api_update/STPS/emplazamientos_huelga_emplazamientos_huelga_stps_072025.csv
+  Size: 9.3M
+  Status: OPEN
+
+FILE: huelgas_04_Huelgas.csv
+  Route: /api_update/STPS/huelgas_04_Huelgas.csv
+  Size: 134K
+  Status: OPEN
+
+FILE: huelgas_Huelgas_octubre2025.csv
+  Route: /api_update/STPS/huelgas_Huelgas_octubre2025.csv
+  Size: 135K
+  Status: OPEN
+
+FILE: huelgas_huelgas_stps_072025.csv
+  Route: /api_update/STPS/huelgas_huelgas_stps_072025.csv
+  Size: 132K
+  Status: OPEN
+
+FILE: indicadores_clave_01_Tasa_neta_de_ocupacion.csv
+  Route: /api_update/STPS/indicadores_clave_01_Tasa_neta_de_ocupacion.csv
+  Size: 356K
+  Status: OPEN
+
+FILE: indicadores_clave_02_Tasa_de_ocupación_en_el_comercio.csv
+  Route: /api_update/STPS/indicadores_clave_02_Tasa_de_ocupación_en_el_comercio.csv
+  Size: 146
+  Status: OPEN
+
+FILE: indicadores_clave_03_Tasa_de_ocupación_en_la_industria_manufacturera.csv
+  Route: /api_update/STPS/indicadores_clave_03_Tasa_de_ocupación_en_la_industria_manufacturera.csv
+  Size: 146
+  Status: OPEN
+
+FILE: indicadores_clave_04_Tasa_de_ocupacion_en_los_servicios.csv
+  Route: /api_update/STPS/indicadores_clave_04_Tasa_de_ocupacion_en_los_servicios.csv
+  Size: 343K
+  Status: OPEN
+
+FILE: indicadores_clave_05_Tasa_de_ocupacion_agropecuaria.csv
+  Route: /api_update/STPS/indicadores_clave_05_Tasa_de_ocupacion_agropecuaria.csv
+  Size: 348K
+  Status: OPEN
+
+FILE: indicadores_clave_06_Tasa_de_trabajo_asalariado.csv
+  Route: /api_update/STPS/indicadores_clave_06_Tasa_de_trabajo_asalariado.csv
+  Size: 354K
+  Status: OPEN
+
+FILE: indicadores_clave_07_Tasa_neta_de_participacion.csv
+  Route: /api_update/STPS/indicadores_clave_07_Tasa_neta_de_participacion.csv
+  Size: 345K
+  Status: OPEN
+
+FILE: indicadores_clave_08_Tasa_de_desocupacion.csv
+  Route: /api_update/STPS/indicadores_clave_08_Tasa_de_desocupacion.csv
+  Size: 326K
+  Status: OPEN
+
+FILE: indicadores_clave_09_Indice_global_productividad_laboral_de_la_economia.csv
+  Route: /api_update/STPS/indicadores_clave_09_Indice_global_productividad_laboral_de_la_economia.csv
+  Size: 4.7K
+  Status: OPEN
+
+FILE: indicadores_clave_10_Porcentaje_asalariados_que_ganan_hasta_tres_salarios_minimos.csv
+  Route: /api_update/STPS/indicadores_clave_10_Porcentaje_asalariados_que_ganan_hasta_tres_salarios_minimos.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: indicadores_clave_11_Mediana_Ingreso_mensual_real_de_los_ocupados.csv
+  Route: /api_update/STPS/indicadores_clave_11_Mediana_Ingreso_mensual_real_de_los_ocupados.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: indicadores_clave_Contratos_Colectivos.csv
+  Route: /api_update/STPS/indicadores_clave_Contratos_Colectivos.csv
+  Size: 7.2M
+  Status: OPEN
+
+FILE: indicadores_clave_indice_global_productividad_laboral_economia_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_indice_global_productividad_laboral_economia_stps_2dotrim2025.csv
+  Size: 3.8K
+  Status: OPEN
+
+FILE: indicadores_clave_mediana_ngreso_mensual_real_ocupados_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_mediana_ngreso_mensual_real_ocupados_stps_2dotrim2025.csv
+  Size: 8.6K
+  Status: OPEN
+
+FILE: indicadores_clave_porcentaje_asalariados_ganan_hasta_tres_salarios_minimos_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_porcentaje_asalariados_ganan_hasta_tres_salarios_minimos_stps_2dotrim2025.csv
+  Size: 9.1K
+  Status: OPEN
+
+FILE: indicadores_clave_tasa_desocupacion_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_tasa_desocupacion_stps_2dotrim2025.csv
+  Size: 286K
+  Status: OPEN
+
+FILE: indicadores_clave_tasa_neta_ocupacion_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_tasa_neta_ocupacion_stps_2dotrim2025.csv
+  Size: 295K
+  Status: OPEN
+
+FILE: indicadores_clave_tasa_neta_participacion_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_tasa_neta_participacion_stps_2dotrim2025.csv
+  Size: 295K
+  Status: OPEN
+
+FILE: indicadores_clave_tasa_ocupacion_agropecuaria_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_tasa_ocupacion_agropecuaria_stps_2dotrim2025.csv
+  Size: 287K
+  Status: OPEN
+
+FILE: indicadores_clave_tasa_ocupacion_comercio_stps_2dotrimp2025.csv
+  Route: /api_update/STPS/indicadores_clave_tasa_ocupacion_comercio_stps_2dotrimp2025.csv
+  Size: 290K
+  Status: OPEN
+
+FILE: indicadores_clave_tasa_ocupacion_industria_manufacturera_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_tasa_ocupacion_industria_manufacturera_stps_2dotrim2025.csv
+  Size: 289K
+  Status: OPEN
+
+FILE: indicadores_clave_tasa_ocupacion_servicios_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_tasa_ocupacion_servicios_stps_2dotrim2025.csv
+  Size: 292K
+  Status: OPEN
+
+FILE: indicadores_clave_tasa_trabajo_asalariado_stps_2dotrim2025.csv
+  Route: /api_update/STPS/indicadores_clave_tasa_trabajo_asalariado_stps_2dotrim2025.csv
+  Size: 292K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 39
+Total Size: 76M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,38 @@
+================================================================================
+TECH STACK: TAMAULIPAS
+================================================================================
+
+DOMAIN: tamaulipas.gob.mx
+DESCRIPTION: Tamaulipas State Government
+SCAN DATE: 2026-01-15 17:16:12
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 301 Moved Permanently
+Server: NOT DISCLOSED
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Connection: keep-alive
+Set-Cookie: __uzma=4fde7713-2f19-4f3a-95ee-f8492d44dc6a; HttpOnly; path=/; Expires=Thu, 16-Jul-26 22:15:25 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmb=1768515325; HttpOnly; path=/; Expires=Thu, 16-Jul-26 22:15:25 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzme=2543; HttpOnly; path=/; Expires=Thu, 16-Jul-26 22:15:25 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmc=128151038489; HttpOnly; path=/; Expires=Thu, 16-Jul-26 22:15:25 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmd=1768515325; HttpOnly; path=/; Expires=Thu, 16-Jul-26 22:15:25 GMT; Max-Age=15724800; SameSite=Lax
+Date: Thu, 15 Jan 2026 22:15:25 GMT
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Location: https://www.tamaulipas.gob.mx/
+Cache-Control: max-age=2592000
+Expires: Sat, 14 Feb 2026 22:15:25 GMT
+
+================================================================================
+END
+================================================================================

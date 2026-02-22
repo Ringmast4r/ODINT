@@ -1,0 +1,139 @@
+================================================================================
+API ENDPOINT MAP: CONAPESCA (Fisheries)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONAPESCA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONAPESCA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: actividades_inspeccion_vigilancia_pesquera_acuicola_02_Acciones_Inspeccion_Vigilancia_2009-2024.csv
+  Route: /api_update/CONAPESCA/actividades_inspeccion_vigilancia_pesquera_acuicola_02_Acciones_Inspeccion_Vigilancia_2009-2024.csv
+  Size: 2.6M
+  Status: OPEN
+
+FILE: actividades_inspeccion_vigilancia_pesquera_acuicola_03_Retenciones_Precautorias_2009-2024.csv
+  Route: /api_update/CONAPESCA/actividades_inspeccion_vigilancia_pesquera_acuicola_03_Retenciones_Precautorias_2009-2024.csv
+  Size: 3.6M
+  Status: OPEN
+
+FILE: bienpesca_incentivo_economico_directo_pescador_y_acuicultor_07_BIENPESCA_2020-2024.csv
+  Route: /api_update/CONAPESCA/bienpesca_incentivo_economico_directo_pescador_y_acuicultor_07_BIENPESCA_2020-2024.csv
+  Size: 53M
+  Status: OPEN
+
+FILE: bienpesca_incentivo_economico_directo_pescador_y_acuicultor_07_BIENPESCA_2020-2024_ok.csv
+  Route: /api_update/CONAPESCA/bienpesca_incentivo_economico_directo_pescador_y_acuicultor_07_BIENPESCA_2020-2024_ok.csv
+  Size: 17M
+  Status: OPEN
+
+FILE: bienpesca_incentivo_economico_directo_pescador_y_acuicultor_08_BIENPESCA_2025.csv
+  Route: /api_update/CONAPESCA/bienpesca_incentivo_economico_directo_pescador_y_acuicultor_08_BIENPESCA_2025.csv
+  Size: 39M
+  Status: OPEN
+
+FILE: bienpesca_incentivo_economico_directo_pescador_y_acuicultor_08_BIENPESCA_2025_ok.csv
+  Route: /api_update/CONAPESCA/bienpesca_incentivo_economico_directo_pescador_y_acuicultor_08_BIENPESCA_2025_ok.csv
+  Size: 8.5M
+  Status: OPEN
+
+FILE: bienpesca_incentivo_economico_directo_pescador_y_acuicultor_09_BIENPESCA_2019.csv
+  Route: /api_update/CONAPESCA/bienpesca_incentivo_economico_directo_pescador_y_acuicultor_09_BIENPESCA_2019.csv
+  Size: 34M
+  Status: OPEN
+
+FILE: denuncias_pesca_ilegal_14_DENUNCIAS_PESCA_ILEGAL_2010-2023.csv
+  Route: /api_update/CONAPESCA/denuncias_pesca_ilegal_14_DENUNCIAS_PESCA_ILEGAL_2010-2023.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: denuncias_pesca_ilegal_14_DENUNCIAS_PESCA_ILEGAL_2010-2023_ok.csv
+  Route: /api_update/CONAPESCA/denuncias_pesca_ilegal_14_DENUNCIAS_PESCA_ILEGAL_2010-2023_ok.csv
+  Size: 20K
+  Status: OPEN
+
+FILE: guias_pesca_22_Guias_Pesca.csv
+  Route: /api_update/CONAPESCA/guias_pesca_22_Guias_Pesca.csv
+  Size: 3.8M
+  Status: OPEN
+
+FILE: guias_pesca_23_guias_pesca_Autorizadas_2012.csv
+  Route: /api_update/CONAPESCA/guias_pesca_23_guias_pesca_Autorizadas_2012.csv
+  Size: 15M
+  Status: OPEN
+
+FILE: guias_pesca_24_guias_pesca_Autorizadas_2013.csv
+  Route: /api_update/CONAPESCA/guias_pesca_24_guias_pesca_Autorizadas_2013.csv
+  Size: 4.7M
+  Status: OPEN
+
+FILE: guias_pesca_26_guias_pesca_Autorizadas_2015.csv
+  Route: /api_update/CONAPESCA/guias_pesca_26_guias_pesca_Autorizadas_2015.csv
+  Size: 22M
+  Status: OPEN
+
+FILE: guias_pesca_27_guias_pesca_Autorizadas_2016.csv
+  Route: /api_update/CONAPESCA/guias_pesca_27_guias_pesca_Autorizadas_2016.csv
+  Size: 25M
+  Status: OPEN
+
+FILE: guias_pesca_28_guias_pesca_Autorizadas_2017.csv
+  Route: /api_update/CONAPESCA/guias_pesca_28_guias_pesca_Autorizadas_2017.csv
+  Size: 26M
+  Status: OPEN
+
+FILE: guias_pesca_29_guias_pesca_Autorizadas_2018.csv
+  Route: /api_update/CONAPESCA/guias_pesca_29_guias_pesca_Autorizadas_2018.csv
+  Size: 20M
+  Status: OPEN
+
+FILE: guias_pesca_30_guias_pesca_Autorizadas_2019.csv
+  Route: /api_update/CONAPESCA/guias_pesca_30_guias_pesca_Autorizadas_2019.csv
+  Size: 32M
+  Status: OPEN
+
+FILE: guias_pesca_31_guias_pesca_Autorizadas_2020.csv
+  Route: /api_update/CONAPESCA/guias_pesca_31_guias_pesca_Autorizadas_2020.csv
+  Size: 32M
+  Status: OPEN
+
+FILE: guias_pesca_32_guias_pesca_Autorizadas_2021.csv
+  Route: /api_update/CONAPESCA/guias_pesca_32_guias_pesca_Autorizadas_2021.csv
+  Size: 39M
+  Status: OPEN
+
+FILE: guias_pesca_33_guias_pesca_Autorizadas_2022.csv
+  Route: /api_update/CONAPESCA/guias_pesca_33_guias_pesca_Autorizadas_2022.csv
+  Size: 33M
+  Status: OPEN
+
+FILE: guias_pesca_34_Guias_pesca_Autorizadas_2023.csv
+  Route: /api_update/CONAPESCA/guias_pesca_34_Guias_pesca_Autorizadas_2023.csv
+  Size: 33M
+  Status: OPEN
+
+FILE: guias_pesca_35_Guias_pesca_Autorizadas_2024.csv
+  Route: /api_update/CONAPESCA/guias_pesca_35_Guias_pesca_Autorizadas_2024.csv
+  Size: 33M
+  Status: OPEN
+
+FILE: guias_pesca_36_Guias_pesca_Autorizadas_2025.csv
+  Route: /api_update/CONAPESCA/guias_pesca_36_Guias_pesca_Autorizadas_2025.csv
+  Size: 17M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 23
+Total Size: 485M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,53 @@
+================================================================================
+TECH STACK: FONACOT
+================================================================================
+
+DOMAIN: fonacot.gob.mx
+URL PROBED: https://www.fonacot.gob.mx
+SCAN DATE: 2026-01-15 17:00:11
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 302 Redirect
+Server: NOT DISCLOSED
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA
+subject=CN=*.fonacot.gob.mx
+notBefore=Jul 15 00:00:00 2025 GMT
+notAfter=Jul 17 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 302 Redirect
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __uzma=b8f691f7-c957-4fae-90d8-b3e69978301f; HttpOnly; path=/; Expires=Thu, 16-Jul-26 21:59:20 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmb=1768514360; HttpOnly; path=/; Expires=Thu, 16-Jul-26 21:59:20 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzme=6975; HttpOnly; path=/; Expires=Thu, 16-Jul-26 21:59:20 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmc=927531082018; HttpOnly; path=/; Expires=Thu, 16-Jul-26 21:59:20 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmd=1768514360; HttpOnly; path=/; Expires=Thu, 16-Jul-26 21:59:20 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmf=7f9000b8f691f7-c957-4fae-90d8-b3e69978301f1-17685143603800-000e34010c07f2d637910; HttpOnly; path=/; Expires=Thu, 16-Jul-26 21:59:20 GMT; Max-Age=15724800; SameSite=Lax
+Set-Cookie: uzmx=7f90005ce40883-88f3-41c7-8dea-6c721b8f17401-17685143603800-5e1690ae9e46f43c10; Domain=.fonacot.gob.mx; HttpOnly; path=/; Expires=Thu, 16-Jul-26 21:59:20 GMT; Max-Age=15724800; SameSite=Lax
+Location: https://www.fonacot.gob.mx/Paginas/default.aspx
+X-SharePointHealthScore: 0
+SPRequestGuid: 865deda1-ccca-708b-0dac-e88057358b69
+request-id: 865deda1-ccca-708b-0dac-e88057358b69
+X-FRAME-OPTIONS: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;
+SPRequestDuration: 10
+SPIisLatency: 0
+MicrosoftSharePointTeamServices: 16.0.0.5513
+X-Content-Type-Options: nosniff
+X-MS-InvokeApp: 1; RequireReadOnly
+Date: Thu, 15 Jan 2026 21:59:20 GMT
+
+================================================================================
+END
+================================================================================

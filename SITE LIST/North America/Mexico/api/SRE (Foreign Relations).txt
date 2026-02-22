@@ -1,0 +1,334 @@
+================================================================================
+API ENDPOINT MAP: SRE (Foreign Relations)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SRE/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SRE/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: 01_cartas_de_naturalizacion_expedidas_2025.csv
+  Route: /api_update/SRE/01_cartas_de_naturalizacion_expedidas_2025.csv
+  Size: 4.1K
+  Status: OPEN
+
+FILE: 01_contratos_arrendamiento_sre_2025.csv
+  Route: /api_update/SRE/01_contratos_arrendamiento_sre_2025.csv
+  Size: 2.4K
+  Status: OPEN
+
+FILE: 01_Ingresos2025.csv
+  Route: /api_update/SRE/01_Ingresos2025.csv
+  Size: 9.6K
+  Status: OPEN
+
+FILE: 01_Solicitudes_informacion_Presidencia.csv
+  Route: /api_update/SRE/01_Solicitudes_informacion_Presidencia.csv
+  Size: 2.8K
+  Status: OPEN
+
+FILE: 02_bienes_muebles_2do_trim_2025.csv
+  Route: /api_update/SRE/02_bienes_muebles_2do_trim_2025.csv
+  Size: 1.2K
+  Status: OPEN
+
+FILE: 02_certificados_nacionalidad_mexicana_2025.csv
+  Route: /api_update/SRE/02_certificados_nacionalidad_mexicana_2025.csv
+  Size: 3.9K
+  Status: OPEN
+
+FILE: 02_Produccion2025.csv
+  Route: /api_update/SRE/02_Produccion2025.csv
+  Size: 8.7K
+  Status: OPEN
+
+FILE: 02_solicitudes_informacion_legisladores.csv
+  Route: /api_update/SRE/02_solicitudes_informacion_legisladores.csv
+  Size: 898
+  Status: OPEN
+
+FILE: 03_declaratorias_de_nacionalidad_mexicana_por_nacimiento.csv
+  Route: /api_update/SRE/03_declaratorias_de_nacionalidad_mexicana_por_nacimiento.csv
+  Size: 4.0K
+  Status: OPEN
+
+FILE: 03_solicitudes_informacion_cndh.csv
+  Route: /api_update/SRE/03_solicitudes_informacion_cndh.csv
+  Size: 2.2K
+  Status: OPEN
+
+FILE: 04_Convenio_de_renuncia.csv
+  Route: /api_update/SRE/04_Convenio_de_renuncia.csv
+  Size: 189
+  Status: OPEN
+
+FILE: 04_solicitudes_informacion_fgr_similares.csv
+  Route: /api_update/SRE/04_solicitudes_informacion_fgr_similares.csv
+  Size: 3.7K
+  Status: OPEN
+
+FILE: 05_Permisos_para_la_constitucion_de_fideicomisos.csv
+  Route: /api_update/SRE/05_Permisos_para_la_constitucion_de_fideicomisos.csv
+  Size: 188
+  Status: OPEN
+
+FILE: 05_por_edad_menores_derecho_familia_adopciones_internacionales.csv
+  Route: /api_update/SRE/05_por_edad_menores_derecho_familia_adopciones_internacionales.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: 05_por_entidad_derecho_familia_adopciones_internacionales_entidad.csv
+  Route: /api_update/SRE/05_por_entidad_derecho_familia_adopciones_internacionales_entidad.csv
+  Size: 20K
+  Status: OPEN
+
+FILE: 05_por_genero_menores_derecho_familia_adopciones_internacionales.csv
+  Route: /api_update/SRE/05_por_genero_menores_derecho_familia_adopciones_internacionales.csv
+  Size: 1.2K
+  Status: OPEN
+
+FILE: 05_por_pais_recepcion_derecho_familia_adopciones_internacionales.csv
+  Route: /api_update/SRE/05_por_pais_recepcion_derecho_familia_adopciones_internacionales.csv
+  Size: 5.4K
+  Status: OPEN
+
+FILE: 06_convenciones_sol_hechas_por_mexico_derecho_familia_pensiones_alimenticias.csv
+  Route: /api_update/SRE/06_convenciones_sol_hechas_por_mexico_derecho_familia_pensiones_alimenticias.csv
+  Size: 312
+  Status: OPEN
+
+FILE: 06_convenciones_sol_recibidas_mexico_derecho_familia_pensiones_alimenticias.csv
+  Route: /api_update/SRE/06_convenciones_sol_recibidas_mexico_derecho_familia_pensiones_alimenticias.csv
+  Size: 296
+  Status: OPEN
+
+FILE: 06_por_anio_derecho_familia_pensiones_alimenticias.csv
+  Route: /api_update/SRE/06_por_anio_derecho_familia_pensiones_alimenticias.csv
+  Size: 6.1K
+  Status: OPEN
+
+FILE: 06_uifsa_sol_hechas_por_mexico_derecho_familia_pensiones_alimenticias.csv
+  Route: /api_update/SRE/06_uifsa_sol_hechas_por_mexico_derecho_familia_pensiones_alimenticias.csv
+  Size: 384
+  Status: OPEN
+
+FILE: 06_uifsa_sol_recibidas_por_mexico_derecho_familia_pensiones_alimenticias.csv
+  Route: /api_update/SRE/06_uifsa_sol_recibidas_por_mexico_derecho_familia_pensiones_alimenticias.csv
+  Size: 421
+  Status: OPEN
+
+FILE: 07_activos_derecho_familia_restitucion_menores.csv
+  Route: /api_update/SRE/07_activos_derecho_familia_restitucion_menores.csv
+  Size: 105
+  Status: OPEN
+
+FILE: 07_casos_cerrados_2025_derecho_familia_restitucion_menores.csv
+  Route: /api_update/SRE/07_casos_cerrados_2025_derecho_familia_restitucion_menores.csv
+  Size: 338
+  Status: OPEN
+
+FILE: 07_por_anio_derecho_familia_restitucion_menores.csv
+  Route: /api_update/SRE/07_por_anio_derecho_familia_restitucion_menores.csv
+  Size: 495
+  Status: OPEN
+
+FILE: 07_sustraidos_desde_mexico_derecho_familia_restitucion_menores.csv
+  Route: /api_update/SRE/07_sustraidos_desde_mexico_derecho_familia_restitucion_menores.csv
+  Size: 468
+  Status: OPEN
+
+FILE: 07_sustraidos_hacia_mexico_derecho_familia_restitucion_menores.csv
+  Route: /api_update/SRE/07_sustraidos_hacia_mexico_derecho_familia_restitucion_menores.csv
+  Size: 450
+  Status: OPEN
+
+FILE: 08_semana_derechos_laborales_Estados_Unidos.csv
+  Route: /api_update/SRE/08_semana_derechos_laborales_Estados_Unidos.csv
+  Size: 2.3K
+  Status: OPEN
+
+FILE: 12_casos_PALE.csv
+  Route: /api_update/SRE/12_casos_PALE.csv
+  Size: 48
+  Status: OPEN
+
+FILE: 13_Listado_proveedores_PALE.csv
+  Route: /api_update/SRE/13_Listado_proveedores_PALE.csv
+  Size: 54K
+  Status: OPEN
+
+FILE: 19_semana_derechos_laborales_canada.csv
+  Route: /api_update/SRE/19_semana_derechos_laborales_canada.csv
+  Size: 723
+  Status: OPEN
+
+FILE: 20_por_anio_Personas_mexicanas_repatriadas_desde_exterior.csv
+  Route: /api_update/SRE/20_por_anio_Personas_mexicanas_repatriadas_desde_exterior.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: 20_por_sexo_entidad_Personas_mexicanas_repatriadas_desde_exterior.csv
+  Route: /api_update/SRE/20_por_sexo_entidad_Personas_mexicanas_repatriadas_desde_exterior.csv
+  Size: 98K
+  Status: OPEN
+
+FILE: 20_por_sexo_gpo_edad_Personas_mexicanas_repatriadas_desde_exterior.csv
+  Route: /api_update/SRE/20_por_sexo_gpo_edad_Personas_mexicanas_repatriadas_desde_exterior.csv
+  Size: 29K
+  Status: OPEN
+
+FILE: 20_por_sexo_representacion_Personas_mexicanas_repatriadas_desde_exterior.csv
+  Route: /api_update/SRE/20_por_sexo_representacion_Personas_mexicanas_repatriadas_desde_exterior.csv
+  Size: 145K
+  Status: OPEN
+
+FILE: 21_por_sexo_entidad_nousa_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Route: /api_update/SRE/21_por_sexo_entidad_nousa_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Size: 40K
+  Status: OPEN
+
+FILE: 21_por_sexo_entidad_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Route: /api_update/SRE/21_por_sexo_entidad_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Size: 40K
+  Status: OPEN
+
+FILE: 21_por_sexo_gpo_edad_nousa_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Route: /api_update/SRE/21_por_sexo_gpo_edad_nousa_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Size: 16K
+  Status: OPEN
+
+FILE: 21_por_sexo_gpo_edad_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Route: /api_update/SRE/21_por_sexo_gpo_edad_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Size: 16K
+  Status: OPEN
+
+FILE: 21_por_sexo_representacion_nousa_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Route: /api_update/SRE/21_por_sexo_representacion_nousa_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Size: 94K
+  Status: OPEN
+
+FILE: 21_por_sexo_representacion_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Route: /api_update/SRE/21_por_sexo_representacion_traslado_restos_personas_mexicanas_fallecidas_extranjero.csv
+  Size: 60K
+  Status: OPEN
+
+FILE: Matriculas_2025.csv
+  Route: /api_update/SRE/Matriculas_2025.csv
+  Size: 24K
+  Status: OPEN
+
+FILE: Produccioon_Representaciones_Mexico_Exterior_2025.csv
+  Route: /api_update/SRE/Produccioon_Representaciones_Mexico_Exterior_2025.csv
+  Size: 28K
+  Status: OPEN
+
+FILE: Registro_Civil_2025.csv
+  Route: /api_update/SRE/Registro_Civil_2025.csv
+  Size: 14K
+  Status: OPEN
+
+FILE: rubros_proteccion_nousa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Route: /api_update/SRE/rubros_proteccion_nousa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Size: 66K
+  Status: OPEN
+
+FILE: rubros_proteccion_nousa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Route: /api_update/SRE/rubros_proteccion_nousa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Size: 9.1K
+  Status: OPEN
+
+FILE: rubros_proteccion_usa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Route: /api_update/SRE/rubros_proteccion_usa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Size: 67K
+  Status: OPEN
+
+FILE: rubros_proteccion_usa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Route: /api_update/SRE/rubros_proteccion_usa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Size: 9.3K
+  Status: OPEN
+
+FILE: sexo_entidad_nousa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Route: /api_update/SRE/sexo_entidad_nousa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Size: 29K
+  Status: OPEN
+
+FILE: sexo_entidad_nousa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Route: /api_update/SRE/sexo_entidad_nousa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Size: 19K
+  Status: OPEN
+
+FILE: sexo_entidad_usa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Route: /api_update/SRE/sexo_entidad_usa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Size: 30K
+  Status: OPEN
+
+FILE: sexo_entidad_usa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Route: /api_update/SRE/sexo_entidad_usa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: sexo_gpo_edad_nousa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Route: /api_update/SRE/sexo_gpo_edad_nousa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Size: 9.3K
+  Status: OPEN
+
+FILE: sexo_gpo_edad_nousa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Route: /api_update/SRE/sexo_gpo_edad_nousa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Size: 6.2K
+  Status: OPEN
+
+FILE: sexo_gpo_edad_usa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Route: /api_update/SRE/sexo_gpo_edad_usa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Size: 9.5K
+  Status: OPEN
+
+FILE: sexo_gpo_edad_usa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Route: /api_update/SRE/sexo_gpo_edad_usa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Size: 8.0K
+  Status: OPEN
+
+FILE: sexo_representacion_nousa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Route: /api_update/SRE/sexo_representacion_nousa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Size: 80K
+  Status: OPEN
+
+FILE: sexo_representacion_nousa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Route: /api_update/SRE/sexo_representacion_nousa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Size: 22K
+  Status: OPEN
+
+FILE: sexo_representacion_usa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Route: /api_update/SRE/sexo_representacion_usa_casos_proteccion_asistencia_consular_ambito_administrativo.csv
+  Size: 45K
+  Status: OPEN
+
+FILE: sexo_representacion_usa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Route: /api_update/SRE/sexo_representacion_usa_casos_proteccion_asistencia_consular_ambito_derechos_humanos.csv
+  Size: 33K
+  Status: OPEN
+
+FILE: Ubicacion_geografica_2025.csv
+  Route: /api_update/SRE/Ubicacion_geografica_2025.csv
+  Size: 52K
+  Status: OPEN
+
+FILE: Visas_2025.csv
+  Route: /api_update/SRE/Visas_2025.csv
+  Size: 15K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 62
+Total Size: 1.3M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

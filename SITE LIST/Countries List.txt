@@ -1,0 +1,303 @@
+CYBER RECON TOUR - ALL COUNTRIES & TERRITORIES BY REGION
+=========================================================
+
+Total: 270 Countries/Territories
+14 Regions
+
+=== NORTH AMERICAN CYBER RECON TOUR (6) ===
+Bermuda (UK)
+Canada
+Greenland (Denmark)
+Mexico
+Saint Pierre and Miquelon (France)
+United States
+
+=== CARIBBEAN CYBER RECON TOUR (31) ===
+Anguilla (UK)
+Antigua and Barbuda
+Aruba (Netherlands)
+Bahamas
+Barbados
+Bonaire (Netherlands)
+British Virgin Islands (UK)
+Cayman Islands (UK)
+Cuba
+Curacao (Netherlands)
+Dominica
+Dominican Republic
+Grenada
+Guadeloupe (France)
+Haiti
+Jamaica
+Martinique (France)
+Montserrat (UK)
+Navassa Island (US)
+Puerto Rico (US)
+Saba (Netherlands)
+Saint Barthelemy (France)
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (France)
+Saint Vincent and the Grenadines
+Sint Eustatius (Netherlands)
+Sint Maarten (Netherlands)
+Trinidad and Tobago
+Turks and Caicos (UK)
+US Virgin Islands (US)
+
+=== CENTRAL AMERICAN CYBER RECON TOUR (7) ===
+Belize
+Costa Rica
+El Salvador
+Guatemala
+Honduras
+Nicaragua
+Panama
+
+=== SOUTH AMERICAN CYBER RECON TOUR (14) ===
+Argentina
+Bolivia
+Brazil
+Chile
+Colombia
+Ecuador
+Falkland Islands (UK)
+French Guiana
+Guyana
+Paraguay
+Peru
+Suriname
+Uruguay
+Venezuela
+
+=== EUROPEAN CYBER RECON TOUR (60) ===
+Akrotiri and Dhekelia (UK)
+Aland Islands (Finland)
+Albania
+Andorra
+Austria
+Azores (Portugal)
+Belarus
+Belgium
+Bosnia and Herzegovina
+Bulgaria
+Canary Islands (Spain)
+Ceuta (Spain)
+Croatia
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Faroe Islands (Denmark)
+Finland
+France
+Germany
+Gibraltar (UK)
+Greece
+Guernsey (UK)
+Hungary
+Iceland
+Ireland
+Isle of Man (UK)
+Italy
+Jan Mayen (Norway)
+Jersey (UK)
+Kosovo
+Latvia
+Liechtenstein
+Lithuania
+Luxembourg
+Madeira (Portugal)
+Malta
+Melilla (Spain)
+Moldova
+Monaco
+Montenegro
+Netherlands
+North Macedonia
+Norway
+Poland
+Portugal
+Romania
+Russia
+San Marino
+Serbia
+Slovakia
+Slovenia
+Spain
+Svalbard (Norway)
+Sweden
+Switzerland
+Ukraine
+United Kingdom
+Vatican City
+
+=== CAUCASUS CYBER RECON TOUR (3) ===
+Armenia
+Azerbaijan
+Georgia
+
+=== MIDDLE EASTERN CYBER RECON TOUR (15) ===
+Bahrain
+Iran
+Iraq
+Israel
+Jordan
+Kuwait
+Lebanon
+Oman
+Palestine
+Qatar
+Saudi Arabia
+Syria
+Turkey
+United Arab Emirates
+Yemen
+
+=== CENTRAL ASIAN CYBER RECON TOUR (5) ===
+Kazakhstan
+Kyrgyzstan
+Tajikistan
+Turkmenistan
+Uzbekistan
+
+=== SOUTH ASIAN CYBER RECON TOUR (9) ===
+Afghanistan
+Bangladesh
+Bhutan
+British Indian Ocean Territory (UK)
+India
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+
+=== EAST ASIAN CYBER RECON TOUR (8) ===
+China
+Hong Kong (China)
+Japan
+Macau (China)
+Mongolia
+North Korea
+South Korea
+Taiwan
+
+=== SOUTHEAST ASIAN CYBER RECON TOUR (11) ===
+Brunei
+Cambodia
+East Timor
+Indonesia
+Laos
+Malaysia
+Myanmar
+Philippines
+Singapore
+Thailand
+Vietnam
+
+=== AFRICAN CYBER RECON TOUR (60) ===
+Algeria
+Angola
+Ascension Island (UK)
+Benin
+Botswana
+Burkina Faso
+Burundi
+Cabo Verde
+Cameroon
+Central African Republic
+Chad
+Comoros
+Cote d'Ivoire
+Democratic Republic of the Congo
+Djibouti
+Egypt
+Equatorial Guinea
+Eritrea
+Eswatini
+Ethiopia
+Gabon
+Gambia
+Ghana
+Guinea
+Guinea-Bissau
+Kenya
+Lesotho
+Liberia
+Libya
+Madagascar
+Malawi
+Mali
+Mauritania
+Mauritius
+Mayotte (France)
+Morocco
+Mozambique
+Namibia
+Niger
+Nigeria
+Republic of the Congo
+Reunion (France)
+Rwanda
+Saint Helena (UK)
+Sao Tome and Principe
+Senegal
+Seychelles
+Sierra Leone
+Somalia
+South Africa
+South Sudan
+Sudan
+Tanzania
+Togo
+Tristan da Cunha (UK)
+Tunisia
+Uganda
+Western Sahara
+Zambia
+Zimbabwe
+
+=== OCEANIAN CYBER RECON TOUR (36) ===
+American Samoa (US)
+Australia
+Baker Island (US)
+Christmas Island (Australia)
+Clipperton Island (France)
+Cocos Islands (Australia)
+Cook Islands (NZ)
+Fiji
+French Polynesia (France)
+Guam (US)
+Howland Island (US)
+Jarvis Island (US)
+Johnston Atoll (US)
+Kingman Reef (US)
+Kiribati
+Marshall Islands
+Micronesia
+Midway Atoll (US)
+Nauru
+New Caledonia (France)
+New Zealand
+Niue (NZ)
+Norfolk Island (Australia)
+Northern Mariana Islands (US)
+Palau
+Palmyra Atoll (US)
+Papua New Guinea
+Pitcairn Islands (UK)
+Samoa
+Solomon Islands
+Tokelau (NZ)
+Tonga
+Tuvalu
+Vanuatu
+Wake Island (US)
+Wallis and Futuna (France)
+
+=== ANTARCTIC CYBER RECON TOUR (5) ===
+Antarctica
+Bouvet Island (Norway)
+French Southern and Antarctic Lands (France)
+Heard Island and McDonald Islands (Australia)
+South Georgia and South Sandwich Islands (UK)

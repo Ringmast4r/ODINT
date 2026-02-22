@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: CIJ
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CIJ/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CIJ/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: cursos_capacitacion_ofrecidos_cij_CIJ_2_CursosOfrecidos_2024_2025T1.csv
+  Route: /api_update/CIJ/cursos_capacitacion_ofrecidos_cij_CIJ_2_CursosOfrecidos_2024_2025T1.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: migrantes_atendidos_por_cij_CIJ_3_Migrantes_2017_2025T1.csv
+  Route: /api_update/CIJ/migrantes_atendidos_por_cij_CIJ_3_Migrantes_2017_2025T1.csv
+  Size: 314K
+  Status: OPEN
+
+FILE: pacientes_atendidos_primera_vez_CIJ_4_Pacientes1erIngresoatratamiento_2024_2025T1.csv
+  Route: /api_update/CIJ/pacientes_atendidos_primera_vez_CIJ_4_Pacientes1erIngresoatratamiento_2024_2025T1.csv
+  Size: 7.2M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 19M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

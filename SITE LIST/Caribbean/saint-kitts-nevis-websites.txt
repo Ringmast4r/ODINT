@@ -1,0 +1,47 @@
+# SAINT KITTS AND NEVIS (32)
+# ============================================================
+
+# Government
+gov.kn
+pm.gov.kn
+mofa.gov.kn
+mof.gov.kn
+moe.gov.kn
+moh.gov.kn
+agriculture.gov.kn
+tourism.gov.kn
+justice.gov.kn
+customs.gov.kn
+ird.gov.kn
+parliament.gov.kn
+immigration.gov.kn
+rscnpf.com
+skncustoms.com
+neviaadmin.gov.kn
+
+# Media
+thestkittsnevisobserver.com
+sknvibes.com
+zizonline.com
+waboradio.com
+
+# Universities
+umhs-sk.net
+windsor.edu
+
+# Tourism
+visitstkitts.com
+nevisisland.com
+
+# Banks
+sknanb.com
+scotiabank.com.kn
+dcfhbank.com
+
+# Sports
+sknfa.com
+sknoc.org
+
+# Telecom
+digicel.kn
+flow.co

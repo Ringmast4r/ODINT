@@ -1,0 +1,124 @@
+================================================================================
+API ENDPOINT MAP: SEPOMEX
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SEPOMEX/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SEPOMEX/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: antiguedad_mensual_empleados_01_SEPOMEX_antiguedad_mensual_de_los_empleados.csv
+  Route: /api_update/SEPOMEX/antiguedad_mensual_empleados_01_SEPOMEX_antiguedad_mensual_de_los_empleados.csv
+  Size: 448
+  Status: OPEN
+
+FILE: bono_productividad_02_SEPOMEX_bono_de_productividad.csv
+  Route: /api_update/SEPOMEX/bono_productividad_02_SEPOMEX_bono_de_productividad.csv
+  Size: 940
+  Status: OPEN
+
+FILE: centro_atencion_cliente_centro_atencion_clientes_ene_jun_25.csv
+  Route: /api_update/SEPOMEX/centro_atencion_cliente_centro_atencion_clientes_ene_jun_25.csv
+  Size: 279
+  Status: OPEN
+
+FILE: centro_atencion_cliente_centro_atencion_clientes_ene_jun_25_ok.csv
+  Route: /api_update/SEPOMEX/centro_atencion_cliente_centro_atencion_clientes_ene_jun_25_ok.csv
+  Size: 279
+  Status: OPEN
+
+FILE: centros_trabajo_10_SEPOMEX_centros_de_trabajo_junio2025.csv
+  Route: /api_update/SEPOMEX/centros_trabajo_10_SEPOMEX_centros_de_trabajo_junio2025.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: cobertura_servicios_postales_11_SEPOMEX_cobertura_junio2025.csv
+  Route: /api_update/SEPOMEX/cobertura_servicios_postales_11_SEPOMEX_cobertura_junio2025.csv
+  Size: 154
+  Status: OPEN
+
+FILE: correspondencia_envios_12_SEPOMEX_correspondencia_y_envios_junio2025.csv
+  Route: /api_update/SEPOMEX/correspondencia_envios_12_SEPOMEX_correspondencia_y_envios_junio2025.csv
+  Size: 1003
+  Status: OPEN
+
+FILE: ingresos_linea_negocio_03_SEPOMEX_ingresos_por_linea_de_negocio.csv
+  Route: /api_update/SEPOMEX/ingresos_linea_negocio_03_SEPOMEX_ingresos_por_linea_de_negocio.csv
+  Size: 454
+  Status: OPEN
+
+FILE: padron_inmobiliario_servicio_postal_mexicano_04_SEPOMEX_padron_inmobiliario_SEPOMEX.csv
+  Route: /api_update/SEPOMEX/padron_inmobiliario_servicio_postal_mexicano_04_SEPOMEX_padron_inmobiliario_SEPOMEX.csv
+  Size: 336K
+  Status: OPEN
+
+FILE: padron_inmobiliario_servicio_postal_mexicano_04_SEPOMEX_padron_inmobiliario_SEPOMEX_f.csv
+  Route: /api_update/SEPOMEX/padron_inmobiliario_servicio_postal_mexicano_04_SEPOMEX_padron_inmobiliario_SEPOMEX_f.csv
+  Size: 357K
+  Status: OPEN
+
+FILE: plan_capacitacion_anual_05_SEPOMEX_educacion.csv
+  Route: /api_update/SEPOMEX/plan_capacitacion_anual_05_SEPOMEX_educacion.csv
+  Size: 4.6K
+  Status: OPEN
+
+FILE: plan_capacitacion_anual_05_SEPOMEX_educacionF.csv
+  Route: /api_update/SEPOMEX/plan_capacitacion_anual_05_SEPOMEX_educacionF.csv
+  Size: 4.7K
+  Status: OPEN
+
+FILE: programa_emisiones_estampillas_postales_conmemorativas_especiales_07_SEPOMEX_programa_emisiones_3er_bim_2025.csv
+  Route: /api_update/SEPOMEX/programa_emisiones_estampillas_postales_conmemorativas_especiales_07_SEPOMEX_programa_emisiones_3er_bim_2025.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: programa_emisiones_estampillas_postales_conmemorativas_especiales_07_SEPOMEX_programa_emisiones_3er_bim_2025F.csv
+  Route: /api_update/SEPOMEX/programa_emisiones_estampillas_postales_conmemorativas_especiales_07_SEPOMEX_programa_emisiones_3er_bim_2025F.csv
+  Size: 2.7K
+  Status: OPEN
+
+FILE: programa_exposiciones_filatelicas_08_SEPOMEX_programa_exposiciones_3er_bim_2025.csv
+  Route: /api_update/SEPOMEX/programa_exposiciones_filatelicas_08_SEPOMEX_programa_exposiciones_3er_bim_2025.csv
+  Size: 6.9K
+  Status: OPEN
+
+FILE: programa_exposiciones_filatelicas_08_SEPOMEX_programa_exposiciones_3er_bim_2025F.csv
+  Route: /api_update/SEPOMEX/programa_exposiciones_filatelicas_08_SEPOMEX_programa_exposiciones_3er_bim_2025F.csv
+  Size: 7.1K
+  Status: OPEN
+
+FILE: reclamaciones_envios_reclamaciones_jun_2025.csv
+  Route: /api_update/SEPOMEX/reclamaciones_envios_reclamaciones_jun_2025.csv
+  Size: 240
+  Status: OPEN
+
+FILE: reclamaciones_envios_reclamaciones_jun_2025_ok.csv
+  Route: /api_update/SEPOMEX/reclamaciones_envios_reclamaciones_jun_2025_ok.csv
+  Size: 237
+  Status: OPEN
+
+FILE: recursos_humanos_06_SEPOMEX_recursos_humanos.csv
+  Route: /api_update/SEPOMEX/recursos_humanos_06_SEPOMEX_recursos_humanos.csv
+  Size: 820
+  Status: OPEN
+
+FILE: recursos_humanos_06_SEPOMEX_recursos_humanosF.csv
+  Route: /api_update/SEPOMEX/recursos_humanos_06_SEPOMEX_recursos_humanosF.csv
+  Size: 820
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 20
+Total Size: 728K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,39 @@
+================================================================================
+TECH STACK: INAI
+================================================================================
+
+DOMAIN: inai.org.mx
+URL PROBED: https://www.inai.org.mx
+SCAN DATE: 2026-01-15 17:04:18
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 301 Moved Permanently
+Server: nginx
+Content-Type: text/html
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Thu, 15 Jan 2026 22:03:31 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://home.inai.org.mx
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+
+================================================================================
+END
+================================================================================

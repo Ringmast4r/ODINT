@@ -1,0 +1,149 @@
+================================================================================
+API ENDPOINT MAP: NAFIN (Development Bank)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/NAFIN/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/NAFIN/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: capacitacion_linea_NAFIN_35_1T_2025_NAFIN_CAPLIN.csv
+  Route: /api_update/NAFIN/capacitacion_linea_NAFIN_35_1T_2025_NAFIN_CAPLIN.csv
+  Size: 3.5K
+  Status: OPEN
+
+FILE: capacitacion_linea_NAFIN_36_4T_2024_NAFIN_CAPLIN.csv
+  Route: /api_update/NAFIN/capacitacion_linea_NAFIN_36_4T_2024_NAFIN_CAPLIN.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: capacitacion_linea_NAFIN_37_4T_2023_NAFIN_CAPLIN.csv
+  Route: /api_update/NAFIN/capacitacion_linea_NAFIN_37_4T_2023_NAFIN_CAPLIN.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: capacitacion_linea_NAFIN_38_4T_2022_NAFIN_CAPLIN.csv
+  Route: /api_update/NAFIN/capacitacion_linea_NAFIN_38_4T_2022_NAFIN_CAPLIN.csv
+  Size: 9.8K
+  Status: OPEN
+
+FILE: capacitacion_linea_NAFIN_39_4T_2021_NAFIN_CAPLIN.csv
+  Route: /api_update/NAFIN/capacitacion_linea_NAFIN_39_4T_2021_NAFIN_CAPLIN.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: capacitacion_linea_NAFIN_40_CAPLIN_2020.csv
+  Route: /api_update/NAFIN/capacitacion_linea_NAFIN_40_CAPLIN_2020.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: otorgamiento_credito_garantias_nafin_NAFIN_1_1T_2025_NAFIN_FLUJO.csv
+  Route: /api_update/NAFIN/otorgamiento_credito_garantias_nafin_NAFIN_1_1T_2025_NAFIN_FLUJO.csv
+  Size: 82K
+  Status: OPEN
+
+FILE: otorgamiento_credito_garantias_nafin_NAFIN_2_4T_2024_NAFIN_FLUJO.csv
+  Route: /api_update/NAFIN/otorgamiento_credito_garantias_nafin_NAFIN_2_4T_2024_NAFIN_FLUJO.csv
+  Size: 336K
+  Status: OPEN
+
+FILE: otorgamiento_credito_garantias_nafin_NAFIN_3_4T_2023_NAFIN_FLUJO.csv
+  Route: /api_update/NAFIN/otorgamiento_credito_garantias_nafin_NAFIN_3_4T_2023_NAFIN_FLUJO.csv
+  Size: 333K
+  Status: OPEN
+
+FILE: otorgamiento_credito_garantias_nafin_NAFIN_4_4T_2022_NAFIN_FLUJO.csv
+  Route: /api_update/NAFIN/otorgamiento_credito_garantias_nafin_NAFIN_4_4T_2022_NAFIN_FLUJO.csv
+  Size: 332K
+  Status: OPEN
+
+FILE: otorgamiento_credito_garantias_nafin_NAFIN_5_4T_2021_NAFIN_FLUJO.csv
+  Route: /api_update/NAFIN/otorgamiento_credito_garantias_nafin_NAFIN_5_4T_2021_NAFIN_FLUJO.csv
+  Size: 334K
+  Status: OPEN
+
+FILE: otorgamiento_credito_garantias_nafin_NAFIN_6_FLUJO_2020.csv
+  Route: /api_update/NAFIN/otorgamiento_credito_garantias_nafin_NAFIN_6_FLUJO_2020.csv
+  Size: 323K
+  Status: OPEN
+
+FILE: saldo_garantias_NAFIN_14_1T_2025_NAFIN_SALDO_GARANTIAS.csv
+  Route: /api_update/NAFIN/saldo_garantias_NAFIN_14_1T_2025_NAFIN_SALDO_GARANTIAS.csv
+  Size: 147K
+  Status: OPEN
+
+FILE: saldo_garantias_NAFIN_15_4T_2024_NAFIN_SALDO_GARANTIAS.csv
+  Route: /api_update/NAFIN/saldo_garantias_NAFIN_15_4T_2024_NAFIN_SALDO_GARANTIAS.csv
+  Size: 589K
+  Status: OPEN
+
+FILE: saldo_garantias_NAFIN_16_4T_2023_NAFIN_SALDO_GARANTIAS.csv
+  Route: /api_update/NAFIN/saldo_garantias_NAFIN_16_4T_2023_NAFIN_SALDO_GARANTIAS.csv
+  Size: 490K
+  Status: OPEN
+
+FILE: saldo_garantias_NAFIN_17_4T_2021_NAFIN_SALDO_GARANTIAS.csv
+  Route: /api_update/NAFIN/saldo_garantias_NAFIN_17_4T_2021_NAFIN_SALDO_GARANTIAS.csv
+  Size: 388K
+  Status: OPEN
+
+FILE: saldo_garantias_NAFIN_18_4T_2022_NAFIN_SALDO_GARANTIAS.csv
+  Route: /api_update/NAFIN/saldo_garantias_NAFIN_18_4T_2022_NAFIN_SALDO_GARANTIAS.csv
+  Size: 365K
+  Status: OPEN
+
+FILE: saldo_garantias_NAFIN_19_2020_SALDOS_GARANTIAS.csv
+  Route: /api_update/NAFIN/saldo_garantias_NAFIN_19_2020_SALDOS_GARANTIAS.csv
+  Size: 391K
+  Status: OPEN
+
+FILE: saldos_credito_nafin_NAFIN_19_2020_SALDOS_GARANTIAS.csv
+  Route: /api_update/NAFIN/saldos_credito_nafin_NAFIN_19_2020_SALDOS_GARANTIAS.csv
+  Size: 391K
+  Status: OPEN
+
+FILE: saldos_credito_nafin_NAFIN_24_SALDO_2025_IT.csv
+  Route: /api_update/NAFIN/saldos_credito_nafin_NAFIN_24_SALDO_2025_IT.csv
+  Size: 68K
+  Status: OPEN
+
+FILE: saldos_credito_nafin_NAFIN_25_SALDO_2024_IVT.csv
+  Route: /api_update/NAFIN/saldos_credito_nafin_NAFIN_25_SALDO_2024_IVT.csv
+  Size: 298K
+  Status: OPEN
+
+FILE: saldos_credito_nafin_NAFIN_26_SALDO_2023_IVT.csv
+  Route: /api_update/NAFIN/saldos_credito_nafin_NAFIN_26_SALDO_2023_IVT.csv
+  Size: 271K
+  Status: OPEN
+
+FILE: saldos_credito_nafin_NAFIN_27_SALDO_2022_IVT.csv
+  Route: /api_update/NAFIN/saldos_credito_nafin_NAFIN_27_SALDO_2022_IVT.csv
+  Size: 283K
+  Status: OPEN
+
+FILE: saldos_credito_nafin_NAFIN_28_SALDO_2021_IIT.csv
+  Route: /api_update/NAFIN/saldos_credito_nafin_NAFIN_28_SALDO_2021_IIT.csv
+  Size: 140K
+  Status: OPEN
+
+FILE: saldos_credito_nafin_NAFIN_29_SALDO_2020.csv
+  Route: /api_update/NAFIN/saldos_credito_nafin_NAFIN_29_SALDO_2020.csv
+  Size: 265K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 25
+Total Size: 5.8M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,74 @@
+================================================================================
+API ENDPOINT MAP: IPN (National Polytechnic)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/IPN/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/IPN/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: acervo_bibliografico_10_2024_acervo_bibliografico.csv
+  Route: /api_update/IPN/acervo_bibliografico_10_2024_acervo_bibliografico.csv
+  Size: 5.4K
+  Status: OPEN
+
+FILE: alumnos_registrados_programa_servicio_social_28_alumnos_registrados_programa_servicio_social_escuelas_incorporadas_2024.csv
+  Route: /api_update/IPN/alumnos_registrados_programa_servicio_social_28_alumnos_registrados_programa_servicio_social_escuelas_incorporadas_2024.csv
+  Size: 1.1K
+  Status: OPEN
+
+FILE: egresados_nivel_medio_superior_nivel_superior_nivel_posgrado_11_2024_egresados_np_ns_nms.csv
+  Route: /api_update/IPN/egresados_nivel_medio_superior_nivel_superior_nivel_posgrado_11_2024_egresados_np_ns_nms.csv
+  Size: 60K
+  Status: OPEN
+
+FILE: empresas_plataforma_sisae_siboltra_33_empresas_plataforma_sisae_siboltra_2024.csv
+  Route: /api_update/IPN/empresas_plataforma_sisae_siboltra_33_empresas_plataforma_sisae_siboltra_2024.csv
+  Size: 74
+  Status: OPEN
+
+FILE: eventos_artisticos_realizados_24_2024_eventos_artisticos_realizados.csv
+  Route: /api_update/IPN/eventos_artisticos_realizados_24_2024_eventos_artisticos_realizados.csv
+  Size: 9.2K
+  Status: OPEN
+
+FILE: matricula_programa_academico_nivel_medio_superior_12_2024_matricula_nm.csv
+  Route: /api_update/IPN/matricula_programa_academico_nivel_medio_superior_12_2024_matricula_nm.csv
+  Size: 20K
+  Status: OPEN
+
+FILE: matricula_programa_academico_nivel_superior_14_2024_matricula_ns.csv
+  Route: /api_update/IPN/matricula_programa_academico_nivel_superior_14_2024_matricula_ns.csv
+  Size: 14K
+  Status: OPEN
+
+FILE: personal_docente_area_adscripcion_08_personal_docente_area_adscripcion_2024.csv
+  Route: /api_update/IPN/personal_docente_area_adscripcion_08_personal_docente_area_adscripcion_2024.csv
+  Size: 38K
+  Status: OPEN
+
+FILE: presupuesto_finanza_46_estado_ejercicio_2024.csv
+  Route: /api_update/IPN/presupuesto_finanza_46_estado_ejercicio_2024.csv
+  Size: 14K
+  Status: OPEN
+
+FILE: proyectos_investigacion_realizados_ipn_20_2024_catalogo_proyectos_investigacion.csv
+  Route: /api_update/IPN/proyectos_investigacion_realizados_ipn_20_2024_catalogo_proyectos_investigacion.csv
+  Size: 497K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 10
+Total Size: 655K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

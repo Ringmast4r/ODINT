@@ -1,0 +1,29 @@
+================================================================================
+API ENDPOINT MAP: ASIPONA_ENSENADA
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ASIPONA_ENSENADA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ASIPONA_ENSENADA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: contratos_obra_Relacion_contratos_obra_2024.csv
+  Route: /api_update/ASIPONA_ENSENADA/contratos_obra_Relacion_contratos_obra_2024.csv
+  Size: 2.6K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 1
+Total Size: 2.6K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,34 @@
+================================================================================
+API ENDPOINT MAP: INSTITUTO_MORA
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INSTITUTO_MORA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INSTITUTO_MORA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: alumnos_graduados_instituto_mora_IM_14_egresados.csv
+  Route: /api_update/INSTITUTO_MORA/alumnos_graduados_instituto_mora_IM_14_egresados.csv
+  Size: 125K
+  Status: OPEN
+
+FILE: alumnos_inscritos_instituto_mora_IM_15_alumnosvigentes.csv
+  Route: /api_update/INSTITUTO_MORA/alumnos_inscritos_instituto_mora_IM_15_alumnosvigentes.csv
+  Size: 19K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 2
+Total Size: 144K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

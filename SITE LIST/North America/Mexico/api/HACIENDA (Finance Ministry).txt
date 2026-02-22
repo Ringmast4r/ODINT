@@ -1,0 +1,74 @@
+================================================================================
+API ENDPOINT MAP: HACIENDA (Finance Ministry)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/HACIENDA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/HACIENDA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: deuda_publica.csv
+  Route: /api_update/HACIENDA/deuda_publica.csv
+  Size: 20M
+  Status: OPEN
+
+FILE: deuda_publica_hist.csv
+  Route: /api_update/HACIENDA/deuda_publica_hist.csv
+  Size: 17M
+  Status: OPEN
+
+FILE: ingreso_gasto_finan.csv
+  Route: /api_update/HACIENDA/ingreso_gasto_finan.csv
+  Size: 119M
+  Status: OPEN
+
+FILE: ingreso_gasto_finan_hist.csv
+  Route: /api_update/HACIENDA/ingreso_gasto_finan_hist.csv
+  Size: 154M
+  Status: OPEN
+
+FILE: rfsp.csv
+  Route: /api_update/HACIENDA/rfsp.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: rfsp_metodologia_anterior.csv
+  Route: /api_update/HACIENDA/rfsp_metodologia_anterior.csv
+  Size: 227K
+  Status: OPEN
+
+FILE: shrfsp_deuda_amplia_actual.csv
+  Route: /api_update/HACIENDA/shrfsp_deuda_amplia_actual.csv
+  Size: 1.1M
+  Status: OPEN
+
+FILE: shrfsp_deuda_amplia_antes_2014.csv
+  Route: /api_update/HACIENDA/shrfsp_deuda_amplia_antes_2014.csv
+  Size: 285K
+  Status: OPEN
+
+FILE: transferencias_entidades_fed.csv
+  Route: /api_update/HACIENDA/transferencias_entidades_fed.csv
+  Size: 77M
+  Status: OPEN
+
+FILE: transferencias_entidades_fed_hist.csv
+  Route: /api_update/HACIENDA/transferencias_entidades_fed_hist.csv
+  Size: 64M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 10
+Total Size: 461M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

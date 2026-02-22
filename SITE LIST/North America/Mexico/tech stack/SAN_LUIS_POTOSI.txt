@@ -1,0 +1,40 @@
+================================================================================
+TECH STACK: SAN_LUIS_POTOSI
+================================================================================
+
+DOMAIN: slp.gob.mx
+DESCRIPTION: San Luis Potosi State
+SCAN DATE: 2026-01-15 17:16:21
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: gunicorn
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:15:34 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 75228
+Connection: keep-alive
+Server: gunicorn
+Expires: Thu, 15 Jan 2026 22:15:34 GMT
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate, private
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Language, Cookie
+Content-Language: es
+Strict-Transport-Security: max-age=60; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+Set-Cookie: django_language=es; expires=Fri, 15 Jan 2027 22:15:34 GMT; Max-Age=31536000; Path=/
+
+================================================================================
+END
+================================================================================

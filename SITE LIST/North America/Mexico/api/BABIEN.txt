@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: BABIEN
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/BABIEN/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/BABIEN/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: archivos_documentales_Disposicion_Documental_BABIEN.csv
+  Route: /api_update/BABIEN/archivos_documentales_Disposicion_Documental_BABIEN.csv
+  Size: 9.2K
+  Status: OPEN
+
+FILE: estructura_organica_Estructura_Organica_BABIEN.csv
+  Route: /api_update/BABIEN/estructura_organica_Estructura_Organica_BABIEN.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: presupuesto_Presupuesto_2024_BABIEN.csv
+  Route: /api_update/BABIEN/presupuesto_Presupuesto_2024_BABIEN.csv
+  Size: 831
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 31K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

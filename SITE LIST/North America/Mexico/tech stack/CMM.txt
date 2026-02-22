@@ -1,0 +1,40 @@
+================================================================================
+TECH STACK: CMM
+================================================================================
+
+DOMAIN: cimat.mx
+URL PROBED: https://www.cimat.mx
+SCAN DATE: 2026-01-15 17:03:02
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Apache
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 21:53:07 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Link: <https://www.cimat.mx/wp-json/>; rel="https://api.w.org/", <https://www.cimat.mx/wp-json/wp/v2/pages/38410>; rel="alternate"; type="application/json", <https://www.cimat.mx/>; rel=shortlink
+X-TEC-API-VERSION: v1
+X-TEC-API-ROOT: https://www.cimat.mx/wp-json/tribe/events/v1/
+X-TEC-API-ORIGIN: https://www.cimat.mx
+Set-Cookie: PHPSESSID=5eqmkrhsgqfe27o586tpc0e13k; path=/
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

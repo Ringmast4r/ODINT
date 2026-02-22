@@ -1,0 +1,74 @@
+================================================================================
+API ENDPOINT MAP: USICAMM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/USICAMM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/USICAMM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: asignaciones_usicamm_08_Practica_educativa_2025.csv
+  Route: /api_update/USICAMM/asignaciones_usicamm_08_Practica_educativa_2025.csv
+  Size: 263K
+  Status: OPEN
+
+FILE: asignaciones_usicamm_09_Asesoria_tecnica_EB.csv
+  Route: /api_update/USICAMM/asignaciones_usicamm_09_Asesoria_tecnica_EB.csv
+  Size: 63K
+  Status: OPEN
+
+FILE: asignaciones_usicamm_10_Asesoria_tecnica_pedagogica.csv
+  Route: /api_update/USICAMM/asignaciones_usicamm_10_Asesoria_tecnica_pedagogica.csv
+  Size: 145K
+  Status: OPEN
+
+FILE: asignaciones_usicamm_11_Beca_comision_EB.csv
+  Route: /api_update/USICAMM/asignaciones_usicamm_11_Beca_comision_EB.csv
+  Size: 59K
+  Status: OPEN
+
+FILE: asignaciones_usicamm_12_Beca_comision_EMS.csv
+  Route: /api_update/USICAMM/asignaciones_usicamm_12_Beca_comision_EMS.csv
+  Size: 815
+  Status: OPEN
+
+FILE: asignaciones_usicamm_13_Tutoria.csv
+  Route: /api_update/USICAMM/asignaciones_usicamm_13_Tutoria.csv
+  Size: 422K
+  Status: OPEN
+
+FILE: asignaciones_usicamm_14_reconocimiento.csv
+  Route: /api_update/USICAMM/asignaciones_usicamm_14_reconocimiento.csv
+  Size: 1.3M
+  Status: OPEN
+
+FILE: indicadores_resultados_18_Matriz_indicadores_resultados.csv
+  Route: /api_update/USICAMM/indicadores_resultados_18_Matriz_indicadores_resultados.csv
+  Size: 5.2K
+  Status: OPEN
+
+FILE: plazas_asignadas_vacantes_15_Plazas_Asignadas_24-25.csv
+  Route: /api_update/USICAMM/plazas_asignadas_vacantes_15_Plazas_Asignadas_24-25.csv
+  Size: 144M
+  Status: OPEN
+
+FILE: plazas_asignadas_vacantes_16_Plazas_Vacantes.csv
+  Route: /api_update/USICAMM/plazas_asignadas_vacantes_16_Plazas_Vacantes.csv
+  Size: 3.7M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 10
+Total Size: 150M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

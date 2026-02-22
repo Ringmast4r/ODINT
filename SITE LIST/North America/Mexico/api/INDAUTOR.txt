@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: INDAUTOR
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INDAUTOR/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INDAUTOR/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: audiencias_avenencia_01_audiencias_avenencia_2013-2024.csv
+  Route: /api_update/INDAUTOR/audiencias_avenencia_01_audiencias_avenencia_2013-2024.csv
+  Size: 4.1K
+  Status: OPEN
+
+FILE: consultas_juridicas_materia_derechos_autor_02_consulta_juridica_atendida_2013-2024.csv
+  Route: /api_update/INDAUTOR/consultas_juridicas_materia_derechos_autor_02_consulta_juridica_atendida_2013-2024.csv
+  Size: 4.1K
+  Status: OPEN
+
+FILE: dictamen_previo_06_solicitud_dictamen_previo_2013-2024.csv
+  Route: /api_update/INDAUTOR/dictamen_previo_06_solicitud_dictamen_previo_2013-2024.csv
+  Size: 4.1K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 13K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

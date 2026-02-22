@@ -1,0 +1,49 @@
+================================================================================
+TECH STACK: IPN
+================================================================================
+
+DOMAIN: ipn.mx
+URL PROBED: https://www.ipn.mx
+SCAN DATE: 2026-01-15 16:59:39
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=Let's Encrypt, CN=E8
+subject=CN=ipn.mx
+notBefore=Jan  5 21:59:28 2026 GMT
+notAfter=Apr  5 21:59:27 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 21:58:49 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 70694
+Connection: keep-alive
+Server: Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k
+X-Powered-By: PHP/7.4.19
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+Permissions-Policy: geolocation=none;microphone=none
+Cache-Control: max-age=300, public
+Set-Cookie: PHPSESSID=irjc6cd0gtijo7qg3qpgmi7dtk; expires=Fri, 16-Jan-2026 21:58:39 GMT; Max-Age=86400; path=/; HttpOnly
+Age: 10
+X-Cache: HIT from modxcache.internal.cloudapp.net
+X-Cache-Detail: "cache hit" from modxcache.internal.cloudapp.net
+
+================================================================================
+END
+================================================================================

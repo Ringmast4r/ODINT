@@ -1,0 +1,134 @@
+================================================================================
+API ENDPOINT MAP: INM (Immigration)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: 01_servidores_capacitados_072022-062025.csv
+  Route: /api_update/INM/01_servidores_capacitados_072022-062025.csv
+  Size: 94K
+  Status: OPEN
+
+FILE: 02_visitas_verificacion_2015-2025.csv
+  Route: /api_update/INM/02_visitas_verificacion_2015-2025.csv
+  Size: 215K
+  Status: OPEN
+
+FILE: 03_revisiones_migratorias_2015-2025.csv
+  Route: /api_update/INM/03_revisiones_migratorias_2015-2025.csv
+  Size: 226K
+  Status: OPEN
+
+FILE: 04_documentos_migratorios_2024-2025.csv
+  Route: /api_update/INM/04_documentos_migratorios_2024-2025.csv
+  Size: 17M
+  Status: OPEN
+
+FILE: 06_atendidos_grupo_beta_2015-062025.csv
+  Route: /api_update/INM/06_atendidos_grupo_beta_2015-062025.csv
+  Size: 55K
+  Status: OPEN
+
+FILE: 07_victimas_delitos_2015-062025.csv
+  Route: /api_update/INM/07_victimas_delitos_2015-062025.csv
+  Size: 206K
+  Status: OPEN
+
+FILE: 08_peticiones_paisano_2015-062025.csv
+  Route: /api_update/INM/08_peticiones_paisano_2015-062025.csv
+  Size: 278K
+  Status: OPEN
+
+FILE: 09_atenciones_programa_paisanos_2015-062025.csv
+  Route: /api_update/INM/09_atenciones_programa_paisanos_2015-062025.csv
+  Size: 286K
+  Status: OPEN
+
+FILE: 11_quejas_paisano_2015-062025.csv
+  Route: /api_update/INM/11_quejas_paisano_2015-062025.csv
+  Size: 269K
+  Status: OPEN
+
+FILE: 12_pesca_deportiva_2018-062025.csv
+  Route: /api_update/INM/12_pesca_deportiva_2018-062025.csv
+  Size: 2.7K
+  Status: OPEN
+
+FILE: 126_visitas_verificacion.csv
+  Route: /api_update/INM/126_visitas_verificacion.csv
+  Size: 226K
+  Status: OPEN
+
+FILE: 127_revisiones_migratorias.csv
+  Route: /api_update/INM/127_revisiones_migratorias.csv
+  Size: 233K
+  Status: OPEN
+
+FILE: 140_documentos_migratorios.csv
+  Route: /api_update/INM/140_documentos_migratorios.csv
+  Size: 18M
+  Status: OPEN
+
+FILE: 141_tramites_migratorios.csv
+  Route: /api_update/INM/141_tramites_migratorios.csv
+  Size: 280M
+  Status: OPEN
+
+FILE: 278_atendidos_grupo_beta.csv
+  Route: /api_update/INM/278_atendidos_grupo_beta.csv
+  Size: 58K
+  Status: OPEN
+
+FILE: 286_victimas_delito.csv
+  Route: /api_update/INM/286_victimas_delito.csv
+  Size: 215K
+  Status: OPEN
+
+FILE: 345_peticiones_paisano.csv
+  Route: /api_update/INM/345_peticiones_paisano.csv
+  Size: 277K
+  Status: OPEN
+
+FILE: 346_atenciones_programa_paisanos.csv
+  Route: /api_update/INM/346_atenciones_programa_paisanos.csv
+  Size: 286K
+  Status: OPEN
+
+FILE: 348_pesca_deportiva.csv
+  Route: /api_update/INM/348_pesca_deportiva.csv
+  Size: 2.9K
+  Status: OPEN
+
+FILE: 348_quejas_paisano.csv
+  Route: /api_update/INM/348_quejas_paisano.csv
+  Size: 276K
+  Status: OPEN
+
+FILE: 534_menores_viajan.csv
+  Route: /api_update/INM/534_menores_viajan.csv
+  Size: 9.9K
+  Status: OPEN
+
+FILE: 56_servidores_capacitados.csv
+  Route: /api_update/INM/56_servidores_capacitados.csv
+  Size: 98K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 22
+Total Size: 317M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

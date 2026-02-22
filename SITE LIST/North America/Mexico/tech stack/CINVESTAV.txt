@@ -1,0 +1,36 @@
+================================================================================
+TECH STACK: CINVESTAV
+================================================================================
+
+DOMAIN: cinvestav.mx
+DESCRIPTION: Research Center
+SCAN DATE: 2026-01-15 17:14:26
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 405 Not Allowed
+Server: NOT DISCLOSED
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 405 Not Allowed
+Date: Thu, 15 Jan 2026 22:13:39 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Content-Security-Policy: default-src 'none'; script-src 'strict-dynamic' 'nonce-ILq98Vw40clx03jAMrx6IajwMJl6gUvp'; style-src 'nonce-1MdqXjiKz2L0tVZ3vUmH54ywV8ksNV6V'; frame-ancestors 'none'; base-uri 'none'; img-src data:; font-src data:; require-trusted-types-for 'script'; upgrade-insecure-requests;
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+Permissions-Policy: accelerometer=(), ambient-light-sensor=(), attribution-reporting=(), autoplay=(), battery=(), bluetooth=(), browsing-topics=(), camera=(), compute-pressure=(), display-capture=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), fullscreen=(), gamepad=(), geolocation=(), gyroscope=(), hid=(), identity-credentials-get=(), idle-detection=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), otp-credentials=(), payment=(), picture-in-picture=(), publickey-credentials-create=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), speaker-selection=(), storage-access=(), usb=(), web-share=(), window-management=(), xr-spatial-tracking=(), interest-cohort=()
+Cache-Control: no-cache, no-store, must-revalidate
+X-DNS-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+
+================================================================================
+END
+================================================================================

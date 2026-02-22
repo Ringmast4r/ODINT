@@ -1,0 +1,50 @@
+================================================================================
+TECH STACK: AEROMEXICO
+================================================================================
+
+DOMAIN: aeromexico.com
+URL PROBED: https://www.aeromexico.com
+SCAN DATE: 2026-01-15 17:06:40
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: NOT DISCLOSED
+Content-Type: text/html
+CDN: Akamai
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1
+subject=C=MX, L=Ciudad de México, O=Aerovias de Mexico S.A. de C.V., CN=aeromexico.com
+notBefore=Jan 15 00:00:00 2026 GMT
+notAfter=Jun  2 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Mon, 12 Jan 2026 04:58:53 GMT
+ETag: W/"69647f8d-13cf0"
+Date: Thu, 15 Jan 2026 22:05:50 GMT
+Connection: keep-alive
+X-Akam-SW-Version: 0.5.0
+Set-Cookie: akaalb_ALB_APP_1.0=~op=~rv=5~m=~os=~id=54550ee05ee9daf1b80f99aadebee96d; path=/; HttpOnly; Secure; SameSite=None
+Set-Cookie: akacd_PR_PROD=3945967549~rv=98~id=4afdc5669f5f1d6cc343346542fd62c4; path=/; Secure; SameSite=None
+Edgescape: Country=NL,RegionCode=,City=NAALDWIJK,AreaCode=,Latitud=52.00,Longitud=4.20,Zip=
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
+Geo_Info: Country=NL;City=NAALDWIJK;State=;MSA=
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src 'self' * 'unsafe-inline' 'unsafe-eval' data: blob:; script-src 'self' * 'unsafe-inline' 'unsafe-eval' *.acsbapp.com acsbapp.com *.acsbap.com acsbap.com; style-src 'self' * 'unsafe-inline'; font-src * data:; img-src 'self' * 'unsafe-inline' data: blob: *.acsbapp.com acsbapp.com *.acsbap.com acsbap.com; connect-src 'self' * 'unsafe-inline' *.acsbapp.com acsbapp.com *.acsbap.com acsbap.com *.wikipedia.org wikipedia.org; media-src 'self' 'unsafe-inline' data:; frame-src *; object-src *;
+X-XSS-Protection: 1; mode=block
+x-content-type-options: nosniff
+Set-Cookie: _abck=5E4C6FF5FE115E3574AB85388045B078~-1~YAAQDP8TApwiab6bAQAAeoexww/pHtvS2KNpC6wUwHLuoTepMuAzZ5ZvXLDw0Cwn40OeE3nYwLBxNRn+CE9Apxfg/hP+7vqD7m6I+hjdv2coPHGpkzJj36hTt62lHh2WIiWCnjjFLRo0YceFTiMy2oSEXn7sgKRDkUKUdM3vJNlQ/m8HTCHz7/VB4ywhOudmD2HO5DIi2KCj7GbFRxrp7YX8kD9IJtRvHbkYOlfIrMxP9sLB2pvA8KfR3aW1NzpxgAXACBkr+oyYUn6LhQO6zxPQ17TnosJOIcoXpajoq2YyfXRskSvjw5F4peEH+1859nYWM0ciodPxWkRBSDkbjvnt9793zp06zrZRT/lZMGTgkwYh+VSemQ9yB8weHGREnxpOLp3NnRD3zY331pZFt1bjYveWJ/3x1hZWjHWkRCM+CarFHNGuoEwm11XWflNTGaY7HmvoXJjM~-1~-1~-1~-1~-1; Domain=.aeromexico.com; Path=/; Expires=Fri, 15 Jan 2027 22:05:50 GMT; Max-Age=31536000; Secure
+Set-Cookie: bm_sz=3FBC75B73BB39C2252C0D2603CEDF218~YAAQDP8TAp0iab6bAQAAeoexwx6oeRdaNlfv+NXxB81J3GLy7nsaGBXRVlIkxaqxXxroBXOAmopPCkJN9kK64noc6uKdehgBZt26OsrgDYWYmCh4wdqSyew1djyiQI/hGweDCVFrSY/a2BLe4/Y9As+fEltUxLdDkfO+Alxr1xWALfin7ClJFdmpuQgUznwO1+fUtxQrdVf5pkNM/8r042JpPOEbZY1HWykiPv7DcLELxvP/7KWGo+9U3GQDqISyx3D9BWLruxHI/I5sC3+ZSrcD+BywJCEHm6DcBRGfwqYve5Dec3z8/lpJqIr2Mh12CU822EwjuQDQH4T0CrCTtDS9U34NU6vDub03/JrlEohKCA==~3158577~4277296; Domain=.aeromexico.com; Path=/; Expires=Fri, 16 Jan 2026 02:05:50 GMT; Max-Age=14400
+Server-Timing: ak_p; desc="1768514749622_34864908_47340617_8890_12085_10_484_-";dur=1
+
+================================================================================
+END
+================================================================================

@@ -1,0 +1,56 @@
+================================================================================
+TECH STACK: CIAD
+================================================================================
+
+DOMAIN: ciad.mx
+URL PROBED: https://www.ciad.mx
+SCAN DATE: 2026-01-15 17:02:58
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=Let's Encrypt, CN=R13
+subject=CN=www.ciad.mx
+notBefore=Dec 12 19:27:33 2025 GMT
+notAfter=Mar 12 19:27:32 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 15 Jan 2026 22:02:08 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Keep-Alive: timeout=5
+Vary: Accept-Encoding
+Cache-Control: must-revalidate
+Upgrade: h2
+Last-Modified: Thu, 15 Jan 2026 22:02:07 GMT
+Set-Cookie: Path=/; HttpOnly; Secure; SameSite=Lax
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+Clear-Site-Data: *
+Content-Security-Policy: upgrade-insecure-requests 1
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: max-age=63072000, enforce
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Cross-Origin-Embedder-Policy: unsafe-none; report-to='default'
+Cross-Origin-Opener-Policy: unsafe-none
+Cross-Origin-Resource-Policy: cross-origin
+Access-Control-Allow-Origin: *
+
+================================================================================
+END
+================================================================================

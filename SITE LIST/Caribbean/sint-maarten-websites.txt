@@ -1,0 +1,24 @@
+# SINT MAARTEN - DUTCH TERRITORY (12)
+# ============================================================
+
+# Government
+sintmaartengov.org
+parliament.sx
+customs.sx
+immigration.sx
+police.sx
+
+# Media
+thedailyherald.sx
+smn-news.com
+721news.com
+
+# Tourism
+vacationstmaarten.com
+
+# Banks
+centralbank.sx
+windwardislandsbank.com
+
+# Education
+usi.sx

@@ -1,0 +1,36 @@
+================================================================================
+TECH STACK: FERROMEX
+================================================================================
+
+DOMAIN: ferromex.com.mx
+URL PROBED: https://www.ferromex.com.mx
+SCAN DATE: 2026-01-15 17:06:48
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.0 302 Moved Temporarily
+Server: BigIP
+Content-Type: Unknown
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, CN=GeoTrust EV RSA CA G2
+subject=jurisdictionC=MX, businessCategory=Private Organization, serialNumber=FME971022Q44, C=MX, L=Ciudad de México, O=Ferrocarril Mexicano S.A de C.V., CN=ferromex.com.mx
+notBefore=Apr 11 00:00:00 2025 GMT
+notAfter=Mar 26 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.0 302 Moved Temporarily
+Location: https://ferromex.mx/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+================================================================================
+END
+================================================================================

@@ -1,0 +1,39 @@
+================================================================================
+TECH STACK: SCJN
+================================================================================
+
+DOMAIN: scjn.gob.mx
+URL PROBED: https://www.scjn.gob.mx
+SCAN DATE: 2026-01-15 17:04:51
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 403 Forbidden
+Server: NOT DISCLOSED
+Content-Type: text/html
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, CN=DigiCert EV RSA CA G2
+subject=jurisdictionC=MX, businessCategory=Government Entity, serialNumber=SCJ9502046P5, C=MX, L=CIUDAD DE MEXICO, O=Suprema Corte de Justicia de La Nación, CN=scjn.gob.mx
+notBefore=Nov 20 00:00:00 2025 GMT
+notAfter=Dec 21 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 403 Forbidden
+Content-Type: text/html
+Cache-Control: no-cache, no-store
+Connection: close
+Content-Length: 865
+X-Iinfo: 61-25634752-0 0NNN RT(1768514640572 357) q(0 -1 -1 1) r(0 -1) B16 U6
+Set-Cookie: visid_incap_2697473=QFndgP5ZTDqUDL24DvvWllBkaWkAAAAAQUIPAAAAAAChc/yg6vsg418YNjNjZd0J; expires=Thu, 14 Jan 2027 22:32:55 GMT; HttpOnly; path=/; Domain=.scjn.gob.mx
+Set-Cookie: incap_ses_1687_2697473=4knTcbqAjVdh5seXDW5pF1BkaWkAAAAA2FIwCa6X+pmhcui39dbyWQ==; path=/; Domain=.scjn.gob.mx
+
+================================================================================
+END
+================================================================================

@@ -1,0 +1,31 @@
+================================================================================
+TECH STACK: CIATEJ
+================================================================================
+
+DOMAIN: ciatej.mx
+DESCRIPTION: Technology Research Center
+SCAN DATE: 2026-01-15 17:18:53
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: Apache
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:18:06 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.40
+Cache-Control: no-cache, private
+Set-Cookie: laravel_session=eyJpdiI6IlRvV1BtOU8rTHphbUZcL08zTXptcFl3PT0iLCJ2YWx1ZSI6IkRzUzg0N3JQXC9OOUZmQ2lvVG1MemVhWjF5bUxUSklaR3BHdzQybThnNGUwdjFVR3B3RmNweVROUm1zUzBjbW0xNU4xcFFLZEpnNlBWM0xGSm56bnlqUT09IiwibWFjIjoiZTZjMzA1ZmRiNzYxOTRjYTBmMjJmMzc0YmY5NGI1ODRhYjZhNWEzN2RkOTM1YTE3ZTgxNDBiYmFiYjRjOGIyMSJ9; expires=Fri, 16-Jan-2026 00:18:07 GMT; Max-Age=7200; path=/; httponly
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

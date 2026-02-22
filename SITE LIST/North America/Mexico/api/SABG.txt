@@ -1,0 +1,44 @@
+================================================================================
+API ENDPOINT MAP: SABG
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SABG/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SABG/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: bitacora_electronica_obra_publica_bitacora_electronica_2018-2025.csv
+  Route: /api_update/SABG/bitacora_electronica_obra_publica_bitacora_electronica_2018-2025.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: bitacora_electronica_obra_publica_glosario_bitacora_electronica.csv
+  Route: /api_update/SABG/bitacora_electronica_obra_publica_glosario_bitacora_electronica.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: comite_transparencia_02_sesiones_comite_transparencia.csv
+  Route: /api_update/SABG/comite_transparencia_02_sesiones_comite_transparencia.csv
+  Size: 1.3K
+  Status: OPEN
+
+FILE: comite_transparencia_2023_anual_sesiones_comite_transparencia_2023.csv
+  Route: /api_update/SABG/comite_transparencia_2023_anual_sesiones_comite_transparencia_2023.csv
+  Size: 2.8K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 4
+Total Size: 35K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

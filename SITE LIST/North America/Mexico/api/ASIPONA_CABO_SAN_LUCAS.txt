@@ -1,0 +1,44 @@
+================================================================================
+API ENDPOINT MAP: ASIPONA_CABO_SAN_LUCAS
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ASIPONA_CABO_SAN_LUCAS/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ASIPONA_CABO_SAN_LUCAS/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: arribos_01_arribos_2023_072025.csv
+  Route: /api_update/ASIPONA_CABO_SAN_LUCAS/arribos_01_arribos_2023_072025.csv
+  Size: 496
+  Status: OPEN
+
+FILE: arribos_programados_programados_2025_2026.csv
+  Route: /api_update/ASIPONA_CABO_SAN_LUCAS/arribos_programados_programados_2025_2026.csv
+  Size: 318
+  Status: OPEN
+
+FILE: esloras_cruceros_recibidos_01_esloras2024.csv
+  Route: /api_update/ASIPONA_CABO_SAN_LUCAS/esloras_cruceros_recibidos_01_esloras2024.csv
+  Size: 7.5K
+  Status: OPEN
+
+FILE: esloras_cruceros_recibidos_02_esloras2025.csv
+  Route: /api_update/ASIPONA_CABO_SAN_LUCAS/esloras_cruceros_recibidos_02_esloras2025.csv
+  Size: 13K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 4
+Total Size: 21K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

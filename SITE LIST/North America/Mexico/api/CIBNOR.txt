@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: CIBNOR
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CIBNOR/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CIBNOR/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: actividades_divulgacion_cibnor_03_Actividades_de_divulgacion_por_personal_de_Ciencia_y_Tecnologia.csv
+  Route: /api_update/CIBNOR/actividades_divulgacion_cibnor_03_Actividades_de_divulgacion_por_personal_de_Ciencia_y_Tecnologia.csv
+  Size: 204K
+  Status: OPEN
+
+FILE: contratos_convenios_transferencia_conocimiento_05_Contratos_Convenios.csv
+  Route: /api_update/CIBNOR/contratos_convenios_transferencia_conocimiento_05_Contratos_Convenios.csv
+  Size: 164K
+  Status: OPEN
+
+FILE: instituciones_educativas_atendidas_pace_04_Instituciones_educativas_atendidas_por_PACE.csv
+  Route: /api_update/CIBNOR/instituciones_educativas_atendidas_pace_04_Instituciones_educativas_atendidas_por_PACE.csv
+  Size: 113K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 479K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

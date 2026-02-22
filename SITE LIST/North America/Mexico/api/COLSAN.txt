@@ -1,0 +1,44 @@
+================================================================================
+API ENDPOINT MAP: COLSAN
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/COLSAN/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/COLSAN/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: beneficiarios_colsan_02_becas_colsan.csv
+  Route: /api_update/COLSAN/beneficiarios_colsan_02_becas_colsan.csv
+  Size: 19K
+  Status: OPEN
+
+FILE: beneficiarios_colsan_03_apoyos_economicos_colsan.csv
+  Route: /api_update/COLSAN/beneficiarios_colsan_03_apoyos_economicos_colsan.csv
+  Size: 9.1K
+  Status: OPEN
+
+FILE: convenios_institucionales_colsan_09_convenios_institucionales_colsan.csv
+  Route: /api_update/COLSAN/convenios_institucionales_colsan_09_convenios_institucionales_colsan.csv
+  Size: 14K
+  Status: OPEN
+
+FILE: estadistica_servicio_bibliotecario_colsan_11_servicios_bibliotecarios_colsan.csv
+  Route: /api_update/COLSAN/estadistica_servicio_bibliotecario_colsan_11_servicios_bibliotecarios_colsan.csv
+  Size: 400
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 4
+Total Size: 42K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

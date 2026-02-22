@@ -1,0 +1,35 @@
+================================================================================
+TECH STACK: NAYARIT
+================================================================================
+
+DOMAIN: nayarit.gob.mx
+DESCRIPTION: Nayarit State Government
+SCAN DATE: 2026-01-15 17:16:59
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 301 Moved Permanently
+Server: Apache/2.4.52 (Ubuntu)
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 15 Jan 2026 22:16:12 GMT
+Server: Apache/2.4.52 (Ubuntu)
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: geolocation=(), microphone=(), camera=()
+X-Redirect-By: WordPress
+Location: https://www.nayarit.gob.mx/
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

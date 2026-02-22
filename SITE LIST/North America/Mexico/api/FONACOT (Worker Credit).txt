@@ -1,0 +1,64 @@
+================================================================================
+API ENDPOINT MAP: FONACOT (Worker Credit)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/FONACOT/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/FONACOT/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: centros_trabajo_registrados_micrositio_04.1_FONACOT_CT_rango_trabajadores_entidad_federativa_abr-may2025.csv
+  Route: /api_update/FONACOT/centros_trabajo_registrados_micrositio_04.1_FONACOT_CT_rango_trabajadores_entidad_federativa_abr-may2025.csv
+  Size: 490
+  Status: OPEN
+
+FILE: centros_trabajo_registrados_micrositio_04_FONACOT_CT_rango_trabajadores_entidad_federativa_1ertrim2025.csv
+  Route: /api_update/FONACOT/centros_trabajo_registrados_micrositio_04_FONACOT_CT_rango_trabajadores_entidad_federativa_1ertrim2025.csv
+  Size: 2.0K
+  Status: OPEN
+
+FILE: importe_creditos_ejercidos_genero_entidad-federativa_01.1_FONACOT_importe_creditos_genero_entidad_federativa_2dotrim2025.csv
+  Route: /api_update/FONACOT/importe_creditos_ejercidos_genero_entidad-federativa_01.1_FONACOT_importe_creditos_genero_entidad_federativa_2dotrim2025.csv
+  Size: 3.2K
+  Status: OPEN
+
+FILE: importe_creditos_ejercidos_genero_entidad-federativa_01_FONACOT_Importe_de_creditos_ejercidos_por_genero_y_entidad_1ertrim2025.csv
+  Route: /api_update/FONACOT/importe_creditos_ejercidos_genero_entidad-federativa_01_FONACOT_Importe_de_creditos_ejercidos_por_genero_y_entidad_1ertrim2025.csv
+  Size: 3.3K
+  Status: OPEN
+
+FILE: nuevos_trabajadores_registrados_06.1_FONACOT_nuevos_trabajadores_registrados_2dotrim2025.csv
+  Route: /api_update/FONACOT/nuevos_trabajadores_registrados_06.1_FONACOT_nuevos_trabajadores_registrados_2dotrim2025.csv
+  Size: 59
+  Status: OPEN
+
+FILE: nuevos_trabajadores_registrados_06_FONACOT_Nuevos_trabajadores_registrados_1ertrim2025.csv
+  Route: /api_update/FONACOT/nuevos_trabajadores_registrados_06_FONACOT_Nuevos_trabajadores_registrados_1ertrim2025.csv
+  Size: 62
+  Status: OPEN
+
+FILE: trabajadores_credito_ejercido_genero_entidad_federativa_02.1_FONACOT_trabajadores_genero_entidad_federativa_2dotrim2025.csv
+  Route: /api_update/FONACOT/trabajadores_credito_ejercido_genero_entidad_federativa_02.1_FONACOT_trabajadores_genero_entidad_federativa_2dotrim2025.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: trabajadores_credito_ejercido_genero_entidad_federativa_02_FONACOT_trabajadores_genero_entidad_federativa_1ertrim2025.csv
+  Route: /api_update/FONACOT/trabajadores_credito_ejercido_genero_entidad_federativa_02_FONACOT_trabajadores_genero_entidad_federativa_1ertrim2025.csv
+  Size: 2.2K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 8
+Total Size: 13K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

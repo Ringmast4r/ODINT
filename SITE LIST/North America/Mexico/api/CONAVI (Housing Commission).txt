@@ -1,0 +1,54 @@
+================================================================================
+API ENDPOINT MAP: CONAVI (Housing Commission)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONAVI/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONAVI/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: reporte_general_subsidios_CONAVI_1_Subsidios_2024.csv
+  Route: /api_update/CONAVI/reporte_general_subsidios_CONAVI_1_Subsidios_2024.csv
+  Size: 839K
+  Status: OPEN
+
+FILE: reporte_general_subsidios_Subsidios_2019.csv
+  Route: /api_update/CONAVI/reporte_general_subsidios_Subsidios_2019.csv
+  Size: 5.2M
+  Status: OPEN
+
+FILE: reporte_general_subsidios_Subsidios_2020.csv
+  Route: /api_update/CONAVI/reporte_general_subsidios_Subsidios_2020.csv
+  Size: 2.9M
+  Status: OPEN
+
+FILE: reporte_general_subsidios_Subsidios_2021.csv
+  Route: /api_update/CONAVI/reporte_general_subsidios_Subsidios_2021.csv
+  Size: 2.1M
+  Status: OPEN
+
+FILE: reporte_general_subsidios_Subsidios_2022.csv
+  Route: /api_update/CONAVI/reporte_general_subsidios_Subsidios_2022.csv
+  Size: 2.2M
+  Status: OPEN
+
+FILE: reporte_general_subsidios_Subsidios_2023.csv
+  Route: /api_update/CONAVI/reporte_general_subsidios_Subsidios_2023.csv
+  Size: 1.5M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 6
+Total Size: 15M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

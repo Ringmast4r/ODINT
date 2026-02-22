@@ -1,0 +1,159 @@
+================================================================================
+API ENDPOINT MAP: AICM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/AICM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/AICM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: movimiento_operacional_aicm_01_Movimiento_Operacional_Carga_062015.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_01_Movimiento_Operacional_Carga_062015.csv
+  Size: 3.7K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_02_Movimiento_Operacional_Pasajeros_Comerciales_062025.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_02_Movimiento_Operacional_Pasajeros_Comerciales_062025.csv
+  Size: 4.4K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_03_Movimiento_Operacional_Operaciones_062025.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_03_Movimiento_Operacional_Operaciones_062025.csv
+  Size: 5.1K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_04_Movimiento_Operacional_Pasajeros_062025.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_04_Movimiento_Operacional_Pasajeros_062025.csv
+  Size: 3.6K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_05_Movimiento_Operacional_Pasajeros_Terminal_062025.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_05_Movimiento_Operacional_Pasajeros_Terminal_062025.csv
+  Size: 7.1K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_06_Movimiento_Operacional_Vuelos_062025.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_06_Movimiento_Operacional_Vuelos_062025.csv
+  Size: 2.5K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_07_Movimiento_Operacional_Operaciones_Comerciales_062025.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_07_Movimiento_Operacional_Operaciones_Comerciales_062025.csv
+  Size: 3.5K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_AICM_1_Movimiento_Operacional_Carga.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_AICM_1_Movimiento_Operacional_Carga.csv
+  Size: 148
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_AICM_2_Movimiento_Operacional_Pasajeros_Comerciales.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_AICM_2_Movimiento_Operacional_Pasajeros_Comerciales.csv
+  Size: 303
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_AICM_3_Movimiento_Operacional_Operaciones.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_AICM_3_Movimiento_Operacional_Operaciones.csv
+  Size: 423
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_AICM_4_Movimiento_Operacional_Pasajeros.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_AICM_4_Movimiento_Operacional_Pasajeros.csv
+  Size: 156
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_AICM_5_Movimiento_Operacional_Pasajeros_Terminal.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_AICM_5_Movimiento_Operacional_Pasajeros_Terminal.csv
+  Size: 579
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_AICM_6_Movimiento_Operacional_Vuelos.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_AICM_6_Movimiento_Operacional_Vuelos.csv
+  Size: 154
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_AICM_7_Movimiento_Operacional_Operaciones_Comerciales.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_AICM_7_Movimiento_Operacional_Operaciones_Comerciales.csv
+  Size: 291
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_movimiento_operacional_carga_aicm_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_movimiento_operacional_carga_aicm_ok.csv
+  Size: 6.7K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_movimiento_operacional_operaciones_aicm_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_movimiento_operacional_operaciones_aicm_ok.csv
+  Size: 5.2K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_movimiento_operacional_operaciones_comerciales_aicm_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_movimiento_operacional_operaciones_comerciales_aicm_ok.csv
+  Size: 4.4K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_movimiento_operacional_pasajeros_aicm_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_movimiento_operacional_pasajeros_aicm_ok.csv
+  Size: 3.7K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_movimiento_operacional_pasajeros_terminal_aicm_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_movimiento_operacional_pasajeros_terminal_aicm_ok.csv
+  Size: 8.1K
+  Status: OPEN
+
+FILE: movimiento_operacional_aicm_movimiento_operacional_vuelos_aicm_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_aicm_movimiento_operacional_vuelos_aicm_ok.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: movimiento_operacional_grupo_aeroportuario_marina_gam_1_movimiento_operacional_operaciones_comerciales_gam_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_grupo_aeroportuario_marina_gam_1_movimiento_operacional_operaciones_comerciales_gam_ok.csv
+  Size: 2.3K
+  Status: OPEN
+
+FILE: movimiento_operacional_grupo_aeroportuario_marina_gam_2_movimiento_operacional_carga_gam_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_grupo_aeroportuario_marina_gam_2_movimiento_operacional_carga_gam_ok.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: movimiento_operacional_grupo_aeroportuario_marina_gam_3_movimiento_operacional_operaciones_gam_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_grupo_aeroportuario_marina_gam_3_movimiento_operacional_operaciones_gam_ok.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: movimiento_operacional_grupo_aeroportuario_marina_gam_4_movimiento_operacional_pasajeros_comerciales_gam_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_grupo_aeroportuario_marina_gam_4_movimiento_operacional_pasajeros_comerciales_gam_ok.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: movimiento_operacional_grupo_aeroportuario_marina_gam_5_movimiento_operacional_pasajeros_gam_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_grupo_aeroportuario_marina_gam_5_movimiento_operacional_pasajeros_gam_ok.csv
+  Size: 2.0K
+  Status: OPEN
+
+FILE: movimiento_operacional_grupo_aeroportuario_marina_gam_6_movimiento_operacional_pasajeros_llegadas_salidas_gam_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_grupo_aeroportuario_marina_gam_6_movimiento_operacional_pasajeros_llegadas_salidas_gam_ok.csv
+  Size: 2.7K
+  Status: OPEN
+
+FILE: movimiento_operacional_grupo_aeroportuario_marina_gam_7_movimiento_operacional_vuelos_gam_ok.csv
+  Route: /api_update/AICM/movimiento_operacional_grupo_aeroportuario_marina_gam_7_movimiento_operacional_vuelos_gam_ok.csv
+  Size: 1.9K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 27
+Total Size: 79K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

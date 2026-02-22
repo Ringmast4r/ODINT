@@ -1,0 +1,54 @@
+================================================================================
+API ENDPOINT MAP: PEMEX (National Oil)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/PEMEX/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/PEMEX/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: becas_personal_confianza_otorgadas_pemex_46_becas_pemex.csv
+  Route: /api_update/PEMEX/becas_personal_confianza_otorgadas_pemex_46_becas_pemex.csv
+  Size: 9.2K
+  Status: OPEN
+
+FILE: estudios_investigaciones_contratados_petroleos_mexicanos_PEMEX_1_ESTeINV.csv
+  Route: /api_update/PEMEX/estudios_investigaciones_contratados_petroleos_mexicanos_PEMEX_1_ESTeINV.csv
+  Size: 114K
+  Status: OPEN
+
+FILE: morbilidad_servicios_medicos_petroleos_mexicanos_47_morbilidad_2025_pemex.csv
+  Route: /api_update/PEMEX/morbilidad_servicios_medicos_petroleos_mexicanos_47_morbilidad_2025_pemex.csv
+  Size: 907K
+  Status: OPEN
+
+FILE: mortalidad_petroleos_mexicanos_48_causas_mortalidad_pemex.csv
+  Route: /api_update/PEMEX/mortalidad_petroleos_mexicanos_48_causas_mortalidad_pemex.csv
+  Size: 928
+  Status: OPEN
+
+FILE: numero_pozos_terminados_17_DANPZST.csv
+  Route: /api_update/PEMEX/numero_pozos_terminados_17_DANPZST.csv
+  Size: 360
+  Status: OPEN
+
+FILE: quejas_denuncias_presentadas_unidad_responsabilidades_petroleos_mexicanos_42_denuncias_unidad_pemex_2dotrim_2025.csv
+  Route: /api_update/PEMEX/quejas_denuncias_presentadas_unidad_responsabilidades_petroleos_mexicanos_42_denuncias_unidad_pemex_2dotrim_2025.csv
+  Size: 610
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 6
+Total Size: 1.1M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

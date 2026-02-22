@@ -1,0 +1,38 @@
+================================================================================
+TECH STACK: ASA
+================================================================================
+
+DOMAIN: asa.gob.mx
+URL PROBED: https://www.asa.gob.mx
+SCAN DATE: 2026-01-15 17:06:41
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 
+Server: NOT DISCLOSED
+Content-Type: text/html;charset=ISO-8859-1
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1
+subject=CN=*.asa.gob.mx
+notBefore=Sep 11 00:00:00 2025 GMT
+notAfter=Oct 12 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 
+Strict-Transport-Security: max-age=31536000;includeSubDomains
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=F1C9D6EED5538A5C18257E32F8566AB2; Path=/; Secure; HttpOnly; SameSite=Strict
+Content-Type: text/html;charset=ISO-8859-1
+Transfer-Encoding: chunked
+Date: Thu, 15 Jan 2026 22:11:58 GMT
+
+================================================================================
+END
+================================================================================

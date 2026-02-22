@@ -1,0 +1,30 @@
+# CAYMAN ISLANDS - UK TERRITORY (18)
+# ============================================================
+
+# Government
+gov.ky
+premier.gov.ky
+mof.gov.ky
+education.gov.ky
+health.gov.ky
+immigration.gov.ky
+customs.gov.ky
+parliament.gov.ky
+cbc.gov.ky
+rcips.ky
+ciipa.ky
+cima.ky
+
+# Media
+caymancompass.com
+caymannewsservice.com
+
+# Tourism
+visitcaymanislands.com
+
+# Banks
+cima.ky
+butterfield.ky
+
+# Education
+ucci.edu.ky

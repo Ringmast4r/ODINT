@@ -1,0 +1,129 @@
+================================================================================
+API ENDPOINT MAP: PRODECON (Taxpayer Defense)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/PRODECON/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/PRODECON/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: acuerdos_conclusivos_17_Total_Acuerdos_Conclusivos_Por_tipo_de_persona.csv
+  Route: /api_update/PRODECON/acuerdos_conclusivos_17_Total_Acuerdos_Conclusivos_Por_tipo_de_persona.csv
+  Size: 611
+  Status: OPEN
+
+FILE: acuerdos_conclusivos_18_Total_de_Acuerdos_Conclusivos_Por_Autoridad.csv
+  Route: /api_update/PRODECON/acuerdos_conclusivos_18_Total_de_Acuerdos_Conclusivos_Por_Autoridad.csv
+  Size: 859
+  Status: OPEN
+
+FILE: acuerdos_conclusivos_19_Acuerdos_Conclusivos_Porcentaje_de_efectividad.csv
+  Route: /api_update/PRODECON/acuerdos_conclusivos_19_Acuerdos_Conclusivos_Porcentaje_de_efectividad.csv
+  Size: 582
+  Status: OPEN
+
+FILE: servicio_asesoria_13_Asesorias_por_tipo_de_persona.csv
+  Route: /api_update/PRODECON/servicio_asesoria_13_Asesorias_por_tipo_de_persona.csv
+  Size: 36K
+  Status: OPEN
+
+FILE: servicio_asesoria_14_Asesorias_por_medio_de_presentacion.csv
+  Route: /api_update/PRODECON/servicio_asesoria_14_Asesorias_por_medio_de_presentacion.csv
+  Size: 69K
+  Status: OPEN
+
+FILE: servicio_asesoria_15_Asesorias_por_tipo_de_autoridad.csv
+  Route: /api_update/PRODECON/servicio_asesoria_15_Asesorias_por_tipo_de_autoridad.csv
+  Size: 84K
+  Status: OPEN
+
+FILE: servicio_asesoria_16_Asesorias_por_clasificacion_del_acto.csv
+  Route: /api_update/PRODECON/servicio_asesoria_16_Asesorias_por_clasificacion_del_acto.csv
+  Size: 993K
+  Status: OPEN
+
+FILE: servicio_quejas_reclamaciones_08_Quejas_por_tipo
+  Route: /api_update/PRODECON/servicio_quejas_reclamaciones_08_Quejas_por_tipo
+  Size: 146
+  Status: OPEN
+
+FILE: servicio_quejas_reclamaciones_08_Quejas_por_tipo_de_Contribuyente.csv
+  Route: /api_update/PRODECON/servicio_quejas_reclamaciones_08_Quejas_por_tipo_de_Contribuyente.csv
+  Size: 9.5K
+  Status: OPEN
+
+FILE: servicio_quejas_reclamaciones_09_Quejas_tipo_de_Conclusio´n_.csv
+  Route: /api_update/PRODECON/servicio_quejas_reclamaciones_09_Quejas_tipo_de_Conclusio´n_.csv
+  Size: 146
+  Status: OPEN
+
+FILE: servicio_quejas_reclamaciones_10_Quejas_por_tipo_de_Acto.csv
+  Route: /api_update/PRODECON/servicio_quejas_reclamaciones_10_Quejas_por_tipo_de_Acto.csv
+  Size: 106K
+  Status: OPEN
+
+FILE: servicio_quejas_reclamaciones_11_Quejas_por_medio_de_Presentacion.csv
+  Route: /api_update/PRODECON/servicio_quejas_reclamaciones_11_Quejas_por_medio_de_Presentacion.csv
+  Size: 21K
+  Status: OPEN
+
+FILE: servicio_quejas_reclamaciones_12_Quejas_por_Autoridad_Fiscal.csv
+  Route: /api_update/PRODECON/servicio_quejas_reclamaciones_12_Quejas_por_Autoridad_Fiscal.csv
+  Size: 27K
+  Status: OPEN
+
+FILE: servicio_quejas_reclamaciones_de_Contribuyente.csv
+  Route: /api_update/PRODECON/servicio_quejas_reclamaciones_de_Contribuyente.csv
+  Size: 146
+  Status: OPEN
+
+FILE: servicio_representacion_defensa_legal_01_Representacion_legal_Recursos_Intraprocesales_Litigados.csv
+  Route: /api_update/PRODECON/servicio_representacion_defensa_legal_01_Representacion_legal_Recursos_Intraprocesales_Litigados.csv
+  Size: 27K
+  Status: OPEN
+
+FILE: servicio_representacion_defensa_legal_02_Representacion_Legal_Representaciones_Legales_Central_Delegaciones.csv
+  Route: /api_update/PRODECON/servicio_representacion_defensa_legal_02_Representacion_Legal_Representaciones_Legales_Central_Delegaciones.csv
+  Size: 7.4K
+  Status: OPEN
+
+FILE: servicio_representacion_defensa_legal_03_Representacion_Legal_Efectvidad_en_Cierres.csv
+  Route: /api_update/PRODECON/servicio_representacion_defensa_legal_03_Representacion_Legal_Efectvidad_en_Cierres.csv
+  Size: 8.9K
+  Status: OPEN
+
+FILE: servicio_representacion_defensa_legal_04_Representacion_Legal_Defensa_Por_Tipo_de_Promovente.csv
+  Route: /api_update/PRODECON/servicio_representacion_defensa_legal_04_Representacion_Legal_Defensa_Por_Tipo_de_Promovente.csv
+  Size: 523
+  Status: OPEN
+
+FILE: servicio_representacion_defensa_legal_05_Representacion_Legal_Por_Autoridad_Fiscal.csv
+  Route: /api_update/PRODECON/servicio_representacion_defensa_legal_05_Representacion_Legal_Por_Autoridad_Fiscal.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: servicio_representacion_defensa_legal_06_Representacion_Legal_Defensa_Por_Medio_de_Presentacion.csv
+  Route: /api_update/PRODECON/servicio_representacion_defensa_legal_06_Representacion_Legal_Defensa_Por_Medio_de_Presentacion.csv
+  Size: 1.5K
+  Status: OPEN
+
+FILE: servicio_representacion_defensa_legal_07_Representacion_legal_Medios_de_Defensa.csv
+  Route: /api_update/PRODECON/servicio_representacion_defensa_legal_07_Representacion_legal_Medios_de_Defensa.csv
+  Size: 13K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 21
+Total Size: 1.4M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

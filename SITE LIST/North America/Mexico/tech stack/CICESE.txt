@@ -1,0 +1,38 @@
+================================================================================
+TECH STACK: CICESE
+================================================================================
+
+DOMAIN: cicese.mx
+URL PROBED: https://www.cicese.mx
+SCAN DATE: 2026-01-15 17:02:56
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 302 Found
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+subject=C=MX, ST=Baja California, L=Ensenada, O=Centro Investigación Científica Edu Superior Ensenada Baja Calif, CN=*.cicese.mx
+notBefore=Oct  3 00:00:00 2025 GMT
+notAfter=Nov  3 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 302 Found
+Date: Thu, 15 Jan 2026 22:02:06 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Location: https://www.cicese.edu.mx/
+Content-Type: text/html; charset=iso-8859-1
+
+================================================================================
+END
+================================================================================

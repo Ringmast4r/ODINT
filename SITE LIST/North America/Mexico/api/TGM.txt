@@ -1,0 +1,49 @@
+================================================================================
+API ENDPOINT MAP: TGM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/TGM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/TGM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: estado_avance_presupuestal_06_avance_presupuestal_semestral_tgm.csv
+  Route: /api_update/TGM/estado_avance_presupuestal_06_avance_presupuestal_semestral_tgm.csv
+  Size: 4.6K
+  Status: OPEN
+
+FILE: gestion_parque_vehicular_tgm_04_mantenimiento_vehicular_tgm.csv
+  Route: /api_update/TGM/gestion_parque_vehicular_tgm_04_mantenimiento_vehicular_tgm.csv
+  Size: 54K
+  Status: OPEN
+
+FILE: gestion_parque_vehicular_tgm_05_verificacion_vehicular_tgm.csv
+  Route: /api_update/TGM/gestion_parque_vehicular_tgm_05_verificacion_vehicular_tgm.csv
+  Size: 670
+  Status: OPEN
+
+FILE: indicadores_personal_capacitado_01_personal_capacitado_tgm_1t_2025.csv
+  Route: /api_update/TGM/indicadores_personal_capacitado_01_personal_capacitado_tgm_1t_2025.csv
+  Size: 206
+  Status: OPEN
+
+FILE: indicadores_personal_capacitado_02_personal_capacitado_tgm_2t_2025.csv
+  Route: /api_update/TGM/indicadores_personal_capacitado_02_personal_capacitado_tgm_2t_2025.csv
+  Size: 1.2K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 5
+Total Size: 61K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

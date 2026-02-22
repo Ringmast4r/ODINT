@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: HGMGG
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/HGMGG/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/HGMGG/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: asistentes_cursos_impartidos_hgmgg_HGGEA_6_CURSOS.csv
+  Route: /api_update/HGMGG/asistentes_cursos_impartidos_hgmgg_HGGEA_6_CURSOS.csv
+  Size: 40K
+  Status: OPEN
+
+FILE: medicamentos_productos_farmaceuticos_adquiridos_hgmgg_HGGEA_1_MEDICAMENTOS.csv
+  Route: /api_update/HGMGG/medicamentos_productos_farmaceuticos_adquiridos_hgmgg_HGGEA_1_MEDICAMENTOS.csv
+  Size: 848K
+  Status: OPEN
+
+FILE: numero_residentes_especialidad_HGGEA_2_RESIDENCIAS.csv
+  Route: /api_update/HGMGG/numero_residentes_especialidad_HGGEA_2_RESIDENCIAS.csv
+  Size: 11K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 898K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,39 @@
+================================================================================
+TECH STACK: IMSS
+================================================================================
+
+DOMAIN: imss.gob.mx
+URL PROBED: https://www.imss.gob.mx
+SCAN DATE: 2026-01-15 16:57:39
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 403 Forbidden
+Server: NOT DISCLOSED
+Content-Type: text/html
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, OU=www.digicert.com, CN=RapidSSL TLS RSA CA G1
+subject=CN=*.imss.gob.mx
+notBefore=Mar 12 00:00:00 2025 GMT
+notAfter=Mar 12 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 403 Forbidden
+Content-Type: text/html
+Cache-Control: no-cache, no-store
+Connection: close
+Content-Length: 866
+X-Iinfo: 62-49644537-0 0NNN RT(1768514208608 726) q(0 -1 -1 1) r(0 -1) B16 U24
+Set-Cookie: visid_incap_2257891=QfBmGWh8TwaJ8xBEK8gG66BiaWkAAAAAQUIPAAAAAAAu/zG/6JpvMtZ4ZNw1Xg3k; expires=Fri, 15 Jan 2027 00:08:03 GMT; HttpOnly; path=/; Domain=.imss.gob.mx
+Set-Cookie: incap_ses_1686_2257891=Q+DOHFVObkINFEyjjOBlF6BiaWkAAAAAUGmv3xC4qwaV53ieWdJeIA==; path=/; Domain=.imss.gob.mx
+
+================================================================================
+END
+================================================================================

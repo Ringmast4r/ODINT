@@ -1,0 +1,40 @@
+================================================================================
+TECH STACK: ECOSUR
+================================================================================
+
+DOMAIN: ecosur.mx
+URL PROBED: https://www.ecosur.mx
+SCAN DATE: 2026-01-15 17:02:57
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: openresty
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+subject=CN=*.ecosur.mx
+notBefore=Nov  3 20:25:45 2025 GMT
+notAfter=Dec  5 20:25:45 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Server: openresty
+Date: Thu, 15 Jan 2026 22:02:07 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+X-Powered-By: PHP/7.4.33
+Link: <https://www.ecosur.mx/>; rel=shortlink
+Strict-Transport-Security: max-age=63072000;includeSubDomains; preload
+X-Served-By: www.ecosur.mx
+
+================================================================================
+END
+================================================================================

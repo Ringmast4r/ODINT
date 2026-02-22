@@ -1,0 +1,43 @@
+# DOMINICA (28)
+# ============================================================
+
+# Government
+dominica.gov.dm
+pm.gov.dm
+finance.gov.dm
+education.gov.dm
+health.gov.dm
+agriculture.gov.dm
+foreign.gov.dm
+housing.gov.dm
+tourism.gov.dm
+customs.gov.dm
+ird.gov.dm
+parliament.gov.dm
+police.gov.dm
+immigration.gov.dm
+
+# Media
+dominicanewsonline.com
+dominicanet.com
+thedaboracorner.com
+
+# Universities
+dsc.edu.dm
+ross.edu
+
+# Tourism
+discoverdominica.com
+
+# Banks
+nbdominica.com
+scotiabank.dm
+eccb-centralbank.org
+
+# Sports
+dfa.dm
+doc.dm
+
+# Telecom
+digicel.dm
+flow.co

@@ -1,0 +1,40 @@
+================================================================================
+TECH STACK: CONSAR
+================================================================================
+
+DOMAIN: consar.gob.mx
+URL PROBED: https://www.consar.gob.mx
+SCAN DATE: 2026-01-15 16:58:11
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Microsoft-IIS/10.0
+Content-Type: text/html
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+subject=CN=*.consar.gob.mx
+notBefore=Jul 30 18:07:58 2025 GMT
+notAfter=Jul 30 18:07:58 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Content-Length: 296
+Content-Type: text/html
+Last-Modified: Tue, 30 Aug 2016 04:06:50 GMT
+Accept-Ranges: bytes
+ETag: "b51c8ef732d21:0"
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+Date: Thu, 15 Jan 2026 21:58:06 GMT
+
+================================================================================
+END
+================================================================================

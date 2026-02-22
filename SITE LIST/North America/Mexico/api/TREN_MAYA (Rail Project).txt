@@ -1,0 +1,54 @@
+================================================================================
+API ENDPOINT MAP: TREN_MAYA (Rail Project)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/TREN_MAYA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/TREN_MAYA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: cursos_capacitacion_cursos_tren_maya.csv
+  Route: /api_update/TREN_MAYA/cursos_capacitacion_cursos_tren_maya.csv
+  Size: 60K
+  Status: OPEN
+
+FILE: horarios_recorridos_horarios_trenes.csv
+  Route: /api_update/TREN_MAYA/horarios_recorridos_horarios_trenes.csv
+  Size: 532K
+  Status: OPEN
+
+FILE: prestacion_servicio_ferroviario_pasajeros_kilometros_recorridos_trenes_servicio_ferroviario_pasajeros.csv
+  Route: /api_update/TREN_MAYA/prestacion_servicio_ferroviario_pasajeros_kilometros_recorridos_trenes_servicio_ferroviario_pasajeros.csv
+  Size: 350
+  Status: OPEN
+
+FILE: prestacion_servicio_ferroviario_pasajeros_pasajeros_transportados.csv
+  Route: /api_update/TREN_MAYA/prestacion_servicio_ferroviario_pasajeros_pasajeros_transportados.csv
+  Size: 692
+  Status: OPEN
+
+FILE: prestacion_servicio_ferroviario_pasajeros_puntos_venta_boletos.csv
+  Route: /api_update/TREN_MAYA/prestacion_servicio_ferroviario_pasajeros_puntos_venta_boletos.csv
+  Size: 848
+  Status: OPEN
+
+FILE: solicitudes_informacion_tren_maya_Solicitudes_presentadas.csv
+  Route: /api_update/TREN_MAYA/solicitudes_informacion_tren_maya_Solicitudes_presentadas.csv
+  Size: 56K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 6
+Total Size: 649K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

@@ -1,0 +1,48 @@
+================================================================================
+TECH STACK: CONALEP
+================================================================================
+
+DOMAIN: conalep.edu.mx
+URL PROBED: https://www.conalep.edu.mx
+SCAN DATE: 2026-01-15 16:59:38
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: NOT DISCLOSED
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+subject=CN=*.conalep.edu.mx
+notBefore=Dec  1 23:54:01 2025 GMT
+notAfter=Dec  1 23:54:01 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 21:58:48 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Cache-Control: must-revalidate, no-cache, private
+X-Drupal-Dynamic-Cache: UNCACHEABLE
+Link: <http://www.conalep.edu.mx/inicio>; rel="alternate"; hreflang="es"
+Link: <http://www.conalep.edu.mx/inicio>; rel="canonical"
+Link: <http://www.conalep.edu.mx/node/749>; rel="shortlink"
+X-UA-Compatible: IE=edge
+Content-language: es
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: 
+X-Generator: Drupal 8 (https://www.drupal.org)
+X-Drupal-Cache: HIT
+
+================================================================================
+END
+================================================================================

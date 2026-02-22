@@ -1,0 +1,54 @@
+================================================================================
+API ENDPOINT MAP: CFCRL
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CFCRL/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CFCRL/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: legitimacion_contratos_colectivos_trabajo_15_legitimados_oct2025.csv
+  Route: /api_update/CFCRL/legitimacion_contratos_colectivos_trabajo_15_legitimados_oct2025.csv
+  Size: 2.6K
+  Status: OPEN
+
+FILE: registro_orientaciones_notificaciones_oficinas_estatales_cfcrl_01_orientaciones_102025.csv
+  Route: /api_update/CFCRL/registro_orientaciones_notificaciones_oficinas_estatales_cfcrl_01_orientaciones_102025.csv
+  Size: 1.9K
+  Status: OPEN
+
+FILE: registro_orientaciones_notificaciones_oficinas_estatales_cfcrl_02_notificaciones_oct2025.csv
+  Route: /api_update/CFCRL/registro_orientaciones_notificaciones_oficinas_estatales_cfcrl_02_notificaciones_oct2025.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: registro_orientaciones_notificaciones_oficinas_estatales_cfcrl_03_notificaciones_solicitantes_oct2025.csv
+  Route: /api_update/CFCRL/registro_orientaciones_notificaciones_oficinas_estatales_cfcrl_03_notificaciones_solicitantes_oct2025.csv
+  Size: 1.4K
+  Status: OPEN
+
+FILE: registro_orientaciones_notificaciones_oficinas_estatales_cfcrl_04_exhortos_oct2025.csv
+  Route: /api_update/CFCRL/registro_orientaciones_notificaciones_oficinas_estatales_cfcrl_04_exhortos_oct2025.csv
+  Size: 1.4K
+  Status: OPEN
+
+FILE: resoluciones_positivas_tramites_registrales_05_resoluciones_positivas_cgra_2024-2025.csv
+  Route: /api_update/CFCRL/resoluciones_positivas_tramites_registrales_05_resoluciones_positivas_cgra_2024-2025.csv
+  Size: 253
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 6
+Total Size: 9.2K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

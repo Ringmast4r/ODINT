@@ -1,0 +1,22 @@
+# BRITISH VIRGIN ISLANDS (12)
+# ============================================================
+
+# Government
+bvi.gov.vg
+premier.gov.vg
+finance.gov.vg
+hoa.gov.vg
+immigration.gov.vg
+customs.gov.vg
+rvipf.gov.vg
+bvifsc.vg
+
+# Media
+bvinews.com
+bvibeacon.com
+
+# Tourism
+bvitourism.com
+
+# Banks
+bvifscommission.vg

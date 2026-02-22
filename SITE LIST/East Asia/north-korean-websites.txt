@@ -1,0 +1,165 @@
+# North Korean Websites - Comprehensive List
+# Government, military, state media, infrastructure, overseas operations
+# Created: 2026-02-19
+# Total: 95 domains
+# Note: DPRK has extremely limited internet presence (~48 .kp domains total)
+# Many sites go offline periodically; overseas propaganda sites mass-shutdown Jan 2024
+
+# ============================================
+# EXECUTIVE & GOVERNMENT PORTALS (4)
+# ============================================
+naenara.com.kp
+dprkportal.kp
+rep.kp
+mfa.gov.kp
+
+# ============================================
+# GOVERNMENT AGENCIES (4)
+# ============================================
+ma.gov.kp
+nta.gov.kp
+tourismdprk.gov.kp
+moph.gov.kp
+
+# ============================================
+# LEGAL & FINANCIAL REGULATORY (1)
+# ============================================
+fia.law.kp
+
+# ============================================
+# SCIENCE & TECHNOLOGY (1)
+# ============================================
+mirae.aca.kp
+
+# ============================================
+# MILITARY & INTELLIGENCE (0)
+# Note: DPRK military/RGB has no public-facing websites
+# Cyber operations run through Reconnaissance General Bureau (RGB)
+# Threat groups: Lazarus, APT38/BlueNorOff, Kimsuky, Andariel
+# ============================================
+
+# ============================================
+# STATE MEDIA - DOMESTIC (.kp) (9)
+# ============================================
+kcna.kp
+rodong.rep.kp
+vok.rep.kp
+gnu.rep.kp
+minzu.rep.kp
+youth.rep.kp
+pyongyangtimes.com.kp
+mediaryugyong.com.kp
+korean-books.com.kp
+
+# ============================================
+# STATE MEDIA - OVERSEAS (non-.kp) (10)
+# Some went offline Jan 2024 after Kim Jong Un's reunification policy shift
+# ============================================
+kcna.co.jp
+uriminzokkiri.com
+dprktoday.com
+arirangmeari.com
+tongilvoice.com
+sogwang.com
+ryomyong.com
+minjok.com
+chosonsinbo.com
+dprkmedia.com
+
+# ============================================
+# EDUCATION (6)
+# ============================================
+ryongnamsan.edu.kp
+kut.edu.kp
+star.edu.kp
+gpsh.edu.kp
+pulbora.edu.kp
+ryomyong.edu.kp
+
+# ============================================
+# TRADE & COMMERCE (7)
+# ============================================
+kftrade.com.kp
+manmulsang.com.kp
+knic.com.kp
+samhae.com.kp
+polestar.com.kp
+futurere.com.kp
+silibank.net.kp
+
+# ============================================
+# TRAVEL & TOURISM (3)
+# ============================================
+kiyctc.com.kp
+airkoryo.com.kp
+masikryong.com.kp
+
+# ============================================
+# CULTURE, SPORTS & ORGANIZATIONS (7)
+# ============================================
+korfilm.com.kp
+sdprk.org.kp
+friend.com.kp
+cooks.org.kp
+kass.org.kp
+korart.sca.kp
+yongsaeng.org.kp
+
+# ============================================
+# NGOs & FUNDS (2)
+# ============================================
+koredufund.org.kp
+korelcfund.org.kp
+
+# ============================================
+# TELECOMMUNICATIONS & ISP (7)
+# ============================================
+kptc.kp
+star.co.kp
+star.net.kp
+star-co.net.kp
+star-di.net.kp
+portal.net.kp
+rcc.net.kp
+
+# ============================================
+# PROPAGANDA & FRIENDSHIP ORGS (non-.kp) (5)
+# ============================================
+korea-dpr.com
+chongryon.com
+ournation-school.com
+kkfonline.com
+tour-kumgangsan.com
+
+# ============================================
+# DPRK BUSINESS VENTURES (non-.kp) (2)
+# ============================================
+pyongsu.com
+pyeonghwamotors.com
+
+# ============================================
+# DPRK IT FRONT COMPANIES (seized by U.S. Gov, Oct 2024) (4)
+# ============================================
+inditechlab.com
+tonywangtech.com
+wkjllc.com
+hopanatech.com
+
+# ============================================
+# KWANGMYONG INTRANET ONLY (not publicly accessible) (5)
+# Internal network uses 10.x.x.x private IP space
+# ============================================
+naenara.inf.kp
+osandok.inf.kp
+osd.inf.kp
+chongbong.inf.kp
+kcn.inf.kp
+
+# ============================================
+# NETWORK INFRASTRUCTURE (not domains, for reference)
+# ASN: AS131279 (Ryugyong-dong)
+# IP: 175.45.176.0/22 (via China Unicom + Russia TransTelekom)
+# DNS: ns1.kptc.kp (175.45.176.15), ns2.kptc.kp (175.45.176.16)
+# ISP: Star JV (DPRK Ministry of PT + Thailand Loxley Pacific)
+# Mobile: Koryolink (3G, JV with Orascom Telecom Egypt)
+# ============================================

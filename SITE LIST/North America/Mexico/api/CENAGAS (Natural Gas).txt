@@ -1,0 +1,74 @@
+================================================================================
+API ENDPOINT MAP: CENAGAS (Natural Gas)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CENAGAS/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CENAGAS/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: extracciones_inyecciones_gas_natural_sistrangas_CENEGAS_3_Capacidad_Historica_de_Inyecciones_SISTRANGAS.csv
+  Route: /api_update/CENAGAS/extracciones_inyecciones_gas_natural_sistrangas_CENEGAS_3_Capacidad_Historica_de_Inyecciones_SISTRANGAS.csv
+  Size: 9.4M
+  Status: OPEN
+
+FILE: extracciones_inyecciones_gas_natural_sistrangas_CENEGAS_4_Capacidad_Historica_de_Extracciones_SISTRANGAS.csv
+  Route: /api_update/CENAGAS/extracciones_inyecciones_gas_natural_sistrangas_CENEGAS_4_Capacidad_Historica_de_Extracciones_SISTRANGAS.csv
+  Size: 7.8M
+  Status: OPEN
+
+FILE: tarifas_transporte_gas_natural_1_octubre_2018_CENEGAS_1_Tarifas
+  Route: /api_update/CENAGAS/tarifas_transporte_gas_natural_1_octubre_2018_CENEGAS_1_Tarifas
+  Size: 146
+  Status: OPEN
+
+FILE: tarifas_transporte_gas_natural_1_octubre_2018_por
+  Route: /api_update/CENAGAS/tarifas_transporte_gas_natural_1_octubre_2018_por
+  Size: 146
+  Status: OPEN
+
+FILE: tarifas_transporte_gas_natural_1_octubre_2018_puntos.csv
+  Route: /api_update/CENAGAS/tarifas_transporte_gas_natural_1_octubre_2018_puntos.csv
+  Size: 146
+  Status: OPEN
+
+FILE: tarifas_transporte_gas_natural_a_partir_1_octubre_2018_CENEGAS_1_Tarifas
+  Route: /api_update/CENAGAS/tarifas_transporte_gas_natural_a_partir_1_octubre_2018_CENEGAS_1_Tarifas
+  Size: 146
+  Status: OPEN
+
+FILE: tarifas_transporte_gas_natural_a_partir_1_octubre_2018_CENEGAS_1_Tarifas_por_puntos.csv
+  Route: /api_update/CENAGAS/tarifas_transporte_gas_natural_a_partir_1_octubre_2018_CENEGAS_1_Tarifas_por_puntos.csv
+  Size: 20K
+  Status: OPEN
+
+FILE: tarifas_transporte_gas_natural_a_partir_1_octubre_2018_por
+  Route: /api_update/CENAGAS/tarifas_transporte_gas_natural_a_partir_1_octubre_2018_por
+  Size: 146
+  Status: OPEN
+
+FILE: tarifas_transporte_gas_natural_a_partir_1_octubre_2018_puntos.csv
+  Route: /api_update/CENAGAS/tarifas_transporte_gas_natural_a_partir_1_octubre_2018_puntos.csv
+  Size: 146
+  Status: OPEN
+
+FILE: tarifas_transporte_gas_natural_partir_1_octubre_2019_CENEGAS_2_Tarifas_por_zonas.csv
+  Route: /api_update/CENAGAS/tarifas_transporte_gas_natural_partir_1_octubre_2019_CENEGAS_2_Tarifas_por_zonas.csv
+  Size: 3.0K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 10
+Total Size: 18M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

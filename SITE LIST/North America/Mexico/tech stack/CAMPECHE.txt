@@ -1,0 +1,35 @@
+================================================================================
+TECH STACK: CAMPECHE
+================================================================================
+
+DOMAIN: campeche.gob.mx
+DESCRIPTION: Campeche State Government
+SCAN DATE: 2026-01-15 17:17:07
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: Apache/2.4.41 (Ubuntu)
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:16:20 GMT
+Server: Apache/2.4.41 (Ubuntu)
+Upgrade: h2,http:/1.1
+Connection: Upgrade
+Set-Cookie: et_pb_ab_view_page_5=4505a151400163e93ff4369b727a49ca; path=/
+Link: <https://campeche.gob.mx/wp-json/>; rel="https://api.w.org/"
+Link: <https://campeche.gob.mx/wp-json/wp/v2/pages/5>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://campeche.gob.mx/>; rel=shortlink
+Access-Control-Allow-Origin: https://democedyc.campeche.gob.mx/wp-json/api/v1/mo-jwt
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

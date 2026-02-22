@@ -1,0 +1,107 @@
+================================================================================
+TECH STACK ANALYSIS: inm.gob.mx
+================================================================================
+
+DOMAIN: www.inm.gob.mx
+PURPOSE: Mexican National Immigration Institute Portal
+STATUS: ACTIVE
+
+================================================================================
+INFRASTRUCTURE
+================================================================================
+
+WEB SERVER
+----------
+Server:         MASKED ("XXXXXXX")
+Evidence:       Server header deliberately obscured
+Actual:         Likely Apache (based on ETag format)
+
+ETag ANALYSIS
+-------------
+ETag:           "1a0f16-1f-50125f77aef40"
+Format:         Apache-style (inode-size-mtime)
+Interpretation:
+  - 1a0f16: inode number (hex)
+  - 1f: file size (31 bytes)
+  - 50125f77aef40: modification time
+
+LAST MODIFIED
+-------------
+Date:           Thu, 21 Aug 2014 16:11:01 GMT
+Note:           Very old - may be a placeholder/redirect page
+
+================================================================================
+SESSION MANAGEMENT
+================================================================================
+
+COOKIE
+------
+Name:           cookiesession1
+Value:          678B286BD07BDC95EDF6732DC49BB814
+Expires:        Fri, 15 Jan 2027 (1 year)
+Flags:          HttpOnly, Path=/
+Pattern:        Session tracking cookie
+
+================================================================================
+SERVER CONFIGURATION
+================================================================================
+
+HTTP HEADERS
+------------
+Content-Type:   text/html
+Content-Length: 31 bytes (minimal response - likely redirect)
+Accept-Ranges:  bytes
+Vary:           Accept-Encoding
+
+SECURITY HEADERS
+----------------
+Server:         MASKED (security through obscurity)
+HttpOnly:       YES (on session cookie)
+Secure:         NOT SET
+HSTS:           NOT SET
+
+================================================================================
+TECHNOLOGY SUMMARY
+================================================================================
+
+Layer               Technology
+------------------  ------------------------------------------
+Web Server          Apache (probable, masked)
+Server Header       Obscured ("XXXXXXX")
+Session             Custom cookie-based
+SSL                 Unknown (not captured)
+
+================================================================================
+SECURITY ASSESSMENT
+================================================================================
+
+POSITIVE
+--------
+[+] Server version hidden
+[+] HttpOnly flag on cookies
+
+CONCERNS
+--------
+[-] Very old Last-Modified date (2014)
+[-] Secure flag not set on cookies
+[-] No HSTS header
+[-] Small response size suggests redirect page
+
+================================================================================
+RAW HEADER CAPTURE
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 21:27:33 GMT
+Server: XXXXXXX
+Last-Modified: Thu, 21 Aug 2014 16:11:01 GMT
+ETag: "1a0f16-1f-50125f77aef40"
+Accept-Ranges: bytes
+Content-Length: 31
+Vary: Accept-Encoding
+Content-Type: text/html
+Set-Cookie: cookiesession1=678B286BD07BDC95EDF6732DC49BB814;Expires=Fri, 15 Jan 2027;Path=/;HttpOnly
+
+================================================================================
+END OF TECH STACK ANALYSIS
+================================================================================

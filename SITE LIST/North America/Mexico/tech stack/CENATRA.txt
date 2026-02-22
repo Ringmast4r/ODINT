@@ -1,0 +1,42 @@
+================================================================================
+TECH STACK: CENATRA
+================================================================================
+
+DOMAIN: cenatra.salud.gob.mx
+URL PROBED: https://www.cenatra.salud.gob.mx
+SCAN DATE: 2026-01-15 17:01:24
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html;charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=Let's Encrypt, CN=R12
+subject=CN=mesa.sinave.gob.mx
+notBefore=Nov 28 19:29:43 2025 GMT
+notAfter=Feb 26 19:29:42 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 15 Jan 2026 21:58:56 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 2605
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Mon, 12 Dec 2016 20:07:04 GMT
+Expires: Fri, 16 Jan 2026 21:07:42 GMT
+Cache-Control: max-age=86400
+X-XSS-Protection: 1; mode=block
+
+================================================================================
+END
+================================================================================

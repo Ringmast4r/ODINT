@@ -1,0 +1,89 @@
+================================================================================
+API ENDPOINT MAP: CONAPO
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONAPO/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONAPO/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: distribucion_territorial_CU_loc_men_2500hab_estados.csv
+  Route: /api_update/CONAPO/distribucion_territorial_CU_loc_men_2500hab_estados.csv
+  Size: 2.7K
+  Status: OPEN
+
+FILE: distribucion_territorial_CU_loc_men_2500hab_localidades.csv
+  Route: /api_update/CONAPO/distribucion_territorial_CU_loc_men_2500hab_localidades.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: distribucion_territorial_CU_loc_men_2500hab_localidades_ok.csv
+  Route: /api_update/CONAPO/distribucion_territorial_CU_loc_men_2500hab_localidades_ok.csv
+  Size: 12M
+  Status: OPEN
+
+FILE: distribucion_territorial_CU_loc_men_2500hab_municipios.csv
+  Route: /api_update/CONAPO/distribucion_territorial_CU_loc_men_2500hab_municipios.csv
+  Size: 178K
+  Status: OPEN
+
+FILE: distribucion_territorial_CU_loc_men_2500hab_municipios_ok.csv
+  Route: /api_update/CONAPO/distribucion_territorial_CU_loc_men_2500hab_municipios_ok.csv
+  Size: 174K
+  Status: OPEN
+
+FILE: indice_intensidad_migratoria_01_iim_mex_eeuu_2000_entidad.csv
+  Route: /api_update/CONAPO/indice_intensidad_migratoria_01_iim_mex_eeuu_2000_entidad.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: indice_intensidad_migratoria_02_iim_mex_eeuu_2010_entidad.csv
+  Route: /api_update/CONAPO/indice_intensidad_migratoria_02_iim_mex_eeuu_2010_entidad.csv
+  Size: 1.9K
+  Status: OPEN
+
+FILE: indice_intensidad_migratoria_02_iim_mex_eeuu_2010_entidad_conapo.csv
+  Route: /api_update/CONAPO/indice_intensidad_migratoria_02_iim_mex_eeuu_2010_entidad_conapo.csv
+  Size: 1.8K
+  Status: OPEN
+
+FILE: indice_intensidad_migratoria_03_iim_mex_eeuu_2020_entidad.csv
+  Route: /api_update/CONAPO/indice_intensidad_migratoria_03_iim_mex_eeuu_2020_entidad.csv
+  Size: 2.7K
+  Status: OPEN
+
+FILE: indice_intensidad_migratoria_04_iim_mex_eeuu_2000_municipio.csv
+  Route: /api_update/CONAPO/indice_intensidad_migratoria_04_iim_mex_eeuu_2000_municipio.csv
+  Size: 166K
+  Status: OPEN
+
+FILE: indice_intensidad_migratoria_05_iim_mex_eeuu_2010_municipio.csv
+  Route: /api_update/CONAPO/indice_intensidad_migratoria_05_iim_mex_eeuu_2010_municipio.csv
+  Size: 162K
+  Status: OPEN
+
+FILE: indice_intensidad_migratoria_06_iim_mex_eeuu_2020_municipio.csv
+  Route: /api_update/CONAPO/indice_intensidad_migratoria_06_iim_mex_eeuu_2020_municipio.csv
+  Size: 225K
+  Status: OPEN
+
+FILE: remesas_remesas_2013-2024.csv
+  Route: /api_update/CONAPO/remesas_remesas_2013-2024.csv
+  Size: 8.5M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 13
+Total Size: 33M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

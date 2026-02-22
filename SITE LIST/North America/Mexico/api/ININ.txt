@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: ININ
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ININ/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ININ/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: publicaciones_inin_01_publicaciones_ININ_2022.csv
+  Route: /api_update/ININ/publicaciones_inin_01_publicaciones_ININ_2022.csv
+  Size: 25K
+  Status: OPEN
+
+FILE: publicaciones_inin_02_publicaciones_ININ_2023.csv
+  Route: /api_update/ININ/publicaciones_inin_02_publicaciones_ININ_2023.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: publicaciones_inin_03_publicaciones_ININ_2024.csv
+  Route: /api_update/ININ/publicaciones_inin_03_publicaciones_ININ_2024.csv
+  Size: 21K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 63K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

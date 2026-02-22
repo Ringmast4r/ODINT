@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: INEHRM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INEHRM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INEHRM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: actividades_academicas_culturales_inehrm_actividades_academicas_culturales_INEHRM.csv
+  Route: /api_update/INEHRM/actividades_academicas_culturales_inehrm_actividades_academicas_culturales_INEHRM.csv
+  Size: 51K
+  Status: OPEN
+
+FILE: adquisiciones_biblioteca_inehrm_adquisiciones_biblioteca_INEHRM.csv
+  Route: /api_update/INEHRM/adquisiciones_biblioteca_inehrm_adquisiciones_biblioteca_INEHRM.csv
+  Size: 143K
+  Status: OPEN
+
+FILE: alumnos_becados_inah_INAH_alumnos_becados_ok.csv
+  Route: /api_update/INEHRM/alumnos_becados_inah_INAH_alumnos_becados_ok.csv
+  Size: 262K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 456K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

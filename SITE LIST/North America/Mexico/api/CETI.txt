@@ -1,0 +1,69 @@
+================================================================================
+API ENDPOINT MAP: CETI
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CETI/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CETI/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: admision_alumnos_ceti_CETI_38_admision_2023.csv
+  Route: /api_update/CETI/admision_alumnos_ceti_CETI_38_admision_2023.csv
+  Size: 4.2K
+  Status: OPEN
+
+FILE: admision_alumnos_ceti_CETI_39_admision_ceti_2022.csv
+  Route: /api_update/CETI/admision_alumnos_ceti_CETI_39_admision_ceti_2022.csv
+  Size: 564
+  Status: OPEN
+
+FILE: admision_alumnos_ceti_CETI_40_admision_ceti_2021.csv
+  Route: /api_update/CETI/admision_alumnos_ceti_CETI_40_admision_ceti_2021.csv
+  Size: 569
+  Status: OPEN
+
+FILE: egresados_ceti_CETI_19_egresados_CETI_2023.csv
+  Route: /api_update/CETI/egresados_ceti_CETI_19_egresados_CETI_2023.csv
+  Size: 466
+  Status: OPEN
+
+FILE: egresados_ceti_CETI_20_egresados_ceti_2022.csv
+  Route: /api_update/CETI/egresados_ceti_CETI_20_egresados_ceti_2022.csv
+  Size: 462
+  Status: OPEN
+
+FILE: egresados_ceti_CETI_21_egresados_ceti_2021.csv
+  Route: /api_update/CETI/egresados_ceti_CETI_21_egresados_ceti_2021.csv
+  Size: 471
+  Status: OPEN
+
+FILE: indicador_eficiencia_terminal_CETI_22_eficiencia_terminal_CETI_2023.csv
+  Route: /api_update/CETI/indicador_eficiencia_terminal_CETI_22_eficiencia_terminal_CETI_2023.csv
+  Size: 258
+  Status: OPEN
+
+FILE: indicador_eficiencia_terminal_CETI_23_eficiencia_terminal_ceti_2022_.csv
+  Route: /api_update/CETI/indicador_eficiencia_terminal_CETI_23_eficiencia_terminal_ceti_2022_.csv
+  Size: 466
+  Status: OPEN
+
+FILE: indicador_eficiencia_terminal_CETI_24_eficiencia_terminal_ceti_2021.csv
+  Route: /api_update/CETI/indicador_eficiencia_terminal_CETI_24_eficiencia_terminal_ceti_2021.csv
+  Size: 232
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 9
+Total Size: 7.7K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

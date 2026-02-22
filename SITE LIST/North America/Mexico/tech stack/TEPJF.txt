@@ -1,0 +1,46 @@
+================================================================================
+TECH STACK: TEPJF
+================================================================================
+
+DOMAIN: te.gob.mx
+URL PROBED: https://www.te.gob.mx
+SCAN DATE: 2026-01-15 17:04:53
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Apache
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, CN=Thawte EV RSA CA G2
+subject=jurisdictionC=MX, businessCategory=Government Entity, serialNumber=Government Entity, C=MX, ST=Ciudad de México, L=Coyoacán, O=Tribunal Electoral Del Poder Judicial De La Federación, CN=www.te.gob.mx
+notBefore=Apr 30 00:00:00 2025 GMT
+notAfter=Apr 24 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: AlteonP=AbttBDrJCgp0oBxGKt58dw$$; Path=/
+Date: Thu, 15 Jan 2026 22:04:02 GMT
+Server: Apache
+Expires: 0
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: ci_session_www_=a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22cc75effd1443e4288912962ace24bedf%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2210.10.201.58%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A11%3A%22curl%2F8.17.0%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1768514642%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D6ad25eaf0178fcc1822e93f6548a784099677986; path=/
+X-Frame-Options: SAMEORIGIN
+TE-SERVER: PROD-S-61
+X-XSS-Protection: 1; mode=block
+X-FRAME-OPTIONS: SAMEORIGIN
+rdwr_response: allowed
+
+================================================================================
+END
+================================================================================

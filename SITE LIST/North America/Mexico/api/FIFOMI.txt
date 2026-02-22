@@ -1,0 +1,144 @@
+================================================================================
+API ENDPOINT MAP: FIFOMI
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/FIFOMI/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/FIFOMI/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2018_ok.csv
+  Route: /api_update/FIFOMI/asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2018_ok.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2019_ok.csv
+  Route: /api_update/FIFOMI/asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2019_ok.csv
+  Size: 15K
+  Status: OPEN
+
+FILE: asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2020_ok.csv
+  Route: /api_update/FIFOMI/asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2020_ok.csv
+  Size: 6.4K
+  Status: OPEN
+
+FILE: asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2021_ok.csv
+  Route: /api_update/FIFOMI/asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2021_ok.csv
+  Size: 5.9K
+  Status: OPEN
+
+FILE: asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2022_ok.csv
+  Route: /api_update/FIFOMI/asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2022_ok.csv
+  Size: 3.2K
+  Status: OPEN
+
+FILE: asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2023_ok.csv
+  Route: /api_update/FIFOMI/asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2023_ok.csv
+  Size: 1.6K
+  Status: OPEN
+
+FILE: asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2024_ok.csv
+  Route: /api_update/FIFOMI/asistencia_tecnica_entidad_federativa_numero_empresas_asistencia_tecnica_2024_ok.csv
+  Size: 1.5K
+  Status: OPEN
+
+FILE: asistencia_tecnica_entidad_federativa_numero_empresas_financiamiento_2018_ok.csv
+  Route: /api_update/FIFOMI/asistencia_tecnica_entidad_federativa_numero_empresas_financiamiento_2018_ok.csv
+  Size: 410K
+  Status: OPEN
+
+FILE: creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2018_ok.csv
+  Route: /api_update/FIFOMI/creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2018_ok.csv
+  Size: 410K
+  Status: OPEN
+
+FILE: creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2019_ok.csv
+  Route: /api_update/FIFOMI/creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2019_ok.csv
+  Size: 915K
+  Status: OPEN
+
+FILE: creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2020_ok.csv
+  Route: /api_update/FIFOMI/creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2020_ok.csv
+  Size: 967K
+  Status: OPEN
+
+FILE: creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2021_oK.csv
+  Route: /api_update/FIFOMI/creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2021_oK.csv
+  Size: 678K
+  Status: OPEN
+
+FILE: creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2022_ok.csv
+  Route: /api_update/FIFOMI/creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2022_ok.csv
+  Size: 466K
+  Status: OPEN
+
+FILE: creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2023_ok.csv
+  Route: /api_update/FIFOMI/creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2023_ok.csv
+  Size: 252K
+  Status: OPEN
+
+FILE: creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2024_
+  Route: /api_update/FIFOMI/creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2024_
+  Size: 146
+  Status: OPEN
+
+FILE: creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2024_ok.csv
+  Route: /api_update/FIFOMI/creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_financiamiento_2024_ok.csv
+  Size: 296K
+  Status: OPEN
+
+FILE: creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_ok.csv
+  Route: /api_update/FIFOMI/creditos_otorgados_sector_minero_entidad_federativa_numero_empresas_ok.csv
+  Size: 146
+  Status: OPEN
+
+FILE: personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2018_ok.csv
+  Route: /api_update/FIFOMI/personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2018_ok.csv
+  Size: 6.8K
+  Status: OPEN
+
+FILE: personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2019_ok.csv
+  Route: /api_update/FIFOMI/personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2019_ok.csv
+  Size: 6.8K
+  Status: OPEN
+
+FILE: personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2020_ok.csv
+  Route: /api_update/FIFOMI/personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2020_ok.csv
+  Size: 2.2K
+  Status: OPEN
+
+FILE: personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2021_ok.csv
+  Route: /api_update/FIFOMI/personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2021_ok.csv
+  Size: 4.1K
+  Status: OPEN
+
+FILE: personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2022_ok.csv
+  Route: /api_update/FIFOMI/personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2022_ok.csv
+  Size: 7.7K
+  Status: OPEN
+
+FILE: personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2023_ok.csv
+  Route: /api_update/FIFOMI/personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2023_ok.csv
+  Size: 7.5K
+  Status: OPEN
+
+FILE: personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2024_ok.csv
+  Route: /api_update/FIFOMI/personas_capacitadas_sector_minero_entidad_federativa_capacitacion_2024_ok.csv
+  Size: 4.3K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 24
+Total Size: 4.4M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

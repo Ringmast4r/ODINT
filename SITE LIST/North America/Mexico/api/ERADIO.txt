@@ -1,0 +1,34 @@
+================================================================================
+API ENDPOINT MAP: ERADIO
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ERADIO/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ERADIO/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: audiolibros_catalogo_audiolibros_sept2025.csv
+  Route: /api_update/ERADIO/audiolibros_catalogo_audiolibros_sept2025.csv
+  Size: 19K
+  Status: OPEN
+
+FILE: descargas_podcast_descargas_podcast_sept2025.csv
+  Route: /api_update/ERADIO/descargas_podcast_descargas_podcast_sept2025.csv
+  Size: 190K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 2
+Total Size: 208K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

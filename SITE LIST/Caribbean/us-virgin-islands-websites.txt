@@ -1,0 +1,24 @@
+# US VIRGIN ISLANDS (12)
+# ============================================================
+
+# Government
+vi.gov
+governorvi.com
+legvi.org
+visupremecourt.org
+vitema.gov.vi
+dol.gov.vi
+doh.gov.vi
+
+# Media
+virginislandsdailynews.com
+stthomassource.com
+
+# Tourism
+visitusvi.com
+
+# Education
+uvi.edu
+
+# Banks
+viboa.gov.vi

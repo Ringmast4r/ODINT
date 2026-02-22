@@ -1,0 +1,108 @@
+================================================================================
+MEXICO GOVERNMENT TECH STACK INDEX
+================================================================================
+
+Generated: January 15, 2026
+Sites Analyzed: 6
+
+================================================================================
+SUMMARY MATRIX
+================================================================================
+
+Domain                      CDN             Server          Framework
+--------------------------- --------------- --------------- ------------------
+repodatos.atdt.gob.mx       Akamai          Unknown         REST API (files)
+datos.gob.mx                Akamai          nginx           CKAN (Python)
+gob.mx                      Akamai          WildFly         Java EE
+sat.gob.mx                  AWS CloudFront  Unknown         Unknown (504)
+inm.gob.mx                  None detected   Apache (masked) Unknown
+sre.gob.mx                  None detected   Unknown         Unknown
+
+================================================================================
+CDN DISTRIBUTION
+================================================================================
+
+Akamai Technologies:        3 sites
+  - repodatos.atdt.gob.mx
+  - datos.gob.mx
+  - gob.mx
+
+AWS CloudFront:             1 site
+  - sat.gob.mx
+
+No CDN Detected:            2 sites
+  - inm.gob.mx
+  - sre.gob.mx
+
+================================================================================
+SSL CERTIFICATE PROVIDERS
+================================================================================
+
+DigiCert:                   2 sites (gob.mx, datos.gob.mx)
+Let's Encrypt:              1 site (repodatos.atdt.gob.mx)
+AWS ACM (presumed):         1 site (sat.gob.mx)
+Unknown:                    2 sites
+
+================================================================================
+SECURITY ISSUES IDENTIFIED
+================================================================================
+
+[CRITICAL] repodatos.atdt.gob.mx
+  - No authentication on sensitive data API
+  - Directory listing enabled
+  - Missing security headers
+
+[CRITICAL] sre.gob.mx
+  - HTTPS redirects to HTTP (defeats HSTS)
+  - Security downgrade vulnerability
+
+[HIGH] inm.gob.mx
+  - No Secure flag on cookies
+  - No HSTS header
+  - Very old Last-Modified date (2014)
+
+[MEDIUM] datos.gob.mx
+  - No Secure flag on session cookie
+
+[INFO] sat.gob.mx
+  - 504 Gateway Timeout during scan
+  - Origin server availability issue
+
+================================================================================
+FILE INDEX
+================================================================================
+
+1. repodatos.atdt.gob.mx.txt    - Main data API (CRITICAL findings)
+2. datos.gob.mx.txt             - Open data portal (CKAN)
+3. gob.mx.txt                   - Main government portal (Java/WildFly)
+4. sat.gob.mx.txt               - Tax authority (AWS CloudFront)
+5. inm.gob.mx.txt               - Immigration (Apache)
+6. sre.gob.mx.txt               - Foreign relations (HTTPS issue)
+
+================================================================================
+TECHNOLOGY OBSERVATIONS
+================================================================================
+
+INFRASTRUCTURE PROVIDERS
+------------------------
+- Heavy use of Akamai for CDN/edge delivery
+- AWS CloudFront for SAT (tax authority)
+- Kubernetes orchestration on gob.mx
+- Mix of modern and legacy infrastructure
+
+APPLICATION STACK
+-----------------
+- CKAN (Python) for open data portal
+- WildFly/JBoss (Java) for main government portal
+- Varied backend technologies across agencies
+
+SECURITY POSTURE
+----------------
+- Inconsistent security header implementation
+- Mixed HTTPS enforcement
+- Some server version disclosure
+- Authentication gaps on data APIs
+
+================================================================================
+END OF INDEX
+================================================================================

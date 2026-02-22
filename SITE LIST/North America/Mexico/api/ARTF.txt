@@ -1,0 +1,44 @@
+================================================================================
+API ENDPOINT MAP: ARTF
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ARTF/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ARTF/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: registro_carga_sistema_ferroviario_carros_carga_SFM_2510.csv
+  Route: /api_update/ARTF/registro_carga_sistema_ferroviario_carros_carga_SFM_2510.csv
+  Size: 25M
+  Status: OPEN
+
+FILE: registro_carga_sistema_ferroviario_toneladas_carga_SFM_2510.csv
+  Route: /api_update/ARTF/registro_carga_sistema_ferroviario_toneladas_carga_SFM_2510.csv
+  Size: 31M
+  Status: OPEN
+
+FILE: registro_carga_sistema_ferroviario_tonkm_carga_SFM_2510.csv
+  Route: /api_update/ARTF/registro_carga_sistema_ferroviario_tonkm_carga_SFM_2510.csv
+  Size: 33M
+  Status: OPEN
+
+FILE: registro_pasajeros_sistema_ferroviario_pasajeros_SFM_2510.csv
+  Route: /api_update/ARTF/registro_pasajeros_sistema_ferroviario_pasajeros_SFM_2510.csv
+  Size: 93K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 4
+Total Size: 89M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

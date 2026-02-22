@@ -1,0 +1,41 @@
+# GRENADA (28)
+# ============================================================
+
+# Government
+gov.gd
+pm.gov.gd
+finance.gov.gd
+education.gov.gd
+health.gov.gd
+agriculture.gov.gd
+foreign.gov.gd
+justice.gov.gd
+tourism.gov.gd
+housing.gov.gd
+trade.gov.gd
+immigration.gov.gd
+ird.gov.gd
+customs.gov.gd
+parliament.gov.gd
+rgpf.gd
+
+# Media
+nowgrenada.com
+thenewtodaygrenada.com
+grenadabroadcast.com
+
+# Universities
+sgu.edu
+tamcc.edu.gd
+
+# Tourism
+puregrenada.com
+
+# Banks
+grenco.com
+scotiabank.com.gd
+rbc.com.gd
+
+# Sports
+gfa.gd
+goc.gd

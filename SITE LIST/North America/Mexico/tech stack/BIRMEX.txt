@@ -1,0 +1,32 @@
+================================================================================
+TECH STACK: BIRMEX
+================================================================================
+
+DOMAIN: birmex.gob.mx
+DESCRIPTION: Biological Laboratories
+SCAN DATE: 2026-01-15 17:18:39
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: nginx/1.27.0
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Server: nginx/1.27.0
+Date: Thu, 15 Jan 2026 22:17:52 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Link: <https://birmex.gob.mx/wp-json/>; rel="https://api.w.org/"
+Link: <https://birmex.gob.mx/wp-json/wp/v2/pages/29>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://birmex.gob.mx/>; rel=shortlink
+
+================================================================================
+END
+================================================================================

@@ -1,0 +1,204 @@
+================================================================================
+API ENDPOINT MAP: SADER (Agriculture)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/SADER/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/SADER/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: programa_fertilizantes_derechohabientes_1er_listado_derechohambientes_fertilizantes_2025.csv
+  Route: /api_update/SADER/programa_fertilizantes_derechohabientes_1er_listado_derechohambientes_fertilizantes_2025.csv
+  Size: 29M
+  Status: OPEN
+
+FILE: programa_fertilizantes_listados_autorizados_1er_listado_fertilizantes_2025_autorizados_gro.csv
+  Route: /api_update/SADER/programa_fertilizantes_listados_autorizados_1er_listado_fertilizantes_2025_autorizados_gro.csv
+  Size: 20M
+  Status: OPEN
+
+FILE: programa_fertilizantes_listados_autorizados_1er_listado_fertilizantes_2025_autorizados_mch.csv
+  Route: /api_update/SADER/programa_fertilizantes_listados_autorizados_1er_listado_fertilizantes_2025_autorizados_mch.csv
+  Size: 4.3M
+  Status: OPEN
+
+FILE: programa_fertilizantes_listados_autorizados_1er_listado_fertilizantes_2025_autorizados_mor.csv
+  Route: /api_update/SADER/programa_fertilizantes_listados_autorizados_1er_listado_fertilizantes_2025_autorizados_mor.csv
+  Size: 903K
+  Status: OPEN
+
+FILE: programa_fertilizantes_listados_autorizados_1er_listado_fertilizantes_2025_autorizados_txl.csv
+  Route: /api_update/SADER/programa_fertilizantes_listados_autorizados_1er_listado_fertilizantes_2025_autorizados_txl.csv
+  Size: 1.8M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_01_pbp_2t_2025_ags.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_01_pbp_2t_2025_ags.csv
+  Size: 1.2M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_02_pbp_2t_2025_bc.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_02_pbp_2t_2025_bc.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_03_pbp_2t_2025_bcs.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_03_pbp_2t_2025_bcs.csv
+  Size: 38K
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_04_pbp_2t_2025_camp.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_04_pbp_2t_2025_camp.csv
+  Size: 3.5M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_05_pbp_2t_2025_coah.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_05_pbp_2t_2025_coah.csv
+  Size: 1.9M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_06_pbp_2t_2025_col.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_06_pbp_2t_2025_col.csv
+  Size: 488K
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_07_pbp_2t_2025_chis.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_07_pbp_2t_2025_chis.csv
+  Size: 8.4M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_08_pbp_2t_2025_chih.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_08_pbp_2t_2025_chih.csv
+  Size: 7.2M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_09_pbp_2t_2025_cdmx.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_09_pbp_2t_2025_cdmx.csv
+  Size: 679K
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_10_pbp_2t_2025_dgo.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_10_pbp_2t_2025_dgo.csv
+  Size: 6.5M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_11_pbp_2t_2025_gto.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_11_pbp_2t_2025_gto.csv
+  Size: 7.6M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_12_pbp_2t_2025_gro.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_12_pbp_2t_2025_gro.csv
+  Size: 14M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_13_pbp_2t_2025_hgo.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_13_pbp_2t_2025_hgo.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_14_pbp_2t_2025_jal.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_14_pbp_2t_2025_jal.csv
+  Size: 2.1M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_16_pbp_2t_2025_mich.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_16_pbp_2t_2025_mich.csv
+  Size: 13M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_17_pbp_2t_2025_mor.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_17_pbp_2t_2025_mor.csv
+  Size: 2.5M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_18_pbp_2t_2025_nay.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_18_pbp_2t_2025_nay.csv
+  Size: 4.5M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_19_pbp_2t_2025_nl.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_19_pbp_2t_2025_nl.csv
+  Size: 1.9M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_20_pbp_2t_2025_oax.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_20_pbp_2t_2025_oax.csv
+  Size: 39M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_21_pbp_2t_2025_pue.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_21_pbp_2t_2025_pue.csv
+  Size: 18M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_22_pbp_2t_2025_qro.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_22_pbp_2t_2025_qro.csv
+  Size: 3.0M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_23_pbp_2t_2025_qroo.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_23_pbp_2t_2025_qroo.csv
+  Size: 3.9M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_24_pbp_2t_2025_slp.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_24_pbp_2t_2025_slp.csv
+  Size: 9.6M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_25_pbp_2t_2025_sin.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_25_pbp_2t_2025_sin.csv
+  Size: 5.5M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_26_pbp_2t_2025_son.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_26_pbp_2t_2025_son.csv
+  Size: 791K
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_27_pbp_2t_2025_tabs.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_27_pbp_2t_2025_tabs.csv
+  Size: 3.8M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_28_pbp_2t_2025_tamps.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_28_pbp_2t_2025_tamps.csv
+  Size: 4.2M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_29_pbp_2t_2025_tlax.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_29_pbp_2t_2025_tlax.csv
+  Size: 4.2M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_30_pbp_2t_2025_ver.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_30_pbp_2t_2025_ver.csv
+  Size: 29M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_31_pbp_2t_2025_yuc.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_31_pbp_2t_2025_yuc.csv
+  Size: 5.3M
+  Status: OPEN
+
+FILE: programa_produccion_para_bienestar_2025_32_pbp_2t_2025_zac.csv
+  Route: /api_update/SADER/programa_produccion_para_bienestar_2025_32_pbp_2t_2025_zac.csv
+  Size: 11M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 36
+Total Size: 277M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

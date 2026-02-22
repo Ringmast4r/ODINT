@@ -1,0 +1,444 @@
+================================================================================
+API ENDPOINT MAP: CENATRA (Organ Transplants)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CENATRA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CENATRA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_100_Donaciones1erTrimestre2020.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_100_Donaciones1erTrimestre2020.csv
+  Size: 149K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_80_Donaciones1erTrimestre2025.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_80_Donaciones1erTrimestre2025.csv
+  Size: 182K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_81_Donaciones4toTrimestre2024.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_81_Donaciones4toTrimestre2024.csv
+  Size: 156K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_82_Donaciones3erTrimestre2024.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_82_Donaciones3erTrimestre2024.csv
+  Size: 167K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_83_Donaciones2doTrimestre2024.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_83_Donaciones2doTrimestre2024.csv
+  Size: 194K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_84_Donaciones1erTrimestre2024.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_84_Donaciones1erTrimestre2024.csv
+  Size: 176K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_85_Donaciones4toTrimestre2023.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_85_Donaciones4toTrimestre2023.csv
+  Size: 185K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_86_Donaciones3erTrimestre2023.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_86_Donaciones3erTrimestre2023.csv
+  Size: 197K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_87_Donaciones2doTrimestre2023.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_87_Donaciones2doTrimestre2023.csv
+  Size: 180K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_88_Donaciones1erTrimestre2023.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_88_Donaciones1erTrimestre2023.csv
+  Size: 170K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_89_Donaciones4toTrimestre2022.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_89_Donaciones4toTrimestre2022.csv
+  Size: 163K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_90_Donaciones3erTrimestre2022.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_90_Donaciones3erTrimestre2022.csv
+  Size: 160K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_91_Donaciones2doTrimestre2022.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_91_Donaciones2doTrimestre2022.csv
+  Size: 153K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_92_Donaciones1erTrimestre2022.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_92_Donaciones1erTrimestre2022.csv
+  Size: 125K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_93_Donaciones4toTrimestre2021Corregido.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_93_Donaciones4toTrimestre2021Corregido.csv
+  Size: 137K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_94_Donaciones3erTrimestre2021Corregido.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_94_Donaciones3erTrimestre2021Corregido.csv
+  Size: 118K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_95_Donaciones2doTrimestre2021Corregido.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_95_Donaciones2doTrimestre2021Corregido.csv
+  Size: 104K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_96_Donaciones1erTrimestre2021Corregido.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_96_Donaciones1erTrimestre2021Corregido.csv
+  Size: 37K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_97_Donaciones4toTrimestre2020.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_97_Donaciones4toTrimestre2020.csv
+  Size: 33K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_98_Donaciones3erTrimestre2020.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_98_Donaciones3erTrimestre2020.csv
+  Size: 7.5K
+  Status: OPEN
+
+FILE: donaciones_organos_tejidos_fines_trasplante_CENATRA_99_Donaciones2doTrimestre2020.csv
+  Route: /api_update/CENATRA/donaciones_organos_tejidos_fines_trasplante_CENATRA_99_Donaciones2doTrimestre2020.csv
+  Size: 553
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_1_Establecimientos1erTrimestre2025.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_1_Establecimientos1erTrimestre2025.csv
+  Size: 82K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_10_Establecimientos4toTrimestre2022.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_10_Establecimientos4toTrimestre2022.csv
+  Size: 76K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_11_Establecimientos3erTrimestre2022.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_11_Establecimientos3erTrimestre2022.csv
+  Size: 75K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_12_Establecimientos2doTrimestre2022.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_12_Establecimientos2doTrimestre2022.csv
+  Size: 74K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_13_Establecimientos1erTrimestre2022.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_13_Establecimientos1erTrimestre2022.csv
+  Size: 74K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_14_Establecimientos4toTrimestre2021.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_14_Establecimientos4toTrimestre2021.csv
+  Size: 74K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_15_Establecimientos3erTrimestre2021.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_15_Establecimientos3erTrimestre2021.csv
+  Size: 73K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_16_Establecimientos2doTrimestre2021.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_16_Establecimientos2doTrimestre2021.csv
+  Size: 73K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_17_Establecimientos1erTrimestre2021.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_17_Establecimientos1erTrimestre2021.csv
+  Size: 73K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_18_Establecimientos4toTrimestre2020.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_18_Establecimientos4toTrimestre2020.csv
+  Size: 73K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_19_Establecimientos3erTrimestre2020.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_19_Establecimientos3erTrimestre2020.csv
+  Size: 73K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_2_Establecimientos4toTrimestre2024.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_2_Establecimientos4toTrimestre2024.csv
+  Size: 81K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_20_Establecimientos2doTrimestre2020.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_20_Establecimientos2doTrimestre2020.csv
+  Size: 72K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_21_Establecimientos1erTrimestre2020.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_21_Establecimientos1erTrimestre2020.csv
+  Size: 72K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_3_Establecimientos3erTrimestre2024.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_3_Establecimientos3erTrimestre2024.csv
+  Size: 82K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_4_Establecimientos2doTrimestre2024.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_4_Establecimientos2doTrimestre2024.csv
+  Size: 79K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_5_Establecimientos1erTrimestre2024.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_5_Establecimientos1erTrimestre2024.csv
+  Size: 78K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_6_Establecimientos4toTrimestre2023.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_6_Establecimientos4toTrimestre2023.csv
+  Size: 78K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_7_Establecimientos3erTrimestre2023.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_7_Establecimientos3erTrimestre2023.csv
+  Size: 77K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_8_Establecimientos2doTrimestre2023.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_8_Establecimientos2doTrimestre2023.csv
+  Size: 77K
+  Status: OPEN
+
+FILE: establecimientos_activos_programas_CENATRA_9_Establecimientos1erTrimestre2023.csv
+  Route: /api_update/CENATRA/establecimientos_activos_programas_CENATRA_9_Establecimientos1erTrimestre2023.csv
+  Size: 77K
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_59_Pacientes_espera1erTrimestre2025.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_59_Pacientes_espera1erTrimestre2025.csv
+  Size: 3.5M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_60_Pacientes_espera4toTrimestre2024.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_60_Pacientes_espera4toTrimestre2024.csv
+  Size: 3.6M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_61_Pacientes_espera3erTrimestre2024.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_61_Pacientes_espera3erTrimestre2024.csv
+  Size: 3.6M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_62_Pacientes_espera2doTrimestre2024.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_62_Pacientes_espera2doTrimestre2024.csv
+  Size: 3.7M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_63_Pacientes_espera1erTrimestre2024.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_63_Pacientes_espera1erTrimestre2024.csv
+  Size: 4.4M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_64_Pacientes_espera4toTrimestre2023.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_64_Pacientes_espera4toTrimestre2023.csv
+  Size: 4.4M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_65_Pacientes_espera3erTrimestre2023.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_65_Pacientes_espera3erTrimestre2023.csv
+  Size: 2.7M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_66_Pacientes_espera2doTrimestre2023.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_66_Pacientes_espera2doTrimestre2023.csv
+  Size: 2.9M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_67_Pacientes_espera1erTrimestre2023.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_67_Pacientes_espera1erTrimestre2023.csv
+  Size: 3.7M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_68_Pacientes_espera4toTrimestre2022.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_68_Pacientes_espera4toTrimestre2022.csv
+  Size: 3.7M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_69_Pacientes_espera3erTrimestre2022.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_69_Pacientes_espera3erTrimestre2022.csv
+  Size: 4.4M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_70_Pacientes_espera2doTrimestre2022.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_70_Pacientes_espera2doTrimestre2022.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_71_Pacientes_espera1erTrimestre2022.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_71_Pacientes_espera1erTrimestre2022.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_72_Pacientes_espera4toTrimestre2021.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_72_Pacientes_espera4toTrimestre2021.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_73_Pacientes_espera3erTrimestre2021.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_73_Pacientes_espera3erTrimestre2021.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_74_Pacientes_espera2doTrimestre2021.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_74_Pacientes_espera2doTrimestre2021.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_75_Pacientes_espera1erTrimestre2021.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_75_Pacientes_espera1erTrimestre2021.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_76_Pacientes_espera4toTrimestre2020.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_76_Pacientes_espera4toTrimestre2020.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_77_Pacientes_espera3erTrimestre2020.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_77_Pacientes_espera3erTrimestre2020.csv
+  Size: 4.2M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_78_Pacientes_espera2doTrimestre2020.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_78_Pacientes_espera2doTrimestre2020.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: pacientes_espera_organo_tejido_CENATRA_79_Pacientes_espera1erTrimestre2020.csv
+  Route: /api_update/CENATRA/pacientes_espera_organo_tejido_CENATRA_79_Pacientes_espera1erTrimestre2020.csv
+  Size: 4.1M
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_30_Trasplantes1erTrimestre2025.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_30_Trasplantes1erTrimestre2025.csv
+  Size: 355K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_31_Trasplantes4toTrimestre2024.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_31_Trasplantes4toTrimestre2024.csv
+  Size: 346K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_32_Trasplantes3erTrimestre2024.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_32_Trasplantes3erTrimestre2024.csv
+  Size: 370K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_33_Trasplantes2doTrimestre2024.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_33_Trasplantes2doTrimestre2024.csv
+  Size: 372K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_34_Trasplantes1erTrimestre2024.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_34_Trasplantes1erTrimestre2024.csv
+  Size: 399K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_35_Trasplantes4toTrimesstre2023.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_35_Trasplantes4toTrimesstre2023.csv
+  Size: 383K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_36_Trasplantes3erTrimestre2023.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_36_Trasplantes3erTrimestre2023.csv
+  Size: 381K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_37_Trasplantes2doTrimestre2023.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_37_Trasplantes2doTrimestre2023.csv
+  Size: 385K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_38_Trasplantes1erTrimestre2023.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_38_Trasplantes1erTrimestre2023.csv
+  Size: 356K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_39_Trasplantes4toTrimestre2022.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_39_Trasplantes4toTrimestre2022.csv
+  Size: 358K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_40_Trasplantes3erTrimestre2022.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_40_Trasplantes3erTrimestre2022.csv
+  Size: 432K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_41_Trasplantes2doTrimestre2022.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_41_Trasplantes2doTrimestre2022.csv
+  Size: 355K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_42_Trasplantes1erTrimestre2022.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_42_Trasplantes1erTrimestre2022.csv
+  Size: 268K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_43_Trasplantes4toTrimestre2021.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_43_Trasplantes4toTrimestre2021.csv
+  Size: 304K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_44_Trasplantes3erTrimestre2021.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_44_Trasplantes3erTrimestre2021.csv
+  Size: 284K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_45_Trasplantes2doTrimestre2021.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_45_Trasplantes2doTrimestre2021.csv
+  Size: 265K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_46_Trasplantes1erTrimestre2021.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_46_Trasplantes1erTrimestre2021.csv
+  Size: 110K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_47_Trasplantes4toTrimestre2020.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_47_Trasplantes4toTrimestre2020.csv
+  Size: 115K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_48_Trasplantes3erTrimestre2020.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_48_Trasplantes3erTrimestre2020.csv
+  Size: 41K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_49_Trasplantes2doTrimestre2020.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_49_Trasplantes2doTrimestre2020.csv
+  Size: 9.6K
+  Status: OPEN
+
+FILE: trasplantes_organos_tejidos_CENATRA_50_Trasplantes1erTrimestre2020.csv
+  Route: /api_update/CENATRA/trasplantes_organos_tejidos_CENATRA_50_Trasplantes1erTrimestre2020.csv
+  Size: 325K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 84
+Total Size: 91M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

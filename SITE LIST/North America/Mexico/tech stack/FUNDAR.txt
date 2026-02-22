@@ -1,0 +1,40 @@
+================================================================================
+TECH STACK: FUNDAR
+================================================================================
+
+DOMAIN: fundar.org.mx
+DESCRIPTION: Analysis & Research Center
+SCAN DATE: 2026-01-15 17:17:44
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: cloudflare
+CDN: Cloudflare
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:16:57 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Server: cloudflare
+CF-Ray: 9be8bd903e44b95a-AMS
+CF-Cache-Status: DYNAMIC
+Age: 9162
+Last-Modified: Thu, 15 Jan 2026 15:43:21 GMT
+Strict-Transport-Security: max-age=86400
+Vary: Accept-Encoding
+cache-provider: CLOUDWAYS-CACHE-DE
+x-cache: HIT
+x-content-type-options: nosniff
+Set-Cookie: __cf_bm=YfV9FLPBdZksMO6tcZhTHZZsvJW1B44UZqyiPZUlOz4-1768515417-1.0.1.1-5am.b90pTsL9hIs7QhFnqM.rkWk1z7VXh8iwwWHtA_obWPF8neJFv7pZiI8q2B041VHyermV9vvTJsIZ6tUz5jtwF62W6iIDN7Wl_U79VDY; path=/; expires=Thu, 15-Jan-26 22:46:57 GMT; domain=.fundar.org.mx; HttpOnly; Secure; SameSite=None
+alt-svc: h3=":443"; ma=86400
+
+================================================================================
+END
+================================================================================

@@ -1,0 +1,38 @@
+================================================================================
+TECH STACK: IPAB
+================================================================================
+
+DOMAIN: ipab.org.mx
+URL PROBED: https://www.ipab.org.mx
+SCAN DATE: 2026-01-15 17:01:23
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 302 Found
+Server: NOT DISCLOSED
+Content-Type: text/html; charset=utf-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+subject=CN=*.ipab.org.mx
+notBefore=Sep 29 17:45:37 2025 GMT
+notAfter=Oct 31 17:45:37 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 302 Found
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Location: https://www.gob.mx/ipab
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Date: Thu, 15 Jan 2026 22:00:28 GMT
+
+================================================================================
+END
+================================================================================

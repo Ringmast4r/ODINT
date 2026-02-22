@@ -1,0 +1,90 @@
+================================================================================
+TECH STACK ANALYSIS: sat.gob.mx
+================================================================================
+
+DOMAIN: www.sat.gob.mx
+PURPOSE: Mexican Tax Administration Service (SAT) Portal
+STATUS: PARTIALLY AVAILABLE (504 Gateway Timeout during scan)
+
+================================================================================
+INFRASTRUCTURE
+================================================================================
+
+CDN / EDGE NETWORK
+------------------
+Provider:       Amazon Web Services (AWS) CloudFront
+Evidence:       X-Cache: Error from cloudfront
+                Via: 1.1 *.cloudfront.net (CloudFront)
+                X-Amz-Cf-Pop: BRU50-P1
+                X-Amz-Cf-Id: wDs0CKzlEff0Iz7xalTMj0m9_PHNaZi4cOSPPDG5maob4-NxR2203w==
+
+CloudFront POP:     BRU50-P1 (Brussels edge location)
+Request ID:         wDs0CKzlEff0Iz7xalTMj0m9_PHNaZi4cOSPPDG5maob4-NxR2203w==
+
+HTTP/3 SUPPORT
+--------------
+Alt-Svc:        h3=":443"; ma=86400
+
+================================================================================
+AVAILABILITY ISSUE
+================================================================================
+
+STATUS CODE: 504 Gateway Time-out
+MEANING:     Origin server not responding to CloudFront
+POSSIBLE CAUSES:
+  - Origin server overloaded
+  - Network connectivity issue
+  - Maintenance window
+  - Origin health check failure
+
+================================================================================
+TECHNOLOGY SUMMARY
+================================================================================
+
+Layer               Technology
+------------------  ------------------------------------------
+CDN                 AWS CloudFront
+Edge Location       BRU50-P1 (Brussels)
+HTTP/3              Supported (QUIC)
+Origin              Unknown (timeout)
+SSL                 AWS Certificate Manager (presumed)
+
+================================================================================
+AWS INFRASTRUCTURE INDICATORS
+================================================================================
+
+Header                  Value                           Meaning
+----------------------  ------------------------------  -------------------------
+X-Cache                 Error from cloudfront           CDN cache miss/error
+Via                     1.1 *.cloudfront.net            CloudFront proxy
+X-Amz-Cf-Pop            BRU50-P1                        Edge location code
+X-Amz-Cf-Id             [Request ID]                    CloudFront request trace
+Alt-Svc                 h3=":443"                       HTTP/3 enabled
+
+================================================================================
+SECURITY NOTES
+================================================================================
+
+[INFO]  SAT handles sensitive taxpayer data
+[INFO]  AWS CloudFront provides DDoS protection
+[INFO]  504 error may indicate backend security controls
+[WARN]  Could not fully assess origin server technology
+
+================================================================================
+RAW HEADER CAPTURE
+================================================================================
+
+HTTP/1.1 504 Gateway Time-out
+Content-Type: text/html
+Content-Length: 941
+Connection: keep-alive
+Date: Thu, 15 Jan 2026 21:51:36 GMT
+X-Cache: Error from cloudfront
+Via: 1.1 2ae90e7f79d3d333546a65283ed748ca.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: BRU50-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: wDs0CKzlEff0Iz7xalTMj0m9_PHNaZi4cOSPPDG5maob4-NxR2203w==
+
+================================================================================
+END OF TECH STACK ANALYSIS
+================================================================================

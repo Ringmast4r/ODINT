@@ -1,0 +1,40 @@
+================================================================================
+TECH STACK: FONATUR
+================================================================================
+
+DOMAIN: fonatur.gob.mx
+URL PROBED: https://www.fonatur.gob.mx
+SCAN DATE: 2026-01-15 17:01:57
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 302 Object moved
+Server: Microsoft-IIS/8.5
+Content-Type: text/html
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=Let's Encrypt, CN=E8
+subject=CN=*.fonatur.gob.mx
+notBefore=Dec  3 04:32:34 2025 GMT
+notAfter=Mar  3 04:32:33 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 302 Object moved
+Cache-Control: private
+Content-Length: 143
+Content-Type: text/html
+Location: https://www.fonatur.mx
+Server: Microsoft-IIS/8.5
+Set-Cookie: ASPSESSIONIDSEQSCDSR=HCHLDHEANCHFBGKAOEDFBCAN; secure; path=/
+X-Powered-By: ASP.NET
+Date: Thu, 15 Jan 2026 22:01:04 GMT
+
+================================================================================
+END
+================================================================================

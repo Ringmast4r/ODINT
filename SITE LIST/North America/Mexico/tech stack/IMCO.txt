@@ -1,0 +1,33 @@
+================================================================================
+TECH STACK: IMCO
+================================================================================
+
+DOMAIN: imco.org.mx
+DESCRIPTION: Mexican Competitiveness Institute
+SCAN DATE: 2026-01-15 17:17:41
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: Apache
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:16:54 GMT
+Server: Apache
+X-Powered-By: PHP/7.4.15
+Link: <https://imco.org.mx/wp-json/>; rel="https://api.w.org/", <https://imco.org.mx/wp-json/wp/v2/pages/8>; rel="alternate"; title="JSON"; type="application/json", <https://imco.org.mx/>; rel=shortlink
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

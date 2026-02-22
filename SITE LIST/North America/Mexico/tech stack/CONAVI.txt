@@ -1,0 +1,37 @@
+================================================================================
+TECH STACK: CONAVI
+================================================================================
+
+DOMAIN: conavi.gob.mx
+URL PROBED: https://www.conavi.gob.mx
+SCAN DATE: 2026-01-15 17:01:29
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 302 Found
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.13
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+subject=CN=*.conavi.gob.mx
+notBefore=Jun  9 11:02:36 2025 GMT
+notAfter=Jul 11 11:02:36 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 302 Found
+Date: Thu, 15 Jan 2026 22:00:40 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.13
+X-Powered-By: PHP/7.3.13
+Location: https://www.gob.mx/conavi
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

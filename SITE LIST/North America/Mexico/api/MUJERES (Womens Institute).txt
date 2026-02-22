@@ -1,0 +1,49 @@
+================================================================================
+API ENDPOINT MAP: MUJERES (Womens Institute)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/MUJERES/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/MUJERES/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: liderazgo_politico_mujeres_mexico_01_comisiones_senado.csv
+  Route: /api_update/MUJERES/liderazgo_politico_mujeres_mexico_01_comisiones_senado.csv
+  Size: 3.9K
+  Status: OPEN
+
+FILE: liderazgo_politico_mujeres_mexico_02_comisiones_diputadas.csv
+  Route: /api_update/MUJERES/liderazgo_politico_mujeres_mexico_02_comisiones_diputadas.csv
+  Size: 7.6K
+  Status: OPEN
+
+FILE: liderazgo_politico_mujeres_mexico_09_municipios_alcaldias.csv
+  Route: /api_update/MUJERES/liderazgo_politico_mujeres_mexico_09_municipios_alcaldias.csv
+  Size: 7.4K
+  Status: OPEN
+
+FILE: participacion_mujeres_puestos_directivos_administracion_publica_incluye_poder_judicial_05_ACTUALZ_jueces_magistradas.csv
+  Route: /api_update/MUJERES/participacion_mujeres_puestos_directivos_administracion_publica_incluye_poder_judicial_05_ACTUALZ_jueces_magistradas.csv
+  Size: 26K
+  Status: OPEN
+
+FILE: trabajo_no_remunerado_03_horas_trabajo_no_remunerado_2019.csv
+  Route: /api_update/MUJERES/trabajo_no_remunerado_03_horas_trabajo_no_remunerado_2019.csv
+  Size: 2.7K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 5
+Total Size: 47K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

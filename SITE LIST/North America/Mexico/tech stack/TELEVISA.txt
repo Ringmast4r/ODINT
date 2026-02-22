@@ -1,0 +1,57 @@
+================================================================================
+TECH STACK: TELEVISA
+================================================================================
+
+DOMAIN: televisa.com
+URL PROBED: https://www.televisa.com
+SCAN DATE: 2026-01-15 17:03:55
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: NOT DISCLOSED
+Content-Type: text/html; charset=utf-8
+CDN: AWS CloudFront
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=Google Trust Services, CN=WR3
+subject=CN=bandamax.tv
+notBefore=Jan  6 14:55:33 2026 GMT
+notAfter=Apr  6 15:48:04 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 930619
+x-amzn-requestid: b8961112-97d6-4a3f-bdc8-764d8553df3c
+referrer-policy: origin-when-cross-origin
+edge-cache-tag: 9297c25ecfc7b0b6583f34b5655637e45f541933, televisa-all-production, televisa-web-production, televisa-section-production
+x-amz-cf-id: KqHeagD2Ju_3i8lDtw6O18U6BcdD7uNZPsVa4fg9Q5cvlJAbw742xw==
+via: 1.1 9b9d51d09843a8fb67e0230c8b540698.cloudfront.net (CloudFront), 1.1 varnish, 1.1 varnish
+content-type: text/html; charset=utf-8
+x-dns-prefetch-control: on
+x-amzn-trace-id: Root=1-69696356-07fdaef533354e957e72b877;Parent=174ca2ae8209b085;Sampled=0;Lineage=1:c064c330:0
+content-security-policy: default-src 'self' http://*.jwpcdn.com; connect-src 'self' *; script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: http://*.jwpcdn.com http://*.googleapis.com http://*.googletagservices.com; style-src 'self' 'unsafe-inline'; style-src-elem 'self' 'unsafe-inline' *; script-src-elem 'self' 'unsafe-inline' *; media-src 'self' blob: data: *; img-src 'self' blob: data: *; font-src 'self' http://*.gstatic.com http://*.civicscience.com; frame-src 'self' *; object-src 'self' *; base-uri 'self'; form-action 'self'; frame-ancestors 'self' http://localhost:* https://*.dev-univision.com https://*.univision.com https://*.tudn.com https://*.mulher.com.br https://*.delicioso.com.br https://*.zappeando.com.br https://*.tasaudavel.com.br https://*.lasestrellas.tv https://*.canal5.com https://*.elnu9ve.com https://*.distritocomedia.com https://*.televisa.com https://*.unicable.tv https://*.telehit.com https://*.losbingers.com https://*.bandamax.tv https://*.lacasadelosfamososmexico.tv http://*.uvn.io http://*.psdops.com https://static.univision.com https://viz.flowics.com https://*.flowics.com https://asset-cdn.flowics.com https://*.lightboxcdn.com https://www.lightboxcdn.com https://d1d3r9ycsgcvfq.cloudfront.net https://dlteo4612k88e.cloudfront.net https://d3txwxt3zc43fw.cloudfront.net https://*.vix.com https://*.vix.tv https://*.todoelmundialporvix.com https://todoelmundialporvix.com; block-all-mixed-content;
+link: </_next/static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/media/a218039a3287bcfd-s.p.4a23d71b.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/media/b118b67dcde31e7f-s.p.7a20a06b.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/chunks/ca644ad35d5cc46e.css>; rel=preload; as="style", </_next/static/chunks/dd6453487aa8a223.css>; rel=preload; as="style"
+edge-control: public, max-age=3600, s-maxage=3600
+x-amz-cf-pop: IAD61-P9
+Cache-Control: public, max-age=0, must-revalidate
+Accept-Ranges: bytes
+Age: 194
+Date: Thu, 15 Jan 2026 22:03:05 GMT
+X-Served-By: cache-iad-kjyo7100058-IAD, cache-iad-kjyo7100162-IAD, cache-ams21037-AMS
+X-Cache: Miss from cloudfront, HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1768514586.664486,VS0,VE171
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31557600
+alt-svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400
+
+================================================================================
+END
+================================================================================

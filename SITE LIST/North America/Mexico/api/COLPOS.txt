@@ -1,0 +1,214 @@
+================================================================================
+API ENDPOINT MAP: COLPOS
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/COLPOS/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/COLPOS/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2013_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2013_Total_Alumnos.csv
+  Size: 147K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2014_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2014_Total_Alumnos.csv
+  Size: 132K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2015_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2015_Total_Alumnos.csv
+  Size: 112K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2016_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2016_Total_Alumnos.csv
+  Size: 126K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2017_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2017_Total_Alumnos.csv
+  Size: 139K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2018_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2018_Total_Alumnos.csv
+  Size: 141K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2019_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2019_Total_Alumnos.csv
+  Size: 126K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2020_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2020_Total_Alumnos.csv
+  Size: 116K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2021_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2021_Total_Alumnos.csv
+  Size: 226K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2022_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2022_Total_Alumnos.csv
+  Size: 135K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2023_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2023_Total_Alumnos.csv
+  Size: 153K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2024_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2024_Total_Alumnos.csv
+  Size: 151K
+  Status: OPEN
+
+FILE: alumnos_doctorado_maestria_diplomado_colpos_2025_Total_Alumnos.csv
+  Route: /api_update/COLPOS/alumnos_doctorado_maestria_diplomado_colpos_2025_Total_Alumnos.csv
+  Size: 118K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2012_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2012_Proyectos_Terceros.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2013_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2013_Proyectos_Terceros.csv
+  Size: 8.6K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2014_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2014_Proyectos_Terceros.csv
+  Size: 12K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2015_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2015_Proyectos_Terceros.csv
+  Size: 5.9K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2016_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2016_Proyectos_Terceros.csv
+  Size: 9.2K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2017_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2017_Proyectos_Terceros.csv
+  Size: 6.7K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2018_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2018_Proyectos_Terceros.csv
+  Size: 4.4K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2019_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2019_Proyectos_Terceros.csv
+  Size: 3.8K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2020_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2020_Proyectos_Terceros.csv
+  Size: 2.7K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2021_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2021_Proyectos_Terceros.csv
+  Size: 3.6K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2022-Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2022-Proyectos_Terceros.csv
+  Size: 2.2K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2023_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2023_Proyectos_Terceros.csv
+  Size: 3.1K
+  Status: OPEN
+
+FILE: proyectos_colaboracion_terceros_2024_Proyectos_Terceros.csv
+  Route: /api_update/COLPOS/proyectos_colaboracion_terceros_2024_Proyectos_Terceros.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2014_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2014_Total_Tesis.csv
+  Size: 77K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2015_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2015_Total_Tesis.csv
+  Size: 92K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2016_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2016_Total_Tesis.csv
+  Size: 76K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2017_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2017_Total_Tesis.csv
+  Size: 78K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2018_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2018_Total_Tesis.csv
+  Size: 70K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2019_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2019_Total_Tesis.csv
+  Size: 79K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2020_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2020_Total_Tesis.csv
+  Size: 52K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2021_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2021_Total_Tesis.csv
+  Size: 39K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2022_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2022_Total_Tesis.csv
+  Size: 52K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2023_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2023_Total_Tesis.csv
+  Size: 49K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2024_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2024_Total_Tesis.csv
+  Size: 79K
+  Status: OPEN
+
+FILE: tesis_alumnos_colegio_postgraduados_2025_Total_Tesis.csv
+  Route: /api_update/COLPOS/tesis_alumnos_colegio_postgraduados_2025_Total_Tesis.csv
+  Size: 36K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 38
+Total Size: 2.6M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

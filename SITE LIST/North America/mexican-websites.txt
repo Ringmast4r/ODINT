@@ -1,260 +1,219 @@
-# Mexican Websites - Comprehensive List
-# Government, military, media, business, education, and cultural sites
+# Mexican Websites - Comprehensive OSINT Target List
+# Government, military, healthcare, education, infrastructure, financial, judiciary, media, culture
 # Created: 2026-01-29
-# Total: 210 domains
+# Expanded: 2026-02-19
+# Total: 570 unique domains (deduplicated, zero duplicates)
+# Each domain appears ONCE in its most relevant category
 
 # ============================================
-# NEWS & MEDIA - NATIONAL (17)
-# ============================================
-eluniversal.com.mx
-reforma.com
-milenio.com
-jornada.com.mx
-excelsior.com.mx
-elfinanciero.com.mx
-eleconomista.com.mx
-proceso.com.mx
-sinembargo.mx
-animalpolitico.com
-aristeguinoticias.com
-sdpnoticias.com
-lopezdoriga.com
-latinus.us
-expansion.mx
-forbes.com.mx
-heraldodemexico.com.mx
-
-# ============================================
-# NEWS & MEDIA - TV & RADIO (10)
-# ============================================
-televisa.com
-tvazteca.com
-canalonce.mx
-canal22.org.mx
-imagenradio.com.mx
-radioformula.com.mx
-mvs.com
-wradio.com.mx
-multimedios.com
-oncenoticias.tv
-
-# ============================================
-# NEWS & MEDIA - REGIONAL (4)
-# ============================================
-informador.mx
-elnorte.com
-zocalo.com.mx
-elimparcial.com
-
-# ============================================
-# GOVERNMENT - PRESIDENCY & EXECUTIVE (2)
+# 1. FEDERAL GOVERNMENT - PRESIDENCY & EXECUTIVE (6)
 # ============================================
 gob.mx
 presidencia.gob.mx
+servidorespublicos.gob.mx
+datos.gob.mx
+transparencia.gob.mx
+mexicodigital.gob.mx
 
 # ============================================
-# GOVERNMENT - SECRETARIAS (17)
+# 2. FEDERAL GOVERNMENT - SECRETARIAS / MINISTRIES (22)
 # ============================================
-sre.gob.mx
 segob.gob.mx
+gobernacion.gob.mx
+sre.gob.mx
 shcp.gob.mx
 sspc.gob.mx
 sep.gob.mx
 salud.gob.mx
 sict.gob.mx
 se.gob.mx
+economia.gob.mx
 agricultura.gob.mx
 semarnat.gob.mx
-stps.gob.mx
-bienestar.gob.mx
-sectur.gob.mx
 sener.gob.mx
-sfp.gob.mx
-cultura.gob.mx
+stps.gob.mx
 sedatu.gob.mx
+sectur.gob.mx
+sfp.gob.mx
+funcionpublica.gob.mx
+cultura.gob.mx
+bienestar.gob.mx
+conahcyt.gob.mx
+conacyt.gob.mx
 
 # ============================================
-# GOVERNMENT - JUDICIAL & LEGISLATIVE (7)
+# 3. FEDERAL GOVERNMENT - LEGISLATIVE (6)
 # ============================================
-scjn.gob.mx
 senado.gob.mx
 diputados.gob.mx
-cjf.gob.mx
-fgr.gob.mx
 dof.gob.mx
-tepjf.gob.mx
+congreso.gob.mx
+comunicacionsocial.diputados.gob.mx
+infosen.senado.gob.mx
 
 # ============================================
-# GOVERNMENT - FINANCIAL & REGULATORY (10)
+# 4. FEDERAL GOVERNMENT - AUTONOMOUS BODIES (13)
 # ============================================
-sat.gob.mx
-cnbv.gob.mx
-condusef.gob.mx
-cofepris.gob.mx
+ine.mx
+inegi.org.mx
+cndh.org.mx
+banxico.org.mx
+coneval.org.mx
 inai.org.mx
-asf.gob.mx
-consar.gob.mx
-cofece.gob.mx
 ift.org.mx
-cnh.gob.mx
+cofece.gob.mx
+asf.gob.mx
+cnsf.gob.mx
+consar.gob.mx
+conapo.gob.mx
+conapred.org.mx
 
 # ============================================
-# GOVERNMENT - AGENCIES & SERVICES (25)
+# 5. FEDERAL GOVERNMENT - DECENTRALIZED AGENCIES (35)
 # ============================================
 imss.gob.mx
 issste.gob.mx
-ine.mx
-inegi.org.mx
 conagua.gob.mx
-conafor.gob.mx
-conahcyt.gob.mx
+infonavit.org.mx
 profeco.gob.mx
 inm.gob.mx
-coneval.org.mx
-fonatur.gob.mx
-sesnsp.gob.mx
+cofepris.gob.mx
+senasica.gob.mx
+sat.gob.mx
+cnbv.gob.mx
+condusef.gob.mx
+conafor.gob.mx
 conabio.gob.mx
-cenapred.gob.mx
-cre.gob.mx
+fonatur.gob.mx
+sipinna.gob.mx
 inmujeres.gob.mx
 inpi.gob.mx
-infonavit.org.mx
-cenace.gob.mx
-cenagas.gob.mx
-prodecon.gob.mx
-senasica.gob.mx
 ran.gob.mx
 bancodelbienestar.gob.mx
-sipinna.gob.mx
+segalmex.gob.mx
+prodecon.gob.mx
+impi.gob.mx
+indautor.gob.mx
+cenapred.gob.mx
+lotenal.gob.mx
+correosdemexico.gob.mx
+telecomm.gob.mx
+liconsa.gob.mx
+diconsa.gob.mx
+profepa.gob.mx
+conade.gob.mx
+indaabin.gob.mx
+imjuve.gob.mx
+inadem.gob.mx
+sndif.gob.mx
 
 # ============================================
-# MILITARY & SECURITY (3)
+# 6. FEDERAL GOVERNMENT - REGULATORY BODIES (7)
+# ============================================
+cre.gob.mx
+cnh.gob.mx
+conamer.gob.mx
+asea.gob.mx
+conuee.gob.mx
+ifetel.gob.mx
+sesnsp.gob.mx
+
+# ============================================
+# 7. FEDERAL GOVERNMENT - OTHER PORTALS & SERVICES (14)
+# ============================================
+cenapred.unam.mx
+agn.gob.mx
+conadic.salud.gob.mx
+censida.salud.gob.mx
+prospera.gob.mx
+fonacot.gob.mx
+compranet.funcionpublica.gob.mx
+declaranet.gob.mx
+llave.gob.mx
+plataformadigitalnacional.org
+proyectosmexico.gob.mx
+mexicoabierto.gob.mx
+normateca.gob.mx
+plataformadetransparencia.org.mx
+
+# ============================================
+# 8. MILITARY & DEFENSE (11)
 # ============================================
 sedena.gob.mx
 semar.gob.mx
 gn.gob.mx
+issfam.gob.mx
+henm.edu.mx
+uninav.edu.mx
+cesnav.uninav.edu.mx
+universidadnaval.edu.mx
+guardianacional.gob.mx
+defensanacional.gob.mx
+marina.gob.mx
 
 # ============================================
-# STATE ENTERPRISES (7)
+# 9. INTELLIGENCE & NATIONAL SECURITY (4)
 # ============================================
-pemex.com
-cfe.gob.mx
-correosdemexico.gob.mx
-telecomm.gob.mx
-aicm.com.mx
-asa.gob.mx
-segalmex.gob.mx
+cni.gob.mx
+cisen.gob.mx
+seguridad.gob.mx
+cnac.gob.mx
 
 # ============================================
-# BANKS & ECONOMY (12)
+# 10. JUDICIARY (11)
 # ============================================
-banxico.org.mx
-bbva.mx
-banamex.com
-santander.com.mx
-banorte.com
-hsbc.com.mx
-scotiabank.com.mx
-inbursa.com
-banregio.com
-nafin.com
-banobras.gob.mx
-banjercito.com.mx
+scjn.gob.mx
+cjf.gob.mx
+tepjf.gob.mx
+te.gob.mx
+tfja.gob.mx
+juicioenlinea.gob.mx
+sjf.scjn.gob.mx
+tribunalesagrarios.gob.mx
+tfjfa.gob.mx
+poderjudicial.gob.mx
+escuelajudicial.cjf.gob.mx
 
 # ============================================
-# UNIVERSITIES & EDUCATION (30)
+# 11. LAW ENFORCEMENT & PROSECUTORS (14)
 # ============================================
-unam.mx
-ipn.mx
-tec.mx
-udg.mx
-uanl.mx
-buap.mx
-uv.mx
-uam.mx
-uaemex.mx
-ibero.mx
-up.edu.mx
-anahuac.mx
-itam.mx
-colmex.mx
-cinvestav.mx
-uach.mx
-uas.edu.mx
-ujat.mx
-ugto.mx
-uabc.edu.mx
-unison.mx
-uaq.mx
-uady.mx
-uaslp.mx
-uaa.mx
-unicach.mx
-uacj.mx
-ucol.mx
-umich.mx
-uaem.mx
+fgr.gob.mx
+fgr.org.mx
+fgjcdmx.gob.mx
+fiscalia.jalisco.gob.mx
+fgjem.edomex.gob.mx
+fge.chiapas.gob.mx
+fiscalia.chihuahua.gob.mx
+fiscaliaguerrero.gob.mx
+fiscalia.durango.gob.mx
+fiscaliamorelos.gob.mx
+fgjtam.gob.mx
+fgecolima.mx
+cnpj.gob.mx
+penales.gob.mx
 
 # ============================================
-# SPORTS (7)
+# 11b. STATE PROSECUTORS - ADDITIONAL (10)
 # ============================================
-ligamx.net
-fmf.mx
-lmb.com.mx
-conade.gob.mx
-com.org.mx
-clubamerica.com.mx
-chivas.com.mx
+fiscaliasonora.gob.mx
+fiscaliasinaloa.gob.mx
+fiscalianuevoleon.gob.mx
+fgjcoahuila.gob.mx
+fiscaliaquintanaroo.gob.mx
+fgjyucatan.gob.mx
+fgeaguascalientes.gob.mx
+fiscaliaveracruz.gob.mx
+fiscaliapuebla.gob.mx
+fiscaliaoaxaca.gob.mx
 
 # ============================================
-# POLITICAL PARTIES (7)
+# 12. CDMX POLICE & SECURITY (2)
 # ============================================
-morena.org
-pan.org.mx
-pri.org.mx
-prd.org.mx
-pvem.org.mx
-pt.org.mx
-movimientociudadano.mx
+policia.cdmx.gob.mx
+ssc.cdmx.gob.mx
 
 # ============================================
-# ART & CULTURE (3)
-# ============================================
-inbal.gob.mx
-inah.gob.mx
-imcine.gob.mx
-
-# ============================================
-# HUMAN RIGHTS / NGOs (5)
-# ============================================
-cndh.org.mx
-fundar.org.mx
-mexicoevalua.org
-imco.org.mx
-transparenciamexicana.org.mx
-
-# ============================================
-# E-COMMERCE & SERVICES (10)
-# ============================================
-mercadolibre.com.mx
-liverpool.com.mx
-coppel.com
-soriana.com
-telcel.com
-telmex.com
-totalplay.com.mx
-elektra.com.mx
-sanborns.com.mx
-palacio.mx
-
-# ============================================
-# TOURISM (2)
-# ============================================
-visitmexico.com
-mexicodesconocido.com.mx
-
-# ============================================
-# STATE GOVERNMENTS (32)
+# 13. STATE GOVERNMENTS - ALL 32 ENTITIES (32)
 # ============================================
 cdmx.gob.mx
 edomex.gob.mx
@@ -288,3 +247,538 @@ zacatecas.gob.mx
 colima.gob.mx
 tlaxcala.gob.mx
 campeche.gob.mx
+
+# ============================================
+# 14. CDMX GOVERNMENT AGENCIES (14)
+# ============================================
+gobierno.cdmx.gob.mx
+finanzas.cdmx.gob.mx
+semujeres.cdmx.gob.mx
+sacmex.cdmx.gob.mx
+metro.cdmx.gob.mx
+ste.cdmx.gob.mx
+metrobus.cdmx.gob.mx
+sedema.cdmx.gob.mx
+salud.cdmx.gob.mx
+educacion.cdmx.gob.mx
+trabajo.cdmx.gob.mx
+tjacdmx.gob.mx
+tecdmx.org.mx
+alcaldiacuauhtemoc.cdmx.gob.mx
+
+# ============================================
+# 15. MUNICIPALITIES - MAJOR CITIES (42)
+# ============================================
+guadalajara.gob.mx
+monterrey.gob.mx
+tijuana.gob.mx
+leon.gob.mx
+juarez.gob.mx
+zapopan.gob.mx
+merida.gob.mx
+hermosillo.gob.mx
+saltillo.gob.mx
+culiacan.gob.mx
+toluca.gob.mx
+villahermosa.gob.mx
+tuxtla.gob.mx
+morelia.gob.mx
+reynosa.gob.mx
+cancun.gob.mx
+matamoros.gob.mx
+acapulco.gob.mx
+naucalpan.gob.mx
+tlalnepantla.gob.mx
+xalapa.gob.mx
+mazatlan.gob.mx
+irapuato.gob.mx
+celaya.gob.mx
+tepic.gob.mx
+pachuca.gob.mx
+oaxacadejuarez.gob.mx
+cuernavaca.gob.mx
+tampico.gob.mx
+ensenada.gob.mx
+ecatepec.gob.mx
+nezahualcoyotl.gob.mx
+tonala.gob.mx
+tlaquepaque.gob.mx
+sannicolasdelosgarza.gob.mx
+apodaca.gob.mx
+chicoloapan.gob.mx
+torreoncoa.gob.mx
+ciudadvictoria.gob.mx
+lapaz.gob.mx
+loscabos.gob.mx
+corregidora.gob.mx
+
+# ============================================
+# 16. MUNICIPAL WATER UTILITIES (8)
+# ============================================
+siapa.gob.mx
+sadm.gob.mx
+simapag.gob.mx
+cespt.gob.mx
+interapas.gob.mx
+japac.gob.mx
+ceasjalisco.gob.mx
+ceagua.gob.mx
+
+# ============================================
+# 17. HEALTHCARE - FEDERAL SYSTEM (6)
+# ============================================
+ccinshae.salud.gob.mx
+insabi.gob.mx
+imssbienestar.gob.mx
+dgepi.salud.gob.mx
+epidemiologia.salud.gob.mx
+dgis.salud.gob.mx
+
+# ============================================
+# 18. HEALTHCARE - NATIONAL INSTITUTES (13)
+# ============================================
+incan.salud.gob.mx
+cardiologia.org.mx
+incmnsz.mx
+iner.salud.gob.mx
+innn.salud.gob.mx
+pediatria.gob.mx
+inper.gob.mx
+inprf.gob.mx
+inr.gob.mx
+inmegen.gob.mx
+inger.gob.mx
+insp.mx
+himfg.com.mx
+
+# ============================================
+# 19. HEALTHCARE - HIGH SPECIALTY HOSPITALS (9)
+# ============================================
+hraei.gob.mx
+hraeoaxaca.salud.gob.mx
+hraev.salud.gob.mx
+hgm.salud.gob.mx
+innsz.mx
+hospitalgeneral.salud.gob.mx
+hospitaljuarez.salud.gob.mx
+hospitalinfantil.salud.gob.mx
+chmoctezuma.salud.gob.mx
+
+# ============================================
+# 20. EDUCATION - FEDERAL AGENCIES (6)
+# ============================================
+educacionsuperior.sep.gob.mx
+conafe.gob.mx
+mejoredu.gob.mx
+inea.gob.mx
+dgb.sep.gob.mx
+dgest.gob.mx
+
+# ============================================
+# 21. EDUCATION - MAJOR NATIONAL UNIVERSITIES (10)
+# ============================================
+unam.mx
+ipn.mx
+uam.mx
+colmex.mx
+cinvestav.mx
+tec.mx
+tecnm.mx
+chapingo.mx
+ibero.mx
+itam.mx
+
+# ============================================
+# 22. EDUCATION - STATE AUTONOMOUS UNIVERSITIES (35)
+# ============================================
+uaa.mx
+uabc.edu.mx
+uabcs.mx
+uacam.mx
+unacar.mx
+uadec.mx
+ucol.mx
+unach.mx
+uach.mx
+uacj.mx
+ujed.mx
+ugto.mx
+uagro.mx
+uaeh.edu.mx
+udg.mx
+uaemex.mx
+umich.mx
+uaem.mx
+uan.edu.mx
+uanl.mx
+uabjo.mx
+buap.mx
+uaq.mx
+uqroo.mx
+uaslp.mx
+uas.edu.mx
+uadeo.mx
+unison.mx
+itson.mx
+ujat.mx
+uat.edu.mx
+uatx.mx
+uv.mx
+uady.mx
+uaz.edu.mx
+
+# ============================================
+# 23. EDUCATION - RESEARCH CENTERS (CONAHCYT) (27)
+# ============================================
+ciatec.mx
+ciatej.mx
+ciateq.mx
+cidesi.com
+cideteq.mx
+ciqa.mx
+comimsa.com.mx
+infotec.com.mx
+ciad.mx
+cibnor.mx
+cicese.edu.mx
+cicy.mx
+cimav.edu.mx
+cimat.mx
+inaoep.mx
+inecol.edu.mx
+ipicyt.edu.mx
+cide.edu
+ciesas.edu.mx
+centrogeo.org.mx
+ecosur.mx
+colef.mx
+colsan.edu.mx
+institutomora.edu.mx
+colmich.edu.mx
+cio.mx
+flacso.edu.mx
+
+# ============================================
+# 24. EDUCATION - ADDITIONAL UNIVERSITIES & INSTITUTIONS (9)
+# ============================================
+up.edu.mx
+anahuac.mx
+unicach.mx
+uaaan.edu.mx
+upn.mx
+enah.edu.mx
+unadmexico.mx
+polivirtual.ipn.mx
+siicyt.gob.mx
+
+# ============================================
+# 25. FINANCIAL - DEVELOPMENT BANKS (8)
+# ============================================
+nafin.com
+banobras.gob.mx
+bancomext.com
+banjercito.com.mx
+shf.gob.mx
+fnd.gob.mx
+financierarural.gob.mx
+cesf.gob.mx
+
+# ============================================
+# 26. FINANCIAL - STOCK EXCHANGE & MARKETS (5)
+# ============================================
+bmv.com.mx
+biva.mx
+indeval.com.mx
+mexder.com.mx
+snieg.mx
+
+# ============================================
+# 27. FINANCIAL - COMMERCIAL BANKS (8)
+# ============================================
+bbva.mx
+banamex.com
+santander.com.mx
+banorte.com
+hsbc.com.mx
+scotiabank.com.mx
+inbursa.com
+banregio.com
+
+# ============================================
+# 28. ENERGY - PEMEX & SUBSIDIARIES (8)
+# ============================================
+pemex.com
+ri.pemex.com
+pmi.com.mx
+imp.mx
+pemex.gob.mx
+franquiciapemex.com
+ptri.pemex.com
+pfrefinacion.pemex.com
+
+# ============================================
+# 29. ENERGY - CFE & SUBSIDIARIES (7)
+# ============================================
+cfe.gob.mx
+cfenergia.com
+cfecapital.com.mx
+cfeinternational.com
+cfeenlinea.gob.mx
+cfedistribucion.cfe.gob.mx
+cfegeneracion.cfe.gob.mx
+
+# ============================================
+# 30. ENERGY - NUCLEAR & GRID (4)
+# ============================================
+cenace.gob.mx
+cenagas.gob.mx
+inin.gob.mx
+cfetransmision.cfe.gob.mx
+
+# ============================================
+# 31. INFRASTRUCTURE - TRANSPORTATION (11)
+# ============================================
+capufe.gob.mx
+asa.gob.mx
+aicm.com.mx
+aifa.aero
+aeropuertosgap.com.mx
+asur.com.mx
+oma.aero
+sct.gob.mx
+artf.gob.mx
+trenmaya.gob.mx
+treninteroceancio.gob.mx
+
+# ============================================
+# 32. INFRASTRUCTURE - PORTS & MARITIME (5)
+# ============================================
+puertosmexico.gob.mx
+apilp.gob.mx
+apiver.com
+puertolazarocardenas.com.mx
+puertodemanzanillo.com.mx
+
+# ============================================
+# 33. INFRASTRUCTURE - WATER (3)
+# ============================================
+imta.gob.mx
+sgp.conagua.gob.mx
+datamexico.org
+
+# ============================================
+# 34. MEDIA - STATE / PUBLIC BROADCASTING (8)
+# ============================================
+canalonce.mx
+canal22.org.mx
+oncetv-ipn.net
+spr.gob.mx
+canalcatorce.tv
+notimex.gob.mx
+radioeducacion.edu.mx
+imer.mx
+
+# ============================================
+# 35. MEDIA - NATIONAL NEWS (17)
+# ============================================
+eluniversal.com.mx
+reforma.com
+milenio.com
+jornada.com.mx
+excelsior.com.mx
+elfinanciero.com.mx
+eleconomista.com.mx
+proceso.com.mx
+sinembargo.mx
+animalpolitico.com
+aristeguinoticias.com
+sdpnoticias.com
+lopezdoriga.com
+latinus.us
+expansion.mx
+forbes.com.mx
+heraldodemexico.com.mx
+
+# ============================================
+# 36. MEDIA - TV & RADIO (10)
+# ============================================
+televisa.com
+tvazteca.com
+imagenradio.com.mx
+radioformula.com.mx
+mvs.com
+wradio.com.mx
+multimedios.com
+oncenoticias.tv
+televisa.com.mx
+aztecadeportes.com
+
+# ============================================
+# 37. MEDIA - REGIONAL (4)
+# ============================================
+informador.mx
+elnorte.com
+zocalo.com.mx
+elimparcial.com
+
+# ============================================
+# 38. CULTURE & HERITAGE (9)
+# ============================================
+inah.gob.mx
+inbal.gob.mx
+imcine.gob.mx
+fonca.gob.mx
+fce.com.mx
+mexicana.gob.mx
+mna.inah.gob.mx
+museonacional.gob.mx
+sic.cultura.gob.mx
+
+# ============================================
+# 39. ENVIRONMENT & NATURAL RESOURCES (6)
+# ============================================
+conanp.gob.mx
+inecc.gob.mx
+biodiversidad.gob.mx
+sgm.gob.mx
+ane.gob.mx
+smn.conagua.gob.mx
+
+# ============================================
+# 40. SPORTS (7)
+# ============================================
+com.org.mx
+ligamx.net
+fmf.mx
+lmb.com.mx
+clubamerica.com.mx
+chivas.com.mx
+codeme.org.mx
+
+# ============================================
+# 41. POLITICAL PARTIES (7)
+# ============================================
+morena.org
+pan.org.mx
+pri.org.mx
+prd.org.mx
+pvem.org.mx
+pt.org.mx
+movimientociudadano.mx
+
+# ============================================
+# 42. HUMAN RIGHTS / NGOS / TRANSPARENCY (7)
+# ============================================
+fundar.org.mx
+mexicoevalua.org
+imco.org.mx
+transparenciamexicana.org.mx
+article19.org
+cencos.org
+cmdpdh.org
+
+# ============================================
+# 43. E-COMMERCE & TELECOM (12)
+# ============================================
+mercadolibre.com.mx
+liverpool.com.mx
+coppel.com
+soriana.com
+telcel.com
+telmex.com
+totalplay.com.mx
+elektra.com.mx
+sanborns.com.mx
+palacio.mx
+izzi.mx
+megacable.com.mx
+
+# ============================================
+# 44. TOURISM (2)
+# ============================================
+visitmexico.com
+mexicodesconocido.com.mx
+
+# ============================================
+# 45. STATE ELECTORAL INSTITUTES (10)
+# ============================================
+iepcjalisco.org.mx
+ieesonora.org.mx
+ieecolima.org.mx
+ieebcs.org.mx
+ieechihuahua.org.mx
+ieez.org.mx
+ieeg.org.mx
+iecm.mx
+ieepuebla.mx
+ieeags.org.mx
+
+# ============================================
+# 46. STATE TRANSPARENCY & ACCOUNTABILITY (8)
+# ============================================
+itei.org.mx
+itaibc.org.mx
+itaipbc.org.mx
+izai.org.mx
+idaipqroo.org.mx
+iaipchiapas.org.mx
+ichitaip.org.mx
+asetamaulipas.gob.mx
+
+# ============================================
+# 47. CONSULAR & FOREIGN SERVICE (6)
+# ============================================
+consulmex.sre.gob.mx
+ime.gob.mx
+embamex.sre.gob.mx
+citas.sre.gob.mx
+portales.sre.gob.mx
+tramites.sre.gob.mx
+
+# ============================================
+# 48. ADDITIONAL INFRASTRUCTURE & INDUSTRY (8)
+# ============================================
+ferroistmo.com.mx
+ferromex.com.mx
+kcsouthern.com.mx
+grupocarso.com.mx
+ienova.com.mx
+tcenergy.com.mx
+grupomexico.com
+gcc.com
+
+# ============================================
+# 49. ADDITIONAL GOVERNMENT - SOCIAL & LABOR (10)
+# ============================================
+conavi.gob.mx
+fovissste.gob.mx
+viviendabienestar.gob.mx
+conampros.gob.mx
+conasami.gob.mx
+profedet.gob.mx
+procuraduriaelectoral.gob.mx
+cdi.gob.mx
+indesol.gob.mx
+conavim.gob.mx
+
+# ============================================
+# 50. ADDITIONAL JUDICIARY & STATE TRIBUNALS (8)
+# ============================================
+trijaem.gob.mx
+tsjsonora.gob.mx
+poderjudicialchiapas.gob.mx
+pjbc.gob.mx
+justiciapenal.gob.mx
+poderjudicialjalisco.gob.mx
+poderjudicialcdmx.gob.mx
+consejeria.cdmx.gob.mx
+
+# ============================================
+# 51. STATE HEALTH SERVICES (6)
+# ============================================
+saludjalisco.gob.mx
+saludsonora.gob.mx
+saludnl.gob.mx
+saludchihuahua.gob.mx
+saludpuebla.gob.mx
+saludedomex.gob.mx

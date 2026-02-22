@@ -1,0 +1,38 @@
+================================================================================
+TECH STACK: CIDE
+================================================================================
+
+DOMAIN: cide.edu
+URL PROBED: https://www.cide.edu
+SCAN DATE: 2026-01-15 17:01:56
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Apache/2.4.57 (Rocky Linux) OpenSSL/3.0.7
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+subject=C=MX, L=CIUDAD DE MEXICO, O=CENTRO DE INVESTIGACION Y DOCENCIA ECONOMICAS AC, CN=*.cide.edu
+notBefore=Dec  2 00:00:00 2025 GMT
+notAfter=Dec  1 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:01:06 GMT
+Server: Apache/2.4.57 (Rocky Linux) OpenSSL/3.0.7
+X-Powered-By: PHP/8.0.30
+Link: <https://www.cide.edu/wp-json/>; rel="https://api.w.org/", <https://www.cide.edu/wp-json/wp/v2/pages/26003>; rel="alternate"; title="JSON"; type="application/json", <https://www.cide.edu/>; rel=shortlink
+Set-Cookie: show_preloader_once=show%20preloader%20once
+Content-Type: text/html; charset=UTF-8
+
+================================================================================
+END
+================================================================================

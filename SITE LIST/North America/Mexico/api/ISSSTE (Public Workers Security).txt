@@ -1,0 +1,149 @@
+================================================================================
+API ENDPOINT MAP: ISSSTE (Public Workers Security)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ISSSTE/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ISSSTE/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: abasto_medicamentos_material_curacion_abasto_
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_abasto_
+  Size: 146
+  Status: OPEN
+
+FILE: abasto_medicamentos_material_curacion_abasto_central_issste052025.csv
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_abasto_central_issste052025.csv
+  Size: 995
+  Status: OPEN
+
+FILE: abasto_medicamentos_material_curacion_abasto_insumos_deleg_hosp_052025.csv
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_abasto_insumos_deleg_hosp_052025.csv
+  Size: 65K
+  Status: OPEN
+
+FILE: abasto_medicamentos_material_curacion_abasto_unidades_medicas_issste052025.csv
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_abasto_unidades_medicas_issste052025.csv
+  Size: 904
+  Status: OPEN
+
+FILE: abasto_medicamentos_material_curacion_insumos_deleg_hosp_052025.csv
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_insumos_deleg_hosp_052025.csv
+  Size: 146
+  Status: OPEN
+
+FILE: abasto_medicamentos_material_curacion_inventario_almacen_central_issste_052025.csv
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_inventario_almacen_central_issste_052025.csv
+  Size: 7.7M
+  Status: OPEN
+
+FILE: abasto_medicamentos_material_curacion_ISSSTE_31_valores_abasto_delegaciones_hospitales.csv
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_ISSSTE_31_valores_abasto_delegaciones_hospitales.csv
+  Size: 70K
+  Status: OPEN
+
+FILE: abasto_medicamentos_material_curacion_ISSSTE_32_valores_abasto_insumos_unidades_medicas.csv
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_ISSSTE_32_valores_abasto_insumos_unidades_medicas.csv
+  Size: 994
+  Status: OPEN
+
+FILE: abasto_medicamentos_material_curacion_ISSSTE_33_valores_abasto_insumos_almacen_central.csv
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_ISSSTE_33_valores_abasto_insumos_almacen_central.csv
+  Size: 994
+  Status: OPEN
+
+FILE: abasto_medicamentos_material_curacion_ISSSTE_34_valores_inventario_insumos_almacen_central.csv
+  Route: /api_update/ISSSTE/abasto_medicamentos_material_curacion_ISSSTE_34_valores_inventario_insumos_almacen_central.csv
+  Size: 7.7M
+  Status: OPEN
+
+FILE: academicos_contratados_escuela_ISSSTE_20_academicos_contratados_desarrollo_programas.csv
+  Route: /api_update/ISSSTE/academicos_contratados_escuela_ISSSTE_20_academicos_contratados_desarrollo_programas.csv
+  Size: 41K
+  Status: OPEN
+
+FILE: creditos_otorgados_fovissste_creditos_otorgados_fovissste.csv
+  Route: /api_update/ISSSTE/creditos_otorgados_fovissste_creditos_otorgados_fovissste.csv
+  Size: 333K
+  Status: OPEN
+
+FILE: creditos_otorgados_fovissste_ISSSTE_29_creditos_otorgados_fovissste.csv
+  Route: /api_update/ISSSTE/creditos_otorgados_fovissste_ISSSTE_29_creditos_otorgados_fovissste.csv
+  Size: 272K
+  Status: OPEN
+
+FILE: datos_egresos_hospitalarios_egresos_hospitalarios_issste2024.csv
+  Route: /api_update/ISSSTE/datos_egresos_hospitalarios_egresos_hospitalarios_issste2024.csv
+  Size: 20M
+  Status: OPEN
+
+FILE: datos_egresos_hospitalarios_ISSSTE_4_egresos_hospitalarios.csv
+  Route: /api_update/ISSSTE/datos_egresos_hospitalarios_ISSSTE_4_egresos_hospitalarios.csv
+  Size: 32M
+  Status: OPEN
+
+FILE: licencias_medicas_ISSSTE_24_licencias_medicas_delegaciones.csv
+  Route: /api_update/ISSSTE/licencias_medicas_ISSSTE_24_licencias_medicas_delegaciones.csv
+  Size: 115K
+  Status: OPEN
+
+FILE: licencias_medicas_ISSSTE_25_licencias_medicas_hospitales_regionales.csv
+  Route: /api_update/ISSSTE/licencias_medicas_ISSSTE_25_licencias_medicas_hospitales_regionales.csv
+  Size: 56K
+  Status: OPEN
+
+FILE: monto_inversion_fovissste_ISSSTE_30_monto_inversion_fovissste_creditos_otorgados.csv
+  Route: /api_update/ISSSTE/monto_inversion_fovissste_ISSSTE_30_monto_inversion_fovissste_creditos_otorgados.csv
+  Size: 297K
+  Status: OPEN
+
+FILE: monto_inversion_fovissste_monto_inversion_2007_2025.csv
+  Route: /api_update/ISSSTE/monto_inversion_fovissste_monto_inversion_2007_2025.csv
+  Size: 303K
+  Status: OPEN
+
+FILE: monto_inversion_fovissste_monto_inversion_2007_2025_ok.csv
+  Route: /api_update/ISSSTE/monto_inversion_fovissste_monto_inversion_2007_2025_ok.csv
+  Size: 308K
+  Status: OPEN
+
+FILE: padron_pensionados_deudos_ISSSTE_17_padron_pensionados_deudos.csv
+  Route: /api_update/ISSSTE/padron_pensionados_deudos_ISSSTE_17_padron_pensionados_deudos.csv
+  Size: 31M
+  Status: OPEN
+
+FILE: padron_pensionados_deudos_padron_pensionados_deudos_issste062025.csv
+  Route: /api_update/ISSSTE/padron_pensionados_deudos_padron_pensionados_deudos_issste062025.csv
+  Size: 23M
+  Status: OPEN
+
+FILE: pensionados_jubilados_directos_issste_ISSSTE_18_padron_pensionados_jubilados_directos.csv
+  Route: /api_update/ISSSTE/pensionados_jubilados_directos_issste_ISSSTE_18_padron_pensionados_jubilados_directos.csv
+  Size: 20M
+  Status: OPEN
+
+FILE: pensionados_jubilados_directos_issste_padron_pensionados_jubilados_issste.csv
+  Route: /api_update/ISSSTE/pensionados_jubilados_directos_issste_padron_pensionados_jubilados_issste.csv
+  Size: 7.6M
+  Status: OPEN
+
+FILE: prestamos_otorgados_prestamos_otorgados_issste_2021.csv
+  Route: /api_update/ISSSTE/prestamos_otorgados_prestamos_otorgados_issste_2021.csv
+  Size: 8.6M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 25
+Total Size: 157M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

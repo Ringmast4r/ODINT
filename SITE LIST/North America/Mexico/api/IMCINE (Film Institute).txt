@@ -1,0 +1,79 @@
+================================================================================
+API ENDPOINT MAP: IMCINE (Film Institute)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/IMCINE/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/IMCINE/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: proyectos_apoyados_focine_IMCINE_1_Datos_abiertos_Postproduccion_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_1_Datos_abiertos_Postproduccion_FOCINE.csv
+  Size: 16K
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_10_Datos_abiertos_Produccion_Ficcion_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_10_Datos_abiertos_Produccion_Ficcion_FOCINE.csv
+  Size: 2.2K
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_11_Datos_abiertos_Animacion_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_11_Datos_abiertos_Animacion_FOCINE.csv
+  Size: 3.8K
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_2_Datos_abiertos_Formacion_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_2_Datos_abiertos_Formacion_FOCINE.csv
+  Size: 20K
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_3_Datos_abiertos_Infancias_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_3_Datos_abiertos_Infancias_FOCINE.csv
+  Size: 950
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_4_Datos_abiertos_Produccion_Estados_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_4_Datos_abiertos_Produccion_Estados_FOCINE.csv
+  Size: 6.1K
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_5_Datos_abiertos_Equipamiento_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_5_Datos_abiertos_Equipamiento_FOCINE.csv
+  Size: 9.3K
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_6_Datos_abiertos_Acervos_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_6_Datos_abiertos_Acervos_FOCINE.csv
+  Size: 13K
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_7_Datos_abiertos_Cortometrajes_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_7_Datos_abiertos_Cortometrajes_FOCINE.csv
+  Size: 8.3K
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_8_Datos_abiertos_Operas_Primas_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_8_Datos_abiertos_Operas_Primas_FOCINE.csv
+  Size: 622
+  Status: OPEN
+
+FILE: proyectos_apoyados_focine_IMCINE_9_Datos_abiertos_Produccion_Documental_FOCINE.csv
+  Route: /api_update/IMCINE/proyectos_apoyados_focine_IMCINE_9_Datos_abiertos_Produccion_Documental_FOCINE.csv
+  Size: 3.2K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 11
+Total Size: 82K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

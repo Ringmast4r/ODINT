@@ -1,0 +1,40 @@
+# SAINT LUCIA (28)
+# ============================================================
+
+# Government
+govt.lc
+pm.gov.lc
+finance.gov.lc
+education.gov.lc
+health.gov.lc
+agriculture.gov.lc
+infrastructure.gov.lc
+externaldept.gov.lc
+homegov.gov.lc
+justice.gov.lc
+commerce.gov.lc
+tourism.gov.lc
+stats.gov.lc
+customs.gov.lc
+inland.gov.lc
+rslpf.com
+stluciancustoms.org
+eccb-centralbank.org
+
+# Media
+stlucianewsonline.com
+stluciatimes.com
+loopnews.com
+
+# Universities & Education
+salcc.edu.lc
+uwi.edu
+
+# Tourism
+stlucia.org
+visitstlucia.com
+
+# Banks
+1702.sr
+scotiabank.com
+rbc.com

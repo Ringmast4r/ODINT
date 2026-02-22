@@ -1,0 +1,34 @@
+================================================================================
+API ENDPOINT MAP: AMEXCID
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/AMEXCID/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/AMEXCID/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: becas_extranjeros_otorgadas_amexcid_01_becas_extranjetos_amexcid_2do_trim_2025.csv
+  Route: /api_update/AMEXCID/becas_extranjeros_otorgadas_amexcid_01_becas_extranjetos_amexcid_2do_trim_2025.csv
+  Size: 7.8K
+  Status: OPEN
+
+FILE: nuevos_proyectos_cooperacion_tecnica_cientifica_cooperacion_internacional_amexcid.csv
+  Route: /api_update/AMEXCID/nuevos_proyectos_cooperacion_tecnica_cientifica_cooperacion_internacional_amexcid.csv
+  Size: 466
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 2
+Total Size: 8.3K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

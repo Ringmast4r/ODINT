@@ -1,0 +1,37 @@
+================================================================================
+TECH STACK: NAFIN
+================================================================================
+
+DOMAIN: nafin.com
+URL PROBED: https://www.nafin.com
+SCAN DATE: 2026-01-15 16:58:30
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 301 Moved Permanently
+Server: NOT DISCLOSED
+Content-Type: text/html; charset=iso-8859-1
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=US, O=DigiCert Inc, CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1
+subject=C=MX, L=Ciudad de Mexico, O=Nacional Financiera, CN=www.nafin.com
+notBefore=Mar 25 00:00:00 2025 GMT
+notAfter=Apr 14 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 301 Moved Permanently
+Date: Thu, 15 Jan 2026 21:55:35 GMT
+X-Content-Type-Options: nosniff
+x-frame-options: SAMEORIGIN
+Location: https://www.nafin.com/portalnf/
+Content-Type: text/html; charset=iso-8859-1
+
+================================================================================
+END
+================================================================================

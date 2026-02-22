@@ -1,0 +1,79 @@
+================================================================================
+API ENDPOINT MAP: CNE
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CNE/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CNE/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2017.csv
+  Route: /api_update/CNE/historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2017.csv
+  Size: 197M
+  Status: OPEN
+
+FILE: historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2018.csv
+  Route: /api_update/CNE/historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2018.csv
+  Size: 215M
+  Status: OPEN
+
+FILE: historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2019.csv
+  Route: /api_update/CNE/historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2019.csv
+  Size: 195M
+  Status: OPEN
+
+FILE: historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2020.csv
+  Route: /api_update/CNE/historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2020.csv
+  Size: 217M
+  Status: OPEN
+
+FILE: historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2021.csv
+  Route: /api_update/CNE/historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2021.csv
+  Size: 25M
+  Status: OPEN
+
+FILE: historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2022.csv
+  Route: /api_update/CNE/historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2022.csv
+  Size: 16M
+  Status: OPEN
+
+FILE: historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2023.csv
+  Route: /api_update/CNE/historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2023.csv
+  Size: 81M
+  Status: OPEN
+
+FILE: historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2024.csv
+  Route: /api_update/CNE/historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2024.csv
+  Size: 131M
+  Status: OPEN
+
+FILE: historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2025.csv
+  Route: /api_update/CNE/historico_precios_gasolinas_y_diesel_reportados_por_permisionario_historico_precios_expendio_2025.csv
+  Size: 151M
+  Status: OPEN
+
+FILE: indice_precios_gas_natural_precios_gas_natural_2017-2025.csv
+  Route: /api_update/CNE/indice_precios_gas_natural_precios_gas_natural_2017-2025.csv
+  Size: 41K
+  Status: OPEN
+
+FILE: permisos_almacenamiento_transporte_distribucion_gas_licuado_petroleo_06_permisos_glp.csv
+  Route: /api_update/CNE/permisos_almacenamiento_transporte_distribucion_gas_licuado_petroleo_06_permisos_glp.csv
+  Size: 15M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 11
+Total Size: 1.3G
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

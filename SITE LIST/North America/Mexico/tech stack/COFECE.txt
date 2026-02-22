@@ -1,0 +1,34 @@
+================================================================================
+TECH STACK: COFECE
+================================================================================
+
+DOMAIN: cofece.mx
+DESCRIPTION: Federal Economic Competition Commission
+SCAN DATE: 2026-01-15 17:17:18
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+
+Status: HTTP/1.1 200 OK
+Server: NOT DISCLOSED
+CDN: NOT DETECTED
+
+================================================================================
+RAW HEADERS
+================================================================================
+
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:16:31 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Server: 
+X-Pingback: https://www.cofece.mx/xmlrpc.php
+Link: <https://www.cofece.mx/wp-content/themes/vamtam-consulting/vamtam/assets/css/dist/responsive/layout-max.css?ver=1765658554>; rel=preload; as=style
+Link: <https://www.cofece.mx/>; rel=shortlink
+X-Frame-Options: SAMEORIGIN
+
+================================================================================
+END
+================================================================================

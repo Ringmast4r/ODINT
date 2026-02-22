@@ -1,0 +1,42 @@
+# SAINT VINCENT AND THE GRENADINES (24)
+# ============================================================
+
+# Government
+gov.vc
+pm.gov.vc
+finance.gov.vc
+education.gov.vc
+health.gov.vc
+agriculture.gov.vc
+foreign.gov.vc
+tourism.gov.vc
+customs.gov.vc
+ird.gov.vc
+parliament.gov.vc
+svgpolice.com
+
+# Media
+searchlight.vc
+iwnsvg.com
+nbc.vc
+
+# Universities
+svgcc.vc
+
+# Tourism
+discoversvg.com
+
+# Banks
+bsvb.com
+scotiabank.vc
+fccu.com
+
+# Sports
+svgff.com
+
+# Telecom
+digicel.vc
+flow.co
+
+# Diaspora
+embsvg.com

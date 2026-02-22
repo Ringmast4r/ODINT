@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: GAFSACOMM
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/GAFSACOMM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/GAFSACOMM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: recursos_revision_solicitudes_acceso_informacion_06_solicitudes_acceso_informacion_nov23_31jul25.csv
+  Route: /api_update/GAFSACOMM/recursos_revision_solicitudes_acceso_informacion_06_solicitudes_acceso_informacion_nov23_31jul25.csv
+  Size: 584
+  Status: OPEN
+
+FILE: recursos_revision_solicitudes_derechos_arco_08_recursos_revision_derechos_arco_1ene25_31jul25.csv
+  Route: /api_update/GAFSACOMM/recursos_revision_solicitudes_derechos_arco_08_recursos_revision_derechos_arco_1ene25_31jul25.csv
+  Size: 118
+  Status: OPEN
+
+FILE: solicitudes_acceso_informacion_05_solicitudes_acceso_informacionNov23_31jul25.csv
+  Route: /api_update/GAFSACOMM/solicitudes_acceso_informacion_05_solicitudes_acceso_informacionNov23_31jul25.csv
+  Size: 603
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 1.3K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

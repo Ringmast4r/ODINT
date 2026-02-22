@@ -1,0 +1,54 @@
+================================================================================
+API ENDPOINT MAP: ISSFAM (Military Social Security)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ISSFAM/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ISSFAM/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: ayuda_gastos_sepelio_ISSFAM_1_ayuda_gastos_sepelio.csv
+  Route: /api_update/ISSFAM/ayuda_gastos_sepelio_ISSFAM_1_ayuda_gastos_sepelio.csv
+  Size: 13K
+  Status: OPEN
+
+FILE: capital_humano_issfam_ISSFAM_2_servidores_publicos.csv
+  Route: /api_update/ISSFAM/capital_humano_issfam_ISSFAM_2_servidores_publicos.csv
+  Size: 77K
+  Status: OPEN
+
+FILE: creditos_hipotecarios_ISSFAM_11_creditos_hipotecarios_otorgados.csv
+  Route: /api_update/ISSFAM/creditos_hipotecarios_ISSFAM_11_creditos_hipotecarios_otorgados.csv
+  Size: 8.3K
+  Status: OPEN
+
+FILE: militares_retirados_perciben_prestacion_economica_haber_retiro_ISSFAM_4_militares_situacion_retiro.csv
+  Route: /api_update/ISSFAM/militares_retirados_perciben_prestacion_economica_haber_retiro_ISSFAM_4_militares_situacion_retiro.csv
+  Size: 5.7M
+  Status: OPEN
+
+FILE: pensionistas_issfam_ISSFAM_8_percepcion_pension.csv
+  Route: /api_update/ISSFAM/pensionistas_issfam_ISSFAM_8_percepcion_pension.csv
+  Size: 1.7M
+  Status: OPEN
+
+FILE: seguro_vida_militar_ISSFAM_3_seguros_vida_militar.csv
+  Route: /api_update/ISSFAM/seguro_vida_militar_ISSFAM_3_seguros_vida_militar.csv
+  Size: 15K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 6
+Total Size: 7.5M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

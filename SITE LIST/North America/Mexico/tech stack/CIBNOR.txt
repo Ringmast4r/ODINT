@@ -1,0 +1,47 @@
+================================================================================
+TECH STACK: CIBNOR
+================================================================================
+
+DOMAIN: cibnor.gob.mx
+URL PROBED: https://www.cibnor.gob.mx
+SCAN DATE: 2026-01-15 17:02:57
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 200 OK
+Server: Apache/2.4.59 (FreeBSD) OpenSSL/1.1.1w-freebsd PHP/8.3.6
+Content-Type: text/html; charset=utf-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+subject=C=MX, ST=Baja California Sur, L=La Paz, O=Centro de Investigaciones Biológicas del Noroeste S.C., CN=www.cibnor.gob.mx
+notBefore=Jan 13 13:56:21 2026 GMT
+notAfter=Feb 14 13:56:20 2027 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 200 OK
+Date: Thu, 15 Jan 2026 22:02:07 GMT
+Server: Apache/2.4.59 (FreeBSD) OpenSSL/1.1.1w-freebsd PHP/8.3.6
+X-Content-Type-Options: nosniff
+X-Powered-By: PHP/8.3.6
+Set-Cookie: 81d66eacde3596d6ddc018785ea2a974=2oh6db0jc0duiotjh3l9lcv7si; path=/; secure; HttpOnly
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+cross-origin-opener-policy: same-origin
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: frame-ancestors 'self'
+Expires: Wed, 17 Aug 2005 00:00:00 GMT
+Last-Modified: Thu, 15 Jan 2026 22:02:07 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+
+================================================================================
+END
+================================================================================

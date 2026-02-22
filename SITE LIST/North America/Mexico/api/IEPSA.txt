@@ -1,0 +1,194 @@
+================================================================================
+API ENDPOINT MAP: IEPSA
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/IEPSA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/IEPSA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: contratos_iepsa_contratos2014.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2014.csv
+  Size: 636K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2015.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2015.csv
+  Size: 548K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2016.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2016.csv
+  Size: 394K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2017.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2017.csv
+  Size: 466K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2018.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2018.csv
+  Size: 288K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2019.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2019.csv
+  Size: 189K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2020.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2020.csv
+  Size: 174K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2021.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2021.csv
+  Size: 221K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2022.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2022.csv
+  Size: 216K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2023.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2023.csv
+  Size: 198K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2024.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2024.csv
+  Size: 200K
+  Status: OPEN
+
+FILE: contratos_iepsa_contratos2025.csv
+  Route: /api_update/IEPSA/contratos_iepsa_contratos2025.csv
+  Size: 147K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2015.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2015.csv
+  Size: 16K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2016.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2016.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2017.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2017.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2018.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2018.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2019.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2019.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2020.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2020.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2021.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2021.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2022.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2022.csv
+  Size: 18K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2023.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2023.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2024.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2024.csv
+  Size: 17K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_operaciones_financieras_contaedositfin2025.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_operaciones_financieras_contaedositfin2025.csv
+  Size: 13K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2015.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2015.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2016.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2016.csv
+  Size: 14K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2017.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2017.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2018.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2018.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2019.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2019.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2020.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2020.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2021.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2021.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2022.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2022.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2023.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2023.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2024.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2024.csv
+  Size: 11K
+  Status: OPEN
+
+FILE: estados_financieros_iepsa_utilidad_contaedoresultados2025.csv
+  Route: /api_update/IEPSA/estados_financieros_iepsa_utilidad_contaedoresultados2025.csv
+  Size: 7.9K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 34
+Total Size: 3.9M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

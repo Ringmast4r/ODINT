@@ -1,0 +1,42 @@
+================================================================================
+TECH STACK: PROFECO
+================================================================================
+
+DOMAIN: profeco.gob.mx
+URL PROBED: https://www.profeco.gob.mx
+SCAN DATE: 2026-01-15 16:57:40
+
+================================================================================
+HTTP RESPONSE
+================================================================================
+Status: HTTP/1.1 302 Redirect
+Server: Microsoft-IIS/7.5
+Content-Type: text/html; charset=UTF-8
+CDN: NOT DETECTED
+
+================================================================================
+SSL CERTIFICATE
+================================================================================
+issuer=C=GB, O=Sectigo Limited, CN=Sectigo Public Server Authentication CA DV R36
+subject=CN=*.profeco.gob.mx
+notBefore=Dec  5 00:00:00 2025 GMT
+notAfter=Dec  5 23:59:59 2026 GMT
+
+================================================================================
+RAW HEADERS
+================================================================================
+HTTP/1.1 302 Redirect
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Length: 160
+Content-Type: text/html; charset=UTF-8
+Location: https://www.gob.mx/profeco
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=157680000
+Date: Thu, 15 Jan 2026 21:59:08 GMT
+
+================================================================================
+END
+================================================================================

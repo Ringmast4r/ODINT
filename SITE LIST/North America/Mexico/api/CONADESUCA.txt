@@ -1,0 +1,159 @@
+================================================================================
+API ENDPOINT MAP: CONADESUCA
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CONADESUCA/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CONADESUCA/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_12_13_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_12_13_resumen_ok.csv
+  Size: 460K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_13_14_rsumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_13_14_rsumen_ok.csv
+  Size: 350K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_14_15_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_14_15_resumen_ok.csv
+  Size: 410K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_15_16_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_15_16_resumen_ok.csv
+  Size: 374K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_16_17_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_16_17_resumen_ok.csv
+  Size: 371K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_17_18_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_17_18_resumen_ok.csv
+  Size: 448K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_18_19_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_18_19_resumen_ok.csv
+  Size: 449K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_19_20_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_19_20_resumen_ok.csv
+  Size: 409K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_20_21_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_20_21_resumen_ok.csv
+  Size: 405K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_21_22_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_21_22_resumen_ok.csv
+  Size: 455K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_22_23_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_22_23_resumen_ok.csv
+  Size: 405K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_infocana_23_24_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_infocana_23_24_resumen_ok.csv
+  Size: 393K
+  Status: OPEN
+
+FILE: avance_produccion_cana_azucar_infocana_Infocana_24_25_resumen_ok.csv
+  Route: /api_update/CONADESUCA/avance_produccion_cana_azucar_infocana_Infocana_24_25_resumen_ok.csv
+  Size: 396K
+  Status: OPEN
+
+FILE: balance_nacional_azucar_edulcorantes_balance_ok.csv
+  Route: /api_update/CONADESUCA/balance_nacional_azucar_edulcorantes_balance_ok.csv
+  Size: 68K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_1_costos_produccion_24_25_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_1_costos_produccion_24_25_ok.csv
+  Size: 896K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_10_costos_produccion_15_16_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_10_costos_produccion_15_16_ok.csv
+  Size: 592K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_11_costos_produccion_14_15_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_11_costos_produccion_14_15_ok.csv
+  Size: 907K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_12_costos_produccion_13_14_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_12_costos_produccion_13_14_ok.csv
+  Size: 2.6M
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_13_costos_produccion_10_11_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_13_costos_produccion_10_11_ok.csv
+  Size: 2.0M
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_2_costos_produccion_23_24_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_2_costos_produccion_23_24_ok.csv
+  Size: 986K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_3_costos_produccion_22_23_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_3_costos_produccion_22_23_ok.csv
+  Size: 918K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_4_costos_produccion_21_22_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_4_costos_produccion_21_22_ok.csv
+  Size: 921K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_5_costos_produccion_20_21_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_5_costos_produccion_20_21_ok.csv
+  Size: 286K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_6_costos_produccion_19_20_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_6_costos_produccion_19_20_ok.csv
+  Size: 700K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_7_costos_produccion_18_19_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_7_costos_produccion_18_19_ok.csv
+  Size: 531K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_8_costos_produccion_17_18_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_8_costos_produccion_17_18_ok.csv
+  Size: 746K
+  Status: OPEN
+
+FILE: costos_produccion_cana_azucar_9_costos_produccion_16_17_ok.csv
+  Route: /api_update/CONADESUCA/costos_produccion_cana_azucar_9_costos_produccion_16_17_ok.csv
+  Size: 790K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 27
+Total Size: 18M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

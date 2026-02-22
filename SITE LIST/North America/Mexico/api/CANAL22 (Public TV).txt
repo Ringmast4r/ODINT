@@ -1,0 +1,39 @@
+================================================================================
+API ENDPOINT MAP: CANAL22 (Public TV)
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CANAL22/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CANAL22/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: coberturas_diferentes_senales_transmision_01_cobertura_transmision_2022.csv
+  Route: /api_update/CANAL22/coberturas_diferentes_senales_transmision_01_cobertura_transmision_2022.csv
+  Size: 992
+  Status: OPEN
+
+FILE: estados_financieros_canal_22_05_estados_financieros_2013-2024.csv
+  Route: /api_update/CANAL22/estados_financieros_canal_22_05_estados_financieros_2013-2024.csv
+  Size: 93K
+  Status: OPEN
+
+FILE: parrilla_programacion_canal_22_04_parrillas_programacion_2022.csv
+  Route: /api_update/CANAL22/parrilla_programacion_canal_22_04_parrillas_programacion_2022.csv
+  Size: 107K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 3
+Total Size: 201K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

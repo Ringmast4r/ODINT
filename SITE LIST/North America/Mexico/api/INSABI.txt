@@ -1,0 +1,35 @@
+================================================================================
+API ENDPOINT MAP: INSABI
+================================================================================
+
+DOMAIN: gob.mx/insabi
+SCAN DATE: 2026-01-15 17:09:43
+
+================================================================================
+REPODATOS API STATUS
+================================================================================
+
+Status: NOT IN REPODATOS REPOSITORY
+Note: This agency was not found in repodatos.atdt.gob.mx/api_update/
+      Tech stack information available in tech stack folder.
+
+================================================================================
+POTENTIAL API ENDPOINTS
+================================================================================
+
+Primary Website: https://gob.mx/insabi
+API Base (if exists): https://gob.mx/insabi/api/
+Data Portal: https://datos.gob.mx (search for agency data)
+
+================================================================================
+NOTES
+================================================================================
+
+This agency's data may be available through:
+1. Their own website/portal
+2. datos.gob.mx open data portal
+3. Direct requests to the agency
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

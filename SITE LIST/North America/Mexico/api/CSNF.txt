@@ -1,0 +1,84 @@
+================================================================================
+API ENDPOINT MAP: CSNF
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/CSNF/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/CSNF/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: agentes_intermediarios_Agentes_Vigentes_ok.csv
+  Route: /api_update/CSNF/agentes_intermediarios_Agentes_Vigentes_ok.csv
+  Size: 366
+  Status: OPEN
+
+FILE: agentes_intermediarios_Ajustadores_vigentes_ok.csv
+  Route: /api_update/CSNF/agentes_intermediarios_Ajustadores_vigentes_ok.csv
+  Size: 800K
+  Status: OPEN
+
+FILE: agentes_intermediarios_Asesores_Externos_Vigentes_ok.csv
+  Route: /api_update/CSNF/agentes_intermediarios_Asesores_Externos_Vigentes_ok.csv
+  Size: 46K
+  Status: OPEN
+
+FILE: agentes_intermediarios_Busca_tu_agente_ok.csv
+  Route: /api_update/CSNF/agentes_intermediarios_Busca_tu_agente_ok.csv
+  Size: 8.7M
+  Status: OPEN
+
+FILE: agentes_intermediarios_Directorio_Agentes_Persona_Moral_Autorizados_ok.csv
+  Route: /api_update/CSNF/agentes_intermediarios_Directorio_Agentes_Persona_Moral_Autorizados_ok.csv
+  Size: 330K
+  Status: OPEN
+
+FILE: agentes_intermediarios_Listado_Dictaminadores_Juridicos_Fianzas_ok.csv
+  Route: /api_update/CSNF/agentes_intermediarios_Listado_Dictaminadores_Juridicos_Fianzas_ok.csv
+  Size: 278
+  Status: OPEN
+
+FILE: agentes_intermediarios_Listado_Dictaminadores_Juridicos_Seguros_ok.csv
+  Route: /api_update/CSNF/agentes_intermediarios_Listado_Dictaminadores_Juridicos_Seguros_ok.csv
+  Size: 2.3K
+  Status: OPEN
+
+FILE: agentes_intermediarios_Total_Agentes_Vigentes_por_Estado_ok.csv
+  Route: /api_update/CSNF/agentes_intermediarios_Total_Agentes_Vigentes_por_Estado_ok.csv
+  Size: 1.1K
+  Status: OPEN
+
+FILE: fianzas_sintesis_coyuntura_14_sintesis_coyuntura_fianzas_estado_resultados_fianzas_ok.csv
+  Route: /api_update/CSNF/fianzas_sintesis_coyuntura_14_sintesis_coyuntura_fianzas_estado_resultados_fianzas_ok.csv
+  Size: 1.7K
+  Status: OPEN
+
+FILE: fianzas_sintesis_coyuntura_19_sintesis_coyuntura_fianzas_instituciones_operaciones_ramos_practicados_sector_afianzador_ok.csv
+  Route: /api_update/CSNF/fianzas_sintesis_coyuntura_19_sintesis_coyuntura_fianzas_instituciones_operaciones_ramos_practicados_sector_afianzador_ok.csv
+  Size: 6.6K
+  Status: OPEN
+
+FILE: informacion_estadistica_agricola_animales_sector_asegurador_47_Informacion_estadistica_Agriciola_Animales_Emision_ok.csv
+  Route: /api_update/CSNF/informacion_estadistica_agricola_animales_sector_asegurador_47_Informacion_estadistica_Agriciola_Animales_Emision_ok.csv
+  Size: 5.3M
+  Status: OPEN
+
+FILE: informacion_estadistica_agricola_animales_sector_asegurador_48_Informacion_estadistica_Agriciola_Animales_Siniestros_ok.csv
+  Route: /api_update/CSNF/informacion_estadistica_agricola_animales_sector_asegurador_48_Informacion_estadistica_Agriciola_Animales_Siniestros_ok.csv
+  Size: 5.2M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 12
+Total Size: 21M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

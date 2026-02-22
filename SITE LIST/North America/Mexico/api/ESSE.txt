@@ -1,0 +1,29 @@
+================================================================================
+API ENDPOINT MAP: ESSE
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/ESSE/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/ESSE/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: produccion_transporte_maritimo_sal_01_produccion_transporte_maritimo_sal.csv
+  Route: /api_update/ESSE/produccion_transporte_maritimo_sal_01_produccion_transporte_maritimo_sal.csv
+  Size: 1.5K
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 1
+Total Size: 1.5K
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================

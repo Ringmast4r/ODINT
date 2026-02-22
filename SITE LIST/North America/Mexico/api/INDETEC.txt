@@ -1,0 +1,34 @@
+================================================================================
+API ENDPOINT MAP: INDETEC
+================================================================================
+
+BASE URL: https://repodatos.atdt.gob.mx/api_update/
+AGENCY PATH: /api_update/INDETEC/
+FULL ENDPOINT: https://repodatos.atdt.gob.mx/api_update/INDETEC/
+
+ACCESS STATUS: OPEN (No Authentication Required)
+DIRECTORY LISTING: ENABLED
+
+================================================================================
+AVAILABLE FILES
+================================================================================
+
+FILE: programas_academicos_indetec_02_programas_academicos_INDETEC.csv
+  Route: /api_update/INDETEC/programas_academicos_indetec_02_programas_academicos_INDETEC.csv
+  Size: 397
+  Status: OPEN
+
+FILE: publicaciones_indetec_01_publicaciones_INDETEC.csv
+  Route: /api_update/INDETEC/publicaciones_indetec_01_publicaciones_INDETEC.csv
+  Size: 1.1M
+  Status: OPEN
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files: 2
+Total Size: 1.1M
+
+================================================================================
+END OF ENDPOINT MAP
+================================================================================
