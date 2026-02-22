@@ -30,7 +30,7 @@ Every piece of research, every lead, every methodology, every tool reference, ev
 
 | Directory | Contents | Status |
 |-----------|----------|--------|
-| **`SITE LIST/`** | Government, military, media, education, and business domains organized by country and region | **Active — 49 country lists across 9 regions** |
+| **`CYBER RECON TOUR/`** | Government, military, media, education, and business domains organized by country and region | **Active — 270 countries, 14 regions** |
 
 ### Coming Soon
 
@@ -71,6 +71,14 @@ git push origin main
 
 ---
 
+## Recon Suite
+
+The tools powering ODINT's reconnaissance operations. 16 Go-based OSINT tools — scanners, pipelines, exploit frameworks, and target lists.
+
+**[Recon Suite](https://github.com/Ringmast4r/Recon-Suite)** — Full tool index, documentation, and campaign results.
+
+---
+
 ## Research Principles
 
 Every ODINT contributor operates under these non-negotiable principles:
@@ -105,133 +113,133 @@ Have information about exposed government infrastructure, data leaks, or somethi
 
 ---
 
-## Site List
+## Cyber Recon Tour — Target Lists
 
-**49 Country Domain Lists | [`SITE LIST/`](SITE%20LIST/)**
+**270 Countries & Territories | 14 Regions | [`CYBER RECON TOUR/`](CYBER%20RECON%20TOUR/)**
 
 Curated lists of government, military, media, education, and business domains organized by country and region. Each file contains categorized targets for passive reconnaissance.
 
 ### North America
 <table><tr><td>
 
-- [Bermudian](SITE%20LIST/North%20America/bermudian-websites.txt)
-- [Canadian](SITE%20LIST/North%20America/canadian-websites.txt)
+- [Bermudian](CYBER%20RECON%20TOUR/North%20America/bermudian-websites.txt)
+- [Canadian](CYBER%20RECON%20TOUR/North%20America/canadian-websites.txt)
 
 </td><td>
 
-- [Mexican](SITE%20LIST/North%20America/mexican-websites.txt)
-- [US](SITE%20LIST/North%20America/us-websites.txt)
+- [Mexican](CYBER%20RECON%20TOUR/North%20America/mexican-websites.txt)
+- [US](CYBER%20RECON%20TOUR/North%20America/us-websites.txt)
 
 </td></tr></table>
 
 ### Caribbean
 <table><tr><td>
 
-- [Bahamian](SITE%20LIST/Caribbean/bahamian-websites.txt)
-- [Barbadian](SITE%20LIST/Caribbean/barbadian-websites.txt)
-- [Caribbean Territories](SITE%20LIST/Caribbean/caribbean-territories-websites.txt)
-- [Cuban](SITE%20LIST/Caribbean/cuban-websites.txt)
-- [Dominican Republic](SITE%20LIST/Caribbean/dominican-republic-websites.txt)
+- [Bahamian](CYBER%20RECON%20TOUR/Caribbean/bahamian-websites.txt)
+- [Barbadian](CYBER%20RECON%20TOUR/Caribbean/barbadian-websites.txt)
+- [Caribbean Territories](CYBER%20RECON%20TOUR/Caribbean/caribbean-territories-websites.txt)
+- [Cuban](CYBER%20RECON%20TOUR/Caribbean/cuban-websites.txt)
+- [Dominican Republic](CYBER%20RECON%20TOUR/Caribbean/dominican-republic-websites.txt)
 
 </td><td>
 
-- [Eastern Caribbean](SITE%20LIST/Caribbean/eastern-caribbean-websites.txt)
-- [Haitian](SITE%20LIST/Caribbean/haitian-websites.txt)
-- [Jamaican](SITE%20LIST/Caribbean/jamaican-websites.txt)
-- [Trinidadian](SITE%20LIST/Caribbean/trinidadian-websites.txt)
+- [Eastern Caribbean](CYBER%20RECON%20TOUR/Caribbean/eastern-caribbean-websites.txt)
+- [Haitian](CYBER%20RECON%20TOUR/Caribbean/haitian-websites.txt)
+- [Jamaican](CYBER%20RECON%20TOUR/Caribbean/jamaican-websites.txt)
+- [Trinidadian](CYBER%20RECON%20TOUR/Caribbean/trinidadian-websites.txt)
 
 </td></tr></table>
 
 ### Central America
 <table><tr><td>
 
-- [Belizean](SITE%20LIST/Central%20America/belizean-websites.txt)
-- [Costa Rican](SITE%20LIST/Central%20America/costa-rican-websites.txt)
-- [Guatemalan](SITE%20LIST/Central%20America/guatemalan-websites.txt)
-- [Honduran](SITE%20LIST/Central%20America/honduran-websites.txt)
+- [Belizean](CYBER%20RECON%20TOUR/Central%20America/belizean-websites.txt)
+- [Costa Rican](CYBER%20RECON%20TOUR/Central%20America/costa-rican-websites.txt)
+- [Guatemalan](CYBER%20RECON%20TOUR/Central%20America/guatemalan-websites.txt)
+- [Honduran](CYBER%20RECON%20TOUR/Central%20America/honduran-websites.txt)
 
 </td><td>
 
-- [Nicaraguan](SITE%20LIST/Central%20America/nicaraguan-websites.txt)
-- [Panamanian](SITE%20LIST/Central%20America/panamanian-websites.txt)
-- [Salvadoran](SITE%20LIST/Central%20America/salvadoran-websites.txt)
+- [Nicaraguan](CYBER%20RECON%20TOUR/Central%20America/nicaraguan-websites.txt)
+- [Panamanian](CYBER%20RECON%20TOUR/Central%20America/panamanian-websites.txt)
+- [Salvadoran](CYBER%20RECON%20TOUR/Central%20America/salvadoran-websites.txt)
 
 </td></tr></table>
 
 ### South America
 <table><tr><td>
 
-- [Argentine](SITE%20LIST/South%20America/argentine-websites.txt)
-- [Bolivian](SITE%20LIST/South%20America/bolivian-websites.txt)
-- [Brazilian](SITE%20LIST/South%20America/brazilian-websites.txt)
-- [Chilean](SITE%20LIST/South%20America/chilean-websites.txt)
-- [Colombian](SITE%20LIST/South%20America/colombian-websites.txt)
-- [Ecuadorian](SITE%20LIST/South%20America/ecuadorian-websites.txt)
+- [Argentine](CYBER%20RECON%20TOUR/South%20America/argentine-websites.txt)
+- [Bolivian](CYBER%20RECON%20TOUR/South%20America/bolivian-websites.txt)
+- [Brazilian](CYBER%20RECON%20TOUR/South%20America/brazilian-websites.txt)
+- [Chilean](CYBER%20RECON%20TOUR/South%20America/chilean-websites.txt)
+- [Colombian](CYBER%20RECON%20TOUR/South%20America/colombian-websites.txt)
+- [Ecuadorian](CYBER%20RECON%20TOUR/South%20America/ecuadorian-websites.txt)
 
 </td><td>
 
-- [Guyanese](SITE%20LIST/South%20America/guyanese-websites.txt)
-- [Paraguayan](SITE%20LIST/South%20America/paraguayan-websites.txt)
-- [Peruvian](SITE%20LIST/South%20America/peruvian-websites.txt)
-- [Surinamese](SITE%20LIST/South%20America/surinamese-websites.txt)
-- [Uruguayan](SITE%20LIST/South%20America/uruguayan-websites.txt)
-- [Venezuelan](SITE%20LIST/South%20America/venezuelan-websites.txt)
+- [Guyanese](CYBER%20RECON%20TOUR/South%20America/guyanese-websites.txt)
+- [Paraguayan](CYBER%20RECON%20TOUR/South%20America/paraguayan-websites.txt)
+- [Peruvian](CYBER%20RECON%20TOUR/South%20America/peruvian-websites.txt)
+- [Surinamese](CYBER%20RECON%20TOUR/South%20America/surinamese-websites.txt)
+- [Uruguayan](CYBER%20RECON%20TOUR/South%20America/uruguayan-websites.txt)
+- [Venezuelan](CYBER%20RECON%20TOUR/South%20America/venezuelan-websites.txt)
 
 </td></tr></table>
 
 ### Europe
 <table><tr><td>
 
-- [French](SITE%20LIST/Europe/french-websites.txt)
-- [German](SITE%20LIST/Europe/german-websites.txt)
+- [French](CYBER%20RECON%20TOUR/Europe/french-websites.txt)
+- [German](CYBER%20RECON%20TOUR/Europe/german-websites.txt)
 
 </td><td>
 
-- [Russian](SITE%20LIST/Europe/russian-websites.txt)
-- [UK](SITE%20LIST/Europe/uk-websites.txt)
+- [Russian](CYBER%20RECON%20TOUR/Europe/russian-websites.txt)
+- [UK](CYBER%20RECON%20TOUR/Europe/uk-websites.txt)
 
 </td></tr></table>
 
 ### Middle East
 <table><tr><td>
 
-- [Iranian](SITE%20LIST/Middle%20East/iranian-websites.txt)
-- [Iraqi](SITE%20LIST/Middle%20East/iraqi-websites.txt)
-- [Israeli](SITE%20LIST/Middle%20East/israeli-websites.txt)
-- [Kuwaiti](SITE%20LIST/Middle%20East/kuwaiti-websites.txt)
+- [Iranian](CYBER%20RECON%20TOUR/Middle%20East/iranian-websites.txt)
+- [Iraqi](CYBER%20RECON%20TOUR/Middle%20East/iraqi-websites.txt)
+- [Israeli](CYBER%20RECON%20TOUR/Middle%20East/israeli-websites.txt)
+- [Kuwaiti](CYBER%20RECON%20TOUR/Middle%20East/kuwaiti-websites.txt)
 
 </td><td>
 
-- [Qatari](SITE%20LIST/Middle%20East/qatari-websites.txt)
-- [Saudi Arabian](SITE%20LIST/Middle%20East/saudi-arabian-websites.txt)
-- [Turkish](SITE%20LIST/Middle%20East/turkish-websites.txt)
-- [UAE](SITE%20LIST/Middle%20East/uae-websites.txt)
+- [Qatari](CYBER%20RECON%20TOUR/Middle%20East/qatari-websites.txt)
+- [Saudi Arabian](CYBER%20RECON%20TOUR/Middle%20East/saudi-arabian-websites.txt)
+- [Turkish](CYBER%20RECON%20TOUR/Middle%20East/turkish-websites.txt)
+- [UAE](CYBER%20RECON%20TOUR/Middle%20East/uae-websites.txt)
 
 </td></tr></table>
 
 ### East Asia
 <table><tr><td>
 
-- [Chinese](SITE%20LIST/East%20Asia/chinese-websites.txt)
-- [Japanese](SITE%20LIST/East%20Asia/japanese-websites.txt)
+- [Chinese](CYBER%20RECON%20TOUR/East%20Asia/chinese-websites.txt)
+- [Japanese](CYBER%20RECON%20TOUR/East%20Asia/japanese-websites.txt)
 
 </td><td>
 
-- [South Korean](SITE%20LIST/East%20Asia/south-korean-websites.txt)
+- [South Korean](CYBER%20RECON%20TOUR/East%20Asia/south-korean-websites.txt)
 
 </td></tr></table>
 
 ### South Asia
 <table><tr><td>
 
-- [Indian](SITE%20LIST/South%20Asia/indian-websites.txt)
+- [Indian](CYBER%20RECON%20TOUR/South%20Asia/indian-websites.txt)
 
 </td></tr></table>
 
 ### Oceania
 <table><tr><td>
 
-- [Australian](SITE%20LIST/Oceania/australian-websites.txt)
+- [Australian](CYBER%20RECON%20TOUR/Oceania/australian-websites.txt)
 
 </td></tr></table>
 
