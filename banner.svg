@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="380" rx="12" fill="#0d0d0d"/>
+  <rect x="4" y="4" width="892" height="372" rx="10" fill="none" stroke="#cc0000" stroke-width="3"/>
+
+  <!-- Red pulse bar top -->
+  <rect x="4" y="4" width="892" height="6" rx="3" fill="#cc0000" opacity="0.9"/>
+
+  <!-- Header line -->
+  <text x="450" y="50" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="bold" fill="#cc0000" letter-spacing="6" filter="url(#glow)">HOW TO CONTRIBUTE</text>
+
+  <!-- Main lines -->
+  <text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#999999">You don't need to be a hacker.</text>
+  <text x="450" y="135" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#999999">You don't need to know Go.</text>
+  <text x="450" y="170" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#999999">You don't need to run a single scan.</text>
+
+  <!-- Divider -->
+  <line x1="200" y1="198" x2="700" y2="198" stroke="#cc0000" stroke-width="1" opacity="0.6"/>
+
+  <!-- THE line -->
+  <text x="450" y="250" text-anchor="middle" font-family="Arial Black,Impact,Arial,sans-serif" font-size="52" font-weight="900" fill="#ff0000" filter="url(#glow)">YOU SEND US THE SITES.</text>
+
+  <!-- Second line -->
+  <text x="450" y="305" text-anchor="middle" font-family="Arial Black,Impact,Arial,sans-serif" font-size="42" font-weight="900" fill="#ffffff">WE TAKE CARE OF THE REST.</text>
+
+  <!-- That simple -->
+  <text x="450" y="348" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="bold" fill="#cc0000" letter-spacing="4" filter="url(#glow)">THAT SIMPLE.</text>
+
+  <!-- Red pulse bar bottom -->
+  <rect x="4" y="370" width="892" height="6" rx="3" fill="#cc0000" opacity="0.9"/>
+</svg>

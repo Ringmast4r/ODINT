@@ -52,9 +52,9 @@ If you're not sure whether something belongs — it probably does. Push it.
 
 ## How to Contribute
 
-You don't need to be a hacker. You don't need to know Go. You don't need to run a single scan.
-
-**You send us the sites. We take care of the rest. That simple.**
+<p align="center">
+  <img src="banner.svg" alt="You send us the sites. We take care of the rest. That simple." width="100%">
+</p>
 
 Know a government website in your country that looks like it was built in 2003 and probably leaks data? A ministry portal with exposed APIs? A military subdomain that shouldn't be public? Drop it in. We have the tools. We have the pipeline. We just need targets.
 
