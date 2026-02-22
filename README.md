@@ -52,22 +52,34 @@ If you're not sure whether something belongs — it probably does. Push it.
 
 ## How to Contribute
 
+You don't need to be a hacker. You don't need to know Go. You don't need to run a single scan.
+
+**You send us the sites. We take care of the rest. That simple.**
+
+Know a government website in your country that looks like it was built in 2003 and probably leaks data? A ministry portal with exposed APIs? A military subdomain that shouldn't be public? Drop it in. We have the tools. We have the pipeline. We just need targets.
+
+### Option 1: Submit a domain list
+
+Fork the repo, add your domains to the right region in `CYBER RECON TOUR/`, and open a PR. One domain per line. Bare domains only — no `https://`, no trailing `/`.
+
 ```bash
 git clone https://github.com/Ringmast4r/ODINT.git
 cd ODINT
-```
-
-1. Create or update files in the relevant directory
-2. Use clear, descriptive filenames and commit messages
-3. Push to `main` — no gatekeeping, no bureaucracy
-
-```bash
+# Add domains to the right region file
 git add .
-git commit -m "Add [brief description of what you're contributing]"
+git commit -m "Add [country] government domains"
 git push origin main
 ```
 
-**Don't overthink formatting.** Raw notes are better than no notes. A half-finished lead is better than a forgotten one. Clean it up later — get it in the repo now.
+### Option 2: Just tell us
+
+Don't want to touch git? Don't care about PRs? **[Submit an anonymous tip](https://docs.google.com/forms/d/e/1FAIpQLSf2d15QWPtmlYsXFllZ1Ib1RCMypqUQHd6X-f6VJRVAjNU6EA/viewform)** with the domains. No email required. No sign-in. No tracking. We'll add them ourselves.
+
+### Option 3: You're a researcher
+
+Clone it. Run the [Recon Suite](https://github.com/Ringmast4r/Recon-Suite) against whatever you want. Push your findings. Raw notes, half-finished leads, messy data — all of it is better than nothing. Clean it up later.
+
+**No gatekeeping. No bureaucracy. No approval process.** If it helps the mission, push it.
 
 ---
 
