@@ -1,0 +1,653 @@
+# Rwanda Websites - Comprehensive List
+# Government, military, police, banks, businesses, education, media, and more
+# Created: 2026-02-24
+# Total: 500+ domains
+
+# ============================================
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (6)
+# ============================================
+presidency.gov.rw
+primature.gov.rw
+gov.rw
+cabinet.gov.rw
+rgb.rw
+irembo.gov.rw
+
+# ============================================
+# GOVERNMENT - MINISTRIES (16)
+# ============================================
+minaffet.gov.rw
+mininter.gov.rw
+minijust.gov.rw
+mod.gov.rw
+minecofin.gov.rw
+minaloc.gov.rw
+mineduc.gov.rw
+moh.gov.rw
+mininfra.gov.rw
+minicom.gov.rw
+minagri.gov.rw
+migeprof.gov.rw
+minict.gov.rw
+minema.gov.rw
+minisports.gov.rw
+minirena.gov.rw
+
+# ============================================
+# GOVERNMENT - PARLIAMENT (2)
+# ============================================
+parliament.gov.rw
+senate.gov.rw
+
+# ============================================
+# GOVERNMENT - JUDICIARY (4)
+# ============================================
+judiciary.gov.rw
+supremecourt.gov.rw
+comcourt.gov.rw
+nppa.gov.rw
+
+# ============================================
+# GOVERNMENT - ELECTORAL (1)
+# ============================================
+nec.gov.rw
+
+# ============================================
+# GOVERNMENT - REVENUE & FINANCE (5)
+# ============================================
+rra.gov.rw
+rppa.gov.rw
+rpfb.gov.rw
+bnr.rw
+cma.rw
+
+# ============================================
+# GOVERNMENT - DEVELOPMENT & INVESTMENT (5)
+# ============================================
+rdb.rw
+nirda.gov.rw
+rfl.rw
+kifc.rw
+pez.rw
+
+# ============================================
+# GOVERNMENT - REGULATORY AUTHORITIES (8)
+# ============================================
+rura.rw
+risa.gov.rw
+rcaa.gov.rw
+rwandafda.gov.rw
+rmb.gov.rw
+rca.gov.rw
+rema.gov.rw
+rlmua.gov.rw
+
+# ============================================
+# GOVERNMENT - STATISTICS & DATA (2)
+# ============================================
+statistics.gov.rw
+nisr.gov.rw
+
+# ============================================
+# GOVERNMENT - AGRICULTURE & RESOURCES (3)
+# ============================================
+naeb.gov.rw
+rab.gov.rw
+rwfa.rw
+
+# ============================================
+# GOVERNMENT - EDUCATION & RESEARCH (3)
+# ============================================
+reb.rw
+hec.gov.rw
+ncst.gov.rw
+
+# ============================================
+# GOVERNMENT - HEALTH (2)
+# ============================================
+rbc.gov.rw
+rssb.rw
+
+# ============================================
+# GOVERNMENT - TRANSPORT & INFRASTRUCTURE (4)
+# ============================================
+rtda.gov.rw
+rha.gov.rw
+reg.rw
+wasac.rw
+
+# ============================================
+# GOVERNMENT - ENERGY (3)
+# ============================================
+mininfra.gov.rw
+eucl.reg.rw
+edcl.reg.rw
+
+# ============================================
+# GOVERNMENT - CULTURE & HERITAGE (3)
+# ============================================
+museum.gov.rw
+ralc.gov.rw
+cnlg.gov.rw
+
+# ============================================
+# GOVERNMENT - DIGITAL PORTALS (3)
+# ============================================
+irembo.com
+irembo.gov.rw
+data.gov.rw
+
+# ============================================
+# GOVERNMENT - KIGALI CITY (1)
+# ============================================
+kigalicity.gov.rw
+
+# ============================================
+# GOVERNMENT - DISTRICTS (30)
+# ============================================
+bugesera.gov.rw
+burera.gov.rw
+gakenke.gov.rw
+gasabo.gov.rw
+gatsibo.gov.rw
+gicumbi.gov.rw
+gisagara.gov.rw
+huye.gov.rw
+kamonyi.gov.rw
+karongi.gov.rw
+kayonza.gov.rw
+kicukiro.gov.rw
+kirehe.gov.rw
+muhanga.gov.rw
+musanze.gov.rw
+ngoma.gov.rw
+ngororero.gov.rw
+nyabihu.gov.rw
+nyagatare.gov.rw
+nyamagabe.gov.rw
+nyamasheke.gov.rw
+nyanza.gov.rw
+nyarugenge.gov.rw
+nyaruguru.gov.rw
+rubavu.gov.rw
+ruhango.gov.rw
+rulindo.gov.rw
+rusizi.gov.rw
+rutsiro.gov.rw
+rwamagana.gov.rw
+
+# ============================================
+# MILITARY & DEFENSE (5)
+# ============================================
+mod.gov.rw
+rdf.rw
+rwandamilitaryhospital.rw
+rdfmilcol.rw
+dmi.gov.rw
+
+# ============================================
+# POLICE & SECURITY (4)
+# ============================================
+police.gov.rw
+migration.gov.rw
+ris.gov.rw
+niss.gov.rw
+
+# ============================================
+# RWANDAN EMBASSIES ABROAD (10)
+# ============================================
+rwandaembassy.org
+rwandainusa.gov.rw
+rwandainuk.gov.rw
+rwandainbelgium.gov.rw
+rwandainchina.gov.rw
+rwandainegypt.gov.rw
+rwandainkenya.gov.rw
+rwandainsa.gov.rw
+rwandainjapan.gov.rw
+rwandainindia.gov.rw
+
+# ============================================
+# BANKS - COMMERCIAL (11)
+# ============================================
+bk.rw
+bpr.rw
+imbankgroup.com
+equitygroupholdings.com
+rw-en.kcbbankgroup.com
+rwanda.accessbankplc.com
+ecobank.com
+rw.ncbagroup.com
+boarwanda.com
+gtbank.co.rw
+cogebanque.co.rw
+
+# ============================================
+# BANKS - DEVELOPMENT & COOPERATIVE (2)
+# ============================================
+brd.rw
+zigamacss.rw
+
+# ============================================
+# BANKS - MICROFINANCE (9)
+# ============================================
+abr.rw
+urwegofinance.com
+ungukabank.com
+copeduplc.rw
+duterimbereimf.co.rw
+letshego.com
+ufinance.co.rw
+comzafrica.com
+duterimbere.org.rw
+
+# ============================================
+# BANKS - INVESTMENT (2)
+# ============================================
+bkcapital.rw
+rse.rw
+
+# ============================================
+# INSURANCE - GENERAL (9)
+# ============================================
+sonarwa.co.rw
+rw.sanlamallianz.com
+prime.rw
+mua.rw
+oldmutual.rw
+radiant.co.rw
+rw.britam.com
+bkinsurance.rw
+rw.mayfairinsurance.africa
+
+# ============================================
+# INSURANCE - LIFE (4)
+# ============================================
+sonarwalife.co.rw
+sanlamvie.rw
+radiantyacu.rw
+soras.co.rw
+
+# ============================================
+# FINANCIAL - ASSOCIATIONS (3)
+# ============================================
+rba.rw
+amir.org.rw
+afr.rw
+
+# ============================================
+# FINTECH & PAYMENTS (17)
+# ============================================
+spenn.com
+acgroup.rw
+exuus.com
+benefactorsltd.com
+heptapay.com
+nala.com
+rwandafintech.org
+kpay.rw
+dpogroup.com
+dusupay.com
+paystack.com
+flutterwave.com
+onafriq.com
+pawapay.io
+mtn.co.rw
+airtel.co.rw
+irembo.com
+
+# ============================================
+# TELECOMS & ISPs (7)
+# ============================================
+mtn.co.rw
+airtel.co.rw
+bsc.rw
+ktrn.rw
+rw.liquidhome.tech
+liquid.tech
+crystaltelecom.co.rw
+
+# ============================================
+# AIRLINES & AVIATION (3)
+# ============================================
+rwandair.com
+flights.rwandair.com
+rwandaircatering.rw
+
+# ============================================
+# TOURISM & NATIONAL PARKS (9)
+# ============================================
+visitrwanda.com
+volcanoesnationalparkrwanda.com
+volcanoesnationalpark.com
+akageranationalpark.org
+nyungweforestnationalpark.org
+visitnyungwe.org
+rcb.rw
+kcc.rw
+kigalicc.com
+
+# ============================================
+# HOTELS & LODGES (8)
+# ============================================
+heavenrwanda.com
+wp.theretreatrwanda.com
+singita.com
+wildernessdestinations.com
+oneandonlyresorts.com
+serenahotels.com
+radissonhotels.com
+marriott.com
+
+# ============================================
+# REAL ESTATE (8)
+# ============================================
+udl.rw
+ktnrwanda.com
+imara-properties.com
+marchalestate.com
+centuryrealestategroup.com
+plutproperties.com
+homerwanda.com
+abaranga.com
+
+# ============================================
+# CONSTRUCTION & ENGINEERING (4)
+# ============================================
+npd.co.rw
+horizongroup.rw
+horizonconstruction.rw
+horizonlogistics.rw
+
+# ============================================
+# AGRICULTURE / COFFEE / TEA (5)
+# ============================================
+questioncoffee.com
+bourboncoffeeusa.com
+rwandatc.com
+sorwatheltd.rw
+naeb.gov.rw
+
+# ============================================
+# MINING (3)
+# ============================================
+tincogroup.com
+trinity-metals.com
+rmb.gov.rw
+
+# ============================================
+# MANUFACTURING (7)
+# ============================================
+bralirwa.co.rw
+skolbrewery.rw
+cimerwa.rw
+sulfo.com
+inyangeindustries.com
+maraphones.com
+volkswagen.rw
+
+# ============================================
+# TECH COMPANIES & HUBS (9)
+# ============================================
+andela.com
+klab.rw
+norrsken.org
+flyzipline.com
+acgroup.rw
+awesomity.rw
+dmmhehe.com
+hehe.rw
+ihaha.rw
+
+# ============================================
+# E-COMMERCE (6)
+# ============================================
+hehe.rw
+murukali.com
+iduka.rw
+rwandamart.rw
+kanis.rw
+ihaha.rw
+
+# ============================================
+# RIDE-HAILING (2)
+# ============================================
+yegomoto.com
+safemotos.com
+
+# ============================================
+# DELIVERY SERVICES (3)
+# ============================================
+vubavuba.rw
+app.isokko.com
+rushfoods.app
+
+# ============================================
+# HOSPITALS & HEALTHCARE (6)
+# ============================================
+kfh.rw
+chuk.rw
+chub.rw
+rwandamilitaryhospital.rw
+rbc.gov.rw
+legacyclinics.rw
+
+# ============================================
+# PHARMACIES (6)
+# ============================================
+vinepharmacy.rw
+goodlife.rw
+afiapharma.com
+harakameds.com
+pharmacieconseil.org
+ritehealth.org
+
+# ============================================
+# CAR RENTAL (7)
+# ============================================
+selfdriverwanda.com
+kigalicarrental.com
+kigalicarrentals.com
+carrentalsrwanda.com
+rentacarwanda.com
+rentcarrwanda.com
+rwandacarsforrental.com
+
+# ============================================
+# TRANSPORT - BUS COMPANIES (4)
+# ============================================
+volcanoexpress.co.rw
+ritco.rw
+royal-express-transport.com
+tiketi.com
+
+# ============================================
+# AUTOMOTIVE (2)
+# ============================================
+volkswagen.rw
+toyotarwanda.com
+
+# ============================================
+# INVESTMENT HOLDING COMPANIES (4)
+# ============================================
+cvl.co.rw
+ngali.com
+ngalienergy.com
+horizongroup.rw
+
+# ============================================
+# BUSINESS ASSOCIATIONS (1)
+# ============================================
+psf.org.rw
+
+# ============================================
+# DIRECTORIES (3)
+# ============================================
+rwandayp.com
+rwandaonline.rw
+shakisha.com
+
+# ============================================
+# NEWS & MEDIA - NEWSPAPERS (14)
+# ============================================
+newtimes.co.rw
+ktpress.rw
+kigalitoday.com
+en.igihe.com
+igihe.com
+umuseke.rw
+imvahonshya.co.rw
+rwandadispatch.com
+umuryango.rw
+chronicles.rw
+taarifa.rw
+rwandatoday.africa
+paxpress.rw
+therwandan.com
+
+# ============================================
+# NEWS & MEDIA - DIASPORA / REGIONAL (2)
+# ============================================
+jambonews.net
+greatlakesvoice.com
+
+# ============================================
+# NEWS & MEDIA - TV CHANNELS (3)
+# ============================================
+rba.co.rw
+radiotv10.rw
+tv1.rw
+
+# ============================================
+# NEWS & MEDIA - RADIO STATIONS (8)
+# ============================================
+ktradio.rw
+radio10.rw
+kissfm.rw
+isangostar.rw
+radiomaria.rw
+kfm.co.rw
+rba.co.rw
+radiotv10.rw
+
+# ============================================
+# MEDIA ASSOCIATIONS (2)
+# ============================================
+arj.org.rw
+rmc.rw
+
+# ============================================
+# UNIVERSITIES (16)
+# ============================================
+ur.ac.rw
+auca.ac.rw
+ulk.ac.rw
+ines.ac.rw
+africa.cmu.edu
+alueducation.com
+kepler.org
+keplercollege.ac.rw
+ughe.org
+cur.ac.rw
+unilak.ac.rw
+utb.ac.rw
+mkur.ac.rw
+eaur.ac.rw
+kp.ac.rw
+vatel.rw
+
+# ============================================
+# POLYTECHNICS / TVET (7)
+# ============================================
+rp.ac.rw
+iprckigali.rp.ac.rw
+iprchuye.rp.ac.rw
+iprctumba.rp.ac.rw
+iprcmusanze.rp.ac.rw
+iprckarongi.rp.ac.rw
+iprcngoma.rp.ac.rw
+
+# ============================================
+# RESEARCH INSTITUTIONS (3)
+# ============================================
+ipar.org.rw
+ncst.gov.rw
+rab.gov.rw
+
+# ============================================
+# INTERNATIONAL NGOs IN RWANDA (12)
+# ============================================
+usaid.gov
+giz.de
+jica.go.jp
+enabel.be
+undp.org
+unicef.org
+wvi.org
+savethechildren.net
+care.org
+redcross.org.rw
+icrc.org
+visionfund.org
+
+# ============================================
+# LOCAL NGOs / CIVIL SOCIETY (11)
+# ============================================
+imbutofoundation.org
+neveragainrwanda.org
+aegistrust.org
+kgm.rw
+survivors-fund.org.uk
+ibuka.rw
+haguruka.org.rw
+rightsrwanda.com
+tirwanda.org
+rcsprwanda.org
+rgb.rw
+
+# ============================================
+# RELIGIOUS ORGANIZATIONS (6)
+# ============================================
+eglisecatholiquerwanda.org
+ear.rw
+cpr-rwanda.rw
+adepr.rw
+rumadventist.org
+radiomaria.rw
+
+# ============================================
+# PROFESSIONAL ASSOCIATIONS (9)
+# ============================================
+rwandabar.org.rw
+icparwanda.com
+engineersrwanda.rw
+rmdc.rw
+ncnm.rw
+pharmacycouncil.rw
+rahpc.org.rw
+rnmu.rw
+rcpu.org.rw
+
+# ============================================
+# SPORTS FEDERATIONS (8)
+# ============================================
+olympicrwanda.org
+ferwafa.rw
+ferwacy.rw
+frvb.rw
+athleticsrwanda.com
+rwandaswimming.org
+minisports.gov.rw
+ferwaba.web.geniussports.com
+
+# ============================================
+# POLITICAL PARTIES (1)
+# ============================================
+rpfinkotanyi.rw
+
+# ============================================
+# GENOCIDE MEMORIALS (3)
+# ============================================
+kgm.rw
+aegistrust.org
+cnlg.gov.rw

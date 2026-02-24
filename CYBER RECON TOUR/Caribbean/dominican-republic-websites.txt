@@ -1,7 +1,7 @@
 # Dominican Republic Websites - Comprehensive List
-# Government, military, media, business, education, and cultural sites
-# Created: 2026-01-29
-# Total: 211 domains
+# Government, military, police, banks, businesses, municipalities, education, media, and more
+# Updated: 2026-02-24
+# Total: 1100+ domains
 
 # ============================================
 # NEWS & MEDIA - NEWSPAPERS (18)
@@ -41,29 +41,42 @@ la91fm.com
 zolfm.com
 
 # ============================================
-# GOVERNMENT - PRESIDENCY & EXECUTIVE (5)
+# GOVERNMENT - PRESIDENCY & EXECUTIVE (14)
 # ============================================
 presidencia.gob.do
 vicepresidencia.gob.do
 minpre.gob.do
 gob.do
 sismap.gob.do
+mapre.gob.do
+diecom.gob.do
+gabinetesocial.gob.do
+superate.gob.do
+plansocial.gob.do
+propeep.gob.do
+coe.gob.do
+gobiernoabierto.gob.do
+vacunate.gob.do
 
 # ============================================
-# GOVERNMENT - MINISTRIES (23)
+# GOVERNMENT - MINISTRIES (28)
 # ============================================
 mirex.gob.do
 mip.gob.do
 hacienda.gob.do
 hacienda.gov.do
 economia.gob.do
+mepyd.gob.do
 map.gob.do
 mem.gob.do
 minerd.gob.do
+ministeriodeeducacion.gob.do
 mescyt.gob.do
 salud.gob.do
+msp.gob.do
 agricultura.gob.do
 mic.gob.do
+micm.gob.do
 mopc.gob.do
 ambiente.gob.do
 mitur.gob.do
@@ -75,20 +88,36 @@ miderec.gob.do
 juventud.gob.do
 mived.gob.do
 mindefensa.gob.do
+mide.gob.do
 
 # ============================================
-# GOVERNMENT - JUDICIAL & LEGISLATIVE (7)
+# GOVERNMENT - JUDICIAL & LEGISLATIVE (13)
 # ============================================
 senado.gob.do
+senadord.gob.do
 camaradediputados.gob.do
 suprema.gob.do
+poderjudicial.gob.do
 tribunalconstitucional.gob.do
 pgr.gob.do
 procuraduria.gob.do
 imprentanacional.gob.do
+cnm.gob.do
+defensapublica.gob.do
+ji.gob.do
+ri.gob.do
 
 # ============================================
-# GOVERNMENT - FINANCIAL & REGULATORY (10)
+# GOVERNMENT - OVERSIGHT & ACCOUNTABILITY (5)
+# ============================================
+camaradecuentas.gob.do
+contraloria.gob.do
+defensordelpueblo.gob.do
+digeig.gob.do
+uaf.gob.do
+
+# ============================================
+# GOVERNMENT - FINANCIAL & REGULATORY (16)
 # ============================================
 bancentral.gov.do
 dgii.gov.do
@@ -100,6 +129,29 @@ indotel.gob.do
 procompetencia.gob.do
 digepres.gob.do
 ogtic.gob.do
+tesoreria.gob.do
+tss.gob.do
+creditopublico.gob.do
+digecog.gob.do
+dgjp.gob.do
+transparenciafiscal.gob.do
+
+# ============================================
+# GOVERNMENT - SUPERINTENDENCIES (4)
+# ============================================
+sie.gob.do
+simv.gob.do
+sis.gob.do
+svsp.gob.do
+
+# ============================================
+# GOVERNMENT - REGULATORY & QUALITY (5)
+# ============================================
+indocal.gob.do
+odac.gob.do
+proconsumidor.gob.do
+onda.gob.do
+onapi.gob.do
 
 # ============================================
 # GOVERNMENT - ELECTORAL & CIVIL REGISTRY (2)
@@ -108,10 +160,21 @@ jce.gob.do
 tse.gob.do
 
 # ============================================
+# GOVERNMENT - TRANSPORT & INFRASTRUCTURE (8)
+# ============================================
+intrant.gob.do
+opret.gob.do
+omsa.gob.do
+idac.gob.do
+jac.gob.do
+apordom.gob.do
+anamar.gob.do
+da.gob.do
+
+# ============================================
 # GOVERNMENT - AGENCIES & SERVICES (23)
 # ============================================
 migracion.gob.do
-saime.gob.do
 dgapp.gob.do
 prodominicana.gob.do
 cnzfe.gob.do
@@ -133,26 +196,289 @@ contrataciones.gob.do
 nortic.gob.do
 transparencia.gob.do
 ign.gob.do
+pasaportes.gob.do
 
 # ============================================
-# MILITARY & SECURITY (13)
+# GOVERNMENT - SOCIAL SERVICES & SUBSIDIES (11)
+# ============================================
+adess.gob.do
+siuben.gob.do
+comedoreseconomicos.gob.do
+conani.gob.do
+inaipi.gob.do
+condei.gob.do
+conadis.gob.do
+conape.gob.do
+conapofa.gob.do
+dgdc.gob.do
+caid.gob.do
+
+# ============================================
+# GOVERNMENT - AGRICULTURE & NATURAL RESOURCES (14)
+# ============================================
+inespre.gob.do
+iad.gob.do
+indocafe.gob.do
+intabaco.gob.do
+inazucar.gov.do
+cea.gob.do
+codopesca.gob.do
+conaleche.gob.do
+feda.gob.do
+digega.gob.do
+digera.gob.do
+idiaf.gob.do
+indrhi.gob.do
+mercadom.gob.do
+
+# ============================================
+# GOVERNMENT - MINING & GEOLOGY (2)
+# ============================================
+dgm.gob.do
+sgn.gob.do
+
+# ============================================
+# GOVERNMENT - INDUSTRY & COMMERCE (4)
+# ============================================
+proindustria.gob.do
+iibi.gob.do
+promipyme.gob.do
+cnc.gob.do
+
+# ============================================
+# GOVERNMENT - HEALTH (9)
+# ============================================
+sns.gob.do
+ars-senasa.gob.do
+dps.gob.do
+promesecal.gob.do
+conavihsida.gob.do
+idss.gob.do
+dida.gob.do
+idoppril.gob.do
+digemaps.gob.do
+
+# ============================================
+# GOVERNMENT - EDUCATION & TRAINING (13)
+# ============================================
+infotep.gob.do
+inap.gob.do
+inabie.gob.do
+inabima.gob.do
+inafocam.gob.do
+ideice.gob.do
+inefi.gob.do
+capgefi.gob.do
+inesdyc.gob.do
+itsc.edu.do
+isfodosu.edu.do
+itla.edu.do
+uasd.edu.do
+
+# ============================================
+# GOVERNMENT - HOUSING & DEVELOPMENT (2)
+# ============================================
+invi.gob.do
+dgdf.gob.do
+
+# ============================================
+# GOVERNMENT - CULTURE, ARTS & HERITAGE (8)
+# ============================================
+dgcine.gob.do
+teatronacional.gob.do
+bnphu.gob.do
+dgba.gob.do
+rtvd.gob.do
+dgmuseos.gob.do
+agn.gob.do
+fodearte.gob.do
+
+# ============================================
+# GOVERNMENT - PARKS, ZOOS & NATURE (4)
+# ============================================
+jbn.gob.do
+acuarionacional.gob.do
+parquemiradornorte.gob.do
+zoodom.gob.do
+
+# ============================================
+# GOVERNMENT - ENVIRONMENT (3)
+# ============================================
+fondomarena.gob.do
+senpa.gob.do
+cnccmdl.gob.do
+
+# ============================================
+# GOVERNMENT - METEOROLOGY & GEOGRAPHY (2)
+# ============================================
+onamet.gob.do
+dgcn.gob.do
+
+# ============================================
+# GOVERNMENT - PROPERTY & ASSETS (3)
+# ============================================
+bn.gob.do
+dgbn.gob.do
+museodelartemodernosd.com
+
+# ============================================
+# GOVERNMENT - PRISONS (1)
+# ============================================
+dgp.gob.do
+
+# ============================================
+# GOVERNMENT - COMMUNICATIONS (1)
+# ============================================
+inposdom.gob.do
+
+# ============================================
+# GOVERNMENT - COOPERATIVES (1)
+# ============================================
+idecoop.gob.do
+
+# ============================================
+# GOVERNMENT - DRUG POLICY (2)
+# ============================================
+consejodedrogasrd.gob.do
+incabide.gob.do
+
+# ============================================
+# GOVERNMENT - PENSIONS (1)
+# ============================================
+cajaobrera.gob.do
+
+# ============================================
+# GOVERNMENT - DIGITAL PORTALS (3)
+# ============================================
+datos.gob.do
+saip.gob.do
+comprasdominicana.gob.do
+
+# ============================================
+# GOVERNMENT - MUNICIPAL GOVERNANCE (2)
+# ============================================
+lmd.gob.do
+municipalidadentusmanos.gob.do
+
+# ============================================
+# GOVERNMENT - COMMISSIONS & COUNCILS (6)
+# ============================================
+comisionhipica.gob.do
+ceiztur.gob.do
+corphotels.gob.do
+ccdf.gob.do
+cnf.gob.do
+coniaf.gob.do
+
+# ============================================
+# GOVERNMENT - SPECIALIZED INSTITUTIONS (15)
+# ============================================
+cecanot.gob.do
+cemadoja.gob.do
+ctc.gob.do
+incart.gob.do
+institutoduartiano.gob.do
+inmrd.gob.do
+corepol.gob.do
+cpep.gob.do
+cpadb.gob.do
+cpadp.gob.do
+cpp.gob.do
+inaguja.gob.do
+onesvie.gob.do
+ceccom.gob.do
+cesmet.gob.do
+
+# ============================================
+# MILITARY & DEFENSE - CORE (10)
 # ============================================
 fuerzasarmadas.mil.do
 ejercito.mil.do
 armadadominicana.mil.do
+armada.mil.do
 fad.mil.do
+fard.mil.do
+cesac.mil.do
+cesfront.mil.do
+guardiapresidencial.mil.do
+cusep.mil.do
+
+# ============================================
+# MILITARY - MARITIME & PORTS (2)
+# ============================================
+cdp.mil.do
+portuaria.gob.do
+
+# ============================================
+# MILITARY - ACADEMIES & SCHOOLS (12)
+# ============================================
+unade.edu.do
+revista.unade.edu.do
+insude.mil.do
+insude.edu.do
+ambc.mil.do
+academianaval.edu.do
+egae.mil.do
+egemerd.edu.do
+armada.edu.do
+egdc.edu.do
+egradh.edu.do
+amc.edu.do
+
+# ============================================
+# MILITARY - INSTITUTES & BODIES (8)
+# ============================================
+icm.mil.do
+issffaa.mil.do
+digev.mil.do
+smv.mil.do
+cidefapon.mil.do
+comunidadfronteriza.gob.do
+fronteras.gob.do
+juntaderetiroffaa.gob.do
+
+# ============================================
+# MILITARY - MEDICAL (2)
+# ============================================
+hospitalcentral.mil.do
+hosgedopol.gob.do
+
+# ============================================
+# MILITARY - RETIREMENT (1)
+# ============================================
+jrfpffaa.mil.do
+
+# ============================================
+# POLICE & SECURITY (13)
+# ============================================
 policianacional.gob.do
 dncd.gob.do
 dni.gob.do
+dni.gov.do
 cesfront.gob.do
 911.gob.do
-cbdn.gob.do
 defensacivil.gob.do
 politur.gob.do
+cestur.gob.do
 cesac.gob.do
+dicat.gob.do
+denuncias.policia.gob.do
+aip.sna.gob.do
 
 # ============================================
-# STATE ENTERPRISES - ELECTRICITY (6)
+# POLICE - EDUCATION (1)
+# ============================================
+ipe.edu.do
+
+# ============================================
+# FIRE DEPARTMENTS (3)
+# ============================================
+cbdn.gob.do
+cbs.gob.do
+bomberossde.gob.do
+
+# ============================================
+# STATE ENTERPRISES - ELECTRICITY (7)
 # ============================================
 cdeee.gob.do
 edenorte.gob.do
@@ -160,44 +486,293 @@ edesur.gob.do
 edeeste.gob.do
 eted.gob.do
 cne.gob.do
+egehid.gob.do
 
 # ============================================
-# STATE ENTERPRISES - WATER & OTHER (8)
+# STATE ENTERPRISES - ENERGY (2)
+# ============================================
+refidomsa.com
+uers.gob.do
+
+# ============================================
+# STATE ENTERPRISES - WATER (10)
 # ============================================
 inapa.gob.do
 caasd.gob.do
 coraasan.gob.do
+coaarom.gob.do
+coraamoca.gob.do
+coraaplata.gob.do
+coraavega.gob.do
+coramon.gob.do
 oisoe.gob.do
 cmc.gob.do
+
+# ============================================
+# STATE ENTERPRISES - OTHER (3)
+# ============================================
 loteria.gob.do
 leidsa.com
 bagricola.gob.do
 
 # ============================================
-# BUSINESS & ECONOMY - BANKS (13)
+# BANKS - BANCOS MULTIPLES / COMMERCIAL (17)
 # ============================================
 banreservas.com
+banreservas.com.do
 popularenlinea.com
+bpd.com.do
+bhd.com.do
 bhdleon.com.do
+bsc.com.do
+do.scotiabank.com
 scotiabank.com.do
-bancolopezdeharo.com.do
-bancoademi.com.do
-bancovimenca.com.do
-bancobdi.com.do
 promerica.com.do
-citibank.com.do
-asociacionpopular.com
-asociacioncibao.com
 bancocaribe.com.do
+banesco.com.do
+bdi.com.do
+blh.com.do
+bancovimenca.com
+bancoademi.com.do
+bancoactivo.com.do
+qik.do
 
 # ============================================
-# BUSINESS & ECONOMY - ASSOCIATIONS (5)
+# BANKS - PUBLIC / STATE (2)
 # ============================================
-aird.org.do
+bancoagricola.gob.do
+bandex.com.do
+
+# ============================================
+# BANKS - ASOCIACIONES DE AHORROS Y PRESTAMOS (10)
+# ============================================
+apap.com.do
+acap.com.do
+asociacionlanacional.com.do
+alaver.com.do
+adap.com.do
+asomap.com.do
+abonap.com.do
+arap.com.do
+asociacionperavia.com.do
+amap.com.do
+
+# ============================================
+# BANKS - BANCOS DE AHORRO Y CREDITO (13)
+# ============================================
+banfondesa.com.do
+motorcredito.com.do
+bancoadopem.com.do
+bancounion.com.do
+bancobacc.com.do
+confisa.do
+ba.com.do
+fihogar.com
+bancotui.com
+bonanzabanco.com.do
+bancocofaci.com.do
+gruficorp.com
+bancooptima.com
+
+# ============================================
+# BANKS - CORPORACIONES DE CREDITO (3)
+# ============================================
+nordestana.com
+creditomonumental.com
+corporacionoficorp.com
+
+# ============================================
+# BANKS - COOPERATIVAS DE AHORRO Y CREDITO (16)
+# ============================================
+coopaspire.com
+coopbueno.com.do
+coopcandelaria.com.do
+coopcentral.do
+coopeclof.com
+cooperativaempresarial.com
+coopgapa.com
+coopglobal.net
+coopmaimon.com
+mamoncito.com.do
+coopmedica.com
+coopsanjose.com.do
+coopsanrafael.com
+coopsano.com
+coopunion.com.do
+cootralcoa.com
+
+# ============================================
+# FINANCIAL - PENSION FUNDS & STOCK EXCHANGE (4)
+# ============================================
+afppopular.com.do
+afpsiembra.com
+bvrd.com.do
+asociacionpopular.com
+
+# ============================================
+# FINANCIAL - INDUSTRY ASSOCIATIONS (5)
+# ============================================
 aba.org.do
+aird.org.do
 conep.org.do
 camarasantiago.com
 camarasantodomingo.com
+
+# ============================================
+# INSURANCE COMPANIES (5)
+# ============================================
+segurosuniversal.com.do
+segurosreservas.com
+humanoseguros.com
+mapfrebhd.com.do
+lacolonial.com.do
+
+# ============================================
+# BUSINESS - TELECOMMUNICATIONS (4)
+# ============================================
+claro.com.do
+altice.com.do
+viva.com.do
+wind.com.do
+
+# ============================================
+# BUSINESS - AIRLINES (1)
+# ============================================
+arajet.com
+
+# ============================================
+# BUSINESS - RETAIL / SUPERMARKETS (6)
+# ============================================
+centrocuestanacional.com
+supermercadosnacional.com
+sirena.do
+gruporamos.com
+pricesmart.com
+casacuesta.com
+
+# ============================================
+# BUSINESS - CONGLOMERATES (6)
+# ============================================
+eleonjimenes.com
+gruposid.com.do
+gruporica.com
+inicia.com
+distribuidoracorripio.com.do
+centralromana.com.do
+
+# ============================================
+# BUSINESS - BEVERAGES / RUM / BEER (4)
+# ============================================
+cnd.com.do
+brugal-rum.com
+ronbarcelo.com
+ronbermudez.com
+
+# ============================================
+# BUSINESS - CIGARS & CACAO (2)
+# ============================================
+laaurora.com.do
+rizekcacao.com
+
+# ============================================
+# BUSINESS - AGRICULTURE & FOOD (2)
+# ============================================
+caei.com
+cac.com.do
+
+# ============================================
+# BUSINESS - ENERGY / ELECTRICITY (5)
+# ============================================
+egehaina.com
+aesdominicana.com
+cepm.com.do
+interenergy.com
+tropigas.com.do
+
+# ============================================
+# BUSINESS - MINING (5)
+# ============================================
+barrick.com
+newmont.com
+falcondo.do
+goldquestcorp.com
+unigoldinc.com
+
+# ============================================
+# BUSINESS - SHIPPING & PORTS (2)
+# ============================================
+hit.com.do
+dpworld.com
+
+# ============================================
+# BUSINESS - CONSTRUCTION & MATERIALS (3)
+# ============================================
+estrella.com.do
+cemexdominicana.com
+grupoambar.com.do
+
+# ============================================
+# BUSINESS - REAL ESTATE / DEVELOPERS (5)
+# ============================================
+grupopuntacana.com.do
+capcana.com
+novalproperties.com
+urbangroup.do
+grupodupla.com
+
+# ============================================
+# BUSINESS - HOTELS / HOSPITALITY (4)
+# ============================================
+bahia-principe.com
+palladiumhotelgroup.com
+iberostar.com
+lopesan.com
+
+# ============================================
+# BUSINESS - LAW FIRMS (7)
+# ============================================
+phlaw.com
+headrick.com.do
+rvhb.com
+jpadvisors.do
+troncoso-caceres.com
+biaggi.com.do
+drlawyer.com
+
+# ============================================
+# BUSINESS - PHARMACEUTICAL / PHARMACIES (5)
+# ============================================
+feltrex.com.do
+acromax.com.do
+farqui.com
+farmaciacarol.com
+farmaciamedicargbc.com
+
+# ============================================
+# BUSINESS - AUTO DEALERS (6)
+# ============================================
+deltacomercial.com.do
+grupoviamar.com
+bonanza.com.do
+bmw.com.do
+mercedes-benz.com.do
+skoda-auto.com.do
+
+# ============================================
+# BUSINESS - FREE TRADE ZONES (3)
+# ============================================
+adozona.org
+zonafrancasantiago.com
+drfreezones.com
+
+# ============================================
+# BUSINESS - E-COMMERCE & SERVICES (5)
+# ============================================
+corotos.com.do
+ccn.com.do
+edesur.com.do
+gbh.com.do
+bepensa.com
 
 # ============================================
 # UNIVERSITIES & EDUCATION (23)
@@ -250,13 +825,291 @@ prsc.com.do
 fuerzadelpueblo.do
 
 # ============================================
-# MUNICIPAL GOVERNMENTS / AYUNTAMIENTOS (5)
+# GOBERNACIONES / PROVINCIAL GOVERNMENTS (13)
+# ============================================
+gobernacionespaillat.gob.do
+gobernacionlaaltagracia.gob.do
+gobernaciondelaromana.gob.do
+gobernacionlavega.gob.do
+gobernacionmariatrinidadsanchez.gob.do
+gobernacionmontecristi.gob.do
+gobernacionmonteplata.gob.do
+gobernacionpuertoplata.gob.do
+gobernacionsamana.gob.do
+gobernacionsancristobal.gob.do
+gobernacionsanpedro.gob.do
+gobernacionprovincialsantiagorodriguez.gob.do
+gobernaciondesantodomingo.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - DISTRITO NACIONAL (1)
 # ============================================
 adn.gob.do
-ayuntamientosdo.gob.do
-ayuntamientosde.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - AZUA (10)
+# ============================================
+ayuntamientoazua.gob.do
+ayuntamientoestebania.gob.do
+ayuntamientoguayabal.gob.do
+ayuntamientolascharcas.gob.do
+ayuntamientolasyayas.gob.do
+ayuntamientopadrelascasas.gob.do
+ayuntamientoperalta.gob.do
+ayuntamientopuebloviejo.gob.do
+ayuntamientosabanayegua.gob.do
+ayuntamientotabaraarriba.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - BAORUCO (5)
+# ============================================
+ayuntamientoneiba.gob.do
+ayuntamientogalvan.gob.do
+ayuntamientolosrios.gob.do
+ayuntamientotamayo.gob.do
+ayuntamientovillajaragua.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - BARAHONA (8)
+# ============================================
+ayuntamientobarahona.gob.do
+ayuntamientocabral.gob.do
+ayuntamientoenriquillo.gob.do
+ayuntamientofundacion.gob.do
+ayuntamientojaquimeyes.gob.do
+ayuntamientoparaiso.gob.do
+ayuntamientopolo.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - DAJABON (5)
+# ============================================
+ayuntamientodajabon.gob.do
+ayuntamientoelpino.gob.do
+ayuntamientolomadecabrera.gob.do
+ayuntamientopartido.gob.do
+ayuntamientorestauracion.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - DUARTE (6)
+# ============================================
+ayuntamientosfm.gob.do
+ayuntamientoarenoso.gob.do
+ayuntamientocastillo.gob.do
+ayuntamientolasguaranas.gob.do
+ayuntamientopimentel.gob.do
+ayuntamientovillariva.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - ELIAS PINA (3)
+# ============================================
+ayuntamientocomendador.gob.do
+ayuntamientohondovalle.gob.do
+ayuntamientojuansantiago.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - EL SEIBO (2)
+# ============================================
+ayuntamientoelseibo.gob.do
+ayuntamientomiches.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - ESPAILLAT (4)
+# ============================================
+ayuntamientomoca.gob.do
+ayuntamientocayetanogermosen.gob.do
+ayuntamientogasparhernandez.gob.do
+ayuntamientojamaoalnorte.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - HATO MAYOR (3)
+# ============================================
+ayuntamientohatomayor.gob.do
+ayuntamientoelvalle.gob.do
+ayuntamientosabanadelamar.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - HERMANAS MIRABAL (3)
+# ============================================
+ayuntamientosalcedo.gob.do
+ayuntamientotenares.gob.do
+ayuntamientovillatapia.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - INDEPENDENCIA (6)
+# ============================================
+ayuntamientojimani.gob.do
+ayuntamientocristobal.gob.do
+ayuntamientoduverge.gob.do
+ayuntamientoladescubierta.gob.do
+ayuntamientomella.gob.do
+ayuntamientopostrerrio.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - LA ALTAGRACIA (2)
+# ============================================
+ayuntamientohiguey.gob.do
+ayuntamientoyuma.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - LA ROMANA (3)
+# ============================================
+alcaldialaromana.gob.do
+ayuntamientoguaymate.gob.do
+ayuntamientovillahermosa.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - LA VEGA (4)
+# ============================================
+ayuntamientolavega.gob.do
+ayuntamientoconstanza.gob.do
+ayuntamientojarabacoa.gob.do
+ayuntamientojimaabajo.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - MARIA TRINIDAD SANCHEZ (4)
+# ============================================
+ayuntamientonagua.gob.do
+ayuntamientocabrera.gob.do
+ayuntamientoelfactor.gob.do
+ayuntamientoriosanjuan.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - MONSENOR NOUEL (3)
+# ============================================
+ayuntamientobonao.gob.do
+ayuntamientomaimon.gob.do
+ayuntamientopiedrablanca.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - MONTECRISTI (6)
+# ============================================
+ayuntamientomontecristi.gob.do
+ayuntamientocastanuelas.gob.do
+ayuntamientoguayubin.gob.do
+ayuntamientolasmatasdesantacruz.gob.do
+ayuntamientopepillosalcedo.gob.do
+ayuntamientovillavasquez.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - MONTE PLATA (5)
+# ============================================
+ayuntamientomonteplata.gob.do
+ayuntamientobayaguana.gob.do
+ayuntamientoperalvillo.gob.do
+ayuntamientosgb.gob.do
+ayuntamientoyamasa.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - PEDERNALES (2)
+# ============================================
+ayuntamientopedernales.gob.do
+ayuntamientooviedo.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - PERAVIA (2)
+# ============================================
+ayuntamientobani.gob.do
+ayuntamientonizao.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - PUERTO PLATA (9)
+# ============================================
+ayuntamientopuertoplata.gob.do
+ayuntamientoaltamira.gob.do
+ayuntamientoguananico.gob.do
+ayuntamientoimbert.gob.do
+ayuntamientoloshidalgos.gob.do
+ayuntamientoluperon.gob.do
+ayuntamientososua.gob.do
+ayuntamientovillaisabela.gob.do
+ayuntamientomontellano.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - SAMANA (3)
+# ============================================
+ayuntamientosamana.gob.do
+ayuntamientolasterrenas.gob.do
+ayuntamientosanchez.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - SAN CRISTOBAL (8)
+# ============================================
+ayuntamientosancristobal.gob.do
+ayuntamientohaina.gob.do
+ayuntamientocambita.gob.do
+ayuntamientoloscacaos.gob.do
+ayuntamientopalenque.gob.do
+ayuntamientonigua.gob.do
+ayuntamientovillaaltagracia.gob.do
+ayuntamientoyaguate.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - SAN JOSE DE OCOA (3)
+# ============================================
+ayuntamientoocoa.gob.do
+ayuntamientoranchoarriba.gob.do
+ayuntamientosabanalarga.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - SAN JUAN (6)
+# ============================================
+ayuntamientosanjuan.gob.do
+ayuntamientobohechio.gob.do
+ayuntamientoelcercado.gob.do
+ayuntamientojuandeherrera.gob.do
+ayuntamientolasmatasdefarfan.gob.do
+ayuntamientovallejuelo.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - SAN PEDRO DE MACORIS (4)
+# ============================================
+ayuntamientosanpedro.gob.do
+ayuntamientoconsuelo.gob.do
+ayuntamientoguayacanes.gob.do
+ayuntamientoramonsantana.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - SANCHEZ RAMIREZ (3)
+# ============================================
+ayuntamientocotui.gob.do
+ayuntamientocevicos.gob.do
+ayuntamientofantino.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - SANTIAGO (9)
+# ============================================
 ayuntamientosantiago.gob.do
-ayuntamientosdn.gob.do
+ayuntamientovillabisono.gob.do
+ayuntamientojanico.gob.do
+ayuntamientoliceyalmedio.gob.do
+ayuntamientopunal.gob.do
+ayuntamientosabanaiglesia.gob.do
+alcaldiasajoma.gob.do
+ayuntamientotamboril.gob.do
+ayuntamientovillagonzalez.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - SANTIAGO RODRIGUEZ (3)
+# ============================================
+ayuntamientosabaneta.gob.do
+ayuntamientolosalmacigos.gob.do
+ayuntamientomoncion.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - SANTO DOMINGO (5)
+# ============================================
+ayuntamientosde.gob.do
+alcaldiasdn.gob.do
+ayuntamientosdo.gob.do
+ayuntamientobocachica.gob.do
+ayuntamientolosalcarrizos.gob.do
+
+# ============================================
+# AYUNTAMIENTOS - VALVERDE (3)
+# ============================================
+ayuntamientomao.gob.do
+ayuntamientoesperanza.gob.do
+ayuntamientolagunasalada.gob.do
 
 # ============================================
 # TOURISM (3)
@@ -266,30 +1119,8 @@ asonahores.com
 bavaro-puntacana.com
 
 # ============================================
-# HEALTH (3)
+# ART & CULTURE (1)
 # ============================================
-sns.gob.do
-ars-senasa.gob.do
-dps.gob.do
-
-# ============================================
-# E-COMMERCE & SERVICES (7)
-# ============================================
-corotos.com.do
-supermercadosnacional.com
-ccn.com.do
-claro.com.do
-altice.com.do
-viva.com.do
-edesur.com.do
-
-# ============================================
-# ART & CULTURE (5)
-# ============================================
-dgcine.gob.do
-teatronacional.gob.do
-bn.gob.do
-dgba.gob.do
 museodelartemodernosd.com
 
 # ============================================
@@ -305,3 +1136,557 @@ alianzaong.org.do
 dominicanosrd.com
 dominicanaonline.org
 dominicanabroad.com
+
+# ============================================
+# HOSPITALS - PRIVATE (27)
+# ============================================
+hgps.org.do
+cedimat.com
+cedimat.net
+clinicaabreu.com.do
+homs.com.do
+hospiten.com
+clinicacorazonesunidos.com.do
+clinicacruzjiminian.com
+clinicaunionmedica.com
+unionmedica.do
+cemdoe.com
+cog.com.do
+medfer.do
+clinicaindependencia.com
+clinicacanela.com
+hcemesa.com
+corominas.com.do
+clinicadrbonilla.com.do
+centromedicocibao.com.do
+cmpadrefantino.com
+centromedicopuntacana.com
+img.hospital
+centromedicobournigal.com
+preventis.com.do
+chuce.com.do
+laboratoriocedano.com
+dentalhealth.com.do
+
+# ============================================
+# HOSPITALS - PUBLIC (20)
+# ============================================
+hirrc.gov.do
+dariocontreras.gob.do
+humnsa.gob.do
+hospitalgautier.gob.do
+hdpb.gob.do
+hospitalmoscosopuello.gob.do
+hospitalmarcelinovelez.gob.do
+hospitalneyarias.gob.do
+hospitalsanlorenzo.gob.do
+hospitaljuanpablopina.gob.do
+hospitalcabralybaez.gob.do
+hospitalarturogrullon.gob.do
+hospitalmorilloking.gob.do
+hospitalantoniomusa.gob.do
+hospitalricardolimardo.gob.do
+hospitaljaimemota.gob.do
+hospitalbencosme.gob.do
+hpminsa.gob.do
+hospitaldelaaltagracia.gob.do
+ceasna.gob.do
+
+# ============================================
+# ARS - HEALTH INSURANCE (17)
+# ============================================
+humano.com.do
+arsuniversal.com.do
+mapfresaludars.com.do
+arsreservas.com
+arscmd.com.do
+arssenasa.gob.do
+semma.gob.do
+arsbancocentral.org.do
+apsars.do
+arsasemap.com
+arsfuturo.com
+arsrenacer.com
+arsmetasalud.com
+arsgma.com
+arsyunen.com
+arsmonumental.com.do
+adars.org.do
+
+# ============================================
+# LABORATORIES (10)
+# ============================================
+labreferencia.com
+amadita.com
+diagnosis.com.do
+patriarivas.com.do
+laboratoriolcb.com
+labdrcollado.com
+labnoy.com
+institutodepatologia.com
+paternidad.com.do
+macromedicadominicana.com
+
+# ============================================
+# PHARMACIES - EXPANDED (6)
+# ============================================
+farmaciasloshidalgos.com.do
+farmaextra.com
+farmacianepo.com
+farmax.com.do
+farmaciasdelpueblo.net
+odontodom.com
+
+# ============================================
+# OPTICAL CHAINS (5)
+# ============================================
+opticaoviedo.net
+opticalopez.com
+opticafelix.com
+opticaalmanzar.com
+optiexpress.com.do
+
+# ============================================
+# MEDICAL ASSOCIATIONS (9)
+# ============================================
+cmd.org.do
+colegiodominicanodecirujanos.com
+pediatriadominicana.org
+sodocipre.net
+neuro.do
+sdog.org.do
+sdnct.com.do
+adimars.do
+profamilia.org.do
+
+# ============================================
+# HEALTH DIRECTORIES & PORTALS (8)
+# ============================================
+saludrd.do
+guiamedica.com.do
+doctor.do
+buscamed.do
+saluddominicana.com.do
+diariosalud.do
+resumendesalud.net
+digepisalud.gob.do
+
+# ============================================
+# NEWS & MEDIA - RADIO STATIONS (36)
+# ============================================
+alofoke.fm
+kq94.net
+rumba985fm.com
+hits92fm.com
+kiss949.com
+estrella90.com
+larocka917.com
+cima100fm.com
+superqfm.net
+caliente104fm.com
+rdmusica.com
+puravidafm.net
+fidelityfm.com.do
+ritmo96.com
+estacion977.com
+dominicanafmrd.com
+be997.com
+fuego901fm.com
+exafm.com
+mega102fm.net
+radioamanecer.org.do
+cristal570.com
+radioguarachita.com
+monumentalfm.com
+labakana1059fm.com
+turbo98.com
+lakalle96.com
+lan103fm.com
+concierto931.com
+disco89fm.com
+romance101fm.com
+radiosantamaria.net
+superkfm.com
+poder98fm.com
+radiocentro.com.do
+radioazua.com
+
+# ============================================
+# NEWS & MEDIA - TV CHANNELS (10)
+# ============================================
+canal19.do
+telefuturo.com.do
+teleuniversotv.com
+supercanal.com
+teleradioamerica.com
+tni51.com
+telecentro.com.do
+telenord.com.do
+bajotecho.com.do
+rtvd.gob.do
+
+# ============================================
+# NEWS & MEDIA - ONLINE / DIGITAL (28)
+# ============================================
+n.com.do
+noticiassin.com
+dominicanodigital.com
+deultimominuto.net
+rdedigital.com
+remolacha.net
+proceso.com.do
+primicias.com.do
+clavedigital.com
+barrigaverde.net
+diariodigitalrd.com
+diariohorizonte.com
+diarionoticia.com
+lanaciondominicana.com
+elnoticiario.net
+laopciondigital.com
+7dias.com.do
+laplana.com.do
+rdnoticias.com
+elviajero.com.do
+dominicanoahora.com
+ecohispano.com
+higueyonline.com
+noticiaspuntacana.com
+puertoplatanews.com
+elmasacre.com
+dominican.news
+dominicanrepubliconline.net
+
+# ============================================
+# NEWS & MEDIA - MAGAZINES (6)
+# ============================================
+revistamercado.do
+revistapandora.com.do
+ritmo.com.do
+revistacontactord.com
+arquitexto.com
+redom.com
+
+# ============================================
+# NEWS & MEDIA - STREAMING DIRECTORIES (7)
+# ============================================
+emisorasdominicanas.online
+radiosdominicanas.com
+radios.com.do
+radio-dominicana.com
+canalesdominicanos.live
+televisiondominicanaenvivo.com
+dominicanchannels.com
+
+# ============================================
+# EMBASSIES - FOREIGN IN DR (20)
+# ============================================
+do.usembassy.gov
+do.ambafrance.org
+santo-domingo.diplo.de
+ambsantodomingo.esteri.it
+do.emb-japan.go.jp
+do.china-embassy.gov.cn
+eoisantodomingo.gov.in
+embajadadejamaica-rd.com
+republicadominicana.embajada.gov.co
+rdominicana.embajada.gob.ve
+edomi.cancilleria.gob.ar
+ordendemaltadominicana.org
+dominicana.aecid.es
+endadom.org.do
+misiones.cubaminrex.cu
+embassies.gov.il
+overseas.mofa.go.kr
+do.scotiabank.com
+do.usembassy.gov
+dominicanrepublic.un.org
+
+# ============================================
+# DR EMBASSIES ABROAD - MIREX (22)
+# ============================================
+usa.mirex.gob.do
+esp.mirex.gob.do
+deu.mirex.gob.do
+can.mirex.gob.do
+jpn.mirex.gob.do
+chn.mirex.gob.do
+cub.mirex.gob.do
+hti.mirex.gob.do
+bra.mirex.gob.do
+rus.mirex.gob.do
+isr.mirex.gob.do
+ecu.mirex.gob.do
+gtm.mirex.gob.do
+hnd.mirex.gob.do
+chl.mirex.gob.do
+per.mirex.gob.do
+pan.mirex.gob.do
+ury.mirex.gob.do
+mex.mirex.gob.do
+ven.mirex.gob.do
+dominicanembassy.org.uk
+consultas.mirex.gob.do
+
+# ============================================
+# INTERNATIONAL ORGANIZATIONS IN DR (10)
+# ============================================
+flacso.org.do
+cdd.org.do
+dominicanrepublic.un.org
+lac.iom.int
+lac.unwomen.org
+caribbeanredcross.org
+un.int
+help.unhcr.org
+do.computrabajo.com
+endadom.org.do
+
+# ============================================
+# PROFESSIONAL ASSOCIATIONS (14)
+# ============================================
+colegiodeabogados.org.do
+codia.org.do
+icpard.org
+codocon.org
+colegiodominicanodenotarios.org.do
+cdp.com.do
+sard.org.do
+adoexpo.org
+adompretur.com
+adocem.org
+acoprovi.org
+jad.org.do
+cadocon.org
+anje.org
+
+# ============================================
+# CHAMBERS OF COMMERCE (14)
+# ============================================
+fedocamaras.do
+camarasantodomingo.do
+camaraprovinciasantodomingo.do
+camaralavega.org.do
+camaralaromana.do
+camarapuertoplata.org
+amcham.org.do
+britchamdr.com
+camaraitaliana.com.do
+ccifranco-dominicana.org
+camacoes.org.do
+ccdc.org.do
+dominicanasolidaria.org
+pciudadana.org
+
+# ============================================
+# LABOR UNIONS (5)
+# ============================================
+cntd.org.do
+casc.org.do
+cnus.com.do
+asociaciondominicanaprofesores.org
+lavozdelsntp.org
+
+# ============================================
+# RELIGIOUS ORGANIZATIONS (7)
+# ============================================
+ced.org.do
+arquidiocesisd.org
+codue.org
+iglepidom.org
+bono.org.do
+bono.edu.do
+iedominicana.org
+
+# ============================================
+# THINK TANKS & RESEARCH (7)
+# ============================================
+funglode.org
+educa.org.do
+centromontalvo.org
+ceg.intec.edu.do
+plansierra.org.do
+fundpropagas.com
+surfuturo.org
+
+# ============================================
+# ENVIRONMENTAL NGOs (5)
+# ============================================
+grupojaragua.org.do
+soh.org.do
+fundacionplenitud.org
+ecored.org.do
+fondomarena.gob.do
+
+# ============================================
+# HUMANITARIAN / DEVELOPMENT NGOs (6)
+# ============================================
+cruzroja.org.do
+worldvision.org.do
+habitatdominicana.org
+fdd.org.do
+solidaridad.do
+cipaf.org.do
+
+# ============================================
+# YOUTH & SERVICE ORGANIZATIONS (3)
+# ============================================
+scouts.do
+rotary4060.org
+rotaract4060.org
+
+# ============================================
+# GOVERNANCE / ANTI-CORRUPTION (2)
+# ============================================
+adocco.org.do
+colectivamujerysalud.org
+
+# ============================================
+# JOB BOARDS (6)
+# ============================================
+do.computrabajo.com
+aldaba.com
+buscojobs.com.do
+tecoloco.com.do
+opcionempleo.com.do
+konzerta.com
+
+# ============================================
+# FINTECH / PAYMENTS (9)
+# ============================================
+azul.com.do
+cardnet.com.do
+visanet.com.do
+tpago.com.do
+gcs-international.com
+uepapay.com
+yoyoapp.com
+monipay.com.do
+paypal.com
+
+# ============================================
+# REAL ESTATE PORTALS (9)
+# ============================================
+supercasas.com
+encuentra24.com
+indominicana.com
+drlistings.com
+fazwaz.com.do
+realtordr.com
+dominicanrepublicrealestate.com.do
+rentahouserd.com
+properstar.com
+
+# ============================================
+# COURIER / SHIPPING (11)
+# ============================================
+aeropaq.com
+eps.com.do
+domex.do
+vimenpaq.do
+bmcargo.com
+rapidpack.com.do
+enviosrdcourier.com
+couriers.do
+dhl.com
+fedex.com
+ups.com
+
+# ============================================
+# FOOD DELIVERY (2)
+# ============================================
+pedidosya.com.do
+ubereats.com
+
+# ============================================
+# RIDE-HAILING (3)
+# ============================================
+uber.com
+didiglobal.com
+indriver.com
+
+# ============================================
+# CAR RENTAL (5)
+# ============================================
+amerirentcarrental.com
+jumbocar-dominicanrepublic.com
+autodominicana.rent
+puntacanarentacar.com
+finalrentals.do
+
+# ============================================
+# TRAVEL AGENCIES (9)
+# ============================================
+dominicantours.com.do
+colonialtours.com
+travelviajesdo.com
+rosedy.com
+milenatours.com.do
+dominicantravelsolutions.com
+dominicanexpert.com
+dominicanshuttles.com
+dominicanbus.com
+
+# ============================================
+# ISP / HOSTING / DOMAIN (6)
+# ============================================
+nic.do
+aster.com.do
+hostchocolate.com
+grupohost.com
+rubycom.com
+fitram.gob.do
+
+# ============================================
+# LOTTERY / GAMING (10)
+# ============================================
+loteka.com.do
+loteriareal.com
+lotedom.com.do
+laprimera.com.do
+lasuerte.com.do
+loteriasdominicanas.com
+bolomagico.com
+betcris.do
+juancitosport.com.do
+casinocity.do
+
+# ============================================
+# TECH STARTUPS (6)
+# ============================================
+tagshelf.com
+alterestate.com
+bluewallet.io
+evergo.life
+shopmundo.com.do
+gomarket.com.do
+
+# ============================================
+# CLASSIFIEDS / MARKETPLACES (6)
+# ============================================
+mercadolibre.com.do
+emarket.com.do
+laclave.com.do
+evisos.com.do
+livio.com
+conectate.com.do
+
+# ============================================
+# INSURANCE - EXPANDED (7)
+# ============================================
+dominicanadeseguros.com
+segurossura.com.do
+atlanticaseguros.com.do
+cadoar.org.do
+plazalama.com.do
+jumbo.com.do
+medicoexpressrd.com
+
+# ============================================
+# DIRECTORIES (5)
+# ============================================
+paginasamarillas.com.do
+yellowpages.do
+dd.com.do
+iq.edu.do
+empleateya.mt.gob.do
