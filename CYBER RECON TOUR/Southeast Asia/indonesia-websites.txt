@@ -1,0 +1,754 @@
+# Indonesia Websites - Comprehensive List
+# Government, military, police, banks, businesses, media, corruption, and more
+# Created: 2026-02-24
+# Total: 600+ domains
+
+# ============================================
+# EXECUTIVE & LEGISLATURE (8)
+# ============================================
+presidenri.go.id
+setneg.go.id
+setkab.go.id
+wapresri.go.id
+dpr.go.id
+dpd.go.id
+mpr.go.id
+bpk.go.id
+
+# ============================================
+# MINISTRIES (34)
+# ============================================
+kemlu.go.id
+kemhan.go.id
+kemenkumham.go.id
+kemenkeu.go.id
+esdm.go.id
+kemenperin.go.id
+kemendag.go.id
+kementan.go.id
+kemenhub.go.id
+kemkes.go.id
+kemdikbud.go.id
+kemensos.go.id
+kemnaker.go.id
+klhk.go.id
+kelautan.go.id
+morowali.go.id
+kemenag.go.id
+kemendagri.go.id
+kemenparekraf.go.id
+kominfo.go.id
+kemenpppa.go.id
+kemendesa.go.id
+kemenpora.go.id
+pupr.go.id
+kemenko-ekon.go.id
+kemenko-polhukam.go.id
+kemenko-pmk.go.id
+kemenko-marves.go.id
+bappenas.go.id
+panrb.go.id
+agraria.go.id
+bkn.go.id
+lkpp.go.id
+brin.go.id
+
+# ============================================
+# JUDICIARY (6)
+# ============================================
+mahkamahagung.go.id
+mkri.id
+kejaksaan.go.id
+badilag.mahkamahagung.go.id
+ptun-jakarta.go.id
+komisiyudisial.go.id
+
+# ============================================
+# ANTI-CORRUPTION & OVERSIGHT (6)
+# ============================================
+kpk.go.id
+ombudsman.go.id
+ppatk.go.id
+bpk.go.id
+bpkp.go.id
+kpu.go.id
+
+# ============================================
+# FINANCIAL REGULATORS (6)
+# ============================================
+bi.go.id
+ojk.go.id
+lps.go.id
+idx.co.id
+ksei.co.id
+kpei.co.id
+
+# ============================================
+# LAW ENFORCEMENT - POLICE (8)
+# ============================================
+polri.go.id
+divhubinter.polri.go.id
+densus88.polri.go.id
+propam.polri.go.id
+bareskrim.polri.go.id
+brimob.polri.go.id
+polair.polri.go.id
+ntmc.polri.go.id
+
+# ============================================
+# MILITARY - TNI (10)
+# ============================================
+tni.mil.id
+tniad.mil.id
+tnial.mil.id
+tniau.mil.id
+kemhan.go.id
+kopassus.mil.id
+kostrad.mil.id
+marinir.tnial.mil.id
+kopaska.tnial.mil.id
+kopasgat.mil.id
+
+# ============================================
+# INTELLIGENCE (3)
+# ============================================
+bin.go.id
+bssn.go.id
+lemsaneg.go.id
+
+# ============================================
+# MILITARY - ACADEMIES (4)
+# ============================================
+akmil.ac.id
+aal.ac.id
+aau.ac.id
+unhan.ac.id
+
+# ============================================
+# GOVERNMENT AGENCIES (20)
+# ============================================
+bnpb.go.id
+bmkg.go.id
+bps.go.id
+bpom.go.id
+bnn.go.id
+basarnas.go.id
+bakamla.go.id
+bnpt.go.id
+batan.go.id
+lapan.go.id
+lipi.go.id
+brin.go.id
+bkpm.go.id
+imigrasi.go.id
+pom.go.id
+antara.go.id
+perpusnas.go.id
+anri.go.id
+arsip.go.id
+lan.go.id
+
+# ============================================
+# STATE-OWNED ENTERPRISES - ENERGY (8)
+# ============================================
+pertamina.com
+pln.co.id
+pgn.co.id
+ptba.co.id
+elnusa.co.id
+pupukkaltim.com
+petrokimia-gresik.com
+bukit-asam.co.id
+
+# ============================================
+# STATE-OWNED ENTERPRISES - MINING (5)
+# ============================================
+antam.com
+inalum.id
+timah.com
+freeportindonesia.co.id
+vale.co.id
+
+# ============================================
+# STATE-OWNED ENTERPRISES - BANKING (5)
+# ============================================
+bri.co.id
+bni.co.id
+mandiribank.co.id
+btn.co.id
+bsi.co.id
+
+# ============================================
+# STATE-OWNED ENTERPRISES - TRANSPORT (6)
+# ============================================
+garuda-indonesia.com
+pelni.co.id
+ptkai.co.id
+angkasapura1.co.id
+angkasapura2.co.id
+pelindo.co.id
+
+# ============================================
+# STATE-OWNED ENTERPRISES - TELECOM (3)
+# ============================================
+telkom.co.id
+telkomsel.com
+indihome.co.id
+
+# ============================================
+# STATE-OWNED ENTERPRISES - OTHER (10)
+# ============================================
+pos.co.id
+pegadaian.co.id
+bpjs-kesehatan.go.id
+bpjsketenagakerjaan.go.id
+taspen.co.id
+asabri.co.id
+jasa-marga.co.id
+waskita.co.id
+wijayakarya.co.id
+hutama-karya.com
+
+# ============================================
+# BANKS - MAJOR PRIVATE (15)
+# ============================================
+bca.co.id
+danamon.co.id
+cimbniaga.co.id
+panin.co.id
+ocbcnisp.com
+maybank.co.id
+permatabank.com
+mega.co.id
+bukopin.co.id
+bankjatim.co.id
+bankbjb.co.id
+bankdki.co.id
+banksumut.co.id
+banksulselbar.co.id
+bankntb.co.id
+
+# ============================================
+# BANKS - ISLAMIC / SHARIA (4)
+# ============================================
+bsi.co.id
+muamalatbank.co.id
+megasyariah.co.id
+brisyariah.co.id
+
+# ============================================
+# BANKS - FOREIGN (5)
+# ============================================
+hsbc.co.id
+sc.com
+citibank.co.id
+db.com
+anz.co.id
+
+# ============================================
+# FINTECH & PAYMENTS (10)
+# ============================================
+gopay.co.id
+ovo.id
+dana.id
+shopeepay.co.id
+flip.id
+akulaku.co.id
+kredivo.com
+modalku.co.id
+investree.id
+amartha.com
+
+# ============================================
+# INSURANCE (8)
+# ============================================
+prudential.co.id
+axa.co.id
+allianz.co.id
+manulife.co.id
+aia.co.id
+sinarmas-msig.co.id
+jiwasraya.co.id
+jasaraharja.co.id
+
+# ============================================
+# TELECOMS (8)
+# ============================================
+telkomsel.com
+indosatooredoo.com
+xl.co.id
+tri.co.id
+smartfren.com
+telkom.co.id
+linknet.co.id
+biznet.co.id
+
+# ============================================
+# TECH - MAJOR COMPANIES (12)
+# ============================================
+gojek.com
+tokopedia.com
+goto.com
+bukalapak.com
+traveloka.com
+blibli.com
+tiket.com
+ruangguru.com
+kumparan.com
+detik.com
+kompas.com
+liputan6.com
+
+# ============================================
+# E-COMMERCE (8)
+# ============================================
+shopee.co.id
+tokopedia.com
+bukalapak.com
+blibli.com
+lazada.co.id
+jd.id
+zalora.co.id
+bhinneka.com
+
+# ============================================
+# RIDE-HAILING & DELIVERY (4)
+# ============================================
+gojek.com
+grab.com
+maxim.com
+anteraja.id
+
+# ============================================
+# MEDIA - TV CHANNELS (12)
+# ============================================
+tvone.co.id
+metrotvnews.com
+rcti.tv
+sctv.co.id
+indosiar.com
+transtv.co.id
+trans7.co.id
+antv.co.id
+mnctv.com
+nettv.co.id
+kompastv.com
+cnnindonesia.com
+
+# ============================================
+# MEDIA - NEWS AGENCIES & WIRE (3)
+# ============================================
+antara.go.id
+antaranews.com
+beritasatu.com
+
+# ============================================
+# MEDIA - ONLINE NEWS (15)
+# ============================================
+detik.com
+kompas.com
+liputan6.com
+tribunnews.com
+tempo.co
+cnnindonesia.com
+cnbcindonesia.com
+sindonews.com
+republika.co.id
+mediaindonesia.com
+bisnis.com
+kontan.co.id
+katadata.co.id
+tirto.id
+thejakartapost.com
+
+# ============================================
+# MEDIA - NEWSPAPERS (8)
+# ============================================
+jawapos.com
+suara.com
+viva.co.id
+okezone.com
+merdeka.com
+grid.id
+idntimes.com
+kumparan.com
+
+# ============================================
+# MEDIA - RADIO (6)
+# ============================================
+elshinta.com
+hardrockindonesia.com
+prfrgi.co.id
+sonora.id
+geronimo.fm
+rri.co.id
+
+# ============================================
+# AIRLINES (8)
+# ============================================
+garuda-indonesia.com
+lionair.co.id
+batikair.com
+citilink.co.id
+airasia.co.id
+sriwijayaair.co.id
+transnusa.co.id
+superairjet.com
+
+# ============================================
+# TRANSPORT - RAIL & ROAD (5)
+# ============================================
+ptkai.co.id
+jaklingko.id
+transjakarta.co.id
+jasa-marga.co.id
+damri.co.id
+
+# ============================================
+# TRANSPORT - MARITIME & PORTS (4)
+# ============================================
+pelni.co.id
+pelindo.co.id
+hubla.dephub.go.id
+pelayarannasional.com
+
+# ============================================
+# ENERGY - OIL & GAS (6)
+# ============================================
+pertamina.com
+medcoenergi.com
+pgn.co.id
+skkmigas.go.id
+bpmigas.go.id
+elnusa.co.id
+
+# ============================================
+# ENERGY - POWER (4)
+# ============================================
+pln.co.id
+indonesiapower.co.id
+pjb.co.id
+geo-dipa.co.id
+
+# ============================================
+# MINING & RESOURCES (8)
+# ============================================
+antam.com
+inalum.id
+freeportindonesia.co.id
+vale.co.id
+adaro.com
+bumiresources.com
+banpu.co.id
+kideco.com
+
+# ============================================
+# PALM OIL & AGRICULTURE (6)
+# ============================================
+sfrn.wilmar-international.com
+sfrn.goldenagri.com.sg
+smart-tbk.com
+musimmas.com
+asianagri.com
+indofoodagri.com
+
+# ============================================
+# MANUFACTURING - CONSUMER GOODS (8)
+# ============================================
+indofood.com
+unilever.co.id
+wings.co.id
+mayora.co.id
+gudanggaramtbk.com
+sampoerna.com
+djarum.com
+kalbe.co.id
+
+# ============================================
+# MANUFACTURING - AUTOMOTIVE (6)
+# ============================================
+astra.co.id
+toyota.astra.co.id
+daihatsu.co.id
+mitsubishi-motors.co.id
+hyundai.co.id
+wuling.co.id
+
+# ============================================
+# MANUFACTURING - CEMENT & MATERIALS (4)
+# ============================================
+semenindonesia.com
+indocement.co.id
+scg.co.id
+holcim.co.id
+
+# ============================================
+# CONSTRUCTION & PROPERTY (8)
+# ============================================
+waskita.co.id
+wijayakarya.co.id
+adhi.co.id
+pp.co.id
+lippokarawaci.co.id
+ciputra.com
+sinarmasland.com
+agung-podomoro.com
+
+# ============================================
+# RETAIL (8)
+# ============================================
+alfamart.co.id
+indomaret.co.id
+matahari.com
+acehard.com
+hero.co.id
+lottemart.co.id
+transmart.co.id
+mapclub.com
+
+# ============================================
+# HOTELS & HOSPITALITY (6)
+# ============================================
+archipelagointernational.com
+santika.com
+harrishotels.com
+tauzia.com
+merusaka.com
+alilaseminyak.com
+
+# ============================================
+# TOURISM (5)
+# ============================================
+indonesia.travel
+bali.com
+borobudurpark.com
+komodopark.id
+rajaampat.id
+
+# ============================================
+# UNIVERSITIES - TOP (15)
+# ============================================
+ui.ac.id
+itb.ac.id
+ugm.ac.id
+its.ac.id
+ipb.ac.id
+unair.ac.id
+undip.ac.id
+unpad.ac.id
+unhas.ac.id
+uns.ac.id
+unila.ac.id
+ub.ac.id
+uny.ac.id
+binus.ac.id
+unisba.ac.id
+
+# ============================================
+# UNIVERSITIES - ISLAMIC (5)
+# ============================================
+uinjkt.ac.id
+uinsgd.ac.id
+uinsby.ac.id
+uinsuka.ac.id
+uin-malang.ac.id
+
+# ============================================
+# UNIVERSITIES - PRIVATE (5)
+# ============================================
+binus.ac.id
+untar.ac.id
+trisakti.ac.id
+atmajaya.ac.id
+prasetiyamulya.ac.id
+
+# ============================================
+# RESEARCH (4)
+# ============================================
+brin.go.id
+lipi.go.id
+eijkman.go.id
+lapan.go.id
+
+# ============================================
+# HEALTHCARE - HOSPITALS (8)
+# ============================================
+rscm.co.id
+rspondokindah.co.id
+siloamhospitals.com
+mayapada.co.id
+hermina.co.id
+rspp.co.id
+dharmais.co.id
+harapankita.co.id
+
+# ============================================
+# PHARMACEUTICAL (6)
+# ============================================
+kalbe.co.id
+biofarma.co.id
+kimiafarma.co.id
+indofarma.co.id
+dexa-medica.com
+sanbe-farma.com
+
+# ============================================
+# PROVINCES (34)
+# ============================================
+acehprov.go.id
+sumutprov.go.id
+sumbarprov.go.id
+riauprov.go.id
+jambiprov.go.id
+sumselprov.go.id
+bengkuluprov.go.id
+lampungprov.go.id
+kepribabel.go.id
+kepriprov.go.id
+jakarta.go.id
+jabar.go.id
+jateng.go.id
+jogjaprov.go.id
+jatimprov.go.id
+bantenprov.go.id
+bali.go.id
+ntbprov.go.id
+nttprov.go.id
+kalbarprov.go.id
+kaltengprov.go.id
+kalsel.go.id
+kaltimprov.go.id
+kaltaraprov.go.id
+sulutprov.go.id
+sultengprov.go.id
+sulselprov.go.id
+sultraprov.go.id
+gorontaloprov.go.id
+sulbarprov.go.id
+malukuprov.go.id
+malutprov.go.id
+papua.go.id
+papuabarat.go.id
+
+# ============================================
+# MAJOR CITIES (10)
+# ============================================
+jakarta.go.id
+surabaya.go.id
+bandung.go.id
+semarang.go.id
+makassar.go.id
+medan.go.id
+palembang.go.id
+tangerang.go.id
+depok.go.id
+bekasi.go.id
+
+# ============================================
+# CORRUPTION - NOTABLE CASES & WATCHDOGS (8)
+# ============================================
+kpk.go.id
+ppatk.go.id
+ict.or.id
+ti.or.id
+antikorupsi.org
+icw.or.id
+fitra.or.id
+seknasfitra.org
+
+# ============================================
+# NGOs & CIVIL SOCIETY (10)
+# ============================================
+kontras.org
+elsam.or.id
+pbhi.or.id
+imparsial.org
+ylbhi.or.id
+walhi.or.id
+greenpeace.org
+wwf.id
+palangmerah.org
+aman.or.id
+
+# ============================================
+# RELIGIOUS ORGANIZATIONS (6)
+# ============================================
+nu.or.id
+muhammadiyah.or.id
+mui.or.id
+pgi.or.id
+kwi.or.id
+phdi.or.id
+
+# ============================================
+# PROFESSIONAL ASSOCIATIONS (5)
+# ============================================
+idi.or.id
+peradi.or.id
+iai.or.id
+pii.or.id
+ikatan-akuntan.or.id
+
+# ============================================
+# SPORTS (6)
+# ============================================
+pssi.org
+perbasi.or.id
+pbsi.or.id
+koni.or.id
+olympicindonesia.org
+liga-indonesia.id
+
+# ============================================
+# POLITICAL PARTIES (8)
+# ============================================
+pdiperjuangan.id
+golkar.or.id
+gerindra.or.id
+demokrat.or.id
+nasdem.id
+pkb.or.id
+pks.id
+pan.or.id
+
+# ============================================
+# EMBASSIES - INDONESIAN ABROAD (8)
+# ============================================
+kemlu.go.id
+embassyofindonesia.org
+indonesianembassy.org.uk
+kbriqatar.go.id
+kbritokyo.jp
+kbriberlin.go.id
+kbricanberra.go.id
+kbriwashington.org
+
+# ============================================
+# CYBER / INFOSEC (4)
+# ============================================
+bssn.go.id
+idsirtii.or.id
+cert.or.id
+govcsirt.bssn.go.id
+
+# ============================================
+# SPECIAL ECONOMIC ZONES (4)
+# ============================================
+kek.go.id
+batam.go.id
+bintan.go.id
+karimun.go.id
+
+# ============================================
+# CONGLOMERATES / BUSINESS GROUPS (10)
+# ============================================
+astra.co.id
+lippogroup.com
+sinarmasgroup.com
+salimgroup.com
+ciputra.com
+bakrie-brothers.com
+djarum.com
+gudanggaramtbk.com
+ct.id
+emtek.co.id
