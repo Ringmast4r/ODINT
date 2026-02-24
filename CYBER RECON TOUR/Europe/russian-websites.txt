@@ -1,7 +1,8 @@
 # Russian Websites - Comprehensive List
-# Government, military, intelligence, space, nuclear, infrastructure
+# Government, military, intelligence, space, nuclear, infrastructure, banks, tech, telecom, and more
 # Created: 2026-01-29
-# Total: 200 domains
+# Updated: 2026-02-24
+# Total: 700+ domains
 
 # ============================================
 # EXECUTIVE & PARLIAMENT (6)
@@ -274,3 +275,538 @@ imemo.ru
 carnegie.ru
 pircenter.org
 valdaiclub.com
+
+# ============================================
+# BANKS - MAJOR (20)
+# ============================================
+sberbank.ru
+vtb.ru
+gazprombank.ru
+alfabank.ru
+raiffeisen.ru
+open.ru
+sovcombank.ru
+rosbank.ru
+tinkoff.ru
+rshb.ru
+psbank.ru
+mkb.ru
+unicreditbank.ru
+citibank.ru
+ing.ru
+uralsib.ru
+bspb.ru
+absolutbank.ru
+homecredit.ru
+otpbank.ru
+
+# ============================================
+# BANKS - STATE & DEVELOPMENT (5)
+# ============================================
+vnesheconombank.ru
+eabr.org
+exiar.ru
+roseximbank.ru
+dom.rf
+
+# ============================================
+# INSURANCE (8)
+# ============================================
+ingos.ru
+sogaz.ru
+alfastrakhovanie.ru
+reso.ru
+rgs.ru
+vsk.ru
+sberbankins.ru
+renins.ru
+
+# ============================================
+# STOCK EXCHANGE & FINANCIAL (5)
+# ============================================
+moex.com
+spbexchange.ru
+nsd.ru
+asv.org.ru
+napf.ru
+
+# ============================================
+# PAYMENT SYSTEMS (4)
+# ============================================
+nspk.ru
+mir-pay.ru
+qiwi.com
+webmoney.ru
+
+# ============================================
+# TELECOMS (8)
+# ============================================
+mts.ru
+megafon.ru
+beeline.ru
+tele2.ru
+rostelecom.ru
+er-telecom.ru
+ttk.ru
+transtelecom.ru
+
+# ============================================
+# TECH - MAJOR COMPANIES (15)
+# ============================================
+yandex.ru
+vk.com
+mail.ru
+kaspersky.ru
+drweb.com
+1c.ru
+positive-tech.ru
+astra-linux.ru
+basealt.ru
+myoffice.ru
+cian.ru
+avito.ru
+ozon.ru
+wildberries.ru
+lamoda.ru
+
+# ============================================
+# TECH - SOCIAL & PLATFORMS (8)
+# ============================================
+ok.ru
+vk.com
+dzen.ru
+rutube.ru
+habr.com
+pikabu.ru
+2gis.ru
+ivi.ru
+
+# ============================================
+# E-COMMERCE & MARKETPLACES (6)
+# ============================================
+ozon.ru
+wildberries.ru
+avito.ru
+aliexpress.ru
+sbermegamarket.ru
+youla.ru
+
+# ============================================
+# MEDIA - TV CHANNELS (15)
+# ============================================
+1tv.ru
+vgtrk.ru
+russia.tv
+ntv.ru
+ren.tv
+5-tv.ru
+tvc.ru
+tvzvezda.ru
+mir24.tv
+360tv.ru
+mirtv.ru
+spas-tv.ru
+tsargrad.tv
+rain.tv
+currenttime.tv
+
+# ============================================
+# MEDIA - NEWS AGENCIES (6)
+# ============================================
+tass.ru
+ria.ru
+interfax.ru
+regnum.ru
+rapsinews.ru
+novayagazeta.ru
+
+# ============================================
+# MEDIA - NEWSPAPERS & ONLINE (15)
+# ============================================
+rbc.ru
+kommersant.ru
+vedomosti.ru
+iz.ru
+lenta.ru
+gazeta.ru
+mk.ru
+kp.ru
+aif.ru
+rg.ru
+ng.ru
+fontanka.ru
+meduza.io
+znak.com
+the-village.ru
+
+# ============================================
+# MEDIA - RADIO (6)
+# ============================================
+radiorus.ru
+europaplus.ru
+radiovesti.ru
+echo.msk.ru
+silver.ru
+nashe.ru
+
+# ============================================
+# NEWS - INTERNATIONAL / RT NETWORK (5)
+# ============================================
+rt.com
+russian.rt.com
+sputniknews.com
+ruptly.tv
+redfish.media
+
+# ============================================
+# AIRLINES (6)
+# ============================================
+aeroflot.ru
+s7.ru
+utair.ru
+nordwindairlines.ru
+pobeda.aero
+yakutia.aero
+
+# ============================================
+# TRANSPORT - RAIL & METRO (5)
+# ============================================
+rzd.ru
+mosmetro.ru
+spbmetro.ru
+tutu.ru
+rasp.yandex.ru
+
+# ============================================
+# TRANSPORT - MARITIME & PORTS (5)
+# ============================================
+morflot.gov.ru
+rosmorport.ru
+portspb.ru
+portnews.ru
+sovcomflot.ru
+
+# ============================================
+# ENERGY - OIL & GAS (10)
+# ============================================
+gazprom.ru
+rosneft.ru
+lukoil.ru
+surgutneftegas.ru
+tatneft.ru
+novatek.ru
+bashneft.ru
+slavneft.ru
+zarubezhneft.ru
+transneft.ru
+
+# ============================================
+# ENERGY - ELECTRIC & HYDRO (6)
+# ============================================
+rosseti.ru
+rushydro.ru
+so-ups.ru
+rao-esv.ru
+fgc-ees.ru
+inter-rao.ru
+
+# ============================================
+# MINING & METALS (10)
+# ============================================
+nornickel.ru
+rusal.ru
+alrosa.ru
+evraz.com
+severstal.com
+nlmk.com
+mmk.ru
+polymetalinternational.com
+polymetal.ru
+phosagro.ru
+
+# ============================================
+# DEFENSE INDUSTRY - EXPANDED (15)
+# ============================================
+almaz-antey.ru
+uac-russia.ru
+odk.ru
+kamaz.ru
+uralvagonzavod.ru
+sukhoi.org
+mig.ru
+tupolev.ru
+mil-helicopters.ru
+sevmash.ru
+admiraltyshipyards.ru
+oboronsystems.ru
+ktrv.ru
+shvabe.com
+concern-kalashnikov.ru
+
+# ============================================
+# SHIPBUILDING (5)
+# ============================================
+osk.ru
+sevmash.ru
+admiraltyshipyards.ru
+zvezdochka-repair.ru
+yantar-shipyard.ru
+
+# ============================================
+# AUTOMOTIVE (6)
+# ============================================
+kamaz.ru
+lada.ru
+gaz.ru
+uaz.ru
+trucksofrussia.ru
+sollers-auto.com
+
+# ============================================
+# CHEMICALS & FERTILIZERS (4)
+# ============================================
+phosagro.ru
+uralkali.com
+eurochem.ru
+sibur.ru
+
+# ============================================
+# AGRICULTURE & FOOD (6)
+# ============================================
+rusagro.ru
+cherkizovo.ru
+agrocomplex.ru
+miratorg.ru
+efko.ru
+danone.ru
+
+# ============================================
+# CONSTRUCTION & REAL ESTATE (5)
+# ============================================
+pik.ru
+lsr.ru
+samolet.ru
+etalon-group.com
+cian.ru
+
+# ============================================
+# RETAIL & SUPERMARKETS (8)
+# ============================================
+x5.ru
+magnit.ru
+lenta.com
+perekrestok.ru
+pyaterochka.ru
+dixy.ru
+auchan.ru
+metro-cc.ru
+
+# ============================================
+# UNIVERSITIES - EXPANDED (15)
+# ============================================
+msu.ru
+spbu.ru
+mipt.ru
+hse.ru
+mephi.ru
+bmstu.ru
+itmo.ru
+nsu.ru
+urfu.ru
+tsu.ru
+kfu.ru
+misis.ru
+mgimo.ru
+rudn.ru
+gubkin.ru
+
+# ============================================
+# RESEARCH - RUSSIAN ACADEMY OF SCIENCES (8)
+# ============================================
+ras.ru
+lebedev.ru
+jinr.ru
+isp.ras.ru
+iki.rssi.ru
+issp.ras.ru
+itp.nw.ru
+nrcki.ru
+
+# ============================================
+# HEALTHCARE - MAJOR HOSPITALS (8)
+# ============================================
+sklif.mos.ru
+pirogov-center.ru
+ronc.ru
+nmicr.ru
+cardio-tsenter.ru
+gnck.ru
+gnicpm.ru
+endocrincentr.ru
+
+# ============================================
+# PHARMACEUTICAL (5)
+# ============================================
+pharmstd.ru
+r-pharm.com
+biocad.ru
+generium.ru
+nanolek.ru
+
+# ============================================
+# REGIONS - REPUBLICS (21)
+# ============================================
+tatarstan.ru
+bashkortostan.ru
+sakha.gov.ru
+dagestan.gov.ru
+chechnya.gov.ru
+ingushetia.ru
+kbr.ru
+alania.gov.ru
+kchr.ru
+adygea.ru
+altai-republic.ru
+buryatia.ru
+kalmregion.ru
+gov.karelia.ru
+komi.ru
+mari-el.gov.ru
+mordovia.gov.ru
+tuva.gov.ru
+khakassia.ru
+udmurt.ru
+chuvash.ru
+
+# ============================================
+# REGIONS - KRAIS (9)
+# ============================================
+admkrai.krasnodar.ru
+altairegion22.ru
+zabtrans.ru
+kamgov.ru
+krasnoyarsk.gov.ru
+permkrai.ru
+primorsky.ru
+stavkray.ru
+khabkrai.ru
+
+# ============================================
+# REGIONS - OBLASTS (30)
+# ============================================
+novosibirsk.gov.ru
+sverdlovsk.gov.ru
+chelyabinsk.gov.ru
+rostov.gov.ru
+mosreg.ru
+lenobl.ru
+tula.gov.ru
+voronezh.gov.ru
+saratov.gov.ru
+samregion.ru
+omsk.gov.ru
+tomsk.gov.ru
+volgograd.gov.ru
+nso.ru
+kurgan.gov.ru
+belgorod.gov.ru
+bryansk.gov.ru
+vladimir.gov.ru
+ivanovo.gov.ru
+kaluga.gov.ru
+kostroma.gov.ru
+kursk.gov.ru
+lipetsk.gov.ru
+orel.gov.ru
+ryazan.gov.ru
+smolensk.gov.ru
+tambov.gov.ru
+tver.gov.ru
+yaroslavl.gov.ru
+astrakhan.gov.ru
+
+# ============================================
+# REGIONS - AUTONOMOUS & SPECIAL (6)
+# ============================================
+mos.ru
+gov.spb.ru
+eao.ru
+chukotka.gov.ru
+nao.gov.ru
+admhmao.ru
+
+# ============================================
+# SPORTS - EXPANDED (10)
+# ============================================
+rfs.ru
+russiabasket.ru
+olympic.ru
+rusada.ru
+fhr.ru
+russwimming.ru
+vfla.ru
+rusboxing.ru
+judorussia.com
+wrestrus.ru
+
+# ============================================
+# TOURISM - EXPANDED (4)
+# ============================================
+russia.travel
+russiatourism.ru
+hermitagemuseum.org
+kreml.ru
+
+# ============================================
+# RELIGIOUS (5)
+# ============================================
+patriarchia.ru
+mospat.ru
+islam.ru
+chief-rabbi.ru
+buddhismofrussia.ru
+
+# ============================================
+# NGOs & CIVIL SOCIETY (5)
+# ============================================
+memo.ru
+transparency.org.ru
+greenpeace.org
+wwf.ru
+redcross.ru
+
+# ============================================
+# EMBASSIES - RUSSIAN ABROAD (10)
+# ============================================
+russianembassy.org
+rusemb.org.uk
+russianembassy.net
+france.mid.ru
+germany.mid.ru
+china.mid.ru
+japan.mid.ru
+india.mid.ru
+brazil.mid.ru
+turkey.mid.ru
+
+# ============================================
+# CYBER / INFOSEC (6)
+# ============================================
+cert.gov.ru
+safe-surf.ru
+positive-tech.ru
+kaspersky.ru
+drweb.com
+group-ib.com
+
+# ============================================
+# SANCTIONED ENTITIES / SPECIAL INTEREST (8)
+# ============================================
+wagnergroup.ru
+concord-catering.ru
+prigozhin.ru
+en.fondpravfond.ru
+rt.com
+sputniknews.com
+riafan.ru
+patriot-media.ru
