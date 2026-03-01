@@ -1,0 +1,15 @@
+# El Salvador Government Domains — 14 live from 20 scanned | 2026-02-28
+presidencia.gob.sv
+asamblea.gob.sv
+mined.gob.sv
+salud.gob.sv
+mop.gob.sv
+vivienda.gob.sv
+cultura.gob.sv
+gobernacion.gob.sv
+seguridad.gob.sv
+minec.gob.sv
+mag.gob.sv
+mtps.gob.sv
+rrees.gob.sv
+csj.gob.sv
