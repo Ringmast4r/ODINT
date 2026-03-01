@@ -1,0 +1,8 @@
+https://minjuve.gob.ni [200] [37708] [Ministerio de la Juventud] [cloudflare] [Cloudflare,Cloudflare Browser Insights,HTTP/3,cdnjs]
+https://mific.gob.ni [404] [315] [Not Found] [Follow the white rabbit.] [HSTS]
+https://migob.gob.ni [403] [8670] [Just a moment...] [cloudflare] [Cloudflare,HTTP/3]
+https://mined.gob.ni [200] [6180] [cloudflare] [Cloudflare]
+https://cse.gob.ni [200] [105876] [Consejo Supremo Electoral | CSE] [] [AddToAny,Bootstrap,Drupal:8,Google Maps,Lightbox,Modernizr,OWL Carousel,PHP,ProgressBar.js,SweetAlert2,WOW,html2canvas,jQuery,jQuery Migrate:1.2.1]
+https://marena.gob.ni [301,200] [206896] [Marena – Ministerio del Ambiente y de los Recursos Naturales] [nginx/1.14.2] [Bootstrap,Contact Form 7:5.4.1,MailChimp,MailChimp for WordPress:4.9.13,MySQL,Nginx:1.14.2,OWL Carousel,PHP,Popper,ReCaptcha v2 for Contact Form 7:1.2,Slick,Slider Revolution:6.7.15,WordPress:5.9.12,YouTube,jQuery,jQuery Migrate:3.3.2,jQuery UI,prettyPhoto,reCAPTCHA,wpBakery]
+http://ministeriopublico.gob.ni [200] [119489] [Ministerio Público de Nicaragua – Ministerio Público de Nicaragua] [nginx/1.24.0 (Ubuntu)] [Elementor:3.35.3,MySQL,Nginx:1.24.0,PHP,Swiper,Ubuntu,WordPress:6.9.1,jQuery,jQuery Migrate:3.4.1,parallax.js:1.0,particles.js]
+http://minsa.gob.ni [301,] [39107] [The URL you requested has been blocked] []
