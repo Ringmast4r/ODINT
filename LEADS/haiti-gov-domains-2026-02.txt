@@ -1,0 +1,50 @@
+# Haiti Government Domains — Passive Reconnaissance Leads
+# Verified live as of 2026-02-28
+# Source: ODINT Passive Reconnaissance Campaign
+
+## Prime Minister's Office & Executive
+primature.gouv.ht
+communication.gouv.ht
+
+## Ministries
+mae.gouv.ht          — Ministry of Foreign Affairs
+mef.gouv.ht          — Ministry of Finance
+mjsp.gouv.ht         — Ministry of Justice & Security
+menfp.gouv.ht        — Ministry of Education
+mspp.gouv.ht         — Ministry of Health
+mpce.gouv.ht         — Ministry of Commerce
+mtptc.gouv.ht        — Ministry of Public Works
+mast.gouv.ht         — Ministry of Agriculture
+mde.gouv.ht          — Ministry of Environment
+marndr.gouv.ht       — Ministry of Rural Development
+mcfdf.gouv.ht        — Ministry of Women & Family
+mjsac.gouv.ht        — Ministry of Sports & Culture
+mict.gouv.ht         — Ministry of Information & Culture
+
+## Autonomous & Specialized Agencies
+cfrhaiti.gouv.ht     — Financial & Regulatory Commission
+cscahaiti.gouv.ht    — Social Security Commission
+opc.gouv.ht          — Office of the President (Ceremonial)
+onis.gouv.ht         — National Statistics Office
+oavct.gouv.ht        — National Authority (AAVCT)
+ucref.gouv.ht        — Financial Investigations Unit
+dgi.gouv.ht          — Tax Authority
+douane.gouv.ht       — Customs Authority
+bpim.gouv.ht         — Port Authority
+brh.ht               — Central Bank
+bnc.ht               — National Bank (alternate TLD)
+pnh.ht               — National Police
+policenationale.gouv.ht  — National Police (alternate)
+
+## Statistics
+- Total domains scanned: 25
+- Live hosts found: 15
+- 403/403 Forbidden: 4
+- No response: 6
+- Critical DMARC vulnerability: 7 domains
+- Properly configured DMARC: 2 domains
+
+## Detailed Results Available
+See haiti-research-report.md for full technical analysis
+See haiti-dns-analysis.txt for DNS records
+See haiti-httpx-results.txt for technology fingerprints
