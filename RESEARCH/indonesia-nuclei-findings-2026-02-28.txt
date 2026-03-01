@@ -1,0 +1,24 @@
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/bpk.go.id/v2.0/.well-known/openid-configuration ["1c5722ea-7cec-4a39-b89a-b2b15b4a49fc"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/dpd.go.id/v2.0/.well-known/openid-configuration ["7e35752d-7aae-47bc-9c1e-1957d4791588"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/dpr.go.id/v2.0/.well-known/openid-configuration ["6f30d469-5e44-45e0-9f41-45e6e7c1fb4a"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/kemenkeu.go.id/v2.0/.well-known/openid-configuration ["ed6fb366-8322-46f3-915e-c4d037a454a9"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/kemenhub.go.id/v2.0/.well-known/openid-configuration ["e5f7bcc4-b5d1-4dc8-85ac-d90b1f971f6c"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/kemkes.go.id/v2.0/.well-known/openid-configuration ["10cda226-ac4d-491c-ac94-5646477c3b56"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/kemenkumham.go.id/v2.0/.well-known/openid-configuration ["106dfd08-e725-46d5-99cc-b2045125514b"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/esdm.go.id/v2.0/.well-known/openid-configuration ["94fde31f-f4fb-42eb-ac2d-d43e3de594ca"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/setkab.go.id/v2.0/.well-known/openid-configuration ["e7885cc9-3755-4fa3-92ec-a4693941502d"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/kemlu.go.id/v2.0/.well-known/openid-configuration ["6711f5c1-a1bb-4d91-998e-a2d400081571"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/setneg.go.id/v2.0/.well-known/openid-configuration ["ab73d36e-8d23-45b4-915e-523ced066ced"]
+[cookies-without-httponly] [javascript] [info] mpr.go.id ["XSRF-TOKEN"]
+[cookies-without-httponly] [javascript] [info] setkab.go.id ["TSabff80c3029","TS71695e9c027"]
+[cookies-without-httponly] [javascript] [info] setneg.go.id ["PHPSESSID","TS01bad475","TS08422ece027"]
+[cookies-without-secure] [javascript] [info] esdm.go.id ["TS01a56543","TS6cff98ca027"]
+[cookies-without-secure] [javascript] [info] kemenhub.go.id ["XSRF-TOKEN","laravel_session"]
+[cookies-without-secure] [javascript] [info] mpr.go.id ["mpr_go_id_session"]
+[cookies-without-httponly] [javascript] [info] kemenhub.go.id ["XSRF-TOKEN"]
+[cookies-without-httponly] [javascript] [info] esdm.go.id ["PHPSESSID","TS01a56543","TS6cff98ca027"]
+[cookies-without-secure] [javascript] [info] setkab.go.id ["TSabff80c3029","TS71695e9c027"]
+[dns-waf-detect:cloudflare] [dns] [info] wapresri.go.id
+[dns-waf-detect:cloudflare] [dns] [info] kemkes.go.id
+[dns-waf-detect:cloudflare] [dns] [info] mpr.go.id
+[dns-waf-detect:cloudflare] [dns] [info] presidenri.go.id
