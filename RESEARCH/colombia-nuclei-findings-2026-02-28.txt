@@ -1,0 +1,14 @@
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/rtvc.gov.co/v2.0/.well-known/openid-configuration ["63f0dce4-b10f-4ac5-9e8a-be46372f8004"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/cancilleria.gov.co/v2.0/.well-known/openid-configuration ["19b4547b-32c4-4c32-a66d-0f69013f615a"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/presidencia.gov.co/v2.0/.well-known/openid-configuration ["1c20d056-b3e4-4f07-a54c-84e4216a2920"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/funcionpublica.gov.co/v2.0/.well-known/openid-configuration ["5503aac2-7a15-46af-b520-2a675ad1df16"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/mincultura.gov.co/v2.0/.well-known/openid-configuration ["93f28b4e-935c-4c14-88ac-e48697c1fc97"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/mineducacion.gov.co/v2.0/.well-known/openid-configuration ["31fcfb3f-8a0b-4ab5-b792-74c9062b9c8e"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/minjusticia.gov.co/v2.0/.well-known/openid-configuration ["fb1efbcd-be37-4238-84d2-4fac2c7551dc"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/mintransporte.gov.co/v2.0/.well-known/openid-configuration ["5e02621e-6cef-4e33-83e4-a303cdfdd0fb"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/minvivienda.gov.co/v2.0/.well-known/openid-configuration ["59f85572-2867-4480-b111-fc473309f9b3"]
+[phpinfo-files] [http] [low] https://mintransporte.gov.co/test.php ["7.0.33"] [paths="/test.php"]
+[cookies-without-secure] [javascript] [info] mincomercio.gov.co ["cookiesession1"]
+[cookies-without-secure] [javascript] [info] mintransporte.gov.co ["cookiesession1"]
+[dns-waf-detect:cloudflare] [dns] [info] cancilleria.gov.co
+[dns-waf-detect:cloudflare] [dns] [info] mincultura.gov.co
