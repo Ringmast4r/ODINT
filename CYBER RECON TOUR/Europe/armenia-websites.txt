@@ -1,0 +1,93 @@
+# Armenia Websites - Passive Reconnaissance
+# Government domains discovered via subfinder + httpx
+# Created: 2026-03-01
+# Source: Passive enumeration of .am government TLD
+# Total: 84 live hosts from 425 subdomains
+
+# ============================================
+# GOVERNMENT DOMAINS (84)
+# ============================================
+adams.gov.am
+admin.car.mia.gov.am
+ai.gov.am
+anti-corruption.gov.am
+api.car.mia.gov.am
+auction.mia.gov.am
+autodiscover.ai.gov.am
+benefits.hightech.gov.am
+car.mia.gov.am
+cert.gov.am
+cpanel.ai.gov.am
+cpcalendars.ai.gov.am
+cpcontacts.ai.gov.am
+diaspora.gov.am
+elearning.cso.gov.am
+elearning.mta.gov.am
+elections.mia.gov.am
+env.gov.am
+environment.gov.am
+hightech.gov.am
+mail.ai.gov.am
+mail.diaspora.gov.am
+mail.ecoinspect.gov.am
+mail.msib.gov.am
+mail.mta.gov.am
+mail.utfsib.gov.am
+mia.gov.am
+migration.mia.gov.am
+moj.gov.am
+mul2-austria.gov.am
+mul2-batumi.gov.am
+mul2-belarus.gov.am
+mul2-belgium.gov.am
+mul2-bsec.gov.am
+mul2-china.gov.am
+mul2-cis.gov.am
+mul2-coe.gov.am
+mul2-csto.gov.am
+mul2-cyprus.gov.am
+mul2-cz.gov.am
+mul2-egypt.gov.am
+mul2-france.gov.am
+mul2-georgia.gov.am
+mul2-greece.gov.am
+mul2-indonesia.gov.am
+mul2-italy.gov.am
+mul2-kazakhstan.gov.am
+mul2-lithuania.gov.am
+mul2-lyon.gov.am
+mul2-marseille.gov.am
+mul2-mexico.gov.am
+mul2-nato.gov.am
+mul2-nl.gov.am
+mul2-poland.gov.am
+mul2-romania.gov.am
+mul2-rostov.gov.am
+mul2-russia.gov.am
+mul2-sochi.gov.am
+mul2-spb.gov.am
+mul2-sweden.gov.am
+mul2-swiss.gov.am
+mul2-turkmenistan.gov.am
+mul2-uk.gov.am
+mul2-ukraine.gov.am
+mul2-unesco.gov.am
+mul2-un.gov.am
+mul2-usa.gov.am
+mul2-vatican.gov.am
+mulbackup.mfa.gov.am
+mul.mieir.gov.am
+multimedia.gov.am
+new.hightech.gov.am
+notify.tourism.gov.am
+rescue.mia.gov.am
+standards.hightech.gov.am
+stream.cso.gov.am
+webdisk.ai.gov.am
+webmail.ai.gov.am
+www.ai.gov.am
+www.cert.gov.am
+www.edu.am
+www.elearning.cso.gov.am
+www.gov.am
+www.mil.am
