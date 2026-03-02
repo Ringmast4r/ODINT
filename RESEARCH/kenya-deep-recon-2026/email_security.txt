@@ -1,0 +1,5 @@
+=== Email Security ===
+--- SPF ---
+NONE FOUND
+--- DMARC ---
+--- DKIM (default selector) ---

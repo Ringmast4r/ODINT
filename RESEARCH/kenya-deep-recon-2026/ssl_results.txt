@@ -1,0 +1,1976 @@
+=== SSL Certificate Analysis ===
+--- agriculture.kwale.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            06:33:43:db:6e:d4:af:78:2f:3d:9b:80:62:a5:41:4e:99:67
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R13
+        Validity
+            Not Before: Feb 24 18:49:55 2026 GMT
+            Not After : May 25 18:49:54 2026 GMT
+        Subject: CN = cidoamotors.co.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:c8:6f:de:07:c9:d0:b6:45:88:e0:43:7a:e3:b3:
+                    ba:22:9d:b2:e9:5d:84:fd:0e:f2:f5:8b:e8:10:2c:
+                    f3:5a:fc:a2:09:a8:93:c2:d7:55:65:82:05:95:6f:
+                    7e:f3:2a:3d:dd:8f:73:21:07:a4:5f:0d:b6:be:ac:
+                    dc:52:2b:26:2c:2b:e0:cd:53:52:9b:64:df:b5:62:
+                    94:b3:8f:d9:66:d3:2f:99:8f:20:d6:94:ba:9c:0f:
+                    90:6d:91:74:53:00:8a:b1:2e:b6:e3:46:25:d4:b7:
+                    7c:7d:4a:63:77:ba:68:d1:de:92:e7:71:80:c2:a6:
+                    7e:71:53:1d:aa:53:08:40:28:2b:d6:f1:75:d4:e1:
+                    4d:7f:73:a8:a7:ab:4b:cc:e0:d8:b8:1a:94:55:e8:
+                    85:14:f0:4c:c7:fd:0e:2c:2d:5c:00:6e:43:f5:59:
+                    d7:54:b5:f9:a5:9a:ae:b2:cf:c4:a0:23:0a:6c:3d:
+                    c6:86:67:c9:2e:b1:b4:e6:35:43:1c:33:99:37:d3:
+                    c9:85:47:19:4c:88:9e:a3:95:d7:92:7f:eb:93:f6:
+                    d3:d5:3d:c2:ee:d2:82:48:bf:da:7b:94:64:3e:a8:
+                    59:b0:5f:60:7d:52:ab:26:ab:12:7d:ff:fa:be:c6:
+                    16:a4:16:02:1a:84:02:1b:d9:41:7b:ed:9c:92:97:
+                    39:03
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                80:07:02:9D:EE:71:D4:0C:D0:C7:1A:15:4C:DA:3D:B5:54:D3:75:49
+            X509v3 Authority Key Identifier: 
+                keyid:E7:AB:9F:0F:2C:33:A0:53:D3:5E:4F:78:C8:B2:84:0E:3B:D6:92:33
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r13.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:*.cidoamotors.co.ke, DNS:cidoamotors.co.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r13.c.lencr.org/104.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 49:9C:9B:69:DE:1D:7C:EC:FC:36:DE:CD:87:64:A6:B8:
+                                5B:AF:0A:87:80:19:D1:55:52:FB:E9:EB:29:DD:F8:C3
+                    Timestamp : Feb 24 19:48:25.832 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:E0:2D:9B:70:21:08:B2:E2:6E:8B:93:
+                                8F:C8:80:11:0E:CC:34:D7:39:79:51:F4:FF:EC:F8:91:
+                                7B:9F:05:7F:C1:02:21:00:9A:5C:6E:2E:DD:1B:AC:3F:
+                                2D:00:5E:35:46:75:C3:4A:92:78:AB:A8:F9:AC:58:D8:
+                                99:93:35:31:43:D2:C9:A7
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 96:97:64:BF:55:58:97:AD:F7:43:87:68:37:08:42:77:
+                                E9:F0:3A:D5:F6:A4:F3:36:6E:46:A4:3F:0F:CA:A9:C6
+                    Timestamp : Feb 24 19:48:25.902 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:4E:28:6F:3F:E4:C4:24:9F:FE:D2:53:B6:
+                                15:72:77:E0:58:5C:6B:5C:67:24:58:10:3E:0F:2A:64:
+                                D3:82:D8:70:02:20:1B:12:71:30:CC:C7:4E:26:E7:D5:
+                                63:0C:74:FB:42:A9:18:74:46:3D:85:64:8B:07:8F:20:
+                                FC:0F:14:46:2C:A3
+    Signature Algorithm: sha256WithRSAEncryption
+         0f:d4:0a:4a:ce:d0:b2:1a:01:76:c0:05:2f:4a:c7:a7:f7:86:
+         13:4b:57:e3:e3:26:13:a7:95:9d:d0:26:84:b3:e2:49:35:95:
+         e0:3b:f7:72:0a:ee:a9:71:f9:57:ef:c2:e3:b2:35:2b:d9:e0:
+         97:53:c8:d7:df:26:a9:8b:50:b1:51:13:ab:17:ba:55:0e:c6:
+         3a:6e:df:9d:79:87:ed:8b:2c:84:e9:8e:3f:48:a1:b5:31:f9:
+         e2:54:58:59:95:48:1e:5d:0f:82:1e:f9:e3:2d:f4:3e:89:63:
+         81:e2:db:be:b8:2a:07:17:b5:41:0b:c6:f0:ae:3e:fe:da:25:
+         34:2a:fe:2e:d3:1a:a6:9c:86:e4:27:c4:ee:43:c6:0f:fa:c0:
+         31:84:e0:6f:42:c6:f7:84:63:49:12:7b:45:dd:4c:33:4d:be:
+         fb:55:75:ec:80:47:49:9a:53:18:84:a8:a6:a7:3d:ef:b1:5c:
+         9a:24:f8:95:a1:38:a3:f5:47:fc:03:9d:d1:7f:17:09:cb:68:
+         26:28:e0:15:de:b9:66:ff:29:a4:0b:38:78:87:d7:42:6c:2e:
+         35:d3:93:93:cd:a6:5c:ea:86:d3:94:f0:9b:3f:d6:16:b2:94:
+         bd:00:0e:f6:31:44:15:8b:ba:7b:dd:d0:6d:44:f2:55:0d:b7:
+         c8:be:eb:57
+notBefore=Feb 24 18:49:55 2026 GMT
+notAfter=May 25 18:49:54 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R13
+subject=CN = cidoamotors.co.ke
+--- ajiradigital.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            06:4b:56:f6:1c:26:78:46:ac:25:63:2f:9e:86:75:e1:d2:14
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = Let's Encrypt, CN = E7
+        Validity
+            Not Before: Dec 28 21:48:19 2025 GMT
+            Not After : Mar 28 21:48:18 2026 GMT
+        Subject: CN = ajiradigital.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:c4:cb:53:e9:61:d2:1c:59:df:8b:68:7e:ae:24:
+                    63:ea:43:fd:d3:54:d5:40:93:ac:c9:73:49:92:25:
+                    5a:3b:00:65:45:01:c6:a3:94:c6:6b:41:59:ed:32:
+                    26:c5:44:a2:5d:3a:39:c9:73:6a:7a:3a:19:80:b7:
+                    d3:13:19:b1:78
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                E8:E8:84:EC:F7:AC:DC:58:19:8C:F4:43:0C:97:0F:D0:45:2F:2D:A9
+            X509v3 Authority Key Identifier: 
+                keyid:AE:48:9E:DC:87:1D:44:A0:6F:DA:A2:E5:60:74:04:78:C2:9C:00:80
+
+            Authority Information Access: 
+                CA Issuers - URI:http://e7.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:ajiradigital.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://e7.c.lencr.org/21.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : CB:38:F7:15:89:7C:84:A1:44:5F:5B:C1:DD:FB:C9:6E:
+                                F2:9A:59:CD:47:0A:69:05:85:B0:CB:14:C3:14:58:E7
+                    Timestamp : Dec 28 22:46:49.511 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:E0:48:8C:3F:D2:AB:0E:AF:AB:43:A3:
+                                0D:C6:19:A8:BD:40:CC:29:6A:EE:88:0C:F5:FB:ED:B9:
+                                3C:D4:BF:8F:E6:02:20:77:BB:99:D2:5D:AA:A0:21:95:
+                                93:49:BE:8C:40:2E:6C:8A:0D:47:BD:F7:63:66:D2:F0:
+                                92:0B:55:37:0D:82:31
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 96:97:64:BF:55:58:97:AD:F7:43:87:68:37:08:42:77:
+                                E9:F0:3A:D5:F6:A4:F3:36:6E:46:A4:3F:0F:CA:A9:C6
+                    Timestamp : Dec 28 22:46:49.554 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:0E:EC:3B:39:10:40:3B:48:F6:67:C4:48:
+                                EA:97:D0:71:B9:34:8B:E3:73:3D:75:3A:F0:90:92:37:
+                                BD:BD:45:DA:02:20:3C:F0:4D:51:61:32:5B:73:33:6B:
+                                41:7B:70:B5:3F:81:F4:32:27:1D:E6:BE:97:AD:F4:0F:
+                                54:7F:44:B9:78:C7
+    Signature Algorithm: ecdsa-with-SHA384
+         30:64:02:30:47:0e:33:00:9f:bf:f8:37:e9:cd:ab:d8:86:25:
+         18:4c:27:30:d7:84:f6:03:c9:89:46:84:40:ca:bd:92:46:2b:
+         4a:73:56:17:8d:f1:17:4c:56:4f:00:d5:ff:90:fc:09:02:30:
+         7a:2d:85:df:dc:d6:32:fb:70:49:7e:37:70:5b:c6:f2:2d:bf:
+         96:f6:28:df:8d:65:67:45:53:6c:ba:09:55:bb:86:07:eb:19:
+         7c:3f:19:16:b7:b2:dc:fd:ed:f0:62:51
+notBefore=Dec 28 21:48:19 2025 GMT
+notAfter=Mar 28 21:48:18 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = E7
+subject=CN = ajiradigital.go.ke
+--- assembly.kwale.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:65:2f:9e:ca:28:87:b0:99:18:01:1f:80:6c:5f:3b:c2:8c
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R13
+        Validity
+            Not Before: Dec 14 13:39:40 2025 GMT
+            Not After : Mar 14 13:39:39 2026 GMT
+        Subject: CN = assembly.kwale.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:c3:68:41:0d:b9:54:19:1b:94:73:92:4f:45:78:
+                    7d:46:89:13:5f:ec:e4:d9:44:f6:a7:22:7f:19:f1:
+                    de:f2:9f:66:0a:5f:81:5a:c5:be:80:31:29:a6:36:
+                    a9:77:5c:79:f6:06:9a:da:f3:2f:5b:71:62:fb:c5:
+                    e9:23:43:91:fd:14:05:0f:1f:9c:13:21:60:57:f9:
+                    95:91:94:38:ab:34:17:16:d8:e5:53:8f:6b:fe:87:
+                    d4:98:5b:b4:6b:2d:93:33:70:02:96:50:cd:33:2f:
+                    60:e7:96:54:77:29:6c:c4:fc:c4:85:22:01:50:d6:
+                    4a:07:ac:a0:a0:d8:d1:06:7a:cd:c2:20:0a:6a:f0:
+                    f9:a4:99:97:fc:ae:1a:67:27:37:99:38:9f:1b:6e:
+                    01:c2:3a:56:fc:d4:c9:a2:77:2f:9a:2b:85:d6:64:
+                    77:6e:f7:5b:41:d2:42:e8:7e:2e:7b:50:60:bd:98:
+                    79:38:14:70:86:3c:cc:6e:71:ea:f3:5f:a0:70:67:
+                    1c:f0:cd:97:b4:66:ba:0f:bf:45:1f:85:89:d0:f1:
+                    64:ee:d2:be:f1:e9:ab:76:cd:24:36:cb:5f:fc:ca:
+                    70:92:92:87:48:6a:5e:d2:68:3f:0b:9f:c6:e6:dd:
+                    1b:82:46:9d:6e:22:3c:fd:8a:55:26:ad:2d:d4:c5:
+                    17:6b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                79:9F:20:E0:4B:03:75:8B:3C:04:34:4A:2E:BC:E8:0B:0D:50:8A:E1
+            X509v3 Authority Key Identifier: 
+                keyid:E7:AB:9F:0F:2C:33:A0:53:D3:5E:4F:78:C8:B2:84:0E:3B:D6:92:33
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r13.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:assembly.kwale.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r13.c.lencr.org/13.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 49:9C:9B:69:DE:1D:7C:EC:FC:36:DE:CD:87:64:A6:B8:
+                                5B:AF:0A:87:80:19:D1:55:52:FB:E9:EB:29:DD:F8:C3
+                    Timestamp : Dec 14 14:38:10.839 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:1B:B7:17:23:75:C6:E6:42:FC:B0:03:00:
+                                41:6D:90:E3:A7:21:5C:44:6A:B6:FC:E0:70:8E:A0:E3:
+                                F5:35:1F:10:02:20:5B:B2:C3:A7:6E:5E:EE:3C:47:70:
+                                A7:FB:FA:E0:6A:92:49:9B:E0:FE:9B:4E:7B:ED:75:B1:
+                                BC:F8:B2:F2:69:BF
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 96:97:64:BF:55:58:97:AD:F7:43:87:68:37:08:42:77:
+                                E9:F0:3A:D5:F6:A4:F3:36:6E:46:A4:3F:0F:CA:A9:C6
+                    Timestamp : Dec 14 14:38:10.920 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:0C:11:45:13:CF:44:C4:48:79:11:4C:C0:
+                                2C:5E:5C:20:61:D3:A4:1C:EA:F7:E1:DC:84:39:62:81:
+                                4C:09:6D:55:02:20:78:50:B7:DE:30:08:C2:01:41:AC:
+                                5B:6F:DD:55:34:F5:70:04:7C:9C:12:6C:D6:19:37:46:
+                                39:EF:87:9F:BD:F3
+    Signature Algorithm: sha256WithRSAEncryption
+         83:c2:7c:a9:1d:7c:65:35:e3:fa:0c:e1:77:69:40:0a:db:72:
+         e5:3f:e5:3d:8e:a5:40:41:27:e9:4f:45:88:ee:90:ac:be:25:
+         c4:1c:1d:53:5f:7b:04:3f:f4:f2:32:27:62:2b:0f:c8:db:79:
+         5b:75:cd:48:c0:85:38:3d:83:51:90:de:22:00:58:c0:1e:cb:
+         ce:e1:7e:be:80:43:69:79:32:45:e6:97:a7:01:f1:f9:89:d1:
+         69:72:83:1c:86:bd:14:57:79:78:29:0e:fc:0c:42:01:25:f9:
+         58:14:45:af:68:17:95:3f:2b:93:e5:73:e0:76:5f:b3:84:36:
+         77:7f:bb:51:da:08:dd:4c:4e:73:38:3f:77:cc:95:5c:01:4f:
+         de:72:bf:47:d9:75:a9:7d:2c:7e:ba:16:78:1b:a0:1c:16:14:
+         fe:d1:3a:04:77:7c:94:38:a7:b2:6c:02:52:c3:43:10:4e:0a:
+         ea:db:35:4f:39:f1:da:a4:e6:07:23:db:20:64:25:a0:18:44:
+         05:e9:dc:ee:70:cc:e0:97:d0:cc:29:c7:a2:ae:a9:c0:25:9c:
+         3a:f8:4b:e7:12:92:01:63:52:3c:8c:06:52:84:c1:be:57:8c:
+         9f:c2:fb:d3:f5:cb:12:b8:4d:17:8a:54:55:50:fa:a6:51:7e:
+         8a:1c:60:38
+notBefore=Dec 14 13:39:40 2025 GMT
+notAfter=Mar 14 13:39:39 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R13
+subject=CN = assembly.kwale.go.ke
+--- archive.nyeriassembly.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:9b:bb:32:6d:05:de:15:bf:2b:fb:9c:b8:47:80:50:33:07
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R13
+        Validity
+            Not Before: Feb  5 12:36:03 2026 GMT
+            Not After : May  6 12:36:02 2026 GMT
+        Subject: CN = archive.nyeriassembly.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:cc:05:38:43:3a:1a:09:d8:0e:2f:06:00:41:3a:
+                    a9:86:f3:d5:a6:6b:b5:3e:85:9d:8a:b7:fe:aa:70:
+                    3f:e9:f7:97:f5:46:8d:22:4c:bf:b5:44:f7:fc:bf:
+                    a9:34:4c:5c:c6:0c:6c:da:fc:d3:ba:08:36:c0:42:
+                    e4:64:98:e1:b5:c8:8a:df:ad:a5:21:15:c5:c4:4c:
+                    5a:de:c9:01:ad:8f:0c:c8:bf:7b:45:fc:0e:1c:fc:
+                    0f:e9:d1:eb:ae:18:3f:b5:1b:cd:0b:2f:73:e8:69:
+                    0c:99:c5:59:7a:f6:a7:a7:8a:7f:da:2a:38:5c:b8:
+                    af:77:7d:14:5d:5f:40:c2:ab:65:0a:80:af:66:54:
+                    bd:0f:e4:1b:52:97:87:f8:e7:54:0c:3d:7c:58:da:
+                    c6:18:d2:b5:4b:21:cf:57:60:09:b2:eb:e4:9c:ab:
+                    48:37:75:fa:0c:01:77:cc:16:f4:c1:b6:a9:b8:76:
+                    1f:07:3f:3b:08:0c:38:0d:81:31:91:58:90:dc:6b:
+                    da:2d:75:7f:bf:db:10:91:8c:99:23:fd:cb:84:e9:
+                    79:e3:c8:35:28:52:a7:36:31:7c:21:6a:fa:76:4d:
+                    df:ec:9a:21:4a:f5:d0:b5:58:67:47:e8:90:ad:5a:
+                    79:4b:a5:d1:cc:78:42:c7:bf:8f:90:eb:6d:26:a3:
+                    bc:1b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                69:28:94:E4:0F:22:8D:7D:11:42:62:74:B9:CF:A1:2A:AA:F9:EC:B0
+            X509v3 Authority Key Identifier: 
+                keyid:E7:AB:9F:0F:2C:33:A0:53:D3:5E:4F:78:C8:B2:84:0E:3B:D6:92:33
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r13.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:archive.nyeriassembly.go.ke, DNS:www.archive.nyeriassembly.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r13.c.lencr.org/8.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 16:83:2D:AB:F0:A9:25:0F:0F:F0:3A:A5:45:FF:C8:BF:
+                                C8:23:D0:87:4B:F6:04:29:27:F8:E7:1F:33:13:F5:FA
+                    Timestamp : Feb  5 13:34:33.320 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:76:BF:4F:95:DE:96:7F:08:0F:53:54:3C:
+                                2C:32:74:E0:D8:56:AF:AC:86:E1:DE:40:37:A8:82:EA:
+                                91:ED:F1:FD:02:20:09:30:D9:C5:E2:1F:78:F8:19:7E:
+                                39:BE:F5:ED:03:42:50:22:D6:34:D1:6D:22:2C:78:36:
+                                E2:A2:DD:FA:CC:E2
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 1A:8B:9D:69:4A:57:98:C8:99:A0:CA:88:BD:F4:8F:C0:
+                                B4:56:60:CC:C3:60:0D:1F:71:F4:69:FF:C7:D1:AC:A3
+                    Timestamp : Feb  5 13:34:33.741 2026 GMT
+                    Extensions: 00:00:05:00:42:57:27:DD
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:12:B3:62:B0:E4:9D:F4:E3:F1:32:E9:AC:
+                                84:F3:EA:85:48:60:E8:37:69:14:EA:28:A4:AE:72:96:
+                                7F:F5:4A:BA:02:20:00:D2:92:7C:35:BD:2F:FD:15:A7:
+                                F4:DC:8F:F4:A5:08:20:65:F3:7E:34:B8:89:98:DE:06:
+                                7E:D8:6C:15:BD:C2
+    Signature Algorithm: sha256WithRSAEncryption
+         6a:fd:f2:e3:45:b3:64:5e:b7:77:de:c4:a9:87:31:85:15:14:
+         f6:db:6e:86:c7:a3:87:d1:bc:dc:4d:f9:4f:0d:6e:bf:d6:83:
+         af:a2:7f:6e:5f:35:63:d1:6b:86:f6:73:22:ef:df:1e:c6:fc:
+         6e:12:4e:6e:79:f8:93:20:1e:a6:a2:c2:7a:48:54:b9:7b:6e:
+         36:53:de:bf:3d:bb:10:93:92:d8:b7:77:7e:b8:22:1c:58:ef:
+         b4:09:a6:8f:de:d3:a3:55:ed:a0:90:4c:11:c9:f8:23:3e:78:
+         0b:b2:f1:af:7f:33:3b:7a:58:6b:c1:e3:25:07:e8:fd:34:bb:
+         e5:9b:fc:04:58:33:18:dc:98:e9:d2:be:08:bf:e8:5b:f1:2e:
+         a0:01:21:63:cc:03:b8:9a:9f:04:3c:4c:2f:c4:20:31:8f:8a:
+         d2:56:ae:d6:44:fe:b4:21:f5:b6:f0:14:e5:d5:d1:5b:fe:59:
+         0c:4e:ab:71:ad:3d:09:28:70:ee:34:f2:19:6d:12:f7:89:a1:
+         43:25:be:5f:42:17:0d:8f:b7:42:15:36:f3:dc:b5:fb:fb:1a:
+         f0:2c:dd:f3:76:5e:74:8f:c0:91:cc:bc:5e:84:2a:a9:9c:72:
+         11:77:48:2a:df:43:3e:b5:f1:09:df:76:f3:0a:21:e7:0c:e0:
+         1c:7f:9c:17
+notBefore=Feb  5 12:36:03 2026 GMT
+notAfter=May  6 12:36:02 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R13
+subject=CN = archive.nyeriassembly.go.ke
+--- ajira.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            03:14:49:85:f2:1a:3b:9b:f2:42:3a:54:80:90:b3:ca:cb:c5
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+        Validity
+            Not Before: Sep  2 07:52:00 2017 GMT
+            Not After : Dec  1 07:52:00 2017 GMT
+        Subject: CN = ajiradigital.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:b2:3e:f0:cc:2f:f6:15:0b:3e:06:3f:69:c0:3b:
+                    f1:6e:4f:01:96:52:dd:13:c4:38:a9:f5:26:75:8b:
+                    78:0f:50:7b:2b:8d:df:cc:7d:00:7c:d3:27:72:a7:
+                    bf:d7:b2:e9:19:0d:9e:85:87:c4:13:c5:de:0e:5b:
+                    c1:e0:78:70:ac:69:a0:10:2d:59:28:91:b4:b7:22:
+                    4b:97:7d:6b:11:59:5c:e1:ad:8b:59:df:bf:1e:e9:
+                    86:3c:53:f7:af:8a:46:5a:3e:ad:f1:b3:dd:db:c5:
+                    73:f2:6a:42:11:78:c5:e6:f8:56:a9:ea:be:34:81:
+                    7f:ac:14:16:cc:8e:72:d6:ff:41:be:2d:30:ed:c6:
+                    7f:68:cc:db:69:7d:86:e0:de:3b:6c:9c:20:f1:a0:
+                    55:3f:c8:6a:d6:fc:dc:ca:0d:eb:05:de:75:29:c6:
+                    24:37:c2:db:c9:fc:08:36:8a:4d:20:3e:e5:b7:27:
+                    61:4c:45:51:da:f4:8e:f2:75:65:b8:13:82:97:e3:
+                    fa:88:89:24:15:6a:03:d2:9c:3d:54:9d:bd:88:93:
+                    8a:4e:7f:b8:62:f4:af:ed:a3:49:3e:b4:fa:2b:0c:
+                    0b:a8:36:91:48:e0:7a:b0:f9:da:d3:c2:2e:5c:e7:
+                    ce:92:22:ba:6d:d4:0e:ec:65:03:47:1a:5d:e1:c8:
+                    c6:37
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                62:6B:0B:20:07:65:8C:31:F6:E3:DA:E0:6A:C9:71:E4:28:90:2B:14
+            X509v3 Authority Key Identifier: 
+                keyid:A8:4A:6A:63:04:7D:DD:BA:E6:D1:39:B7:A6:45:65:EF:F3:A8:EC:A1
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.int-x3.letsencrypt.org
+                CA Issuers - URI:http://cert.int-x3.letsencrypt.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:ajira.go.ke, DNS:ajiradigital.co.ke, DNS:ajiradigital.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+                Policy: 1.3.6.1.4.1.44947.1.1.1
+                  CPS: http://cps.letsencrypt.org
+                  User Notice:
+                    Explicit Text: This Certificate may only be relied upon by Relying Parties and only in accordance with the Certificate Policy found at https://letsencrypt.org/repository/
+
+    Signature Algorithm: sha256WithRSAEncryption
+         36:20:1f:2d:46:f9:5b:6a:0a:7e:ef:52:12:90:65:21:66:05:
+         a8:8c:99:e5:cd:1e:24:7f:f5:bb:96:79:0c:ec:19:f5:94:66:
+         7b:cc:e4:d5:2e:36:1b:da:a0:b0:a4:d8:bf:7c:50:4d:46:d1:
+         e9:73:7a:aa:a4:45:09:fc:07:5e:6b:e0:55:a0:3d:b4:93:f4:
+         3e:67:84:e3:85:6e:45:63:f1:42:a0:a1:a4:ed:35:16:43:b4:
+         5f:fc:76:1b:67:d3:d9:2a:29:a7:75:6e:f0:b5:d2:4a:d5:1d:
+         2a:ed:72:35:34:71:04:3d:0c:e1:82:cc:dc:be:e5:12:b4:ad:
+         95:5a:93:d2:0a:81:9b:ee:3e:e9:2c:44:ad:f2:28:26:1d:be:
+         21:fb:67:e3:92:8f:51:18:93:f3:8c:64:51:5a:8c:e5:59:4e:
+         cc:0c:f1:27:f8:f3:af:cf:99:69:de:24:81:02:ec:c5:02:35:
+         e5:3c:9e:44:d9:88:52:0e:2d:8c:0c:cb:a3:69:85:33:97:77:
+         0f:3b:bf:e6:be:bd:b1:04:32:83:66:f2:22:fd:98:87:31:dc:
+         66:70:7f:69:44:48:5d:8f:94:e3:32:b2:e9:0d:7a:51:20:b1:
+         f4:5f:b8:e3:5b:f6:e3:18:3c:0f:f4:4a:bf:61:ec:fb:99:b3:
+         b7:e2:14:a5
+notBefore=Sep  2 07:52:00 2017 GMT
+notAfter=Dec  1 07:52:00 2017 GMT
+issuer=C = US, O = Let's Encrypt, CN = Let's Encrypt Authority X3
+subject=CN = ajiradigital.go.ke
+--- autodiscover.kitui.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            2c:bc:44:77:ce:a1:30:4d:0d:0d:b7:67:87:4a:fb:f6
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = US, O = Google Trust Services, CN = WE1
+        Validity
+            Not Before: Feb 28 15:30:32 2026 GMT
+            Not After : May 29 16:28:09 2026 GMT
+        Subject: CN = kitui.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:1b:02:2f:86:8b:f4:bf:0a:f8:1b:a2:0e:b8:3b:
+                    24:e7:76:0c:5b:43:b9:eb:16:13:90:bb:35:10:12:
+                    31:65:17:47:e0:9c:d4:9d:d2:81:f7:51:6c:b1:3e:
+                    23:a3:39:f5:77:82:37:4c:10:fd:81:a5:58:81:4d:
+                    08:20:92:84:2d
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                33:FE:8B:02:8D:BF:60:94:6F:81:AF:13:F9:44:C1:7D:FC:FA:C1:CD
+            X509v3 Authority Key Identifier: 
+                keyid:90:77:92:35:67:C4:FF:A8:CC:A9:E6:7B:D9:80:79:7B:CC:93:F9:38
+
+            Authority Information Access: 
+                OCSP - URI:http://o.pki.goog/s/we1/LLw
+                CA Issuers - URI:http://i.pki.goog/we1.crt
+
+            X509v3 Subject Alternative Name: 
+                DNS:kitui.go.ke, DNS:*.kitui.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://c.pki.goog/we1/6FL0xFPZ9Sk.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 0E:57:94:BC:F3:AE:A9:3E:33:1B:2C:99:07:B3:F7:90:
+                                DF:9B:C2:3D:71:32:25:DD:21:A9:25:AC:61:C5:4E:21
+                    Timestamp : Feb 28 16:30:33.232 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:9E:B9:B1:32:E2:A6:E8:AF:10:CC:28:
+                                7F:50:FC:91:EB:80:95:82:76:88:73:7B:DE:A1:36:29:
+                                16:1E:2F:50:CC:02:20:5A:B5:C5:9F:DA:1B:5E:91:14:
+                                66:52:71:BA:E7:3D:D5:0C:A1:E3:DE:C2:1F:3D:B2:7B:
+                                43:06:ED:14:13:03:1B
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 16:83:2D:AB:F0:A9:25:0F:0F:F0:3A:A5:45:FF:C8:BF:
+                                C8:23:D0:87:4B:F6:04:29:27:F8:E7:1F:33:13:F5:FA
+                    Timestamp : Feb 28 16:30:33.266 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:6F:37:DB:EE:6A:6F:C0:6F:C8:A4:19:00:
+                                14:78:45:E5:6E:84:F3:67:85:3F:E5:7C:10:40:5B:5F:
+                                A3:A2:FA:7E:02:20:2A:F4:CC:5D:A6:51:F2:A9:52:E7:
+                                D9:F4:3B:4E:9D:A6:BA:DC:3E:C4:8A:49:FD:0C:EC:A3:
+                                CB:68:5D:F0:2C:5E
+    Signature Algorithm: ecdsa-with-SHA256
+         30:45:02:20:53:70:39:c9:c9:c1:f2:a2:d9:12:c4:25:d9:d5:
+         5f:2e:79:30:cd:e0:1d:59:84:e2:19:b5:b0:ae:05:59:be:30:
+         02:21:00:f7:72:73:89:d0:4a:09:97:44:51:da:c8:c9:12:13:
+         49:0c:06:39:98:03:97:80:89:40:73:39:14:55:3d:6c:9a
+notBefore=Feb 28 15:30:32 2026 GMT
+notAfter=May 29 16:28:09 2026 GMT
+issuer=C = US, O = Google Trust Services, CN = WE1
+subject=CN = kitui.go.ke
+--- api.kmhfltest.health.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            06:26:59:82:5b:57:96:9c:fe:2a:77:ff:4b:52:35:d3:da:d5
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R13
+        Validity
+            Not Before: Feb 22 23:04:11 2026 GMT
+            Not After : May 23 23:04:10 2026 GMT
+        Subject: CN = api.kmhfltest.health.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ca:ed:0e:fa:86:e7:c5:93:12:c7:cc:6e:f7:c5:
+                    db:f0:9c:08:dd:e3:1b:f9:dd:fd:40:18:12:1c:72:
+                    1a:f2:28:3f:1f:1c:f6:ca:d7:0d:f2:ec:93:05:00:
+                    11:6f:f0:ff:a7:eb:38:78:c4:f5:2d:c8:66:e4:f4:
+                    d6:62:29:4d:a2:e2:07:34:6b:4f:6f:ad:f2:b5:6d:
+                    38:bf:7b:b6:d6:ed:d6:94:ed:98:f9:10:88:4c:a2:
+                    42:a8:7d:c2:4f:66:7e:8a:3a:af:e0:e2:aa:4e:a2:
+                    1e:3e:b7:1d:c8:22:11:dc:3e:73:a7:25:e3:63:da:
+                    36:af:37:be:ab:37:cd:05:fc:9f:b4:18:10:e0:1b:
+                    b0:d1:bf:f0:2d:87:d0:cf:b5:3e:05:99:d3:44:79:
+                    46:3b:b4:2b:76:28:0a:80:86:a4:e1:38:e3:78:e9:
+                    1b:4f:4c:0e:e6:16:0f:1c:85:38:5d:98:55:d6:fd:
+                    fe:af:82:99:7b:2f:dd:a0:c4:05:26:98:a3:2c:87:
+                    67:a7:b1:4b:d7:b5:f0:1f:57:5b:eb:d8:31:bd:cb:
+                    ff:a5:98:ab:36:db:c9:46:21:5d:eb:1b:4a:c8:12:
+                    0c:2e:fc:b4:0f:09:92:6e:fc:5e:d5:0c:de:18:7b:
+                    e8:1a:05:6e:75:df:a7:a0:10:72:fa:0d:ef:e9:9f:
+                    10:51
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                78:09:DA:6B:D9:E4:B3:32:73:FF:FD:07:28:32:E5:56:7A:DB:C6:01
+            X509v3 Authority Key Identifier: 
+                keyid:E7:AB:9F:0F:2C:33:A0:53:D3:5E:4F:78:C8:B2:84:0E:3B:D6:92:33
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r13.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:api.kmhfltest.health.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r13.c.lencr.org/86.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : E3:23:8D:F2:8D:A2:88:E0:AA:E0:AC:F0:FA:90:C9:85:
+                                F0:B6:BF:F5:D2:A5:27:B0:01:FC:1C:44:58:C4:B6:E8
+                    Timestamp : Feb 23 00:02:41.524 2026 GMT
+                    Extensions: 00:00:05:00:33:71:F0:62
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:35:4F:80:35:A3:33:9B:A2:50:33:43:4B:
+                                FA:FF:63:BE:9E:E8:7D:C8:2C:24:28:A6:5E:B5:4F:A7:
+                                F2:59:E5:4F:02:20:02:3B:A7:79:7E:F6:FE:1F:A8:45:
+                                E9:5E:DA:C3:D3:8A:FA:D2:FC:FB:5B:76:63:77:12:4B:
+                                6A:34:92:49:DD:B4
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : D1:6E:A9:A5:68:07:7E:66:35:A0:3F:37:A5:DD:BC:03:
+                                A5:3C:41:12:14:D4:88:18:F5:E9:31:B3:23:CB:95:04
+                    Timestamp : Feb 23 00:02:41.721 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:C4:1E:E3:46:18:6F:60:81:B8:8E:E4:
+                                00:C3:7D:09:B7:C9:2E:51:8C:69:73:20:09:3D:34:71:
+                                F7:61:33:CD:48:02:21:00:C6:73:72:4D:2D:97:33:C0:
+                                75:C4:60:A4:61:31:CB:34:54:F0:05:48:AE:A8:8C:0D:
+                                F4:94:8D:B0:6B:42:5B:FA
+    Signature Algorithm: sha256WithRSAEncryption
+         90:cb:9d:e7:b1:19:4f:33:36:f2:0d:1e:04:61:a4:51:0f:88:
+         0b:0f:06:d7:aa:46:ed:9e:38:62:0e:1b:4f:f8:eb:fd:3c:25:
+         e4:47:2f:4a:3a:08:80:ac:ae:90:f5:21:4e:8f:0f:22:50:f7:
+         11:5e:06:a4:45:2a:33:bf:76:30:b5:2d:86:c0:f6:0c:aa:ea:
+         59:7b:1e:cc:b0:21:f6:96:5d:e8:4e:0e:34:60:02:14:1b:70:
+         aa:06:fc:88:88:23:95:3c:df:70:a1:61:5c:0c:56:4a:af:41:
+         3c:25:52:e3:ef:b8:8b:b8:e4:27:8d:29:55:7f:3c:ed:3f:4c:
+         9f:99:f4:4e:6e:a0:fe:87:ae:2d:05:e5:83:e2:a8:23:d0:0f:
+         e0:c7:67:ba:05:cd:c2:b1:77:be:b7:9a:ba:bb:1c:8c:94:f7:
+         40:e0:b9:21:6c:25:2f:f1:97:5d:ae:6c:63:57:ad:40:dd:4f:
+         db:29:ea:f9:46:43:46:98:b0:de:39:74:22:95:fc:34:79:55:
+         da:7b:73:0d:11:8f:34:51:92:b0:14:a1:50:46:c6:92:47:ef:
+         5d:4c:ad:9c:a5:bf:b3:58:18:b4:4b:e4:11:77:21:42:1b:17:
+         7d:25:32:61:f6:c9:d8:a1:b7:ba:df:25:2a:14:dd:4c:44:3b:
+         3a:77:78:6c
+notBefore=Feb 22 23:04:11 2026 GMT
+notAfter=May 23 23:04:10 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R13
+subject=CN = api.kmhfltest.health.go.ke
+--- autodiscover.baringoassembly.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:76:8f:b5:b9:a0:3e:53:ce:4b:75:58:71:c5:75:f0:87:54
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R13
+        Validity
+            Not Before: Jan  5 19:56:08 2026 GMT
+            Not After : Apr  5 19:56:07 2026 GMT
+        Subject: CN = *.baringoassembly.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:e9:ca:40:08:97:3a:88:c3:31:b3:78:8d:93:1a:
+                    18:6a:64:56:a6:6a:05:c0:e8:60:a3:24:6f:34:e6:
+                    85:fb:3f:33:ad:b8:48:8f:5c:19:7e:d2:8b:39:77:
+                    c0:60:b3:00:fe:c5:a1:80:27:c7:d8:45:61:43:9b:
+                    dc:cc:21:f8:b9:1f:ea:87:98:c9:a8:5c:0c:60:3c:
+                    c6:2f:60:d5:77:c7:c2:9d:44:4d:e8:ac:ec:a7:36:
+                    b1:1d:c1:5a:fe:dc:d7:dc:71:29:42:93:33:47:b9:
+                    55:bc:23:ba:0f:a1:cd:b0:36:cc:2e:2e:a2:c1:c7:
+                    8d:18:2c:3c:c0:c5:51:dd:14:74:fd:9f:96:ce:00:
+                    c7:4d:22:d8:e4:3e:8e:5b:8b:42:fd:40:7a:15:71:
+                    f1:31:2c:05:f0:6e:b8:f5:c6:d4:64:3a:d6:16:4e:
+                    41:67:c1:13:91:c7:a3:3d:0d:8a:57:c6:0f:7a:d8:
+                    dc:4c:d6:cc:68:b3:7f:93:61:fd:c4:c1:67:4f:63:
+                    79:04:87:68:34:70:7d:fc:66:c9:ec:d9:ae:96:5c:
+                    49:c9:48:89:5e:2d:8a:27:35:f9:ac:0f:9f:a6:50:
+                    32:99:d3:bd:4f:6d:93:a9:07:cd:13:bf:25:2c:6c:
+                    25:83:f0:d2:5f:6b:ca:14:97:67:0c:9a:45:8c:dd:
+                    08:1b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                F0:76:B8:02:A2:3E:91:B7:B7:39:F7:25:47:D8:8E:9E:8D:DA:E8:18
+            X509v3 Authority Key Identifier: 
+                keyid:E7:AB:9F:0F:2C:33:A0:53:D3:5E:4F:78:C8:B2:84:0E:3B:D6:92:33
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r13.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:*.baringoassembly.go.ke, DNS:baringoassembly.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r13.c.lencr.org/85.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 0E:57:94:BC:F3:AE:A9:3E:33:1B:2C:99:07:B3:F7:90:
+                                DF:9B:C2:3D:71:32:25:DD:21:A9:25:AC:61:C5:4E:21
+                    Timestamp : Jan  5 20:54:38.868 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:54:43:6D:7E:23:A9:17:56:AC:DF:04:38:
+                                C5:C6:DE:28:A2:F6:09:2A:51:FC:A4:9D:7A:58:A3:31:
+                                65:AC:0A:F4:02:20:3A:40:D0:6A:DF:89:B3:8C:75:7A:
+                                51:F6:A8:6B:5B:30:27:A5:FE:93:24:C5:7B:93:F7:62:
+                                0A:D3:D4:A9:50:A6
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : A5:C9:78:92:5D:57:46:17:82:87:0D:D8:89:66:0B:5C:
+                                55:64:8B:7D:00:40:F2:EC:07:68:51:D1:88:69:19:F7
+                    Timestamp : Jan  5 20:54:39.830 2026 GMT
+                    Extensions: 00:00:05:00:2D:F4:06:2C
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:7C:F5:2F:C7:D4:E6:B0:D8:06:86:DC:5E:
+                                F7:E4:44:D0:AB:C6:2F:8C:D9:C5:20:BA:C5:BE:A2:B7:
+                                59:D5:00:58:02:20:37:C6:0D:A8:3E:1B:E4:91:B1:98:
+                                D7:90:13:25:FE:F8:1A:D6:0D:30:4B:8D:FD:81:80:6F:
+                                98:FA:DD:0B:80:8B
+    Signature Algorithm: sha256WithRSAEncryption
+         81:82:cd:09:e4:8b:4d:7d:17:23:d1:00:fc:a5:19:39:0c:8b:
+         4f:7f:fb:6f:aa:9e:e3:d0:34:ea:80:8f:53:22:88:8b:d5:fa:
+         90:22:7d:83:02:d6:0b:30:71:d8:f4:0c:05:2d:26:91:4b:71:
+         7f:28:24:16:51:71:13:4a:b7:8d:77:d3:02:d9:c9:c6:ca:9f:
+         6f:20:45:52:7e:f9:de:29:a2:89:cd:50:b9:a1:4d:77:66:be:
+         60:58:13:ca:1b:6b:51:fc:cf:a9:d5:4b:92:4e:6e:d8:0b:d3:
+         19:af:e7:d4:98:6a:a5:20:27:f1:86:34:86:8e:8c:3c:ed:a1:
+         a3:f9:e4:41:ae:3d:dd:ee:9a:33:89:bc:88:cf:38:79:54:44:
+         0e:eb:d9:e3:7e:42:5b:9f:e6:90:5d:2c:68:a1:f1:a4:68:5e:
+         f1:44:83:61:90:09:cb:3c:dc:5c:ec:58:8b:be:fc:12:ce:44:
+         c0:e7:e1:39:99:0f:e7:ca:4d:9d:db:9a:18:f0:db:3a:47:ea:
+         10:2d:19:da:e2:cb:2f:c7:39:bd:b2:5b:e4:fb:f8:71:12:37:
+         23:88:2c:54:10:7e:c6:76:be:3b:8a:6f:38:7c:61:5b:f0:69:
+         94:5b:b0:d1:14:df:79:cd:a7:99:1f:4c:05:04:35:2c:f8:1f:
+         2d:49:b5:ab
+notBefore=Jan  5 19:56:08 2026 GMT
+notAfter=Apr  5 19:56:07 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R13
+subject=CN = *.baringoassembly.go.ke
+--- api.kmhfl.health.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            06:db:32:0d:95:e3:19:56:bc:d7:39:14:80:fc:c2:28:31:56
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R12
+        Validity
+            Not Before: Feb 24 02:23:49 2026 GMT
+            Not After : May 25 02:23:48 2026 GMT
+        Subject: CN = api.kmhfl.health.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ce:90:5d:66:aa:b4:3c:65:f8:1d:0c:44:0c:19:
+                    84:1f:0e:bd:10:16:db:c1:de:b0:62:3a:43:df:6f:
+                    d1:36:d2:1f:43:d1:4e:74:86:a9:9e:3f:33:dc:c6:
+                    af:23:03:94:26:5d:71:08:35:86:62:b9:79:e8:e2:
+                    8e:fd:de:0e:b1:e1:8c:bc:fa:37:aa:0b:8c:fd:d9:
+                    27:a0:75:f1:fa:e0:44:68:e4:8e:cd:b9:55:08:54:
+                    61:b3:88:a0:d3:a8:22:34:c2:7c:a9:f2:2f:63:94:
+                    ee:f7:1a:39:4a:3f:e8:1f:74:f5:5f:8c:42:87:6f:
+                    a1:ba:84:13:57:4b:cc:06:67:f3:a8:a3:dc:bd:ff:
+                    f5:e2:7e:65:c1:c2:96:c2:68:7c:dc:7d:93:4d:eb:
+                    6a:b9:d1:be:30:e2:f7:a2:7f:f2:96:d4:66:56:bf:
+                    2e:2b:f3:d8:a4:88:05:ab:08:35:ff:06:7b:eb:4e:
+                    c5:94:26:fb:61:ba:a8:0a:3e:81:e5:72:93:4c:ef:
+                    31:56:44:69:97:06:e7:c5:94:10:21:ef:f9:a8:1c:
+                    a7:df:05:fa:a7:40:a0:61:86:4c:9f:ab:78:86:5d:
+                    a4:81:9e:71:a5:25:d4:f2:21:7e:f8:33:56:be:57:
+                    3c:b4:14:02:2b:df:c9:88:f4:74:98:e9:6a:b8:dd:
+                    1b:8f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                3F:8E:1B:D2:12:2E:9B:B6:41:B1:3E:EC:35:47:A7:C3:C4:31:65:D9
+            X509v3 Authority Key Identifier: 
+                keyid:00:B5:29:F2:2D:8E:6F:31:E8:9B:4C:AD:78:3E:FA:DC:E9:0C:D1:D2
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r12.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:api.kmhfl.health.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r12.c.lencr.org/87.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 49:9C:9B:69:DE:1D:7C:EC:FC:36:DE:CD:87:64:A6:B8:
+                                5B:AF:0A:87:80:19:D1:55:52:FB:E9:EB:29:DD:F8:C3
+                    Timestamp : Feb 24 03:22:20.170 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:95:94:0F:BB:5D:28:00:BF:F3:42:DC:
+                                FF:42:B0:9D:6D:52:91:87:69:11:BE:F0:81:37:A7:8C:
+                                FC:7D:E8:68:4B:02:20:5A:1E:CA:AF:14:EB:C6:8A:A7:
+                                C9:7A:E1:05:D5:DC:84:54:21:00:6C:8A:6C:7F:97:53:
+                                48:B4:68:BB:DF:A2:C8
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : E3:23:8D:F2:8D:A2:88:E0:AA:E0:AC:F0:FA:90:C9:85:
+                                F0:B6:BF:F5:D2:A5:27:B0:01:FC:1C:44:58:C4:B6:E8
+                    Timestamp : Feb 24 03:22:20.523 2026 GMT
+                    Extensions: 00:00:05:00:33:93:19:A1
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:EA:61:8E:54:99:AE:E2:13:DA:21:E0:
+                                42:AD:52:13:E0:92:C0:72:1F:19:D2:3A:8E:5E:92:8A:
+                                D9:21:32:E4:D8:02:20:7E:04:A6:5C:90:BA:97:D4:D5:
+                                CB:DB:E5:83:DF:6F:69:E3:44:56:D8:D8:10:75:D7:C8:
+                                C4:18:61:FF:94:04:EE
+    Signature Algorithm: sha256WithRSAEncryption
+         3d:44:81:72:3a:e6:9b:87:00:02:87:ad:e0:f3:73:3a:f7:1c:
+         7c:0d:ba:93:6d:33:5f:84:58:c2:d3:c3:c7:1f:02:15:2f:83:
+         30:b3:74:d3:58:b9:4a:91:29:49:26:1b:e0:7d:da:84:d4:0b:
+         6e:a3:87:70:fe:a6:b5:b8:30:74:1f:fe:63:d2:dd:6a:fc:ef:
+         31:8d:50:40:6f:a6:e0:e4:a5:50:bd:79:38:af:52:6f:e9:33:
+         e9:63:8c:f0:3d:00:e6:6d:f0:ea:27:4e:1d:2d:02:a2:a3:81:
+         f3:46:52:28:31:95:d6:6f:36:df:1c:96:2d:43:09:7c:92:15:
+         63:e0:68:a0:f0:46:a1:94:20:0f:f7:64:f5:01:91:fb:97:6f:
+         20:86:3a:94:b8:9f:1a:db:03:87:bc:5e:3c:18:a7:d7:c5:15:
+         e8:36:81:37:8d:f4:d6:7d:42:33:79:80:4d:ac:d0:df:da:e2:
+         c7:60:e4:bb:55:7f:c9:a9:d0:92:4a:16:92:b2:8b:47:21:16:
+         5b:f2:ba:79:6f:da:a7:ce:93:ce:c9:04:80:01:22:9a:29:0b:
+         d8:74:93:50:d9:bf:62:d2:c8:77:f3:97:d2:97:b8:e9:bd:61:
+         a7:01:70:a6:55:0d:42:00:93:37:45:b3:d9:e3:7f:c7:a8:63:
+         23:6e:c3:d0
+notBefore=Feb 24 02:23:49 2026 GMT
+notAfter=May 25 02:23:48 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R12
+subject=CN = api.kmhfl.health.go.ke
+--- admin.ajiradigital.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:86:2a:0b:79:0a:2b:41:14:7a:aa:b3:b1:1d:88:26:65:a3
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = US, O = Let's Encrypt, CN = E8
+        Validity
+            Not Before: Dec 25 04:56:14 2025 GMT
+            Not After : Mar 25 04:56:13 2026 GMT
+        Subject: CN = admin.ajiradigital.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:59:4b:28:ff:8a:32:13:ae:39:67:6b:64:b7:c2:
+                    69:54:24:15:41:82:50:be:3e:2d:a1:4d:c7:1e:5e:
+                    10:09:71:94:84:2b:b0:23:80:db:7c:c2:c8:d8:8e:
+                    4a:af:3f:ea:f2:f3:15:50:61:1c:2a:85:da:f5:a1:
+                    8e:c4:3d:6c:af
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                D0:19:FA:5D:2D:EE:A9:1B:C1:CB:13:F4:05:8C:98:9D:20:95:9B:D2
+            X509v3 Authority Key Identifier: 
+                keyid:8F:0D:13:A2:F6:2E:7E:D1:50:6C:33:18:38:5D:59:8E:23:72:91:CA
+
+            Authority Information Access: 
+                CA Issuers - URI:http://e8.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:admin.ajiradigital.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://e8.c.lencr.org/36.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 0E:57:94:BC:F3:AE:A9:3E:33:1B:2C:99:07:B3:F7:90:
+                                DF:9B:C2:3D:71:32:25:DD:21:A9:25:AC:61:C5:4E:21
+                    Timestamp : Dec 25 05:54:44.302 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:20:39:33:A7:E6:CA:44:52:08:32:18:31:9D:
+                                F1:D4:C6:45:37:E4:8B:5D:01:9E:AF:B7:31:F3:48:4B:
+                                56:46:49:1F:02:21:00:E0:E1:D6:A7:AA:72:E5:F2:34:
+                                0F:AA:36:D0:1A:AB:2C:57:84:4D:A9:87:50:80:48:60:
+                                59:91:76:0F:47:FB:EE
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 1A:8B:9D:69:4A:57:98:C8:99:A0:CA:88:BD:F4:8F:C0:
+                                B4:56:60:CC:C3:60:0D:1F:71:F4:69:FF:C7:D1:AC:A3
+                    Timestamp : Dec 25 05:54:44.971 2025 GMT
+                    Extensions: 00:00:05:00:2A:F0:9E:54
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:20:78:51:EB:39:F1:85:99:F0:20:B5:15:DB:
+                                93:A2:14:F4:70:CF:33:63:3D:69:25:AF:0B:DC:8F:3D:
+                                F7:F6:2B:A6:02:21:00:C9:00:36:EB:E1:3F:D4:6E:54:
+                                07:A2:F7:A8:AF:9A:C5:94:00:57:00:E3:36:AA:75:85:
+                                6F:4F:0F:B3:FB:E6:1E
+    Signature Algorithm: ecdsa-with-SHA384
+         30:65:02:31:00:b7:e2:e9:e2:9e:5e:36:ba:7f:68:97:33:fc:
+         73:e1:1f:ca:07:95:c7:87:74:d7:e4:6d:8b:65:6d:3a:bf:5b:
+         fc:b3:6e:76:a0:05:a7:1e:be:cc:a0:7d:f5:29:cc:29:a5:02:
+         30:5b:72:ea:5f:30:e3:48:90:e3:43:fd:e8:13:e2:b5:21:51:
+         9b:71:1d:f8:0f:46:d5:1d:9e:e2:61:9d:56:d3:2f:fe:f5:12:
+         8d:c3:24:b9:e3:b6:5f:3e:b5:ba:fe:6e:12
+notBefore=Dec 25 04:56:14 2025 GMT
+notAfter=Mar 25 04:56:13 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = E8
+subject=CN = admin.ajiradigital.go.ke
+--- autodiscover.kma.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:a8:9e:b3:c9:65:d1:1a:17:7f:06:c9:a8:e0:b6:03:f4:0a
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R12
+        Validity
+            Not Before: Feb 26 04:56:40 2026 GMT
+            Not After : May 27 04:56:39 2026 GMT
+        Subject: CN = *.kma.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:d5:f2:d5:c6:50:4a:cb:d2:04:d4:94:5f:cd:c9:
+                    ff:eb:b6:5f:8d:2a:4b:76:6a:84:72:6d:77:d9:8e:
+                    3b:fa:d1:ac:16:58:79:e1:c1:1f:d8:40:97:ed:77:
+                    97:f7:dc:57:18:3f:83:7d:79:03:70:a9:bd:a4:fb:
+                    7d:f7:66:4e:01:0e:27:7c:1a:4a:00:23:c2:cf:9c:
+                    0e:c3:e3:27:fd:eb:1f:fa:de:91:02:15:c4:98:41:
+                    16:7d:43:9d:db:11:16:91:6c:67:cd:d5:c7:72:87:
+                    28:c3:d6:f2:28:cd:fa:0d:16:72:18:60:49:ab:cd:
+                    31:25:01:e1:48:91:ea:95:6c:07:b2:a4:a9:47:95:
+                    81:bd:56:f2:65:83:87:09:27:f0:5f:69:f4:02:0b:
+                    cd:25:11:12:93:c8:c8:40:a9:81:80:c4:9a:2a:99:
+                    2d:bb:06:a4:a9:66:cb:e3:84:fc:4d:9e:e4:2f:b7:
+                    6f:4e:1b:93:f2:8b:d0:74:0b:bc:29:32:be:f6:bc:
+                    c8:89:2e:b5:d3:2e:d9:bd:cc:51:88:fc:cc:c5:a8:
+                    fd:cf:6b:ee:cd:44:2b:22:a8:1f:68:21:3a:c1:27:
+                    22:1a:b0:dc:a8:b4:71:56:a6:ad:cb:3a:04:37:82:
+                    6f:00:33:79:61:46:95:47:81:17:74:a7:8d:56:ed:
+                    ca:1f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                72:18:D5:A9:08:D6:28:22:F0:94:A4:D0:63:D4:3B:B1:29:54:F4:D9
+            X509v3 Authority Key Identifier: 
+                keyid:00:B5:29:F2:2D:8E:6F:31:E8:9B:4C:AD:78:3E:FA:DC:E9:0C:D1:D2
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r12.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:*.kma.go.ke, DNS:kma.go.ke, DNS:www.cvp.kma.go.ke, DNS:www.dms.kma.go.ke, DNS:www.kenyaforimo.kma.go.ke, DNS:www.msp.kma.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r12.c.lencr.org/11.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 0E:57:94:BC:F3:AE:A9:3E:33:1B:2C:99:07:B3:F7:90:
+                                DF:9B:C2:3D:71:32:25:DD:21:A9:25:AC:61:C5:4E:21
+                    Timestamp : Feb 26 05:55:10.287 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:D6:83:70:4F:AC:6C:B1:F7:67:86:C5:
+                                7A:89:C8:3B:6F:F7:9C:E6:C9:FA:E0:DB:07:30:91:23:
+                                D6:AA:9F:1E:30:02:21:00:C7:EA:85:11:63:B2:BD:DC:
+                                1B:F7:FB:69:4F:13:5C:AF:E4:94:DD:C2:0A:A4:1A:8A:
+                                B5:C0:68:61:F3:FB:5D:87
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 49:9C:9B:69:DE:1D:7C:EC:FC:36:DE:CD:87:64:A6:B8:
+                                5B:AF:0A:87:80:19:D1:55:52:FB:E9:EB:29:DD:F8:C3
+                    Timestamp : Feb 26 05:55:12.297 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:9C:DA:A5:F4:D3:25:42:CB:2D:5E:DB:
+                                2C:59:36:DE:5D:9E:8C:72:4A:D4:5D:FF:D4:C5:D0:C5:
+                                97:0A:E8:70:19:02:21:00:91:4E:91:CE:5D:4A:54:8A:
+                                98:2A:40:89:0A:DC:BE:CC:58:5D:06:46:C4:3B:57:DC:
+                                DA:98:E5:7C:03:69:6D:CE
+    Signature Algorithm: sha256WithRSAEncryption
+         b0:66:85:35:27:a3:16:cb:59:02:fa:43:db:81:a7:3f:ad:6b:
+         bb:a1:0d:70:de:2d:e8:ab:d6:09:4d:11:4e:a4:76:71:d1:34:
+         b7:5d:4f:1f:74:dc:05:02:d5:a2:f7:c8:42:7d:a8:a7:b4:b3:
+         2c:fd:a1:1d:97:68:e6:7c:23:77:75:00:78:00:57:47:b2:ee:
+         e3:51:94:17:5b:c7:9b:42:5d:42:b8:d6:aa:96:d7:fe:7e:df:
+         0b:eb:69:d4:48:6c:49:60:3c:f6:92:1f:74:d3:d2:fa:c5:e6:
+         b1:c0:1c:96:48:01:b4:2c:de:1e:47:0f:b7:41:46:73:03:5d:
+         de:59:90:c0:a7:d6:f8:7d:97:b9:85:df:8d:68:80:60:f1:ed:
+         3c:ea:bd:81:3b:65:54:f0:46:3d:65:d3:b3:63:7c:28:7f:75:
+         eb:2d:89:dc:04:05:3f:39:3e:51:b9:15:89:89:09:d6:01:ba:
+         12:64:31:d5:5e:86:64:0f:3e:f1:3f:be:65:e9:b7:2b:89:02:
+         f3:58:35:dc:da:00:51:aa:2f:b7:6f:c0:eb:7d:6a:46:9e:b5:
+         89:2d:24:96:27:4d:61:5a:0e:eb:eb:89:d3:83:7c:20:21:e0:
+         5f:bf:07:61:05:b4:df:fe:ff:0c:33:d6:3c:3e:2a:04:11:33:
+         ea:89:f6:d5
+notBefore=Feb 26 04:56:40 2026 GMT
+notAfter=May 27 04:56:39 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R12
+subject=CN = *.kma.go.ke
+--- autodiscover.sms.kisumu.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:37:96:80:33:ee:8a:ff:aa:16:3b:47:1f:04:31:3e:81:4f
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R13
+        Validity
+            Not Before: Feb 20 09:58:18 2026 GMT
+            Not After : May 21 09:58:17 2026 GMT
+        Subject: CN = autoconfig.server.kisumu.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:d2:33:43:3c:6f:83:a7:f2:bb:b3:33:aa:4d:eb:
+                    7f:3d:af:5f:d4:9c:df:22:ec:6e:cc:72:57:07:a2:
+                    90:44:6a:de:38:98:c1:3e:ea:f7:dc:d7:d1:d4:2a:
+                    49:94:34:bb:b8:87:d3:60:01:59:b1:fd:92:1f:2d:
+                    d0:32:46:c4:76:3f:f9:7e:25:47:87:04:a5:fb:88:
+                    9b:d0:42:41:0c:6d:d8:30:e3:c3:f7:bd:4a:78:7a:
+                    40:94:12:3d:e3:b9:1d:44:a8:ec:d1:6d:8e:64:5f:
+                    70:9b:79:80:35:0f:78:c0:21:cd:20:1d:20:3a:1f:
+                    7c:53:61:56:c4:39:4e:2c:1d:02:d2:7a:8d:ab:c5:
+                    a0:a2:8b:c7:3f:07:04:c1:93:48:95:97:9e:17:db:
+                    87:48:ef:26:28:bd:6c:be:cf:0c:0b:1b:3d:cd:d3:
+                    53:d3:4b:dd:12:bb:0e:96:5f:d6:20:16:09:23:37:
+                    54:01:83:ee:ab:ac:64:bd:77:b1:9f:04:3b:0c:c8:
+                    3c:cd:77:e6:05:30:1c:9b:e2:86:eb:9e:ef:c1:3b:
+                    c6:8a:c5:4e:de:20:b9:76:b2:ef:b2:e2:fe:48:9f:
+                    ae:ff:c4:7d:c0:54:14:4d:d5:1a:28:d2:1d:23:7a:
+                    95:81:66:2e:92:fe:80:8c:db:d7:6e:eb:f5:a7:16:
+                    bc:ed
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                02:B4:12:E4:7E:70:31:93:53:7C:FF:E4:69:C8:23:F5:19:5F:3B:96
+            X509v3 Authority Key Identifier: 
+                keyid:E7:AB:9F:0F:2C:33:A0:53:D3:5E:4F:78:C8:B2:84:0E:3B:D6:92:33
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r13.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:autoconfig.server.kisumu.go.ke, DNS:autodiscover.server.kisumu.go.ke, DNS:cpanel.server.kisumu.go.ke, DNS:cpcalendars.server.kisumu.go.ke, DNS:cpcontacts.server.kisumu.go.ke, DNS:ipv6.server.kisumu.go.ke, DNS:mail.server.kisumu.go.ke, DNS:server.kisumu.go.ke, DNS:webdisk.server.kisumu.go.ke, DNS:webmail.server.kisumu.go.ke, DNS:whm.server.kisumu.go.ke, DNS:www.server.kisumu.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r13.c.lencr.org/80.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 64:11:C4:6C:A4:12:EC:A7:89:1C:A2:02:2E:00:BC:AB:
+                                4F:28:07:D4:1E:35:27:AB:EA:FE:D5:03:C9:7D:CD:F0
+                    Timestamp : Feb 20 10:56:48.649 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:87:6B:A0:C3:FD:82:56:C9:B1:63:20:
+                                CE:9F:D9:16:27:4A:36:C1:A8:13:EE:63:02:0D:52:76:
+                                9A:84:41:88:51:02:21:00:B7:2E:CF:63:C8:7D:04:79:
+                                4E:AA:8A:67:A6:F1:91:5A:BA:4C:05:45:9F:E2:66:D3:
+                                3E:C6:FA:D7:E4:37:D7:79
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 71:7E:95:F3:C2:38:8A:6D:B1:E3:84:49:3D:31:E1:5A:
+                                A9:62:08:76:2D:42:00:E0:05:0C:D0:67:B5:A6:61:E2
+                    Timestamp : Feb 20 10:56:48.808 2026 GMT
+                    Extensions: 00:00:05:00:09:EC:2E:1E
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:53:BD:81:22:09:EB:C3:CB:48:09:2A:B1:
+                                59:A1:CE:DD:7C:3F:50:F9:61:4E:8E:3A:BB:FB:BB:D5:
+                                1C:54:D6:E9:02:20:5A:55:4A:99:A5:AD:03:F5:55:FB:
+                                01:3D:8B:3B:35:F5:89:32:55:85:32:E4:FC:9B:72:9C:
+                                21:C4:96:21:52:6F
+    Signature Algorithm: sha256WithRSAEncryption
+         73:62:ad:42:bf:b5:7e:79:9b:35:91:60:cd:f2:0a:5a:ae:16:
+         ea:30:eb:c1:55:bd:d4:63:94:06:19:db:b9:09:b0:2c:c5:a5:
+         4e:cc:4e:ce:c6:b8:8f:d4:cf:20:cb:0f:af:fd:d8:53:ab:df:
+         56:38:8c:67:40:ff:ed:71:44:3e:14:53:9e:76:33:ac:4d:fa:
+         32:2d:68:da:df:9c:a5:d1:25:95:21:54:d7:c9:f7:6c:b4:87:
+         dd:21:04:d4:6c:71:ec:12:0a:ca:c1:4c:04:9c:da:64:a3:ca:
+         a5:29:19:11:fc:9f:c9:42:9e:9b:86:19:59:e9:37:28:1b:c2:
+         69:1d:13:de:07:f1:fa:ca:c8:a6:ef:fa:bc:6a:32:b6:2f:03:
+         73:22:1d:c1:5e:55:50:b2:a2:0a:91:78:68:7c:98:ea:f5:73:
+         75:ae:6f:b4:af:55:1d:27:8b:62:66:d2:f1:06:2b:ed:f6:96:
+         15:f4:51:94:d0:56:63:8e:90:8c:08:06:d9:92:a5:98:35:3a:
+         da:96:83:c0:9a:8f:8c:37:8a:3b:2c:25:36:76:e5:94:b7:12:
+         4d:e7:25:b2:b8:f3:bd:36:b4:c7:bf:76:37:3e:04:19:d2:13:
+         c6:9c:b1:fe:00:76:c2:8d:c4:4a:68:b3:3d:e5:0d:1e:7a:74:
+         e0:e7:5a:80
+notBefore=Feb 20 09:58:18 2026 GMT
+notAfter=May 21 09:58:17 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R13
+subject=CN = autoconfig.server.kisumu.go.ke
+--- bankreturns.centralbank.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:fb:18:25:4e:5d:2d:fb:0f:8d:c7:22:85:15:4a:43
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = DigiCert Inc, CN = DigiCert Global G2 TLS RSA SHA256 2020 CA1
+        Validity
+            Not Before: Aug  8 00:00:00 2025 GMT
+            Not After : Mar 12 23:59:59 2026 GMT
+        Subject: C = KE, L = Nairobi, O = Central Bank of Kenya, CN = *.centralbank.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:c8:24:4e:9d:58:98:49:ee:e5:07:9c:14:fc:b7:
+                    a1:82:52:bc:17:5f:12:41:fd:cc:e0:2a:0e:65:09:
+                    98:5e:c8:a1:cd:6b:1c:ed:c0:a3:18:ff:43:53:2c:
+                    1c:a9:27:a0:31:6b:14:3e:1e:f0:d1:90:69:03:e5:
+                    e2:b2:54:c7:63:f6:d3:ca:8f:55:5c:a8:49:b1:62:
+                    15:d9:71:bf:e1:86:30:b8:00:f4:39:8a:e4:75:d0:
+                    c6:16:b2:4f:f1:4a:55:2d:30:d9:9e:a5:69:c1:d3:
+                    19:e6:38:fd:f6:79:a3:8f:52:6f:f7:e5:c0:db:ef:
+                    11:b9:a0:0a:fa:98:10:e0:66:8d:c3:f0:25:e0:37:
+                    66:cb:f2:b5:98:d4:76:42:f3:98:33:59:d8:86:f3:
+                    41:13:41:14:ab:8c:3b:79:37:26:37:f6:5d:30:1b:
+                    0f:8b:f6:8f:77:ba:64:d7:65:d2:04:73:db:30:c8:
+                    2f:2c:74:60:6c:1c:bc:94:4c:d6:b4:43:82:10:50:
+                    a4:b1:03:7b:4b:32:ff:4f:1e:64:65:04:85:44:3f:
+                    0e:59:a9:02:e9:8b:97:d7:ea:29:96:f9:35:e1:23:
+                    91:a9:fa:fe:2f:28:db:04:1e:72:f1:cc:09:67:78:
+                    46:9b:b7:e5:3d:4e:c5:01:72:f0:77:2b:65:54:a5:
+                    67:b5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:74:85:80:C0:66:C7:DF:37:DE:CF:BD:29:37:AA:03:1D:BE:ED:CD:17
+
+            X509v3 Subject Key Identifier: 
+                D3:22:D7:25:3A:E2:75:F6:30:F5:9C:38:64:A7:7C:04:A8:AA:DD:5C
+            X509v3 Subject Alternative Name: 
+                DNS:centralbank.go.ke, DNS:*.centralbank.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.2
+                  CPS: http://www.digicert.com/CPS
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crt
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 96:97:64:BF:55:58:97:AD:F7:43:87:68:37:08:42:77:
+                                E9:F0:3A:D5:F6:A4:F3:36:6E:46:A4:3F:0F:CA:A9:C6
+                    Timestamp : Aug  8 10:01:29.492 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:71:1B:8F:A2:DC:DB:24:53:5E:41:DA:A8:
+                                70:38:B6:B3:9E:82:9F:DF:88:EC:93:07:88:14:3C:4C:
+                                AC:18:EC:7D:02:20:0E:61:B2:FD:D3:8F:69:29:36:75:
+                                CA:E7:8F:D2:FE:17:D3:0C:9A:E8:DA:BE:C0:F8:EB:87:
+                                A3:A7:79:2E:85:33
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 64:11:C4:6C:A4:12:EC:A7:89:1C:A2:02:2E:00:BC:AB:
+                                4F:28:07:D4:1E:35:27:AB:EA:FE:D5:03:C9:7D:CD:F0
+                    Timestamp : Aug  8 10:01:29.497 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:7B:19:E6:19:F9:9A:09:88:BB:9A:8C:9B:
+                                03:F2:E4:32:9C:CF:5A:20:E5:89:23:5A:0A:2E:00:E7:
+                                A1:06:7A:62:02:20:15:AB:7B:A3:58:0D:AD:EC:D0:31:
+                                66:78:B8:0A:AB:5D:B5:4A:E4:4C:A9:83:AF:20:39:66:
+                                FA:94:54:2C:A5:D0
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 49:9C:9B:69:DE:1D:7C:EC:FC:36:DE:CD:87:64:A6:B8:
+                                5B:AF:0A:87:80:19:D1:55:52:FB:E9:EB:29:DD:F8:C3
+                    Timestamp : Aug  8 10:01:29.512 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:AB:2F:87:DD:67:97:DA:0A:D4:A2:97:
+                                E1:48:38:A7:8A:69:B3:19:F0:C9:5C:BA:56:B9:87:61:
+                                B1:2B:4C:43:49:02:21:00:CA:CB:26:3D:95:C4:78:E4:
+                                2D:43:2A:35:5D:B2:A3:9E:AD:8F:3A:79:A1:8C:B3:3D:
+                                3E:5B:22:73:32:10:3B:4C
+    Signature Algorithm: sha256WithRSAEncryption
+         44:87:44:4b:c5:0f:03:30:bb:64:cb:d2:73:df:f8:28:82:e8:
+         27:45:79:36:6c:63:84:9c:3b:c5:72:97:b3:e4:ff:78:36:8f:
+         1c:89:f4:ea:73:42:52:73:e4:84:82:c0:25:3d:9a:4a:31:1d:
+         48:20:2e:38:8b:a5:34:16:f8:78:bb:8c:0c:d6:ad:fe:5f:ae:
+         93:13:59:6d:e0:01:3d:90:5d:f2:c2:e7:01:25:43:e3:bb:93:
+         a5:bf:a7:e5:16:3b:7c:5b:05:e8:d0:9e:de:a2:d3:b7:02:72:
+         b7:ca:e1:4a:ea:c7:4a:78:d7:85:ec:ce:c4:8c:8c:8a:c3:0e:
+         db:45:28:f0:bb:e0:da:7d:ce:50:b2:f2:ef:45:c8:ce:fc:49:
+         cf:42:1c:34:0d:8a:d7:bb:e6:3b:15:58:1a:e4:e0:5f:fe:79:
+         e9:1f:cf:b1:68:f9:e9:02:e6:2c:0c:71:7a:7d:57:6f:a1:24:
+         1b:9c:0b:dc:18:e8:68:d9:85:9d:7b:96:08:a6:9b:89:5a:e6:
+         80:9b:ba:f9:f1:33:d8:58:43:c7:57:f0:3a:ed:11:4c:f3:27:
+         c8:d5:35:85:bf:d7:9e:69:07:cf:c7:88:58:80:18:3f:2e:ef:
+         04:7c:fd:7f:17:6b:d5:11:e4:08:d9:d6:41:da:d6:6d:a4:e7:
+         ce:ae:a7:c2
+notBefore=Aug  8 00:00:00 2025 GMT
+notAfter=Mar 12 23:59:59 2026 GMT
+issuer=C = US, O = DigiCert Inc, CN = DigiCert Global G2 TLS RSA SHA256 2020 CA1
+subject=C = KE, L = Nairobi, O = Central Bank of Kenya, CN = *.centralbank.go.ke
+--- agricultureauthority.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            87:28:5f:40:c1:8e:e0:ca:f8:55:0a:6f:de:c3:ff:28
+        Signature Algorithm: sha384WithRSAEncryption
+        Issuer: C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+        Validity
+            Not Before: Jun 30 00:00:00 2025 GMT
+            Not After : Sep 28 23:59:59 2025 GMT
+        Subject: CN = agricultureauthority.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:92:f1:a9:3b:cb:4f:d6:3e:6c:a4:f0:e2:5b:1b:
+                    15:71:69:30:c2:21:06:5b:58:3b:0d:95:a3:2d:5c:
+                    0c:e8:68:ab:5d:72:5a:7a:f5:5b:b0:3f:21:c3:cc:
+                    b9:2e:b1:4b:2e:d5:f7:c3:4f:26:99:2d:68:a1:8a:
+                    33:d0:94:41:1c:07:4a:64:34:0a:99:10:5c:3f:e9:
+                    a8:b3:fb:ca:c8:92:df:ff:b8:db:37:6c:db:d3:8f:
+                    7e:71:5f:15:89:bc:0f:0c:fc:37:71:df:dd:fb:6f:
+                    ff:2c:7c:e5:36:3d:f7:47:97:1a:37:2e:d9:76:1b:
+                    58:e5:8a:60:4e:32:26:f2:84:0b:f0:43:ac:27:93:
+                    09:91:45:40:ee:2c:b2:92:49:41:50:8a:f3:d1:51:
+                    67:a5:1c:25:38:63:85:fb:be:60:aa:70:86:d6:83:
+                    1d:35:ab:7e:16:75:8b:24:68:a8:ad:70:c4:e0:3d:
+                    b8:a2:3f:43:37:63:8f:23:cb:7d:1e:c4:99:58:2c:
+                    72:43:51:e3:24:f1:43:29:0d:ef:ea:d0:2d:65:cc:
+                    9c:0f:e6:b3:0e:99:ab:ff:92:93:6d:d9:36:05:50:
+                    31:ab:5e:8e:ec:21:e8:40:d7:f0:e9:5e:fd:6c:87:
+                    de:9b:4d:a8:42:e5:21:ec:d6:46:8a:7d:93:ca:d1:
+                    e2:55
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:C8:D9:78:68:A2:D9:19:68:D5:3D:72:DE:5F:0A:3E:DC:B5:86:86:A6
+
+            X509v3 Subject Key Identifier: 
+                03:01:5F:0E:06:83:A1:CA:70:DE:8B:77:CB:F5:1B:CE:14:A4:BE:97
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.2.78
+                  CPS: https://sectigo.com/CPS
+                Policy: 2.23.140.1.2.1
+
+            Authority Information Access: 
+                CA Issuers - URI:http://zerossl.crt.sectigo.com/ZeroSSLRSADomainSecureSiteCA.crt
+                OCSP - URI:http://zerossl.ocsp.sectigo.com
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : DD:DC:CA:34:95:D7:E1:16:05:E7:95:32:FA:C7:9F:F8:
+                                3D:1C:50:DF:DB:00:3A:14:12:76:0A:2C:AC:BB:C8:2A
+                    Timestamp : Jun 30 19:27:09.622 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:20:0B:C6:FE:17:B6:87:74:F2:03:8C:42:FA:
+                                04:B3:FC:B3:3D:3D:0F:B6:60:8D:0B:E5:51:3A:45:BB:
+                                FF:D5:BD:E4:02:21:00:DB:9B:87:3B:3A:4C:94:8D:2A:
+                                5C:72:AC:A3:1A:61:EB:98:B5:06:9E:9E:65:24:D8:49:
+                                4B:D4:D7:04:B3:AF:3B
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 0D:E1:F2:30:2B:D3:0D:C1:40:62:12:09:EA:55:2E:FC:
+                                47:74:7C:B1:D7:E9:30:EF:0E:42:1E:B4:7E:4E:AA:34
+                    Timestamp : Jun 30 19:27:09.605 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:F0:78:08:F7:17:73:98:C4:9E:5F:8C:
+                                9E:B1:87:1D:30:6A:F5:3F:14:C7:A2:4D:28:10:88:07:
+                                14:C1:A2:F1:AC:02:21:00:F2:E5:77:0C:2B:A5:F2:A7:
+                                33:19:F4:DE:F0:46:8B:BC:09:C4:8E:DB:B5:14:66:85:
+                                C4:C7:66:DB:19:CC:02:5B
+            X509v3 Subject Alternative Name: 
+                DNS:agricultureauthority.go.ke, DNS:www.agricultureauthority.go.ke
+    Signature Algorithm: sha384WithRSAEncryption
+         6a:16:6b:47:4c:ad:ad:df:66:78:29:61:de:3f:39:36:0d:10:
+         a0:e4:85:31:8b:36:df:7e:55:d4:99:ab:09:36:07:1f:5d:68:
+         c0:37:29:c1:9b:a8:d8:7b:f6:08:14:14:72:17:16:89:a6:32:
+         a2:63:c0:3e:35:39:50:ae:70:fb:b0:2f:3b:e6:e3:ca:10:bb:
+         34:de:cc:19:45:f3:f3:c3:f4:8c:28:df:3c:9c:b8:44:9a:41:
+         cf:72:7f:8a:19:39:77:5b:5f:fd:38:27:28:0a:b3:a8:48:b6:
+         dc:16:3f:43:75:58:61:3c:9e:2c:24:d2:93:3d:a3:d8:d0:47:
+         91:d2:5e:08:d6:65:24:ee:aa:f9:49:cc:0d:54:d6:f5:a3:51:
+         80:e6:fd:3c:b2:83:72:e0:e4:99:0d:93:dc:17:19:3f:a3:82:
+         d7:15:55:4a:1b:b3:d4:74:fe:9e:4f:86:69:2b:50:e1:41:69:
+         bc:4a:74:96:c5:27:2f:09:d6:4c:87:1d:e2:61:06:90:92:f1:
+         da:84:b3:f8:18:70:18:b6:94:b5:71:14:90:8a:4f:53:67:ed:
+         9b:3d:fe:18:50:db:fb:63:87:b2:bb:bf:c5:16:77:f3:1f:6c:
+         c0:26:28:1d:17:dc:b1:3a:15:fe:ad:9f:d1:f4:eb:e8:91:c3:
+         83:23:15:e1:36:2e:61:46:8d:97:ac:4a:b6:46:f1:08:5b:97:
+         b4:89:ff:3b:4e:98:14:f8:ac:e9:56:d4:2b:a5:b1:8b:38:0e:
+         f3:77:5c:34:50:39:0d:70:28:c1:1a:ae:dd:33:62:b4:aa:05:
+         00:37:4f:79:9a:73:d3:51:a8:b7:de:79:bb:26:0a:57:1c:81:
+         4e:20:62:49:3b:e0:be:40:41:04:f2:b6:6d:ef:48:bc:8f:dd:
+         17:8a:d5:2c:b1:8b:bc:3a:d1:d6:b4:9f:3d:dc:c8:e3:47:e8:
+         78:ab:1d:1a:b9:cb:d1:6e:31:e7:21:62:70:5a:72:47:3a:16:
+         ad:f7:e8:aa:c3:06:df:22:3c:1e:cd:65:59:dc:88:e7:53:c9:
+         df:e8:37:77:27:b4:b5:67:dc:79:b3:78:d8:4c:c1:f2:3a:2a:
+         47:b3:a1:c8:01:6d:53:31:d6:43:57:db:74:2d:83:98:c0:a9:
+         f7:ec:55:74:95:d0:fc:d8:69:b7:6c:a3:4d:17:d8:63:b6:3b:
+         db:45:c8:96:87:4d:49:2f:19:70:a0:9b:70:98:aa:59:1c:f0:
+         f4:63:e1:2d:f1:66:f8:1f:03:d0:d8:4d:70:45:98:eb:72:35:
+         6e:86:81:93:e7:41:4f:0a:0a:eb:e0:66:40:15:53:8a:35:49:
+         97:d0:f3:aa:6d:17:5c:56
+notBefore=Jun 30 00:00:00 2025 GMT
+notAfter=Sep 28 23:59:59 2025 GMT
+issuer=C = AT, O = ZeroSSL, CN = ZeroSSL RSA Domain Secure Site CA
+subject=CN = agricultureauthority.go.ke
+--- ca.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            02:86:a5:eb:fb:61:69:93:5b:33:76:f1:b5:1b:ba:5a
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = GB, O = Sectigo Limited, CN = Sectigo Public Server Authentication CA OV R36
+        Validity
+            Not Before: Sep 12 00:00:00 2025 GMT
+            Not After : Sep 15 23:59:59 2026 GMT
+        Subject: C = KE, ST = Nairobi City, O = KENET, CN = *.ca.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:e8:41:2a:a6:88:94:89:d5:24:f7:c7:e2:23:d8:
+                    4e:f2:fb:40:80:a4:8b:5f:63:c3:98:43:4b:ff:31:
+                    73:60:47:68:56:49:b3:51:62:00:16:02:ac:61:83:
+                    eb:e7:9a:5f:ff:ea:45:6c:6a:d3:a1:34:d3:55:d6:
+                    40:24:de:8b:79:54:dd:27:58:96:59:79:15:0a:70:
+                    d1:fb:34:33:77:56:a2:0f:05:97:85:76:1d:d0:0c:
+                    d3:98:a5:2d:ab:67:d1:c5:ec:5c:1d:51:bb:3d:f0:
+                    03:66:8a:62:99:d4:50:1b:e8:06:7a:d6:a8:81:f6:
+                    85:b0:f4:f7:7e:72:03:70:0e:88:9e:be:fd:ac:69:
+                    78:d6:6b:39:65:06:75:d0:b7:55:e7:9d:5b:b4:9a:
+                    5b:c2:23:96:30:f9:13:4e:34:04:ac:42:bb:da:77:
+                    ae:d6:5e:93:e7:e2:1d:f9:d9:97:e7:cb:cd:b6:f6:
+                    d3:93:ad:62:59:dd:58:8a:75:3a:eb:bb:44:bf:56:
+                    ac:24:e7:26:0a:1a:99:e0:2f:b6:b7:5f:1d:b6:0b:
+                    ca:2e:1e:bc:76:de:3b:af:34:92:70:67:c7:27:4f:
+                    7f:ba:b0:7d:65:b7:7b:b4:60:e2:69:db:1c:ba:2b:
+                    3c:84:a0:ef:4f:b6:c0:24:53:4d:43:0e:bc:30:c2:
+                    46:bb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:E3:66:74:BB:70:68:8D:2C:5D:4E:0E:A6:4A:8F:9B:37:22:9C:82:92
+
+            X509v3 Subject Key Identifier: 
+                26:BC:6A:51:DE:39:07:22:AF:85:58:25:42:2D:F1:D4:30:03:91:16
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Certificate Policies: 
+                Policy: 1.3.6.1.4.1.6449.1.2.1.3.4
+                  CPS: https://sectigo.com/CPS
+                Policy: 2.23.140.1.2.2
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl.sectigo.com/SectigoPublicServerAuthenticationCAOVR36.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://crt.sectigo.com/SectigoPublicServerAuthenticationCAOVR36.crt
+                OCSP - URI:http://ocsp.sectigo.com
+
+            X509v3 Subject Alternative Name: 
+                DNS:*.ca.go.ke, DNS:ca.go.ke
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : D8:09:55:3B:94:4F:7A:FF:C8:16:19:6F:94:4F:85:AB:
+                                B0:F8:FC:5E:87:55:26:0F:15:D1:2E:72:BB:45:4B:14
+                    Timestamp : Sep 12 12:31:59.510 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:20:33:FE:66:E8:B7:5D:AA:CF:D5:52:68:65:
+                                25:F5:F7:AD:B2:72:1C:EF:93:C0:28:71:81:B6:61:F6:
+                                3C:6A:C7:E1:02:21:00:BC:A5:B1:66:4A:A9:49:28:C4:
+                                F0:96:2D:E8:15:20:5A:64:99:80:57:F1:C6:5A:2A:1E:
+                                96:CB:C7:E7:B6:4D:DD
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : AC:AB:30:70:6C:EB:EC:84:31:F4:13:D2:F4:91:5F:11:
+                                1E:42:24:43:B1:F2:A6:8C:4F:3C:2B:3B:A7:1E:02:C3
+                    Timestamp : Sep 12 12:31:59.572 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:C0:19:C9:E4:A6:1F:E9:FE:3B:6B:BC:
+                                1C:CF:6D:C3:7E:04:44:4B:F1:BD:C1:B2:5A:3F:EE:B0:
+                                51:95:03:F8:D5:02:20:04:40:44:E1:D4:22:81:8B:1D:
+                                1D:94:C2:2C:32:54:23:6F:D4:7B:DA:58:C2:E2:8A:F3:
+                                48:A6:8D:3C:CD:18:4C
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : D7:6D:7D:10:D1:A7:F5:77:C2:C7:E9:5F:D7:00:BF:F9:
+                                82:C9:33:5A:65:E1:D0:B3:01:73:17:C0:C8:C5:69:77
+                    Timestamp : Sep 12 12:31:59.406 2025 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:F5:57:FF:C7:33:47:E6:7D:F8:08:93:
+                                6B:C5:30:D1:D8:F7:B6:C3:25:C8:D8:1E:70:9C:30:36:
+                                ED:F4:DA:F1:D0:02:21:00:D9:50:C8:40:23:B9:7F:15:
+                                63:24:3E:B1:FE:24:4A:63:27:18:2B:E7:B5:D0:8E:D2:
+                                15:FE:BE:B0:5C:1A:C8:49
+    Signature Algorithm: sha256WithRSAEncryption
+         75:c2:e1:e9:71:48:91:df:9a:73:9c:65:be:a9:57:30:ad:8a:
+         d4:df:f6:96:39:81:3b:35:5c:91:b5:35:dd:b7:09:4c:f7:6c:
+         19:3f:ed:c4:02:01:42:56:ab:1c:a0:e8:7a:50:48:80:cf:f1:
+         d3:63:46:b9:15:f7:08:14:27:c6:a2:30:90:1d:42:cb:96:51:
+         23:b6:07:96:04:e9:20:47:24:63:44:b5:28:81:45:73:0c:38:
+         af:ec:89:1f:6c:4f:53:40:6d:d6:66:8b:3a:aa:34:2d:28:f6:
+         ec:cf:fe:83:4e:06:e0:2d:57:6a:1a:12:0e:7e:70:99:b0:fc:
+         28:7b:34:18:aa:32:03:55:21:7c:d1:3b:14:ab:ce:cf:61:b7:
+         e9:9e:cb:28:ff:a7:73:88:d6:a9:f7:75:89:24:5c:38:d1:e1:
+         65:d4:c7:fb:97:4b:1f:a2:ca:6c:e4:19:c6:39:b1:cb:e7:03:
+         a7:f3:33:53:56:63:80:b9:bc:c6:9c:ae:8e:78:5c:59:ab:a9:
+         2e:84:5b:17:c5:64:95:bd:20:e3:7a:bf:9b:22:0f:03:8e:88:
+         9e:f3:dc:fe:ca:e2:0c:22:f1:02:da:53:b1:78:2a:44:3d:de:
+         fa:13:55:4f:c0:53:7a:4b:66:90:95:19:74:a6:36:6d:a5:43:
+         22:bc:6d:17:a6:fa:12:e4:7b:1c:99:ed:bb:69:91:ff:df:e8:
+         91:6b:bf:ee:85:62:37:b4:09:f2:76:82:be:67:b9:05:2c:1f:
+         c3:d4:05:d3:74:d2:ec:c4:17:db:89:23:47:b7:13:8a:24:c9:
+         69:29:89:28:18:f2:b8:24:a8:cb:a0:16:dc:a9:5b:88:d3:56:
+         e4:1d:89:36:97:a4:b4:ba:a6:8b:fe:1f:73:cb:5a:85:ee:30:
+         b3:92:cd:19:42:58:c8:fb:af:ef:45:1f:79:ad:98:95:be:85:
+         cd:4f:35:4b:dd:dd:b8:b1:da:aa:3c:40:30:40:5a:9a:b2:19:
+         b1:ed:bb:37:c5:09
+notBefore=Sep 12 00:00:00 2025 GMT
+notAfter=Sep 15 23:59:59 2026 GMT
+issuer=C = GB, O = Sectigo Limited, CN = Sectigo Public Server Authentication CA OV R36
+subject=C = KE, ST = Nairobi City, O = KENET, CN = *.ca.go.ke
+--- aca.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            06:c2:87:d4:49:a4:c0:7e:10:8f:c8:3a:24:57:1e:d2:d6:75
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R12
+        Validity
+            Not Before: Jan 11 03:37:45 2026 GMT
+            Not After : Apr 11 03:37:44 2026 GMT
+        Subject: CN = aca.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ec:f3:10:a2:86:c8:52:02:99:cc:f4:83:5d:d7:
+                    e4:ac:48:eb:13:c6:e7:80:59:30:61:db:84:87:4d:
+                    de:79:40:0b:fc:ed:0e:24:4b:ce:ee:8c:86:02:87:
+                    4d:d9:7e:d5:55:9a:3a:38:9b:24:20:fd:03:08:73:
+                    91:eb:24:d1:c1:08:cd:45:f2:dd:af:66:03:dc:4b:
+                    56:aa:6d:40:32:df:20:24:f4:98:91:61:3f:7f:a9:
+                    46:61:c2:b1:3c:ea:81:2d:b4:50:4a:ad:0d:3f:34:
+                    22:43:bc:5d:19:66:2b:ca:79:96:68:54:22:0d:26:
+                    7f:7d:21:1b:28:62:05:7c:53:14:17:44:16:59:ee:
+                    e5:09:83:c5:e1:99:45:f9:63:60:6c:e1:3c:a4:fa:
+                    c6:a1:99:d9:bc:15:92:62:cf:a7:14:a3:dd:c3:74:
+                    8a:4b:33:d2:74:64:e1:82:55:54:82:a9:fb:3b:ce:
+                    82:cf:40:f1:9f:b2:b8:67:48:ef:82:cb:72:8f:79:
+                    38:b9:6f:ef:04:6f:f2:62:f8:ce:3a:ad:2f:f9:0d:
+                    03:78:64:d3:4d:df:25:ee:3f:3b:55:dc:8f:f0:ef:
+                    26:7f:c7:01:9f:41:df:5a:37:68:8d:09:ea:fa:21:
+                    08:1b:ff:9d:5a:85:6c:e1:1e:26:cf:e4:24:91:bb:
+                    fe:9d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                C2:EC:6E:C3:F0:3E:AE:B6:0D:96:26:95:61:3B:B7:1F:3B:42:D0:C6
+            X509v3 Authority Key Identifier: 
+                keyid:00:B5:29:F2:2D:8E:6F:31:E8:9B:4C:AD:78:3E:FA:DC:E9:0C:D1:D2
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r12.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:aca.go.ke, DNS:www.aca.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r12.c.lencr.org/118.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 16:83:2D:AB:F0:A9:25:0F:0F:F0:3A:A5:45:FF:C8:BF:
+                                C8:23:D0:87:4B:F6:04:29:27:F8:E7:1F:33:13:F5:FA
+                    Timestamp : Jan 11 04:36:15.615 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:AB:A1:AD:9E:24:01:B8:C1:EC:AE:7C:
+                                A9:97:10:B0:FC:DB:CE:1F:FF:8E:22:D3:AD:DF:2B:29:
+                                AF:EB:20:C7:D5:02:21:00:E3:95:AF:E2:F1:E5:CF:35:
+                                CC:D4:39:EE:8F:BA:F1:C9:B8:3E:5B:AF:44:E9:AC:8A:
+                                4B:1F:FF:67:D6:DA:4A:E1
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : A5:C9:78:92:5D:57:46:17:82:87:0D:D8:89:66:0B:5C:
+                                55:64:8B:7D:00:40:F2:EC:07:68:51:D1:88:69:19:F7
+                    Timestamp : Jan 11 04:36:15.830 2026 GMT
+                    Extensions: 00:00:05:00:2E:99:70:51
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:20:44:8D:6C:13:76:71:D5:7D:4F:EF:C2:
+                                FA:CC:70:9E:10:69:11:17:09:FF:DF:15:EB:9E:E5:92:
+                                4D:42:29:9F:02:20:75:51:C5:0D:9B:37:9B:F0:20:50:
+                                11:9A:05:C4:C0:8B:A3:10:59:B2:13:F1:4B:CF:C2:CF:
+                                5B:C7:F9:A1:2D:D5
+    Signature Algorithm: sha256WithRSAEncryption
+         b2:47:50:2d:f9:fd:1b:b6:c4:85:b7:63:ac:2d:0c:7b:39:98:
+         8d:d2:bd:09:9e:d5:9a:6d:f9:39:a6:ea:83:43:b6:04:2a:cd:
+         6a:db:f2:2b:4d:69:17:87:d1:0a:0c:2e:1b:fd:5a:3d:51:95:
+         ea:83:6c:ba:9d:28:ac:52:8b:8c:a1:bd:c7:c9:fb:4e:80:fa:
+         8e:8d:19:cf:31:c1:25:d0:28:da:2c:cb:c3:97:e1:59:9e:0a:
+         7c:61:1e:7c:0c:fd:b0:e9:47:60:31:55:c9:bb:52:2b:bb:88:
+         b3:31:a3:8a:eb:c1:68:98:9b:e1:b6:89:29:3d:2b:f8:eb:e1:
+         fc:81:9f:50:4d:71:cd:f9:37:54:95:a5:07:9e:7d:15:fc:56:
+         9d:b9:a1:90:87:78:4d:02:e0:3d:e1:2f:84:ab:e2:ce:e8:dd:
+         66:2c:5d:b5:15:ff:85:2c:7e:af:b5:84:79:a1:00:3b:80:a9:
+         4c:6b:f0:98:a5:bb:5a:1f:83:99:5f:29:9f:9c:9f:07:54:9d:
+         45:e1:3d:b1:20:16:a5:48:dd:ac:61:90:c7:33:74:84:1a:e9:
+         9f:76:81:51:84:7c:0c:05:06:5e:b4:53:1f:fe:1e:c6:6e:b1:
+         70:37:43:0b:b6:0c:4c:d3:5b:a7:a7:ed:54:5b:4e:b4:c4:51:
+         a2:03:3c:4f
+notBefore=Jan 11 03:37:45 2026 GMT
+notAfter=Apr 11 03:37:44 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R12
+subject=CN = aca.go.ke
+--- careers.cwsk.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:2c:2e:b4:30:0e:2b:31:04:03:7e:83:d9:71:fb:da:cf:c8
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R12
+        Validity
+            Not Before: Feb 13 15:04:21 2026 GMT
+            Not After : May 14 15:04:20 2026 GMT
+        Subject: CN = *.cwsk.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:bb:d6:15:8c:26:d1:07:e5:af:e8:7a:65:a0:40:
+                    97:b9:85:6b:fc:4b:04:1b:e3:48:e2:f9:60:22:01:
+                    5b:1e:fe:d1:c4:49:db:75:d1:be:3e:27:f8:d7:4d:
+                    31:3e:7f:c4:2a:13:de:28:f9:e8:83:a1:d1:62:05:
+                    36:73:02:2b:e4:d1:06:78:6a:b2:64:a3:00:83:a3:
+                    48:2e:bc:99:63:83:86:40:91:a2:65:17:f9:80:06:
+                    b6:d0:6e:6e:ad:cb:56:f6:5c:49:06:f9:3d:9c:10:
+                    4a:8c:9f:a3:d8:9b:fc:33:00:c3:1b:45:6a:6f:d5:
+                    3e:ec:46:fa:35:25:5d:d1:4a:87:95:e3:9b:bf:89:
+                    a4:85:34:51:dd:4f:38:3d:dc:4c:f5:f2:46:c3:47:
+                    7e:aa:0b:44:35:54:ec:a8:31:1a:a8:96:5d:8c:9e:
+                    f7:ef:e0:af:0d:5d:bc:69:0c:1d:4a:38:47:be:18:
+                    12:db:dd:cf:35:67:a9:25:20:c5:ee:02:89:2f:29:
+                    14:5f:17:71:67:b7:12:e3:b0:d2:f4:a8:f0:b7:08:
+                    3b:95:f4:1c:ca:c9:ee:9c:48:d6:93:dd:b1:2d:5c:
+                    f0:fa:10:91:53:a9:80:e9:80:cb:aa:62:a6:1f:f0:
+                    53:bf:6e:96:26:12:4b:59:84:80:3b:c4:5c:8b:9f:
+                    52:79
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                5F:EB:1B:99:08:C5:D5:66:FB:F8:9C:A7:1E:A3:D9:C8:D6:7F:30:0E
+            X509v3 Authority Key Identifier: 
+                keyid:00:B5:29:F2:2D:8E:6F:31:E8:9B:4C:AD:78:3E:FA:DC:E9:0C:D1:D2
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r12.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:*.cwsk.go.ke, DNS:www.careers.cwsk.go.ke, DNS:www.mail.cwsk.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r12.c.lencr.org/73.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : CB:38:F7:15:89:7C:84:A1:44:5F:5B:C1:DD:FB:C9:6E:
+                                F2:9A:59:CD:47:0A:69:05:85:B0:CB:14:C3:14:58:E7
+                    Timestamp : Feb 13 16:02:51.257 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:B9:AC:2E:6D:5A:E4:39:70:E7:D3:97:
+                                96:34:95:DE:3F:86:60:17:3A:E4:3F:7A:14:5A:08:99:
+                                D2:65:46:EC:56:02:21:00:BB:14:3B:71:41:30:D5:D4:
+                                D9:7C:66:5D:A2:2B:08:DB:23:1F:2D:0D:D8:E5:DC:7E:
+                                27:9F:E1:33:26:A9:F7:47
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 1A:8B:9D:69:4A:57:98:C8:99:A0:CA:88:BD:F4:8F:C0:
+                                B4:56:60:CC:C3:60:0D:1F:71:F4:69:FF:C7:D1:AC:A3
+                    Timestamp : Feb 13 16:02:51.740 2026 GMT
+                    Extensions: 00:00:05:00:47:45:5C:56
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:08:A6:2F:F1:EA:82:32:C3:35:C0:4E:55:
+                                A7:91:3B:3B:AA:16:3F:62:63:11:F5:07:69:DF:90:B3:
+                                0B:C6:70:C1:02:20:64:2A:3D:7E:40:9E:32:CE:B5:87:
+                                21:B0:B9:1F:77:14:E8:AC:36:75:17:65:C1:7D:0E:0C:
+                                8A:5A:AB:EF:A7:A0
+    Signature Algorithm: sha256WithRSAEncryption
+         d8:86:bd:cd:0d:7b:0c:a5:06:1e:2c:f7:09:0c:32:6e:89:94:
+         4f:de:f4:05:f1:a6:26:22:1f:40:57:33:57:7b:d1:fc:3d:b0:
+         31:68:1b:7a:6e:c0:e1:cf:4b:04:df:fb:eb:d1:47:12:a1:e8:
+         e0:3d:cd:a6:ab:ec:6d:34:23:ef:86:2d:48:87:46:b1:f1:9a:
+         b9:e4:aa:0d:f7:4a:2f:9b:0e:5a:0e:37:f1:a9:81:b8:5c:9e:
+         2e:9e:71:8c:8e:8f:8a:57:0b:0b:db:91:50:3e:cb:b6:87:68:
+         12:e7:67:cb:b1:c9:87:55:a1:4c:15:30:08:81:5d:ff:9d:13:
+         58:bb:bc:00:72:ec:63:03:bf:40:85:ab:9f:17:96:85:15:59:
+         96:0b:7a:92:e5:16:4a:81:16:2a:a7:84:81:a0:4b:d0:78:66:
+         47:f0:5d:5e:66:7b:a0:25:ca:6c:27:69:2f:35:8a:41:77:1d:
+         fb:de:3c:c5:59:ed:c4:7d:46:c3:87:f0:5a:3c:78:f2:7a:10:
+         19:2c:39:cd:a5:f1:5f:ca:84:c8:f4:4d:9e:6e:07:19:80:6d:
+         48:42:7b:68:db:9a:00:08:50:be:b9:92:85:70:ef:40:e3:43:
+         6d:1a:6b:b6:2b:f1:d5:73:a1:ad:c8:c5:b4:4e:d5:a5:f4:cd:
+         c2:c2:07:cb
+notBefore=Feb 13 15:04:21 2026 GMT
+notAfter=May 14 15:04:20 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R12
+subject=CN = *.cwsk.go.ke
+--- baringoassembly.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            05:76:8f:b5:b9:a0:3e:53:ce:4b:75:58:71:c5:75:f0:87:54
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = Let's Encrypt, CN = R13
+        Validity
+            Not Before: Jan  5 19:56:08 2026 GMT
+            Not After : Apr  5 19:56:07 2026 GMT
+        Subject: CN = *.baringoassembly.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:e9:ca:40:08:97:3a:88:c3:31:b3:78:8d:93:1a:
+                    18:6a:64:56:a6:6a:05:c0:e8:60:a3:24:6f:34:e6:
+                    85:fb:3f:33:ad:b8:48:8f:5c:19:7e:d2:8b:39:77:
+                    c0:60:b3:00:fe:c5:a1:80:27:c7:d8:45:61:43:9b:
+                    dc:cc:21:f8:b9:1f:ea:87:98:c9:a8:5c:0c:60:3c:
+                    c6:2f:60:d5:77:c7:c2:9d:44:4d:e8:ac:ec:a7:36:
+                    b1:1d:c1:5a:fe:dc:d7:dc:71:29:42:93:33:47:b9:
+                    55:bc:23:ba:0f:a1:cd:b0:36:cc:2e:2e:a2:c1:c7:
+                    8d:18:2c:3c:c0:c5:51:dd:14:74:fd:9f:96:ce:00:
+                    c7:4d:22:d8:e4:3e:8e:5b:8b:42:fd:40:7a:15:71:
+                    f1:31:2c:05:f0:6e:b8:f5:c6:d4:64:3a:d6:16:4e:
+                    41:67:c1:13:91:c7:a3:3d:0d:8a:57:c6:0f:7a:d8:
+                    dc:4c:d6:cc:68:b3:7f:93:61:fd:c4:c1:67:4f:63:
+                    79:04:87:68:34:70:7d:fc:66:c9:ec:d9:ae:96:5c:
+                    49:c9:48:89:5e:2d:8a:27:35:f9:ac:0f:9f:a6:50:
+                    32:99:d3:bd:4f:6d:93:a9:07:cd:13:bf:25:2c:6c:
+                    25:83:f0:d2:5f:6b:ca:14:97:67:0c:9a:45:8c:dd:
+                    08:1b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                F0:76:B8:02:A2:3E:91:B7:B7:39:F7:25:47:D8:8E:9E:8D:DA:E8:18
+            X509v3 Authority Key Identifier: 
+                keyid:E7:AB:9F:0F:2C:33:A0:53:D3:5E:4F:78:C8:B2:84:0E:3B:D6:92:33
+
+            Authority Information Access: 
+                CA Issuers - URI:http://r13.i.lencr.org/
+
+            X509v3 Subject Alternative Name: 
+                DNS:*.baringoassembly.go.ke, DNS:baringoassembly.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://r13.c.lencr.org/85.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 0E:57:94:BC:F3:AE:A9:3E:33:1B:2C:99:07:B3:F7:90:
+                                DF:9B:C2:3D:71:32:25:DD:21:A9:25:AC:61:C5:4E:21
+                    Timestamp : Jan  5 20:54:38.868 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:54:43:6D:7E:23:A9:17:56:AC:DF:04:38:
+                                C5:C6:DE:28:A2:F6:09:2A:51:FC:A4:9D:7A:58:A3:31:
+                                65:AC:0A:F4:02:20:3A:40:D0:6A:DF:89:B3:8C:75:7A:
+                                51:F6:A8:6B:5B:30:27:A5:FE:93:24:C5:7B:93:F7:62:
+                                0A:D3:D4:A9:50:A6
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : A5:C9:78:92:5D:57:46:17:82:87:0D:D8:89:66:0B:5C:
+                                55:64:8B:7D:00:40:F2:EC:07:68:51:D1:88:69:19:F7
+                    Timestamp : Jan  5 20:54:39.830 2026 GMT
+                    Extensions: 00:00:05:00:2D:F4:06:2C
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:7C:F5:2F:C7:D4:E6:B0:D8:06:86:DC:5E:
+                                F7:E4:44:D0:AB:C6:2F:8C:D9:C5:20:BA:C5:BE:A2:B7:
+                                59:D5:00:58:02:20:37:C6:0D:A8:3E:1B:E4:91:B1:98:
+                                D7:90:13:25:FE:F8:1A:D6:0D:30:4B:8D:FD:81:80:6F:
+                                98:FA:DD:0B:80:8B
+    Signature Algorithm: sha256WithRSAEncryption
+         81:82:cd:09:e4:8b:4d:7d:17:23:d1:00:fc:a5:19:39:0c:8b:
+         4f:7f:fb:6f:aa:9e:e3:d0:34:ea:80:8f:53:22:88:8b:d5:fa:
+         90:22:7d:83:02:d6:0b:30:71:d8:f4:0c:05:2d:26:91:4b:71:
+         7f:28:24:16:51:71:13:4a:b7:8d:77:d3:02:d9:c9:c6:ca:9f:
+         6f:20:45:52:7e:f9:de:29:a2:89:cd:50:b9:a1:4d:77:66:be:
+         60:58:13:ca:1b:6b:51:fc:cf:a9:d5:4b:92:4e:6e:d8:0b:d3:
+         19:af:e7:d4:98:6a:a5:20:27:f1:86:34:86:8e:8c:3c:ed:a1:
+         a3:f9:e4:41:ae:3d:dd:ee:9a:33:89:bc:88:cf:38:79:54:44:
+         0e:eb:d9:e3:7e:42:5b:9f:e6:90:5d:2c:68:a1:f1:a4:68:5e:
+         f1:44:83:61:90:09:cb:3c:dc:5c:ec:58:8b:be:fc:12:ce:44:
+         c0:e7:e1:39:99:0f:e7:ca:4d:9d:db:9a:18:f0:db:3a:47:ea:
+         10:2d:19:da:e2:cb:2f:c7:39:bd:b2:5b:e4:fb:f8:71:12:37:
+         23:88:2c:54:10:7e:c6:76:be:3b:8a:6f:38:7c:61:5b:f0:69:
+         94:5b:b0:d1:14:df:79:cd:a7:99:1f:4c:05:04:35:2c:f8:1f:
+         2d:49:b5:ab
+notBefore=Jan  5 19:56:08 2026 GMT
+notAfter=Apr  5 19:56:07 2026 GMT
+issuer=C = US, O = Let's Encrypt, CN = R13
+subject=CN = *.baringoassembly.go.ke
+--- autodiscover.ca.go.ke ---
+--- bcms.kra.go.ke ---
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0e:e8:f2:02:f6:db:67:c4:6f:3c:4e:8a:68:09:d8:41
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = US, O = DigiCert Inc, CN = DigiCert Global G2 TLS RSA SHA256 2020 CA1
+        Validity
+            Not Before: Jan  8 00:00:00 2026 GMT
+            Not After : Jan  7 23:59:59 2027 GMT
+        Subject: C = KE, L = Nairobi, O = Kenya Revenue Authority, CN = *.kra.go.ke
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:93:20:f4:4c:ff:ea:90:30:5d:8b:0e:47:bd:aa:
+                    34:86:75:28:73:a5:7f:f2:4d:14:af:74:55:04:17:
+                    9e:29:16:24:97:94:d3:bd:82:55:03:e8:38:37:d3:
+                    79:52:8b:04:d5:a3:a6:1c:e4:9e:26:c6:a6:4c:65:
+                    68:e6:46:36:e9:8e:1d:e3:bd:21:c9:ee:dd:2c:6a:
+                    0f:de:59:90:83:86:08:72:a4:87:7c:3e:d2:fb:db:
+                    b7:05:59:99:5a:b4:d6:bb:fd:c0:9d:ee:7d:4d:93:
+                    ac:c4:0a:3e:7d:73:a2:2c:10:bd:72:29:14:52:8c:
+                    ab:32:a5:d2:05:31:5e:d1:8a:42:5f:fa:90:a7:69:
+                    aa:d0:61:62:04:0a:0e:0d:37:a1:d1:c9:ff:bd:b4:
+                    71:d9:2f:86:95:d3:ab:65:ae:7f:42:a8:ce:73:fc:
+                    46:df:30:42:9f:24:5e:03:82:fa:ed:43:b8:cb:d8:
+                    c7:2b:58:8d:d4:46:17:94:b7:4b:07:d1:00:41:c7:
+                    63:c1:59:62:ac:7e:14:53:d3:03:ac:0a:84:a1:f4:
+                    78:a2:fb:b4:dc:37:43:6b:37:8f:7c:b2:2d:a4:c6:
+                    21:a8:0a:5c:9b:70:c5:2e:1b:d0:a5:14:23:d2:de:
+                    d6:97:a1:ba:a6:b7:fe:12:1f:0e:1e:84:23:5b:d9:
+                    29:0d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier: 
+                keyid:74:85:80:C0:66:C7:DF:37:DE:CF:BD:29:37:AA:03:1D:BE:ED:CD:17
+
+            X509v3 Subject Key Identifier: 
+                A5:24:86:FF:D7:3A:1D:A3:58:88:09:1B:79:F1:4C:E5:0E:ED:CD:12
+            X509v3 Subject Alternative Name: 
+                DNS:*.kra.go.ke
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.2
+                  CPS: http://www.digicert.com/CPS
+
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://crl3.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl
+
+                Full Name:
+                  URI:http://crl4.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crl
+
+            Authority Information Access: 
+                OCSP - URI:http://ocsp.digicert.com
+                CA Issuers - URI:http://cacerts.digicert.com/DigiCertGlobalG2TLSRSASHA2562020CA1-1.crt
+
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 4C:63:DC:98:E5:9C:1D:AB:88:F6:1E:8A:3D:DE:AE:8F:
+                                AB:44:A3:37:7B:5F:9B:94:C3:FB:A1:9C:FC:C1:BE:26
+                    Timestamp : Jan  8 11:56:35.917 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:44:02:20:1B:3D:B2:17:9C:7E:78:A3:C7:33:7B:CC:
+                                2D:A7:48:13:9E:67:40:C8:E7:80:49:56:6D:87:B0:8F:
+                                E5:20:2C:9C:02:20:7C:30:A0:00:2B:26:9C:C1:F5:0F:
+                                A0:25:50:4D:3A:FF:B6:A9:C2:4E:8F:DF:08:8C:14:7D:
+                                DA:5D:20:E2:05:16
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 1C:9F:68:2C:E9:FA:F0:45:69:50:F8:1B:96:8A:87:DD:
+                                DB:32:10:D8:4C:E6:C8:B2:E3:82:52:4A:C4:CF:59:9F
+                    Timestamp : Jan  8 11:56:35.971 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:BA:4C:D7:75:28:C5:C3:70:AF:82:A4:
+                                08:E3:B6:F6:81:35:BB:67:BB:82:6E:3F:80:D6:86:C6:
+                                DB:D9:7C:36:A7:02:21:00:E2:21:52:92:9B:39:CE:22:
+                                70:75:A3:8E:0E:4A:9D:04:0F:86:23:3B:CE:D6:C6:C5:
+                                59:28:42:F6:42:37:43:E5
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 60:4C:9A:AF:7A:7F:77:5F:01:D4:06:FC:92:0D:C8:99:
+                                EB:0B:1C:7D:F8:C9:52:1B:FA:FA:17:77:3B:97:8B:C9
+                    Timestamp : Jan  8 11:56:36.172 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:21:00:D0:F4:25:36:47:56:BE:DD:57:4B:35:
+                                5E:A2:37:94:13:04:31:55:9A:DD:2E:34:B5:90:A4:EA:
+                                7E:DB:C0:AA:42:02:20:2E:0A:7C:1E:F8:7F:D3:52:07:
+                                FF:7A:36:28:E9:7A:8D:0A:C9:3E:07:84:C5:DE:B9:DF:
+                                27:CE:79:61:7A:1F:F9
+    Signature Algorithm: sha256WithRSAEncryption
+         aa:ec:26:f9:27:b2:58:19:9b:5e:62:9a:27:a7:1b:77:fc:fa:
+         a8:28:24:e5:71:79:ed:b1:4a:e7:74:be:98:4d:35:76:53:64:
+         e8:ba:07:33:48:57:9b:8c:d8:9c:31:57:79:c4:8e:2b:39:3f:
+         07:23:4f:5d:78:fa:5e:bd:d8:f6:c4:3a:53:52:9a:09:d8:1d:
+         fd:0e:49:09:fe:13:be:7f:cc:25:de:94:99:86:b1:f4:3c:c3:
+         84:26:9a:a6:b3:8e:8d:ef:b6:cf:e6:f7:b7:75:1b:ce:61:e3:
+         94:19:e9:39:be:45:7d:ea:c5:58:18:10:a8:6e:5c:5d:a5:36:
+         c4:5b:a6:31:a7:89:3f:b4:f1:4f:4d:49:b3:5a:f4:d0:42:1e:
+         80:98:0f:42:de:d8:8a:ed:f7:67:a0:76:55:35:bb:27:7f:f2:
+         89:57:c5:d2:c5:e9:1f:da:9d:26:70:9e:79:ef:c3:2d:14:bd:
+         2b:c0:cf:95:fe:38:28:39:aa:b7:e8:52:75:10:27:f4:19:48:
+         36:35:e3:e5:bc:49:76:41:6e:34:e8:76:3f:b1:3a:75:ee:96:
+         62:20:04:12:76:9d:5a:5e:e1:70:34:2e:81:63:2f:2e:1f:17:
+         72:96:4d:ee:94:8c:c0:84:f2:c7:0d:13:0c:65:8b:9b:4e:47:
+         57:9d:37:df
+notBefore=Jan  8 00:00:00 2026 GMT
+notAfter=Jan  7 23:59:59 2027 GMT
+issuer=C = US, O = DigiCert Inc, CN = DigiCert Global G2 TLS RSA SHA256 2020 CA1
+subject=C = KE, L = Nairobi, O = Kenya Revenue Authority, CN = *.kra.go.ke
