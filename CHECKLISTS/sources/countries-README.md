@@ -31,9 +31,6 @@ Every piece of research, every lead, every methodology, every tool reference, ev
 | Directory | Contents | Status |
 |-----------|----------|--------|
 | **`CYBER RECON TOUR/`** | Government, military, media, education, and business domains organized by country and region | **Active — 270 countries, 14 regions** |
-| **`CHECKLISTS/`** | Collection Checklist (1,265 fields), OSINT Mission Set (process/SOP), Country Coverage — offline viewer + SQLite | **Active** |
-
-Open the checklist viewer locally: [`CHECKLISTS/viewer.html`](CHECKLISTS/viewer.html) · details in [`CHECKLISTS/README.md`](CHECKLISTS/README.md)
 
 ### Coming Soon
 

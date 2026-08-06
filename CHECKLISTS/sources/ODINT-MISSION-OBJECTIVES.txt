@@ -1,0 +1,3221 @@
+ODINT MISSION OBJECTIVES
+Observatory for Digital Infrastructure and Network Transparency
+================================================================================
+
+################################################################################
+MISSION STATEMENT
+################################################################################
+
+ODINT conducts OSINT-ONLY security audits of government digital infrastructure
+for the purpose of transparency, accountability, and public record.
+
+THIS IS NOT HACKING. THIS IS NOT EXPLOITATION. THIS IS DOCUMENTATION.
+
+We are the "Wayback Machine" for government security posture - systematically
+documenting what is publicly accessible, exposed, or misconfigured so that:
+
+    1. Citizens know what data their governments are exposing
+    2. Journalists have evidence for accountability reporting
+    3. Human rights organizations can document abuses
+    4. History has a record of what authoritarian regimes tried to hide
+    5. Democratic accountability is strengthened through transparency
+
+METHODOLOGY: OSINT (Open Source Intelligence) ONLY
+    - Passive reconnaissance
+    - Publicly accessible data
+    - No exploitation or intrusion
+    - No unauthorized access
+    - No active attacks
+    - Legal in all jurisdictions
+
+WE DOCUMENT. WE ARCHIVE. WE HOLD POWER ACCOUNTABLE.
+
+################################################################################
+PROJECT INFORMATION
+################################################################################
+
+TARGET COUNTRY/REGION: [                                          ]
+PROJECT CODENAME:      [                                          ]
+START DATE:            [                                          ]
+LAST UPDATED:          [                                          ]
+STATUS:                [ ] Enumeration  [ ] Active Collection  [ ] Analysis  [ ] Complete
+
+################################################################################
+SECTION 0: FILE ORGANIZATION RULES (MANDATORY)
+################################################################################
+
+!!! ALL FILES MUST BE ORGANIZED INTO SUBFOLDERS - NO EXCEPTIONS !!!
+
+RULE 1: EVERY DOWNLOAD GOES IN ITS DESIGNATED SUBFOLDER
+    - Hashes        -> /hashes/
+    - Usernames     -> /usernames/
+    - Emails        -> /personnel/
+    - GPS coords    -> /gps-coords/
+    - API responses -> /apis/
+    - Documents     -> /documents/
+    - Photos        -> /photos/
+    - Videos        -> /videos/
+    - etc.
+
+RULE 2: NAMING CONVENTION
+    [domain]_[type]_[date].[ext]
+    Examples:
+    - presidency.gov.xx_users_2026-01-20.json
+    - military.gov.xx_api-response_2026-01-20.json
+    - ministry.gov.xx_gravatar-hashes_2026-01-20.txt
+
+RULE 3: ALWAYS MAINTAIN CHAIN OF CUSTODY
+    Every file should have:
+    - Source URL documented
+    - Collection timestamp
+    - SHA256 hash of original file
+    - Collector identification
+
+RULE 4: COMPARTMENTALIZATION PURPOSE
+    This organization allows us to:
+    [ ] Know exactly what we HAVE collected
+    [ ] Know exactly what we are MISSING
+    [ ] Track progress by folder completeness
+    [ ] Generate reports per data type
+    [ ] Share specific data with partners
+    [ ] Maintain evidence integrity
+
+RULE 5: FOLDER CHECKLIST PER TARGET
+    For each domain audited, these folders should be populated:
+    [ ] /apis/              - All API responses
+    [ ] /archives/          - Wayback/historical snapshots
+    [ ] /backups/           - Any exposed backups found
+    [ ] /configs/           - Configuration files
+    [ ] /credentials/       - Exposed keys/tokens (DO NOT USE)
+    [ ] /documents/         - PDFs, Office docs
+    [ ] /domains/           - Domain/subdomain lists
+    [ ] /geolocation/       - IP geolocation data
+    [ ] /gps-coords/        - GPS/EXIF coordinates
+    [ ] /hashes/            - All extracted hashes
+    [ ] /infrastructure/    - Hosting/CDN/network info
+    [ ] /ip-ranges/         - IP addresses, netblocks
+    [ ] /keys/              - SSH/PGP keys found
+    [ ] /logs/              - Exposed log files
+    [ ] /metadata/          - Document/image metadata
+    [ ] /notes/             - Research notes
+    [ ] /personnel/         - Emails, names, org charts
+    [ ] /photos/            - Images with EXIF
+    [ ] /raw/               - Unprocessed bulk data
+    [ ] /reports/           - Analysis writeups
+    [ ] /source-code/       - Exposed source files
+    [ ] /ssl-certificates/  - Cert data
+    [ ] /subdomains/        - Subdomain enumeration
+    [ ] /tech-stacks/       - Technology fingerprints
+    [ ] /usernames/         - All usernames found
+    [ ] /videos/            - Video files
+    [ ] /filenames/         - Raw filename patterns & enumeration
+
+RULE 6: SOURCELIST.TXT IS MANDATORY
+    Every project folder MUST contain a sourcelist.txt that:
+    - Lists ALL target domains
+    - Shows scan status for each
+    - Documents findings per domain
+    - Tracks what's been audited vs pending
+
+RULE 7: NOTHING GOES IN ROOT FOLDER
+    The root project folder should ONLY contain:
+    - sourcelist.txt
+    - This mission objectives file (if copied)
+    - Subfolders listed above
+    NO loose files. NO downloads in root. EVER.
+
+STANDARD FOLDER STRUCTURE:
+
+    /[COUNTRY-NAME]/
+    ├── [COUNTRY-NAME].db           # SQLite database (e.g., Greenland.db)
+    ├── sourcelist.txt              # Master list of all targets + status
+    ├── MISSION_OBJECTIVES.txt      # Copy of this template (optional)
+    ├── desktop.ini                 # System file (ignore)
+    │
+    ├── /apis/                      # API responses, schemas, documentation
+    │   ├── /[domain1.gov.xx]/      # Subdomain per target
+    │   ├── /[domain2.gov.xx]/
+    │   └── ...
+    │
+    ├── /archives/                  # Wayback snapshots, historical data
+    ├── /backups/                   # Exposed .bak, .sql, .zip files
+    ├── /configs/                   # .env, config files, settings
+    ├── /credentials/               # API keys, tokens (DOCUMENT ONLY)
+    ├── /critical-findings/         # HIGH SEVERITY - immediate action items
+    │
+    ├── /documents/                 # ALL document types, organized by domain
+    │   ├── /[domain1.gov.xx]/
+    │   │   ├── /pdf/               # PDF files
+    │   │   ├── /doc/               # Word documents (.doc, .docx)
+    │   │   ├── /xls/               # Excel files (.xls, .xlsx)
+    │   │   ├── /ppt/               # PowerPoint (.ppt, .pptx)
+    │   │   ├── /csv/               # CSV data files
+    │   │   ├── /txt/               # Text files
+    │   │   └── /other/             # Other document types
+    │   └── /[domain2.gov.xx]/
+    │       └── ...
+    │
+    ├── /domains/                   # Domain lists, WHOIS data
+    ├── /downloads/                 # Staging area for bulk downloads
+    │
+    ├── /data-files/                # Structured data files by domain
+    │   ├── /[domain1.gov.xx]/
+    │   │   ├── /json/              # JSON files & API responses
+    │   │   ├── /xml/               # XML files
+    │   │   ├── /csv/               # CSV exports
+    │   │   ├── /sql/               # SQL dumps (if exposed)
+    │   │   └── /other/             # YAML, TOML, etc.
+    │   └── ...
+    │
+    ├── /geolocation/               # IP geolocation, server locations
+    ├── /gps-coords/                # EXIF GPS, facility coordinates
+    ├── /hashes/                    # MD5, SHA, Gravatar, password hashes
+    │
+    ├── /html/                      # Raw HTML pages archived
+    │   ├── /[domain1.gov.xx]/
+    │   └── ...
+    │
+    ├── /infrastructure/            # Hosting, CDN, network architecture
+    ├── /ip-ranges/                 # IPs, netblocks, ASN data
+    ├── /keys/                      # SSH, PGP, encryption keys
+    ├── /logs/                      # Exposed log files
+    ├── /metadata/                  # Document/image metadata extracts
+    ├── /notes/                     # Research notes, observations
+    ├── /personnel/                 # Emails, names, org charts, contacts
+    │
+    ├── /photos/                    # ALL images, organized by domain
+    │   ├── /[domain1.gov.xx]/
+    │   │   ├── /jpg/               # JPEG images (with EXIF)
+    │   │   ├── /png/               # PNG images
+    │   │   ├── /gif/               # GIF images
+    │   │   ├── /tiff/              # TIFF images
+    │   │   ├── /webp/              # WebP images
+    │   │   ├── /svg/               # SVG vector graphics
+    │   │   └── /raw/               # RAW camera files
+    │   └── /[domain2.gov.xx]/
+    │       └── ...
+    │
+    ├── /videos/                    # ALL video files, organized by domain
+    │   ├── /[domain1.gov.xx]/
+    │   │   ├── /mp4/
+    │   │   ├── /mov/
+    │   │   ├── /avi/
+    │   │   ├── /webm/
+    │   │   └── /other/
+    │   └── ...
+    │
+    ├── /audio/                     # Audio files (if found)
+    │   ├── /[domain1.gov.xx]/
+    │   │   ├── /mp3/
+    │   │   ├── /wav/
+    │   │   └── /other/
+    │   └── ...
+    │
+    ├── /raw/                       # Unprocessed bulk data
+    ├── /reports/                   # Analysis reports, writeups
+    ├── /scripts/                   # Collection/analysis scripts used
+    │
+    ├── /source-code/               # Exposed source files by domain
+    │   ├── /[domain1.gov.xx]/
+    │   │   ├── /js/                # JavaScript files
+    │   │   ├── /css/               # CSS files
+    │   │   ├── /php/               # PHP files (if exposed)
+    │   │   ├── /git/               # .git directory dumps
+    │   │   └── /other/
+    │   └── ...
+    │
+    ├── /sources/                   # Source attribution, chain of custody
+    ├── /ssl-certificates/          # Certificate data, CT logs
+    ├── /subdomains/                # Subdomain enumeration results
+    ├── /tech-stacks/               # Technology fingerprints
+    ├── /usernames/                 # Enumerated usernames, accounts
+    ├── /filenames/                 # Raw filename enumeration & patterns
+    │   ├── /[domain1.gov.xx]/
+    │   └── ...
+    │
+    ├── /social-media/              # Social media account archives
+    │   ├── /twitter/
+    │   ├── /facebook/
+    │   ├── /instagram/
+    │   ├── /youtube/
+    │   ├── /telegram/
+    │   └── /linkedin/
+    │
+    ├── /mobile-apps/               # APK/IPA files and analysis
+    │   ├── /apk/
+    │   ├── /decompiled/
+    │   └── /extracted-data/
+    │
+    ├── /code-repos/                # GitHub/GitLab repository archives
+    │   ├── /[org-name]/
+    │   └── ...
+    │
+    ├── /github/                     # GitHub OSINT data
+    │   ├── /users/                  # User profiles, activity, contributions
+    │   ├── /gists/                  # Public gists and snippets
+    │   ├── /organizations/          # Org profiles, members, repos
+    │   ├── /commits/                # Commit history, author data
+    │   ├── /issues/                 # Issues, PRs, discussions
+    │   └── /actions/                # Workflow files, secrets exposure
+    │
+    ├── /dns-records/               # Complete DNS enumeration
+    │   ├── /[domain1.gov.xx]/
+    │   └── ...
+    │
+    ├── /cloud-storage/             # Exposed S3/Azure/GCS findings
+    │
+    ├── /breach-data/               # Data from breach databases
+    │
+    ├── /shodan-censys/             # Internet scan data
+    │
+    ├── /wayback/                   # Wayback Machine archives
+    │   ├── /[domain1.gov.xx]/
+    │   └── ...
+    │
+    ├── /google-dorks/              # Google dorking results
+    │
+    ├── /geospatial/                # Maps, satellite imagery, coordinates
+    │
+    ├── /network/                   # BGP, ASN, network topology
+    │
+    └── /http-data/                 # HTTP-level data per domain
+        ├── /[domain1.gov.xx]/
+        │   ├── response_headers_[date].txt
+        │   ├── ssl_certificate_[date].txt
+        │   ├── ssl_chain_[date].pem
+        │   ├── cookies_[date].txt
+        │   ├── meta_tags_[date].txt
+        │   ├── scripts_inventory_[date].txt
+        │   ├── third_party_resources_[date].txt
+        │   ├── /error_pages/
+        │   └── /screenshots/
+        └── ...
+
+RULE 12: DOMAIN-BASED SUBFOLDER ORGANIZATION
+    Every file type folder MUST have subfolders per domain/organization:
+
+    CORRECT:
+    /photos/presidency.gov.xx/jpg/foto_oficial_2026.jpg
+    /documents/military.gov.xx/pdf/informe_anual.pdf
+    /videos/police.gov.xx/mp4/ceremonia_graduacion.mp4
+
+    INCORRECT:
+    /photos/foto_oficial_2026.jpg          # NO! Missing domain folder
+    /documents/informe_anual.pdf           # NO! Missing domain folder
+
+    WHY THIS MATTERS:
+    - Know exactly what we collected from EACH target
+    - Track progress per domain
+    - Identify gaps in collection
+    - Easy to share specific domain data with partners
+    - Clear attribution for evidence
+
+RULE 13: DOWNLOAD EVERYTHING - ALL FILE TYPES
+    If it's on the server and publicly accessible, DOWNLOAD IT.
+
+    FILE TYPES TO CAPTURE:
+
+    DOCUMENTS:
+    [ ] .pdf    - PDF documents
+    [ ] .doc    - Word documents (old)
+    [ ] .docx   - Word documents (new)
+    [ ] .xls    - Excel spreadsheets (old)
+    [ ] .xlsx   - Excel spreadsheets (new)
+    [ ] .ppt    - PowerPoint (old)
+    [ ] .pptx   - PowerPoint (new)
+    [ ] .odt    - OpenDocument text
+    [ ] .ods    - OpenDocument spreadsheet
+    [ ] .odp    - OpenDocument presentation
+    [ ] .rtf    - Rich text format
+    [ ] .txt    - Plain text
+
+    DATA FILES:
+    [ ] .json   - JSON data
+    [ ] .xml    - XML data
+    [ ] .csv    - Comma-separated values
+    [ ] .tsv    - Tab-separated values
+    [ ] .sql    - SQL database dumps
+    [ ] .db     - Database files
+    [ ] .sqlite - SQLite databases
+    [ ] .yaml   - YAML config/data
+    [ ] .toml   - TOML config
+    [ ] .ini    - INI config files
+
+    IMAGES:
+    [ ] .jpg    - JPEG (check EXIF!)
+    [ ] .jpeg   - JPEG alternate
+    [ ] .png    - PNG images
+    [ ] .gif    - GIF images
+    [ ] .tiff   - TIFF images
+    [ ] .tif    - TIFF alternate
+    [ ] .bmp    - Bitmap images
+    [ ] .webp   - WebP images
+    [ ] .svg    - Vector graphics
+    [ ] .ico    - Icons
+    [ ] .raw    - Camera RAW files
+    [ ] .cr2    - Canon RAW
+    [ ] .nef    - Nikon RAW
+
+    VIDEO:
+    [ ] .mp4    - MP4 video
+    [ ] .mov    - QuickTime video
+    [ ] .avi    - AVI video
+    [ ] .wmv    - Windows Media
+    [ ] .webm   - WebM video
+    [ ] .mkv    - Matroska video
+    [ ] .flv    - Flash video
+    [ ] .m4v    - MPEG-4 video
+
+    AUDIO:
+    [ ] .mp3    - MP3 audio
+    [ ] .wav    - WAV audio
+    [ ] .ogg    - OGG audio
+    [ ] .m4a    - MPEG-4 audio
+    [ ] .flac   - FLAC audio
+    [ ] .wma    - Windows Media Audio
+
+    ARCHIVES:
+    [ ] .zip    - ZIP archives
+    [ ] .rar    - RAR archives
+    [ ] .7z     - 7-Zip archives
+    [ ] .tar    - TAR archives
+    [ ] .gz     - Gzip compressed
+    [ ] .tar.gz - Tarball
+    [ ] .bz2    - Bzip2 compressed
+
+    WEB/CODE:
+    [ ] .html   - HTML pages
+    [ ] .htm    - HTML alternate
+    [ ] .css    - Stylesheets
+    [ ] .js     - JavaScript
+    [ ] .php    - PHP source (if exposed)
+    [ ] .asp    - ASP source (if exposed)
+    [ ] .jsp    - JSP source (if exposed)
+    [ ] .py     - Python (if exposed)
+
+    OTHER:
+    [ ] .log    - Log files
+    [ ] .bak    - Backup files
+    [ ] .old    - Old versions
+    [ ] .tmp    - Temporary files
+    [ ] .swp    - Swap files
+    [ ] .env    - Environment files
+    [ ] .config - Config files
+    [ ] .key    - Key files
+    [ ] .pem    - PEM certificates
+    [ ] .crt    - Certificates
+    [ ] .p12    - PKCS12 keystores
+
+RULE 14: COMPLETENESS CHECKLIST - DON'T MISS ANYTHING
+    Before marking a domain as "SCANNED", verify ALL of the following:
+
+    PRE-SCAN CHECKLIST:
+    [ ] Domain resolves (DNS check)
+    [ ] Site is accessible (HTTP 200)
+    [ ] robots.txt downloaded & analyzed
+    [ ] sitemap.xml downloaded & parsed
+    [ ] .well-known/ directory checked
+
+    ENUMERATION CHECKLIST:
+    [ ] All subdomains discovered (CT logs, passive DNS)
+    [ ] All IP addresses resolved
+    [ ] WHOIS/RDAP data captured
+    [ ] SSL certificate downloaded
+    [ ] CT log history checked
+    [ ] Wayback Machine snapshots reviewed
+
+    TECHNOLOGY CHECKLIST:
+    [ ] CMS identified (WordPress, Drupal, etc.)
+    [ ] Server headers captured
+    [ ] Framework/language identified
+    [ ] All plugins/themes enumerated
+    [ ] Version numbers documented
+    [ ] Third-party services identified
+
+    API CHECKLIST:
+    [ ] /wp-json/ checked (if WordPress)
+    [ ] /api/ paths enumerated
+    [ ] /graphql endpoint checked
+    [ ] Swagger/OpenAPI docs searched
+    [ ] All API namespaces discovered
+    [ ] API responses archived
+
+    USER/IDENTITY CHECKLIST:
+    [ ] User enumeration attempted
+    [ ] All usernames extracted
+    [ ] All emails extracted
+    [ ] Gravatar hashes generated
+    [ ] Personnel names documented
+
+    FILE DISCOVERY CHECKLIST:
+    [ ] All PDFs downloaded
+    [ ] All Office docs downloaded
+    [ ] All images downloaded (ORIGINAL, not thumbnails)
+    [ ] All videos downloaded
+    [ ] All data files (JSON, CSV, XML) downloaded
+    [ ] Backup files searched (.bak, .old, .sql)
+    [ ] Config files searched (.env, .config)
+    [ ] Log files searched
+    [ ] Source code exposure checked (.git, etc.)
+
+    METADATA CHECKLIST:
+    [ ] EXIF extracted from all images
+    [ ] Metadata extracted from all documents
+    [ ] GPS coordinates catalogued
+    [ ] Author information catalogued
+    [ ] Software versions catalogued
+    [ ] Creation dates catalogued
+
+    PATH ENUMERATION CHECKLIST:
+    [ ] /admin/ paths checked
+    [ ] /backup/ paths checked
+    [ ] /uploads/ directory checked
+    [ ] /wp-content/uploads/ checked (if WP)
+    [ ] /data/ paths checked
+    [ ] /files/ paths checked
+    [ ] /private/ paths checked
+    [ ] /temp/ paths checked
+    [ ] Debug endpoints checked
+
+    FILENAME CHECKLIST:
+    [ ] All filenames from /uploads/ captured
+    [ ] All filenames from sitemap captured
+    [ ] All filenames from directory listings captured
+    [ ] Filename patterns analyzed
+    [ ] Naming conventions documented
+
+    HASH CHECKLIST:
+    [ ] All MD5 hashes extracted
+    [ ] All SHA hashes extracted
+    [ ] All Gravatar hashes extracted
+    [ ] Hash types identified
+    [ ] Hashes cross-referenced
+
+    DOCUMENTATION CHECKLIST:
+    [ ] Source URLs documented for every file
+    [ ] Timestamps recorded for all collection
+    [ ] SHA256 hashes of originals computed
+    [ ] Chain of custody maintained
+    [ ] Notes added for anomalies
+
+    FINAL VERIFICATION:
+    [ ] All folders have content (or marked N/A)
+    [ ] No files in root folder
+    [ ] sourcelist.txt updated with status
+    [ ] Critical findings flagged
+    [ ] Nothing left to collect
+
+RULE 15: COMMON OVERSIGHTS - DON'T FORGET THESE
+    These are frequently missed during audits:
+
+    OFTEN FORGOTTEN:
+    [ ] Favicon.ico (can contain metadata)
+    [ ] apple-touch-icon.png
+    [ ] manifest.json / site.webmanifest
+    [ ] browserconfig.xml
+    [ ] crossdomain.xml
+    [ ] clientaccesspolicy.xml
+    [ ] security.txt
+    [ ] humans.txt
+    [ ] ads.txt
+    [ ] License files (LICENSE, LICENSE.txt)
+    [ ] README files on server
+    [ ] CHANGELOG files
+    [ ] VERSION files
+    [ ] Backup index files (index.html.bak, index.php.old)
+
+    OFTEN OVERLOOKED DATA SOURCES:
+    [ ] HTML comments (view-source)
+    [ ] JavaScript files (hardcoded URLs, API keys)
+    [ ] CSS files (background image URLs)
+    [ ] Source maps (.js.map, .css.map)
+    [ ] Error pages (404, 500 - often leak info)
+    [ ] Login pages (version numbers, hints)
+    [ ] Password reset pages
+    [ ] Registration pages
+    [ ] Contact forms (may reveal backend)
+    [ ] Search functionality (may expose data)
+    [ ] RSS/Atom feeds
+    [ ] Print stylesheets
+    [ ] Mobile versions (m.domain.com)
+    [ ] Staging/dev subdomains
+
+    HIDDEN IN PLAIN SIGHT:
+    [ ] WordPress readme.html (version disclosure)
+    [ ] wp-includes/version.php (if accessible)
+    [ ] Drupal CHANGELOG.txt
+    [ ] Joomla administrator/manifests/files/joomla.xml
+    [ ] Server-status pages (Apache)
+    [ ] phpinfo() pages
+    [ ] Debug/trace endpoints
+    [ ] Health check endpoints (/health, /status)
+    [ ] Metrics endpoints (/metrics, /prometheus)
+
+    INFRASTRUCTURE LEAKS:
+    [ ] HTTP headers (Server, X-Powered-By)
+    [ ] Cookie names (can reveal framework)
+    [ ] Session ID formats
+    [ ] Error message formats
+    [ ] Stack traces (if exposed)
+    [ ] Default credentials pages
+    [ ] Installation/setup pages left accessible
+
+RULE 8: DOCUMENTATION IS THE MISSION
+    Remember: We are not hackers. We are ARCHIVISTS and AUDITORS.
+
+    Our job is to:
+    ✓ DOCUMENT what governments expose publicly
+    ✓ ARCHIVE evidence before it disappears
+    ✓ ORGANIZE findings for journalists & researchers
+    ✓ PRESERVE chain of custody for legal proceedings
+    ✓ CREATE accountability through transparency
+
+    Every file we collect is EVIDENCE for:
+    - Future investigations
+    - Journalism
+    - Human rights documentation
+    - Historical record
+    - Democratic accountability
+
+RULE 9: WHAT WE DO vs WHAT WE DON'T DO
+
+    WE DO:                              WE DON'T:
+    ─────────────────────────────────   ─────────────────────────────────
+    ✓ Access public URLs                ✗ Bypass authentication
+    ✓ Read exposed APIs                 ✗ Brute force passwords
+    ✓ Download public documents         ✗ Exploit vulnerabilities
+    ✓ Extract metadata                  ✗ Inject code or payloads
+    ✓ Enumerate subdomains (passive)    ✗ Perform active scanning
+    ✓ Check robots.txt/sitemap          ✗ Ignore access restrictions
+    ✓ Archive public pages              ✗ Access "private" areas
+    ✓ Document misconfigurations        ✗ Take advantage of them
+    ✓ Record what we find               ✗ Modify or delete anything
+    ✓ Share with journalists            ✗ Sell data or extort
+
+    If a door is OPEN, we document that it's open.
+    We do NOT walk through it.
+
+RULE 10: RAW FILE PRESERVATION
+    ALL files must be downloaded in their ORIGINAL FORMAT:
+
+    PHOTOS:
+    ✓ Download original JPG/PNG/TIFF - NOT thumbnails
+    ✓ NEVER screenshot instead of download
+    ✓ NEVER convert formats (preserves EXIF)
+    ✓ NEVER resize or compress
+    ✓ EXIF data contains: GPS, camera, date, software, author
+    ✓ Store in /photos/ with original filename preserved
+
+    DOCUMENTS:
+    ✓ Download original PDF/DOC/XLS - NOT previews
+    ✓ Metadata contains: author, org, software, edit history
+    ✓ Store in /documents/
+
+    VIDEOS:
+    ✓ Download original MP4/MOV/AVI
+    ✓ Metadata contains: GPS, camera, timestamps
+    ✓ Store in /videos/
+
+    WHY THIS MATTERS:
+    - EXIF GPS can reveal where photo was taken
+    - EXIF timestamps reveal when
+    - Author metadata reveals who
+    - Software metadata reveals what tools they use
+    - Edit history can reveal document evolution
+    - Original filenames reveal naming conventions
+
+RULE 11: FILENAME ENUMERATION & ANALYSIS
+    Raw filenames are INTELLIGENCE. Always capture them.
+
+    WHAT TO COLLECT:
+    [ ] Directory listings (if exposed)
+    [ ] File names from /uploads/ folders
+    [ ] Document names from download links
+    [ ] Image filenames from galleries
+    [ ] API response filenames
+    [ ] Attachment names from any source
+
+    WHAT FILENAMES REVEAL:
+    - Naming conventions (how they organize)
+    - Date formats (YYYY-MM-DD vs DD-MM-YYYY)
+    - Project codes / internal references
+    - Personnel names / initials
+    - Department abbreviations
+    - Version numbering schemes
+    - Language preferences
+    - Software that generated them
+
+    FILENAME PATTERNS TO LOOK FOR:
+    - IMG_20260120_143052.jpg     -> Date/time stamps
+    - informe_confidencial_v3.pdf -> Version numbers, classification
+    - juan_garcia_cv.doc          -> Personnel names
+    - MIN-DEF-2026-0042.pdf       -> Internal reference numbers
+    - acta_reunion_20260115.pdf   -> Meeting records
+    - nomina_enero_2026.xls       -> Payroll/financial
+    - backup_db_20260101.sql      -> Backup schedules
+    - DSC_0001.JPG                -> Camera defaults (unedited)
+
+    STORE IN: /filenames/
+    FORMAT: [domain]_filenames_[date].txt (one filename per line)
+
+################################################################################
+SECTION 0.3: DATABASE SCHEMA (CREATE FOR EACH COUNTRY)
+################################################################################
+
+Each country/region project should have its own SQLite database file:
+    /[COUNTRY-NAME]/[COUNTRY-NAME].db
+
+This database stores all collected data with proper relationships and enables:
+    - Querying across all collected data
+    - Cross-referencing hashes, emails, usernames
+    - Tracking collection progress
+    - Generating reports
+    - Finding correlations
+
+================================================================================
+DATABASE TABLES (28 TABLES)
+================================================================================
+
+CORE TABLES:
+    countries           - Project metadata (1 row per database)
+    domains             - All target domains/websites
+    subdomains          - Discovered subdomains
+
+TECHNOLOGY & INFRASTRUCTURE:
+    tech_stacks         - Detected technologies per domain
+    http_headers        - Captured HTTP headers
+    ssl_certificates    - SSL/TLS certificate data
+    dns_records         - All DNS record types
+    cookies             - Captured cookies
+
+WORDPRESS SPECIFIC:
+    wordpress_sites     - WordPress site details
+    wordpress_users     - Enumerated WP users with gravatar hashes
+
+HASHES:
+    hashes              - ALL hashes (gravatar, passwords, etc.)
+    hash_correlations   - Cross-site hash matches
+
+PERSONNEL & IDENTITY:
+    personnel           - Identified individuals
+    usernames           - All usernames found
+    emails              - All email addresses
+
+FILES & DOCUMENTS:
+    files               - All downloaded files with paths
+    file_metadata       - Extracted metadata
+    filenames           - Raw filename intelligence
+
+GPS & GEOLOCATION:
+    gps_coordinates     - GPS from EXIF, documents, APIs
+    ip_geolocation      - IP address locations
+
+APIs & ENDPOINTS:
+    api_endpoints       - Discovered API endpoints
+
+CREDENTIALS:
+    credentials         - Exposed keys/tokens (DOCUMENT ONLY)
+
+FINDINGS:
+    findings            - Security findings by severity
+
+SOCIAL MEDIA:
+    social_media        - Social media accounts
+
+ARCHIVES:
+    wayback_snapshots   - Wayback Machine archives
+
+TRACKING:
+    scan_log            - Audit trail of actions
+    collection_progress - Metrics per country
+
+================================================================================
+KEY TABLE SCHEMAS
+================================================================================
+
+-- DOMAINS TABLE
+CREATE TABLE domains (
+    id INTEGER PRIMARY KEY,
+    domain TEXT UNIQUE NOT NULL,
+    domain_type TEXT,               -- government, military, media, etc.
+    priority_category TEXT,         -- P1-presidency, P2-military, etc.
+    status TEXT DEFAULT 'pending',  -- pending, scanning, complete
+    is_wordpress INTEGER DEFAULT 0,
+    ip_address TEXT,
+    asn TEXT,
+    hosting_provider TEXT,
+    cdn_provider TEXT,
+    local_folder_path TEXT,
+    last_scanned TEXT
+);
+
+-- WORDPRESS USERS (CRITICAL FOR HASH COLLECTION)
+CREATE TABLE wordpress_users (
+    id INTEGER PRIMARY KEY,
+    wordpress_site_id INTEGER,
+    wp_user_id INTEGER,
+    username TEXT NOT NULL,
+    display_name TEXT,
+    gravatar_hash TEXT,             -- MD5 hash from avatar URL
+    gravatar_hash_type TEXT,        -- md5 or sha256
+    email_cracked TEXT,             -- If hash was reversed
+    extracted_at TEXT
+);
+
+-- HASHES (MASTER TABLE)
+CREATE TABLE hashes (
+    id INTEGER PRIMARY KEY,
+    domain_id INTEGER,
+    hash_value TEXT NOT NULL,
+    hash_type TEXT NOT NULL,        -- md5, sha1, sha256, gravatar_md5, etc.
+    hash_source TEXT,               -- api, database, file, gravatar
+    source_url TEXT,
+    associated_username TEXT,
+    associated_email TEXT,
+    cracked_value TEXT,
+    crack_method TEXT,
+    discovered_at TEXT
+);
+
+-- EMAILS
+CREATE TABLE emails (
+    id INTEGER PRIMARY KEY,
+    domain_id INTEGER,
+    email TEXT UNIQUE NOT NULL,
+    source TEXT,                    -- api, document, whois, breach
+    gravatar_hash TEXT,             -- MD5 of lowercase email
+    in_breach_database INTEGER,
+    discovered_at TEXT
+);
+
+-- FILES
+CREATE TABLE files (
+    id INTEGER PRIMARY KEY,
+    domain_id INTEGER,
+    file_type TEXT NOT NULL,        -- pdf, jpg, json, etc.
+    original_filename TEXT,
+    original_url TEXT,
+    local_path TEXT NOT NULL,
+    sha256_hash TEXT,
+    has_exif INTEGER DEFAULT 0,
+    has_gps INTEGER DEFAULT 0,
+    downloaded_at TEXT
+);
+
+-- GPS COORDINATES
+CREATE TABLE gps_coordinates (
+    id INTEGER PRIMARY KEY,
+    domain_id INTEGER,
+    file_id INTEGER,
+    latitude REAL NOT NULL,
+    longitude REAL NOT NULL,
+    source TEXT,                    -- exif, api, document
+    source_file TEXT,
+    location_description TEXT,
+    facility_type TEXT
+);
+
+-- FINDINGS
+CREATE TABLE findings (
+    id INTEGER PRIMARY KEY,
+    domain_id INTEGER,
+    severity TEXT NOT NULL,         -- critical, high, medium, low, info
+    finding_type TEXT,
+    title TEXT NOT NULL,
+    description TEXT,
+    evidence_file_path TEXT,
+    status TEXT DEFAULT 'open',
+    discovered_at TEXT
+);
+
+================================================================================
+USEFUL VIEWS (PRE-BUILT QUERIES)
+================================================================================
+
+-- v_wordpress_exposed: All WP sites with exposed user APIs
+-- v_gravatar_hashes: All gravatar hashes with source info
+-- v_critical_findings: High/critical severity findings
+-- v_country_progress: Collection statistics
+-- v_gps_locations: All GPS coordinates with context
+
+================================================================================
+EXAMPLE QUERIES
+================================================================================
+
+-- Get all gravatar hashes
+SELECT hash_value, associated_username, source_url, cracked_value
+FROM hashes WHERE hash_type = 'gravatar_md5';
+
+-- Find duplicate hashes across domains (same person on multiple sites)
+SELECT hash_value, COUNT(*) as occurrences, GROUP_CONCAT(source_url)
+FROM hashes WHERE hash_type = 'gravatar_md5'
+GROUP BY hash_value HAVING COUNT(*) > 1;
+
+-- Get all files with GPS data
+SELECT f.original_filename, f.local_path, g.latitude, g.longitude
+FROM files f
+JOIN gps_coordinates g ON g.file_id = f.id;
+
+-- Get WordPress users with their hashes
+SELECT d.domain, wu.username, wu.display_name, wu.gravatar_hash, wu.email_cracked
+FROM wordpress_users wu
+JOIN wordpress_sites ws ON wu.wordpress_site_id = ws.id
+JOIN domains d ON ws.domain_id = d.id;
+
+-- Collection progress
+SELECT
+    COUNT(DISTINCT d.id) as total_domains,
+    SUM(CASE WHEN d.status = 'complete' THEN 1 ELSE 0 END) as completed,
+    SUM(d.is_wordpress) as wordpress_sites,
+    (SELECT COUNT(*) FROM hashes) as total_hashes,
+    (SELECT COUNT(*) FROM emails) as total_emails,
+    (SELECT COUNT(*) FROM files) as total_files,
+    (SELECT COUNT(*) FROM gps_coordinates) as gps_coords
+FROM domains d;
+
+================================================================================
+DATABASE FILE LOCATION
+================================================================================
+
+TWO DATABASE LEVELS:
+
+1. MASTER DATABASE (in root folder):
+    /THE WORLD AT LARGE/
+    ├── ODINT_MASTER.db             # MASTER database - indexes ALL countries
+    ├── /Greenland/
+    ├── /Antarctica/
+    ├── /Venezuela/
+    └── ...
+
+    The MASTER database contains:
+    - All countries as rows in 'countries' table
+    - Aggregated statistics across all projects
+    - Cross-country hash correlations
+    - Global personnel tracking
+    - Central findings log
+
+2. COUNTRY DATABASE (in each country folder):
+    /[COUNTRY-NAME]/
+    ├── [COUNTRY-NAME].db           # Country database (e.g., Greenland.db)
+    ├── sourcelist.txt
+    ├── /apis/
+    ├── /documents/
+    ├── /hashes/
+    ├── /photos/
+    └── ...
+
+    Each country database contains:
+    - All domains for that country
+    - All collected data for that country
+    - Local file path references
+
+WHY TWO LEVELS:
+    - MASTER.db = Bird's eye view of ALL operations
+    - Country.db = Deep dive into specific country
+    - Can query across all countries from master
+    - Can work offline on single country
+    - Enables cross-country correlation (same hash in multiple countries!)
+
+The database files store REFERENCES to local files (paths), not the files themselves.
+Actual files are stored in the folder structure as defined in Section 0.
+
+================================================================================
+WHEN TO UPDATE DATABASE
+================================================================================
+
+UPDATE DATABASE AFTER:
+    [ ] Adding a new domain to investigate
+    [ ] Completing a domain scan
+    [ ] Finding WordPress site
+    [ ] Extracting WordPress users
+    [ ] Collecting gravatar hashes
+    [ ] Finding any hash
+    [ ] Discovering email addresses
+    [ ] Downloading files
+    [ ] Extracting EXIF/GPS data
+    [ ] Identifying personnel
+    [ ] Documenting findings
+    [ ] Cracking a hash
+
+The database is your INDEX of everything collected.
+The folders contain the ACTUAL data.
+
+################################################################################
+SECTION 0.4: HTTP & EDGE-LEVEL DOCUMENTATION
+################################################################################
+
+For EVERY website accessed, capture ALL of the following:
+
+================================================================================
+HTTP RESPONSE HEADERS (CRITICAL - CAPTURE EVERYTHING)
+================================================================================
+
+[ ] SERVER IDENTIFICATION
+    [ ] Server: (Apache, nginx, IIS, LiteSpeed, etc.)
+    [ ] X-Powered-By: (PHP, ASP.NET, Express, etc.)
+    [ ] X-AspNet-Version:
+    [ ] X-AspNetMvc-Version:
+    [ ] X-Generator: (WordPress, Drupal, etc.)
+    [ ] X-Drupal-Cache:
+    [ ] X-Drupal-Dynamic-Cache:
+    [ ] X-Varnish:
+    [ ] Via: (proxy information)
+    [ ] X-Served-By:
+    [ ] X-Backend-Server:
+    [ ] X-Server-ID:
+
+[ ] CDN & CACHING HEADERS
+    [ ] X-Cache: (HIT/MISS)
+    [ ] X-Cache-Status:
+    [ ] CF-Ray: (Cloudflare ray ID)
+    [ ] CF-Cache-Status:
+    [ ] X-CDN:
+    [ ] X-Edge-IP:
+    [ ] X-Akamai-*:
+    [ ] X-Fastly-*:
+    [ ] X-Amz-Cf-*: (CloudFront)
+    [ ] Age: (cache age in seconds)
+    [ ] Cache-Control:
+    [ ] Expires:
+    [ ] ETag:
+    [ ] Last-Modified:
+    [ ] Vary:
+    [ ] Pragma:
+
+[ ] SECURITY HEADERS
+    [ ] Strict-Transport-Security: (HSTS)
+    [ ] Content-Security-Policy:
+    [ ] Content-Security-Policy-Report-Only:
+    [ ] X-Content-Type-Options:
+    [ ] X-Frame-Options:
+    [ ] X-XSS-Protection:
+    [ ] Referrer-Policy:
+    [ ] Permissions-Policy:
+    [ ] Feature-Policy: (deprecated)
+    [ ] Cross-Origin-Opener-Policy:
+    [ ] Cross-Origin-Embedder-Policy:
+    [ ] Cross-Origin-Resource-Policy:
+    [ ] Expect-CT:
+    [ ] Public-Key-Pins: (deprecated but document if present)
+    [ ] X-Permitted-Cross-Domain-Policies:
+
+[ ] CORS HEADERS
+    [ ] Access-Control-Allow-Origin:
+    [ ] Access-Control-Allow-Methods:
+    [ ] Access-Control-Allow-Headers:
+    [ ] Access-Control-Allow-Credentials:
+    [ ] Access-Control-Expose-Headers:
+    [ ] Access-Control-Max-Age:
+    >>> Misconfigured CORS = security finding!
+
+[ ] AUTHENTICATION INDICATORS
+    [ ] WWW-Authenticate:
+    [ ] X-Auth-Token:
+    [ ] Authorization schemes accepted
+    [ ] Set-Cookie: (session cookies)
+    [ ] X-CSRF-Token:
+    [ ] X-Request-Id:
+    [ ] X-Correlation-Id:
+
+[ ] CLOUD PROVIDER HEADERS
+    AWS:
+    [ ] X-Amz-Request-Id:
+    [ ] X-Amz-Id-2:
+    [ ] X-Amz-Bucket-Region:
+    [ ] X-Amz-Cf-Pop:
+
+    Azure:
+    [ ] X-Azure-Ref:
+    [ ] X-MS-Request-Id:
+    [ ] X-AspNet-Version:
+
+    Google Cloud:
+    [ ] X-Cloud-Trace-Context:
+    [ ] X-GFE-*:
+    [ ] X-Google-*:
+
+    Cloudflare:
+    [ ] CF-Ray:
+    [ ] CF-Cache-Status:
+    [ ] CF-Request-ID:
+    [ ] CF-Connecting-IP:
+
+[ ] WAF/PROTECTION INDICATORS
+    [ ] X-Sucuri-*:
+    [ ] X-Mod-Security:
+    [ ] X-Firewall:
+    [ ] X-Protected-By:
+    [ ] X-WAF-*:
+    [ ] Server: cloudflare
+    [ ] Server: AkamaiGHost
+    >>> Document WAF presence for security posture
+
+[ ] RATE LIMITING HEADERS
+    [ ] X-RateLimit-Limit:
+    [ ] X-RateLimit-Remaining:
+    [ ] X-RateLimit-Reset:
+    [ ] Retry-After:
+    [ ] X-Rate-Limit-*:
+
+[ ] OTHER IMPORTANT HEADERS
+    [ ] Content-Type: (and charset)
+    [ ] Content-Length:
+    [ ] Content-Encoding: (gzip, br, deflate)
+    [ ] Transfer-Encoding:
+    [ ] Connection:
+    [ ] Keep-Alive:
+    [ ] Date:
+    [ ] Link: (preload, prefetch hints)
+    [ ] Alt-Svc: (HTTP/3, QUIC indicators)
+    [ ] NEL: (Network Error Logging)
+    [ ] Report-To:
+    [ ] Timing-Allow-Origin:
+    [ ] X-DNS-Prefetch-Control:
+    [ ] X-Download-Options:
+    [ ] X-Robots-Tag:
+
+================================================================================
+TLS/SSL DETAILS (CAPTURE FOR EVERY HTTPS SITE)
+================================================================================
+
+[ ] CERTIFICATE INFORMATION
+    [ ] Subject (CN, O, OU, L, ST, C)
+    [ ] Issuer (full chain)
+    [ ] Serial number
+    [ ] Valid from / Valid to
+    [ ] Signature algorithm
+    [ ] Public key algorithm
+    [ ] Public key size (bits)
+    [ ] Subject Alternative Names (SANs)
+    [ ] Certificate fingerprint (SHA256)
+    [ ] Certificate chain (full)
+    [ ] OCSP stapling status
+    [ ] Certificate Transparency SCTs
+
+[ ] TLS CONNECTION DETAILS
+    [ ] TLS version (1.0, 1.1, 1.2, 1.3)
+    [ ] Cipher suite used
+    [ ] Key exchange algorithm
+    [ ] Perfect Forward Secrecy (PFS)
+    [ ] ALPN (HTTP/2, HTTP/3)
+    [ ] Session resumption support
+    [ ] OCSP response
+    [ ] Certificate revocation status
+
+[ ] SSL/TLS SECURITY ISSUES
+    [ ] SSLv2/SSLv3 enabled? (vulnerability)
+    [ ] TLS 1.0/1.1 enabled? (deprecated)
+    [ ] Weak cipher suites?
+    [ ] Certificate expiring soon?
+    [ ] Self-signed certificate?
+    [ ] Certificate name mismatch?
+    [ ] Incomplete certificate chain?
+    [ ] HSTS enabled?
+    [ ] HSTS preload status?
+
+================================================================================
+COOKIES (CAPTURE ALL)
+================================================================================
+
+For EVERY cookie set, document:
+
+[ ] Cookie name
+[ ] Cookie value (may contain session info)
+[ ] Domain
+[ ] Path
+[ ] Expires / Max-Age
+[ ] Secure flag (HTTPS only)
+[ ] HttpOnly flag (no JS access)
+[ ] SameSite attribute (Strict/Lax/None)
+[ ] Cookie size
+[ ] First-party vs third-party
+
+COMMON COOKIES TO LOOK FOR:
+[ ] PHPSESSID (PHP session)
+[ ] JSESSIONID (Java session)
+[ ] ASP.NET_SessionId (.NET session)
+[ ] wordpress_logged_in_* (WordPress)
+[ ] wp-settings-*
+[ ] __cfduid (Cloudflare)
+[ ] _ga, _gid (Google Analytics)
+[ ] _fbp (Facebook)
+[ ] AWSALB, AWSALBCORS (AWS ALB)
+[ ] incap_ses_* (Incapsula/Imperva)
+[ ] visid_incap_* (Incapsula)
+[ ] ARRAffinity (Azure)
+[ ] BIGipServer* (F5 load balancer)
+[ ] SERVERID (HAProxy)
+
+>>> Cookie names can reveal: framework, hosting, security tools, analytics
+
+================================================================================
+HTML META TAGS & PAGE HEAD
+================================================================================
+
+[ ] BASIC META TAGS
+    [ ] <title>
+    [ ] <meta name="description">
+    [ ] <meta name="keywords">
+    [ ] <meta name="author">
+    [ ] <meta name="generator"> (CMS version!)
+    [ ] <meta name="robots">
+    [ ] <meta name="viewport">
+    [ ] <meta charset="">
+
+[ ] OPEN GRAPH TAGS (og:)
+    [ ] og:title
+    [ ] og:description
+    [ ] og:image (download image!)
+    [ ] og:url
+    [ ] og:type
+    [ ] og:site_name
+    [ ] og:locale
+
+[ ] TWITTER CARD TAGS
+    [ ] twitter:card
+    [ ] twitter:site (Twitter handle!)
+    [ ] twitter:creator (Twitter handle!)
+    [ ] twitter:title
+    [ ] twitter:description
+    [ ] twitter:image
+
+[ ] OTHER META TAGS
+    [ ] <meta name="msapplication-*">
+    [ ] <meta name="theme-color">
+    [ ] <meta name="apple-mobile-web-app-*">
+    [ ] <meta http-equiv="*">
+    [ ] <link rel="canonical">
+    [ ] <link rel="alternate" hreflang="">
+    [ ] <link rel="manifest"> (web app manifest)
+    [ ] <link rel="icon"> (favicon)
+    [ ] <link rel="apple-touch-icon">
+
+[ ] SCHEMA.ORG / JSON-LD
+    [ ] <script type="application/ld+json">
+    >>> Contains structured data: organization, people, addresses, etc.
+
+================================================================================
+JAVASCRIPT ANALYSIS
+================================================================================
+
+[ ] FRAMEWORK DETECTION
+    [ ] React (look for: react, _reactRoot)
+    [ ] Vue (look for: __vue__, Vue)
+    [ ] Angular (look for: ng-version, angular)
+    [ ] jQuery (look for: jQuery, $)
+    [ ] Bootstrap
+    [ ] Next.js (_next folder)
+    [ ] Nuxt.js (_nuxt folder)
+    [ ] Gatsby
+    [ ] Svelte
+
+[ ] ANALYTICS & TRACKING
+    [ ] Google Analytics (ga.js, analytics.js, gtag)
+    [ ] Google Tag Manager (gtm.js)
+    [ ] Facebook Pixel (fbevents.js)
+    [ ] Hotjar
+    [ ] Microsoft Clarity
+    [ ] Matomo/Piwik
+    [ ] Adobe Analytics
+    [ ] Mixpanel
+    [ ] Segment
+    [ ] Heap
+
+[ ] THIRD-PARTY SCRIPTS
+    [ ] CDN hosted libraries (cdnjs, jsdelivr, unpkg)
+    [ ] Advertising scripts
+    [ ] Chat widgets (Intercom, Drift, Zendesk)
+    [ ] Payment processors
+    [ ] Social media widgets
+    [ ] A/B testing (Optimizely, VWO)
+    [ ] Error tracking (Sentry, Bugsnag)
+
+[ ] INLINE SCRIPTS
+    [ ] Hardcoded API keys
+    [ ] Hardcoded URLs (internal systems)
+    [ ] Configuration objects
+    [ ] Environment variables
+    [ ] Debug flags
+    [ ] User data
+    [ ] Session tokens
+
+[ ] SOURCE MAPS
+    [ ] .js.map files (can reveal source code!)
+    [ ] .css.map files
+    [ ] //# sourceMappingURL= comments
+
+================================================================================
+NETWORK & CONNECTION INFO
+================================================================================
+
+[ ] IP ADDRESS INFORMATION
+    [ ] Resolved IP address(es)
+    [ ] IPv4 and IPv6
+    [ ] Reverse DNS (PTR record)
+    [ ] ASN number
+    [ ] ASN organization
+    [ ] IP geolocation (country, city)
+    [ ] IP range/netblock
+    [ ] Hosting provider
+
+[ ] CONNECTION DETAILS
+    [ ] HTTP version (1.1, 2, 3/QUIC)
+    [ ] Connection reuse
+    [ ] Keep-alive settings
+    [ ] Response time (TTFB)
+    [ ] Total load time
+    [ ] DNS lookup time
+    [ ] TLS handshake time
+    [ ] Content download time
+
+[ ] REDIRECT CHAIN
+    [ ] All redirects (301, 302, 303, 307, 308)
+    [ ] Redirect URLs (may reveal internal systems)
+    [ ] Final destination
+    [ ] HTTP to HTTPS redirect?
+    [ ] www to non-www (or vice versa)?
+
+================================================================================
+ERROR RESPONSES (GOLDMINE FOR INFO)
+================================================================================
+
+Intentionally trigger errors and document:
+
+[ ] 400 Bad Request
+[ ] 401 Unauthorized
+[ ] 403 Forbidden
+[ ] 404 Not Found
+[ ] 405 Method Not Allowed
+[ ] 500 Internal Server Error
+[ ] 502 Bad Gateway
+[ ] 503 Service Unavailable
+
+FOR EACH ERROR PAGE, CAPTURE:
+[ ] Full HTML response
+[ ] Server software revealed
+[ ] Framework revealed
+[ ] File paths revealed
+[ ] Stack traces
+[ ] Database errors
+[ ] Internal IP addresses
+[ ] Developer names
+[ ] Debug information
+[ ] Custom error page or default?
+
+================================================================================
+RESPONSE STORAGE FORMAT
+================================================================================
+
+For EVERY domain, create: /http-data/[domain]/
+
+    response_headers_[date].txt      - All HTTP headers
+    ssl_certificate_[date].txt       - Full cert details
+    ssl_chain_[date].pem             - Certificate chain
+    cookies_[date].txt               - All cookies
+    meta_tags_[date].txt             - All meta tags
+    scripts_inventory_[date].txt     - All JS files loaded
+    third_party_[date].txt           - External resources
+    error_pages/                     - Error response captures
+        404.html
+        500.html
+        etc.
+    screenshots/                     - Visual captures
+        homepage_[date].png
+        login_[date].png
+        etc.
+
+################################################################################
+SECTION 0.5: RECOMMENDED TOOLS REFERENCE
+################################################################################
+
+SUBDOMAIN & DNS ENUMERATION:
+    - Amass (passive mode)
+    - Subfinder
+    - Assetfinder
+    - crt.sh (manual)
+    - SecurityTrails
+    - DNSdumpster
+    - dig / nslookup
+    - MassDNS (passive)
+
+TECHNOLOGY FINGERPRINTING:
+    - Wappalyzer (browser extension)
+    - WhatWeb
+    - BuiltWith
+    - Netcraft
+    - httpx (headers)
+    - curl (manual headers)
+
+WORDPRESS ANALYSIS:
+    - WPScan (--enumerate u)
+    - curl /wp-json/wp/v2/users
+    - WordPress API directly
+
+METADATA EXTRACTION:
+    - ExifTool (images)
+    - pdfinfo (PDFs)
+    - mat2 (metadata removal analysis)
+    - FOCA (documents)
+    - Metagoofil
+
+SCREENSHOT & ARCHIVING:
+    - Eyewitness
+    - gowitness
+    - webscreenshot
+    - Wayback Machine
+    - Archive.today
+    - SingleFile (browser extension)
+    - wget --mirror
+
+HASH ANALYSIS:
+    - hashid (identify type)
+    - hash-identifier
+    - hashcat (cracking)
+    - john (cracking)
+    - CrackStation (online)
+    - hashes.org (online)
+
+API TESTING:
+    - curl
+    - httpie
+    - Postman
+    - Insomnia
+    - GraphQL Playground
+    - Swagger UI
+
+GOOGLE DORKING:
+    - Manual Google searches
+    - Dorkbot
+    - GoogleDorker
+    - GHDB (Google Hacking Database)
+
+SOCIAL MEDIA:
+    - Sherlock (username search)
+    - social-analyzer
+    - Twint (Twitter)
+    - Instaloader (Instagram)
+    - yt-dlp (YouTube)
+    - gallery-dl (multiple platforms)
+
+NETWORK ANALYSIS:
+    - Shodan (search)
+    - Censys (search)
+    - Hurricane Electric BGP
+    - RIPEstat
+    - ipinfo.io
+    - whois
+
+CODE REPOSITORY SEARCH:
+    - GitHub search
+    - GitDorker
+    - Gitrob
+    - TruffleHog
+    - gitleaks
+    - repo-supervisor
+
+BREACH DATA:
+    - Have I Been Pwned API
+    - DeHashed
+    - IntelX
+    - h8mail
+
+GEOSPATIAL:
+    - Google Earth Pro
+    - Sentinel Hub
+    - OSRM
+    - OpenStreetMap
+    - Mapillary (street view)
+
+DOCUMENT ANALYSIS:
+    - ExifTool
+    - pdfparser
+    - oletools
+    - Apache Tika
+    - pdf-parser
+
+FILE DOWNLOADING:
+    - wget
+    - curl
+    - aria2c
+    - httrack
+    - ripgrep (content search)
+
+MOBILE APP ANALYSIS:
+    - apktool
+    - jadx
+    - MobSF
+    - Frida
+    - dex2jar
+
+CERTIFICATE ANALYSIS:
+    - openssl
+    - sslyze
+    - testssl.sh
+    - crt.sh
+
+AUTOMATION:
+    - Python + requests
+    - Scrapy
+    - BeautifulSoup
+    - Selenium
+    - Playwright
+
+################################################################################
+SECTION 0.6: ADDITIONAL OSINT SOURCES (DON'T FORGET!)
+################################################################################
+
+[ ] SOCIAL MEDIA ACCOUNTS
+    [ ] Twitter/X official accounts
+    [ ] Facebook pages
+    [ ] Instagram accounts
+    [ ] YouTube channels
+    [ ] TikTok accounts
+    [ ] LinkedIn company pages
+    [ ] Telegram channels
+    [ ] WhatsApp (if public groups)
+    [ ] VK (Russia/CIS)
+    [ ] Weibo (China)
+    >>> Download ALL posts, images, videos, follower lists
+    >>> Archive before deletion
+
+[ ] CODE REPOSITORIES
+    [ ] GitHub organizations
+    [ ] GitLab instances
+    [ ] Bitbucket repos
+    [ ] Self-hosted Git servers
+    [ ] npm packages published
+    [ ] PyPI packages
+    [ ] Docker Hub images
+    >>> Search for: API keys, credentials, internal URLs, employee names
+
+[ ] MOBILE APPLICATIONS
+    [ ] Google Play Store apps
+    [ ] Apple App Store apps
+    [ ] APK download and analysis
+    [ ] Embedded API endpoints
+    [ ] Hardcoded credentials
+    [ ] Certificate pinning bypass info
+    >>> Extract from APK: URLs, API keys, certificates
+
+[ ] CLOUD STORAGE EXPOSURE
+    [ ] Amazon S3 buckets ([name].s3.amazonaws.com)
+    [ ] Azure Blob storage
+    [ ] Google Cloud Storage buckets
+    [ ] DigitalOcean Spaces
+    [ ] Misconfigured cloud storage
+    >>> Search for: [target]-backup, [target]-data, [target]-uploads
+
+[ ] DNS RECORDS (COMPLETE ENUMERATION)
+    [ ] A records (IPv4)
+    [ ] AAAA records (IPv6)
+    [ ] MX records (mail servers)
+    [ ] TXT records (SPF, DKIM, DMARC, verification)
+    [ ] NS records (nameservers)
+    [ ] SOA records (authority)
+    [ ] CNAME records (aliases)
+    [ ] SRV records (services)
+    [ ] CAA records (certificate authority)
+    [ ] PTR records (reverse DNS)
+
+[ ] EMAIL INFRASTRUCTURE
+    [ ] MX record analysis
+    [ ] SPF record parsing
+    [ ] DKIM selector enumeration
+    [ ] DMARC policy check
+    [ ] Email gateway identification
+    [ ] Webmail portals
+    [ ] Outlook Web Access
+    [ ] Exchange autodiscover
+
+[ ] GOOGLE DORKING
+    [ ] site:target.gov.xx filetype:pdf
+    [ ] site:target.gov.xx filetype:xls
+    [ ] site:target.gov.xx filetype:doc
+    [ ] site:target.gov.xx filetype:sql
+    [ ] site:target.gov.xx filetype:log
+    [ ] site:target.gov.xx filetype:bak
+    [ ] site:target.gov.xx filetype:env
+    [ ] site:target.gov.xx "index of"
+    [ ] site:target.gov.xx inurl:admin
+    [ ] site:target.gov.xx inurl:login
+    [ ] site:target.gov.xx inurl:api
+    [ ] site:target.gov.xx "password"
+    [ ] site:target.gov.xx "username"
+    [ ] site:target.gov.xx "internal"
+    [ ] site:target.gov.xx ext:php inurl:config
+    [ ] "@target.gov.xx" (email search)
+
+[ ] INTERNET-WIDE SCAN DATA
+    [ ] Shodan searches
+    [ ] Censys searches
+    [ ] ZoomEye searches
+    [ ] BinaryEdge
+    [ ] GreyNoise
+    [ ] FOFA (China)
+    >>> Search by: IP, domain, org, ASN, SSL cert
+
+[ ] BREACH/LEAK DATA
+    [ ] Have I Been Pwned (domain search)
+    [ ] DeHashed
+    [ ] LeakCheck
+    [ ] Snusbase
+    [ ] IntelX
+    >>> Search for: @target.gov.xx emails in breaches
+
+[ ] PASTE SITES
+    [ ] Pastebin
+    [ ] GitHub Gists
+    [ ] Ghostbin
+    [ ] JustPaste.it
+    [ ] Dpaste
+    >>> Search for: domain mentions, leaked credentials, configs
+
+[ ] ARCHIVE & HISTORICAL
+    [ ] Wayback Machine (archive.org)
+    [ ] Archive.today
+    [ ] Google Cache
+    [ ] Bing Cache
+    [ ] CachedView
+    [ ] Common Crawl
+    >>> Systematic archiving of ALL pages before changes
+
+[ ] WHOIS HISTORY
+    [ ] DomainTools
+    [ ] WhoisXML API
+    [ ] SecurityTrails
+    [ ] Historical ownership
+    [ ] Registrant changes
+    [ ] Name server changes
+
+[ ] CERTIFICATE TRANSPARENCY (DEEP)
+    [ ] crt.sh
+    [ ] Censys certificates
+    [ ] Google CT logs
+    [ ] Facebook CT logs
+    [ ] Historical certificates
+    [ ] Pre-certificates
+    [ ] Wildcard certs (reveal subdomains)
+
+[ ] JOB POSTINGS & PROCUREMENT
+    [ ] Government job portals
+    [ ] LinkedIn job postings
+    [ ] Indeed listings
+    [ ] Procurement/tender documents
+    [ ] RFP/RFQ documents
+    >>> Reveals: tech stack, vendors, internal systems, org structure
+
+[ ] LEGAL & PUBLIC RECORDS
+    [ ] Court records
+    [ ] Corporate registries
+    [ ] Sanctions lists
+    [ ] FOIA/public records requests
+    [ ] Government gazettes
+    [ ] Parliamentary records
+    [ ] Budget documents
+
+[ ] GEOSPATIAL INTELLIGENCE
+    [ ] Google Maps/Street View
+    [ ] Bing Maps
+    [ ] Yandex Maps
+    [ ] Satellite imagery (Sentinel, etc.)
+    [ ] OpenStreetMap data
+    [ ] Building footprints
+    [ ] Facility identification
+    >>> Cross-reference with GPS from EXIF
+
+[ ] NETWORK INTELLIGENCE
+    [ ] BGP routing data
+    [ ] ASN ownership
+    [ ] IP range allocation
+    [ ] Peering relationships
+    [ ] Network topology
+    [ ] Hurricane Electric BGP Toolkit
+    [ ] RIPE database
+    [ ] ARIN database
+
+[ ] REVERSE IMAGE SEARCH
+    [ ] Google Images
+    [ ] TinEye
+    [ ] Yandex Images
+    [ ] Bing Visual Search
+    [ ] PimEyes (facial recognition)
+    >>> Use on: official portraits, facility photos, document images
+
+[ ] METADATA DEEP DIVE
+    [ ] ExifTool on all images
+    [ ] PDF metadata (pdfinfo)
+    [ ] Office document metadata
+    [ ] Video metadata (ffprobe)
+    [ ] Audio metadata
+    [ ] Embedded thumbnails
+    [ ] Edit history in documents
+    [ ] Printer/scanner metadata
+
+################################################################################
+SECTION 1: TARGET SOURCE CATEGORIES
+################################################################################
+
+[ ] GOVERNMENT - CORE
+    [ ] Primary government portals
+    [ ] Executive branch websites
+    [ ] Legislative websites
+    [ ] Official gazette/legal publications
+
+[ ] GOVERNMENT - MINISTRIES & AGENCIES
+    [ ] Ministry websites enumerated
+    [ ] Agency portals identified
+    [ ] Statistical offices
+    [ ] Regulatory bodies
+
+[ ] LAW ENFORCEMENT & JUDICIARY
+    [ ] Police/security services
+    [ ] Court systems
+    [ ] Prison/corrections
+    [ ] Intelligence agencies (public-facing)
+
+[ ] MILITARY & DEFENSE
+    [ ] Defense ministry
+    [ ] Armed forces branches
+    [ ] Military contractors
+    [ ] Defense procurement
+
+[ ] STATE-OWNED ENTERPRISES
+    [ ] Telecom providers
+    [ ] Banks/financial institutions
+    [ ] Energy/utilities
+    [ ] Transportation
+    [ ] Media/broadcasting
+
+[ ] EDUCATION & RESEARCH
+    [ ] Universities
+    [ ] Research institutes
+    [ ] National academies
+    [ ] Educational portals
+
+[ ] INFRASTRUCTURE & REGISTRIES
+    [ ] Domain registrars (ccTLD)
+    [ ] WHOIS services
+    [ ] Certificate authorities
+    [ ] National registries
+
+[ ] DIPLOMATIC REPRESENTATIONS
+    [ ] Embassies
+    [ ] Consulates
+    [ ] Foreign missions
+    [ ] International org reps
+
+[ ] MEDIA
+    [ ] State media outlets
+    [ ] Public broadcasters
+    [ ] News agencies
+    [ ] Government information services
+
+[ ] REGIONAL/LOCAL GOVERNMENT
+    [ ] Municipalities
+    [ ] Regional governments
+    [ ] Local councils
+    [ ] Municipal enterprises
+
+[ ] BUSINESS & TOURISM
+    [ ] Tourism boards
+    [ ] Investment agencies
+    [ ] Trade promotion
+    [ ] Business councils
+
+[ ] DEVELOPER/VENDOR
+    [ ] Government IT contractors
+    [ ] Web development firms
+    [ ] Hosting providers
+    [ ] Software vendors
+
+################################################################################
+SECTION 2: COLLECTION FOLDERS
+################################################################################
+
+[ ] /apis
+    [ ] REST API endpoints documented
+    [ ] GraphQL schemas captured
+    [ ] Swagger/OpenAPI specs downloaded
+    [ ] API responses archived
+
+[ ] /archives
+    [ ] Wayback Machine snapshots
+    [ ] Historical versions preserved
+    [ ] Deleted content recovered
+    [ ] Timeline documented
+
+[ ] /backups
+    [ ] .bak files discovered
+    [ ] .sql dumps found
+    [ ] Database exports captured
+    [ ] Configuration backups
+
+[ ] /configs
+    [ ] .env files
+    [ ] Configuration files
+    [ ] Settings exports
+    [ ] .htaccess / web.config
+
+[ ] /credentials
+    [ ] Exposed API keys
+    [ ] Tokens discovered
+    [ ] Password files (if public)
+    [ ] Authentication artifacts
+
+[ ] /critical-findings
+    [ ] High-severity vulnerabilities
+    [ ] Immediate risks documented
+    [ ] Evidence preserved
+    [ ] Timeline of discovery
+
+[ ] /documents
+    [ ] PDFs downloaded
+    [ ] Office documents (.doc, .xls, .ppt)
+    [ ] Government publications
+    [ ] Reports and white papers
+
+[ ] /domains
+    [ ] Primary domains listed
+    [ ] Domain registration info
+    [ ] Historical ownership
+    [ ] Related domains
+
+[ ] /downloads
+    [ ] Raw downloads staging
+    [ ] Bulk data exports
+    [ ] Dataset downloads
+    [ ] Archive files
+
+[ ] /geolocation
+    [ ] IP geolocation data
+    [ ] Server locations mapped
+    [ ] Facility locations
+    [ ] Network topology
+
+[ ] /gps-coords
+    [ ] EXIF GPS extraction
+    [ ] Location coordinates
+    [ ] Facility coordinates
+    [ ] Map references
+
+[ ] /hashes
+    [ ] MD5 hashes extracted
+    [ ] SHA256 hashes
+    [ ] Gravatar hashes
+    [ ] Password hashes (if exposed)
+    [ ] Hash cracking results
+
+[ ] /infrastructure
+    [ ] Hosting providers identified
+    [ ] CDN mapping
+    [ ] Load balancers
+    [ ] Network architecture
+
+[ ] /ip-ranges
+    [ ] IP addresses enumerated
+    [ ] Netblocks identified
+    [ ] ASN information
+    [ ] BGP data
+
+[ ] /keys
+    [ ] SSH public keys
+    [ ] PGP keys
+    [ ] API keys
+    [ ] Encryption keys (if public)
+
+[ ] /logs
+    [ ] Exposed log files
+    [ ] Error logs
+    [ ] Access logs
+    [ ] Debug output
+
+[ ] /metadata
+    [ ] Document metadata extracted
+    [ ] Author information
+    [ ] Software versions
+    [ ] Creation/modification dates
+
+[ ] /notes
+    [ ] Research notes
+    [ ] Observations
+    [ ] Anomalies noted
+    [ ] Questions for follow-up
+
+[ ] /personnel
+    [ ] Named individuals
+    [ ] Organizational charts
+    [ ] Contact information
+    [ ] Role assignments
+
+[ ] /photos
+    [ ] Images downloaded
+    [ ] EXIF preserved
+    [ ] Screenshots captured
+    [ ] Visual evidence
+
+[ ] /raw
+    [ ] Raw API responses
+    [ ] Unprocessed data
+    [ ] Original files
+    [ ] Bulk exports
+
+[ ] /reports
+    [ ] Analysis reports
+    [ ] Summary documents
+    [ ] Findings writeups
+    [ ] Publication drafts
+
+[ ] /scripts
+    [ ] Collection scripts
+    [ ] Analysis tools
+    [ ] Automation code
+    [ ] Custom scrapers
+
+[ ] /source-code
+    [ ] Exposed source files
+    [ ] .git directories
+    [ ] Repository dumps
+    [ ] Code snippets
+
+[ ] /sources
+    [ ] Source documentation
+    [ ] Attribution records
+    [ ] Collection timestamps
+    [ ] Chain of custody
+
+[ ] /ssl-certificates
+    [ ] Certificate downloads
+    [ ] CT log entries
+    [ ] Expiry tracking
+    [ ] Issuer analysis
+    [ ] Certificate chains
+
+[ ] /subdomains
+    [ ] Subdomain enumeration
+    [ ] Passive DNS results
+    [ ] CT log discoveries
+    [ ] Hidden services
+
+[ ] /tech-stacks
+    [ ] CMS identification
+    [ ] Framework fingerprints
+    [ ] Server software
+    [ ] Third-party services
+    [ ] Version information
+
+[ ] /usernames
+    [ ] Username enumeration
+    [ ] Account names
+    [ ] Email addresses
+    [ ] User IDs
+
+[ ] /videos
+    [ ] Video downloads
+    [ ] Metadata preserved
+    [ ] Transcripts
+    [ ] Screenshots
+
+################################################################################
+SECTION 3: FULL TECHNOLOGY STACK ENUMERATION
+################################################################################
+
+[ ] SERVER INFRASTRUCTURE
+    [ ] Web server (Apache, Nginx, IIS, LiteSpeed, Caddy)
+    [ ] Server OS fingerprint (Linux distro, Windows Server)
+    [ ] Reverse proxy detection
+    [ ] Load balancer identification
+    [ ] WAF detection (Cloudflare, Akamai, AWS WAF, ModSecurity)
+    [ ] DDoS protection services
+
+[ ] CONTENT MANAGEMENT SYSTEMS (CMS)
+    [ ] WordPress (version, theme, plugins)
+    [ ] Drupal (version, modules)
+    [ ] Joomla (version, extensions)
+    [ ] Sitecore (version)
+    [ ] Umbraco (version)
+    [ ] Adobe Experience Manager
+    [ ] Contentful / Headless CMS
+    [ ] Custom CMS identification
+    [ ] Ghost, Strapi, Directus, etc.
+
+[ ] FRONTEND FRAMEWORKS & LIBRARIES
+    [ ] React / React version
+    [ ] Vue.js / Nuxt.js
+    [ ] Angular / AngularJS
+    [ ] Next.js
+    [ ] Svelte / SvelteKit
+    [ ] jQuery version
+    [ ] Bootstrap version
+    [ ] Tailwind CSS
+    [ ] Material UI
+    [ ] Other UI frameworks
+
+[ ] BACKEND FRAMEWORKS
+    [ ] Node.js / Express
+    [ ] Django / Flask (Python)
+    [ ] Ruby on Rails
+    [ ] Laravel / Symfony (PHP)
+    [ ] ASP.NET / .NET Core
+    [ ] Spring Boot (Java)
+    [ ] Go frameworks
+    [ ] Rust frameworks
+
+[ ] PROGRAMMING LANGUAGES DETECTED
+    [ ] PHP version
+    [ ] Python version
+    [ ] Node.js version
+    [ ] Java version
+    [ ] .NET version
+    [ ] Ruby version
+    [ ] Go version
+
+[ ] DATABASE SYSTEMS
+    [ ] MySQL / MariaDB
+    [ ] PostgreSQL
+    [ ] Microsoft SQL Server
+    [ ] MongoDB
+    [ ] Redis
+    [ ] Elasticsearch
+    [ ] Oracle
+    [ ] SQLite indicators
+
+[ ] HOSTING & CLOUD PROVIDERS
+    [ ] AWS (S3, EC2, CloudFront, etc.)
+    [ ] Azure services
+    [ ] Google Cloud Platform
+    [ ] DigitalOcean
+    [ ] Cloudflare
+    [ ] Vercel
+    [ ] Netlify
+    [ ] Heroku
+    [ ] OVH / Hetzner / other VPS
+    [ ] On-premise indicators
+
+[ ] CDN & CACHING
+    [ ] Cloudflare
+    [ ] Akamai
+    [ ] Fastly
+    [ ] AWS CloudFront
+    [ ] Azure CDN
+    [ ] Varnish cache
+    [ ] Redis cache
+    [ ] Memcached
+
+[ ] AUTHENTICATION & SSO
+    [ ] OAuth providers
+    [ ] SAML endpoints
+    [ ] OpenID Connect
+    [ ] LDAP/Active Directory indicators
+    [ ] Custom auth systems
+    [ ] MFA indicators
+    [ ] National ID systems (NemID, BankID, etc.)
+
+[ ] ANALYTICS & TRACKING
+    [ ] Google Analytics (UA/GA4)
+    [ ] Matomo/Piwik
+    [ ] Adobe Analytics
+    [ ] Hotjar
+    [ ] Microsoft Clarity
+    [ ] Facebook Pixel
+    [ ] Custom analytics
+    [ ] Tag managers (GTM, etc.)
+
+[ ] THIRD-PARTY SERVICES
+    [ ] Payment processors
+    [ ] Email services (Mailchimp, SendGrid, etc.)
+    [ ] Chat widgets (Intercom, Zendesk, etc.)
+    [ ] Form builders
+    [ ] Search services (Algolia, etc.)
+    [ ] Maps (Google Maps, Mapbox, etc.)
+    [ ] Social media integrations
+    [ ] Video hosting (YouTube, Vimeo embeds)
+
+[ ] SECURITY TOOLS DETECTED
+    [ ] Wordfence (WordPress)
+    [ ] Sucuri
+    [ ] reCAPTCHA / hCaptcha
+    [ ] Rate limiting indicators
+    [ ] Security headers present
+    [ ] CSP policies
+    [ ] HSTS configuration
+
+[ ] BUILD TOOLS & BUNDLERS
+    [ ] Webpack
+    [ ] Vite
+    [ ] Parcel
+    [ ] Rollup
+    [ ] Source map exposure
+
+[ ] ECOMMERCE PLATFORMS
+    [ ] WooCommerce
+    [ ] Shopify
+    [ ] Magento
+    [ ] PrestaShop
+    [ ] Custom cart systems
+
+[ ] EMAIL & COMMUNICATION
+    [ ] Mail server (MX records)
+    [ ] Microsoft 365 / Exchange
+    [ ] Google Workspace
+    [ ] SMTP services
+    [ ] HelpScout / Freshdesk / etc.
+
+################################################################################
+SECTION 4: PATH & DIRECTORY ENUMERATION
+################################################################################
+
+[ ] STANDARD PATHS TO CHECK
+    [ ] /robots.txt
+    [ ] /sitemap.xml
+    [ ] /sitemap_index.xml
+    [ ] /.well-known/
+    [ ] /.well-known/security.txt
+    [ ] /humans.txt
+    [ ] /ads.txt
+    [ ] /crossdomain.xml
+    [ ] /clientaccesspolicy.xml
+
+[ ] ADMIN & LOGIN PATHS
+    [ ] /admin/
+    [ ] /administrator/
+    [ ] /login/
+    [ ] /wp-admin/
+    [ ] /wp-login.php
+    [ ] /user/login
+    [ ] /admin/login
+    [ ] /panel/
+    [ ] /dashboard/
+    [ ] /cpanel/
+    [ ] /webmail/
+    [ ] /portal/
+
+[ ] API PATHS
+    [ ] /api/
+    [ ] /api/v1/
+    [ ] /api/v2/
+    [ ] /rest/
+    [ ] /graphql
+    [ ] /graphiql
+    [ ] /wp-json/
+    [ ] /wp-json/wp/v2/
+    [ ] /_api/
+    [ ] /services/
+    [ ] /webservices/
+
+[ ] DOCUMENTATION PATHS
+    [ ] /swagger/
+    [ ] /swagger-ui/
+    [ ] /swagger.json
+    [ ] /swagger.yaml
+    [ ] /openapi.json
+    [ ] /openapi.yaml
+    [ ] /api-docs/
+    [ ] /docs/
+    [ ] /documentation/
+    [ ] /redoc/
+    [ ] /api/docs
+    [ ] /v1/docs
+    [ ] /apidocs/
+
+[ ] CONFIGURATION & SENSITIVE PATHS
+    [ ] /.git/
+    [ ] /.git/config
+    [ ] /.git/HEAD
+    [ ] /.gitignore
+    [ ] /.env
+    [ ] /.env.local
+    [ ] /.env.production
+    [ ] /.env.backup
+    [ ] /config.php
+    [ ] /configuration.php
+    [ ] /config.json
+    [ ] /settings.json
+    [ ] /wp-config.php
+    [ ] /wp-config.php.bak
+    [ ] /web.config
+    [ ] /.htaccess
+    [ ] /.htpasswd
+    [ ] /config/database.yml
+    [ ] /config/secrets.yml
+
+[ ] BACKUP & ARCHIVE PATHS
+    [ ] /backup/
+    [ ] /backups/
+    [ ] /bak/
+    [ ] /old/
+    [ ] /archive/
+    [ ] /temp/
+    [ ] /tmp/
+    [ ] /dump/
+    [ ] /sql/
+    [ ] /database/
+    [ ] /db/
+    [ ] /data/
+    [ ] /export/
+    [ ] /uploads/
+    [ ] /files/
+    [ ] /documents/
+    [ ] /private/
+
+[ ] COMMON BACKUP FILE EXTENSIONS
+    [ ] *.bak
+    [ ] *.backup
+    [ ] *.old
+    [ ] *.orig
+    [ ] *.save
+    [ ] *.swp
+    [ ] *.tmp
+    [ ] *.temp
+    [ ] *.sql
+    [ ] *.sql.gz
+    [ ] *.tar
+    [ ] *.tar.gz
+    [ ] *.zip
+    [ ] *.7z
+    [ ] *.rar
+
+[ ] LOG FILE PATHS
+    [ ] /logs/
+    [ ] /log/
+    [ ] /error.log
+    [ ] /access.log
+    [ ] /debug.log
+    [ ] /application.log
+    [ ] /wp-content/debug.log
+    [ ] /var/log/ (if exposed)
+    [ ] /*.log
+
+[ ] DEBUG & DEVELOPMENT PATHS
+    [ ] /debug/
+    [ ] /test/
+    [ ] /testing/
+    [ ] /dev/
+    [ ] /development/
+    [ ] /staging/
+    [ ] /beta/
+    [ ] /phpinfo.php
+    [ ] /info.php
+    [ ] /server-status
+    [ ] /server-info
+    [ ] /.DS_Store
+    [ ] /Thumbs.db
+    [ ] /elmah.axd
+    [ ] /trace.axd
+
+[ ] CMS-SPECIFIC PATHS
+    WordPress:
+    [ ] /wp-content/
+    [ ] /wp-content/uploads/
+    [ ] /wp-content/plugins/
+    [ ] /wp-content/themes/
+    [ ] /wp-includes/
+    [ ] /xmlrpc.php
+    [ ] /wp-cron.php
+    [ ] /readme.html
+    [ ] /license.txt
+
+    Drupal:
+    [ ] /core/
+    [ ] /modules/
+    [ ] /sites/default/
+    [ ] /CHANGELOG.txt
+    [ ] /update.php
+
+    Joomla:
+    [ ] /components/
+    [ ] /modules/
+    [ ] /plugins/
+    [ ] /administrator/
+    [ ] /configuration.php
+
+[ ] CLOUD & STORAGE PATHS
+    [ ] /s3/
+    [ ] /storage/
+    [ ] /blob/
+    [ ] /cdn/
+    [ ] /assets/
+    [ ] /static/
+    [ ] /media/
+    [ ] /images/
+    [ ] /img/
+    [ ] /css/
+    [ ] /js/
+    [ ] /fonts/
+
+[ ] SOURCE CODE PATHS
+    [ ] /.svn/
+    [ ] /.hg/
+    [ ] /.bzr/
+    [ ] /CVS/
+    [ ] /.idea/
+    [ ] /.vscode/
+    [ ] /node_modules/ (if exposed)
+    [ ] /vendor/ (if exposed)
+    [ ] /composer.json
+    [ ] /composer.lock
+    [ ] /package.json
+    [ ] /package-lock.json
+    [ ] /yarn.lock
+    [ ] /Gemfile
+    [ ] /requirements.txt
+    [ ] /Pipfile
+
+################################################################################
+SECTION 5: API ENUMERATION & HUNTING
+################################################################################
+
+[ ] API DISCOVERY METHODS
+    [ ] Check /robots.txt for API hints
+    [ ] Analyze JavaScript files for endpoints
+    [ ] Monitor network requests in browser
+    [ ] Check mobile app traffic (if applicable)
+    [ ] Review HTML comments for API references
+    [ ] Search GitHub for target API references
+    [ ] Check Wayback Machine for historical APIs
+    [ ] Analyze error messages for endpoint leaks
+
+[ ] WORDPRESS REST API (/wp-json/)
+    [ ] / (root namespace discovery)
+    [ ] /wp/v2/
+    [ ] /wp/v2/users (USER ENUMERATION)
+    [ ] /wp/v2/users?per_page=100
+    [ ] /wp/v2/posts
+    [ ] /wp/v2/pages
+    [ ] /wp/v2/media
+    [ ] /wp/v2/categories
+    [ ] /wp/v2/tags
+    [ ] /wp/v2/comments
+    [ ] /wp/v2/taxonomies
+    [ ] /wp/v2/types
+    [ ] /wp/v2/statuses
+    [ ] /wp/v2/settings (often protected)
+    [ ] /wp/v2/themes
+    [ ] /wp/v2/plugins
+    [ ] /wp/v2/block-types
+    [ ] /wp/v2/search
+    [ ] /oembed/1.0/
+    [ ] Custom namespaces (enumerate from root)
+    [ ] /jetpack/
+    [ ] /wc/v3/ (WooCommerce)
+    [ ] /yoast/v1/
+    [ ] /acf/v3/ (Advanced Custom Fields)
+    [ ] /wpml/v1/ (WPML multilingual)
+
+[ ] GRAPHQL ENUMERATION
+    [ ] /graphql
+    [ ] /graphiql
+    [ ] /v1/graphql
+    [ ] /api/graphql
+    [ ] /query
+    [ ] Introspection query enabled?
+    [ ] __schema query
+    [ ] __type query
+    [ ] Field enumeration
+    [ ] Mutation discovery
+    [ ] Subscription endpoints
+
+[ ] REST API COMMON ENDPOINTS
+    [ ] /api/
+    [ ] /api/v1/
+    [ ] /api/v2/
+    [ ] /api/v3/
+    [ ] /api/users
+    [ ] /api/user
+    [ ] /api/me
+    [ ] /api/profile
+    [ ] /api/account
+    [ ] /api/accounts
+    [ ] /api/admin
+    [ ] /api/auth
+    [ ] /api/login
+    [ ] /api/token
+    [ ] /api/config
+    [ ] /api/settings
+    [ ] /api/info
+    [ ] /api/status
+    [ ] /api/health
+    [ ] /api/version
+    [ ] /api/docs
+    [ ] /api/swagger
+    [ ] /api/search
+    [ ] /api/data
+    [ ] /api/export
+    [ ] /api/import
+    [ ] /api/upload
+    [ ] /api/download
+    [ ] /api/files
+    [ ] /api/documents
+    [ ] /api/reports
+
+[ ] STATISTICS & DATA APIs (like bank.stat.gl)
+    [ ] /api/v1/tables
+    [ ] /api/v1/tableinfo
+    [ ] /api/v1/data
+    [ ] /pxweb/api/v1/
+    [ ] /statbank/
+    [ ] /database/
+    [ ] /data/
+    [ ] /dataset/
+    [ ] /catalog/
+    [ ] /metadata/
+
+[ ] AUTHENTICATION ENDPOINTS
+    [ ] /oauth/
+    [ ] /oauth/authorize
+    [ ] /oauth/token
+    [ ] /oauth2/
+    [ ] /auth/
+    [ ] /auth/login
+    [ ] /auth/logout
+    [ ] /auth/register
+    [ ] /auth/reset
+    [ ] /auth/verify
+    [ ] /login
+    [ ] /logout
+    [ ] /signin
+    [ ] /signout
+    [ ] /signup
+    [ ] /register
+    [ ] /token
+    [ ] /jwt/
+    [ ] /saml/
+    [ ] /sso/
+    [ ] /cas/
+    [ ] /openid/
+    [ ] /.well-known/openid-configuration
+
+[ ] API DOCUMENTATION ENDPOINTS
+    [ ] /swagger.json
+    [ ] /swagger.yaml
+    [ ] /openapi.json
+    [ ] /openapi.yaml
+    [ ] /api-docs
+    [ ] /api-docs.json
+    [ ] /v1/api-docs
+    [ ] /v2/api-docs
+    [ ] /v3/api-docs
+    [ ] /docs
+    [ ] /documentation
+    [ ] /redoc
+    [ ] /rapidoc
+    [ ] /swagger-ui
+    [ ] /swagger-ui.html
+    [ ] /swagger-resources
+    [ ] /api/swagger-resources
+
+[ ] DRUPAL JSONAPI
+    [ ] /jsonapi
+    [ ] /jsonapi/node/article
+    [ ] /jsonapi/user/user
+    [ ] /jsonapi/taxonomy_term/
+    [ ] /jsonapi/file/file
+    [ ] /jsonapi/media/
+    [ ] /jsonapi/paragraph/
+
+[ ] COMMON SOAP/WSDL ENDPOINTS
+    [ ] /ws/
+    [ ] /wsdl/
+    [ ] /soap/
+    [ ] /services/
+    [ ] /webservices/
+    [ ] ?wsdl
+    [ ] ?WSDL
+    [ ] /Service.asmx
+    [ ] /WebService.asmx
+
+[ ] API RESPONSE ANALYSIS
+    [ ] Check for verbose error messages
+    [ ] Look for debug information
+    [ ] Identify data schemas
+    [ ] Note rate limiting behavior
+    [ ] Document authentication requirements
+    [ ] Check CORS configuration
+    [ ] Identify versioning patterns
+    [ ] Look for pagination parameters
+    [ ] Check for hidden fields in responses
+
+[ ] API PARAMETER FUZZING (passive observation)
+    [ ] ?page=
+    [ ] ?per_page=
+    [ ] ?limit=
+    [ ] ?offset=
+    [ ] ?skip=
+    [ ] ?take=
+    [ ] ?sort=
+    [ ] ?order=
+    [ ] ?filter=
+    [ ] ?search=
+    [ ] ?q=
+    [ ] ?query=
+    [ ] ?fields=
+    [ ] ?include=
+    [ ] ?exclude=
+    [ ] ?expand=
+    [ ] ?embed=
+    [ ] ?format=
+    [ ] ?callback=
+    [ ] ?_=
+    [ ] ?id=
+    [ ] ?ids=
+
+[ ] MOBILE/APP API INDICATORS
+    [ ] /mobile/
+    [ ] /app/
+    [ ] /ios/
+    [ ] /android/
+    [ ] /m/api/
+    [ ] /mobile-api/
+    [ ] /app-api/
+    [ ] X-API-Key headers
+    [ ] Custom mobile user agents
+    [ ] Binary protocol indicators
+
+[ ] API SECURITY CHECKS
+    [ ] Authentication required?
+    [ ] API keys exposed in JS?
+    [ ] CORS misconfiguration?
+    [ ] Rate limiting present?
+    [ ] Input validation observable?
+    [ ] Error message verbosity
+    [ ] Version disclosure
+    [ ] Debug mode enabled?
+    [ ] HTTPS enforced?
+    [ ] Security headers present?
+
+################################################################################
+SECTION 6: CRITICAL DATA HUNTING (HIGH ALERT)
+################################################################################
+
+!!! THESE ARE THE MOST VALUABLE FINDS - ALWAYS BE ON ALERT !!!
+
+[ ] HASHES (CRITICAL)
+    [ ] MD5 hashes in API responses
+    [ ] SHA1 hashes exposed
+    [ ] SHA256 hashes in data
+    [ ] bcrypt/scrypt hashes (rare but critical)
+    [ ] Gravatar hashes (avatar_urls in WordPress)
+    [ ] Password hashes in database dumps
+    [ ] Session token hashes
+    [ ] API key hashes
+    [ ] File integrity hashes
+    >>> ACTION: Extract ALL hashes to /hashes/ folder
+    >>> ACTION: Attempt hash identification (hashid)
+    >>> ACTION: Cross-reference with hash lookup services
+    >>> ACTION: Document hash-to-identity correlations
+
+!!! WORDPRESS GRAVATAR HASHES - HIGHEST PRIORITY !!!
+================================================================================
+Gravatar hashes are MD5 hashes of user email addresses. They are GOLD for
+identity correlation and can often be reversed to reveal the original email.
+
+WHERE TO FIND GRAVATAR HASHES:
+
+    1. WordPress REST API - Users Endpoint:
+       GET /wp-json/wp/v2/users
+       GET /wp-json/wp/v2/users?per_page=100
+
+       Look for "avatar_urls" in the response:
+       {
+         "id": 1,
+         "name": "Admin User",
+         "slug": "admin",
+         "avatar_urls": {
+           "24": "https://secure.gravatar.com/avatar/[MD5_HASH]?s=24",
+           "48": "https://secure.gravatar.com/avatar/[MD5_HASH]?s=48",
+           "96": "https://secure.gravatar.com/avatar/[MD5_HASH]?s=96"
+         }
+       }
+
+       The [MD5_HASH] is the MD5 of their email address!
+
+    2. WordPress Author Pages:
+       /author/[username]/
+       Check page source for gravatar URLs
+
+    3. WordPress Comments:
+       Comment sections contain gravatar URLs for commenters
+       /wp-json/wp/v2/comments
+
+    4. WordPress oEmbed:
+       /wp-json/oembed/1.0/embed?url=[post-url]
+
+EXTRACTION PROCESS:
+
+    STEP 1: Query the users endpoint
+            curl "https://target.gov.xx/wp-json/wp/v2/users?per_page=100"
+
+    STEP 2: Extract ALL avatar_urls from response
+
+    STEP 3: Parse out the MD5 hash from each URL
+            https://secure.gravatar.com/avatar/[EXTRACT THIS PART]?s=96
+
+    STEP 4: Document in format:
+            [username] | [display_name] | [MD5_hash] | [source_url] | [timestamp]
+
+    STEP 5: Save to /hashes/[domain]_gravatar_hashes_[date].txt
+
+HASH CRACKING POTENTIAL:
+
+    Gravatar MD5 = md5(lowercase(trim(email)))
+
+    These can be reversed by:
+    - Rainbow table lookups
+    - Known email databases
+    - Hashcat with email wordlists
+    - Online hash lookup services
+
+    A cracked hash reveals the user's EMAIL ADDRESS!
+
+CROSS-CORRELATION VALUE:
+
+    The SAME gravatar hash appears on:
+    - Every WordPress site that user comments on
+    - Their Gravatar.com profile
+    - Other services using Gravatar
+    - GitHub (if same email)
+    - Stack Overflow (if same email)
+
+    One hash = track someone across the entire internet!
+
+WHAT TO CAPTURE FOR EACH WORDPRESS SITE:
+
+    [ ] Total number of users exposed
+    [ ] All usernames (slug field)
+    [ ] All display names (name field)
+    [ ] All user IDs
+    [ ] ALL gravatar MD5 hashes
+    [ ] User descriptions (if exposed)
+    [ ] User URLs (if exposed)
+    [ ] Registration dates (if exposed)
+    [ ] User roles (if exposed)
+
+STORAGE FORMAT (/hashes/[domain]_gravatar_hashes.txt):
+
+    # Gravatar Hash Extraction
+    # Source: https://target.gov.xx/wp-json/wp/v2/users
+    # Extracted: 2026-01-20 14:30:00 UTC
+    # Total Users: 10
+    # Total Hashes: 8 (2 users had no gravatar)
+
+    USERNAME        | DISPLAY NAME      | MD5 HASH                         | USER ID
+    ----------------|-------------------|----------------------------------|--------
+    admin           | Administrator     | d41d8cd98f00b204e9800998ecf8427e | 1
+    jgarcia         | Juan Garcia       | 5d41402abc4b2a76b9719d911017c592 | 2
+    mrodriguez      | Maria Rodriguez   | 098f6bcd4621d373cade4e832627b4f6 | 3
+
+ALSO CHECK FOR SHA256 GRAVATAR HASHES:
+
+    Some newer implementations use SHA256 instead of MD5:
+    https://secure.gravatar.com/avatar/[SHA256_HASH]?s=96&d=identicon
+
+    Document BOTH hash types when found!
+
+AUTOMATION PRIORITY:
+
+    For every WordPress site discovered:
+    1. IMMEDIATELY check /wp-json/wp/v2/users
+    2. If accessible (200 OK), extract ALL data
+    3. If blocked (401/403), note as "PROTECTED"
+    4. Parse and store all gravatar hashes
+    5. Cross-reference with hashes from other sites
+
+    This should be AUTOMATIC for every WordPress audit!
+================================================================================
+
+[ ] PASSWORDS (CRITICAL)
+    [ ] Plaintext passwords in configs
+    [ ] Default passwords in documentation
+    [ ] Passwords in URL parameters
+    [ ] Passwords in error messages
+    [ ] Passwords in debug output
+    [ ] Passwords in backup files
+    [ ] Passwords in .env files
+    [ ] Passwords in database dumps
+    [ ] Passwords in log files
+    [ ] Hardcoded passwords in JavaScript
+    [ ] Password reset tokens
+    >>> ACTION: Document but DO NOT test credentials
+    >>> ACTION: Note password patterns/policies visible
+
+[ ] USERNAMES (CRITICAL)
+    [ ] WordPress user enumeration (/wp-json/wp/v2/users)
+    [ ] Usernames in API responses
+    [ ] Admin usernames exposed
+    [ ] System account names
+    [ ] Service account names
+    [ ] Usernames in error messages
+    [ ] Usernames in URL paths
+    [ ] Usernames in document metadata
+    [ ] Usernames in email addresses
+    [ ] Usernames in code comments
+    [ ] Database usernames
+    [ ] SSH/FTP usernames exposed
+    >>> ACTION: Extract ALL usernames to /usernames/ folder
+    >>> ACTION: Correlate usernames across systems
+    >>> ACTION: Build personnel profiles
+
+[ ] EMAIL ADDRESSES (CRITICAL)
+    [ ] Emails in API responses (WordPress users)
+    [ ] Emails in document metadata
+    [ ] Emails in WHOIS records
+    [ ] Emails in SSL certificates
+    [ ] Emails in contact pages
+    [ ] Emails in source code/comments
+    [ ] Emails in JavaScript files
+    [ ] Emails in PDF documents
+    [ ] Emails in error messages
+    [ ] Emails in mailing list archives
+    [ ] Admin/support emails
+    [ ] Developer emails
+    [ ] Personal emails of officials
+    >>> ACTION: Extract ALL emails to /personnel/ folder
+    >>> ACTION: Generate Gravatar hashes from emails
+    >>> ACTION: Cross-reference across systems
+
+[ ] GPS COORDINATES (CRITICAL)
+    [ ] EXIF GPS data in images
+    [ ] Coordinates in document metadata
+    [ ] Coordinates in API responses
+    [ ] Coordinates in JavaScript/config
+    [ ] Coordinates in KML/GeoJSON files
+    [ ] Coordinates in PDF maps
+    [ ] Coordinates in embedded maps
+    [ ] IP geolocation data
+    [ ] Cell tower data (if exposed)
+    [ ] Facility location data
+    >>> ACTION: Extract ALL coordinates to /gps-coords/ folder
+    >>> ACTION: Map coordinates to facilities
+    >>> ACTION: Correlate with personnel movements
+
+[ ] API KEYS & TOKENS (CRITICAL)
+    [ ] API keys in JavaScript files
+    [ ] API keys in HTML source
+    [ ] API keys in mobile app configs
+    [ ] AWS access keys
+    [ ] Azure keys
+    [ ] Google API keys
+    [ ] Stripe/payment keys
+    [ ] OAuth tokens
+    [ ] JWT tokens (decode for claims)
+    [ ] Session tokens
+    [ ] Bearer tokens in responses
+    [ ] Webhook secrets
+    >>> ACTION: Extract to /credentials/ folder
+    >>> ACTION: Identify service/scope
+    >>> ACTION: DO NOT use keys - document only
+
+[ ] PERSONALLY IDENTIFIABLE INFORMATION (PII)
+    [ ] Full names
+    [ ] National ID numbers
+    [ ] Phone numbers
+    [ ] Physical addresses
+    [ ] Dates of birth
+    [ ] Passport numbers
+    [ ] Driver's license numbers
+    [ ] Social security equivalents
+    [ ] Bank account numbers
+    [ ] Biometric identifiers
+    >>> ACTION: Handle with extreme care
+    >>> ACTION: Assess human rights implications
+    >>> ACTION: Consider protection protocols
+
+[ ] INTERNAL INFRASTRUCTURE DATA (CRITICAL)
+    [ ] Internal IP addresses
+    [ ] Internal hostnames
+    [ ] Database connection strings
+    [ ] LDAP/AD structure
+    [ ] Internal URLs/endpoints
+    [ ] VPN configurations
+    [ ] Network diagrams
+    [ ] Server names/roles
+    [ ] Internal documentation
+    [ ] Staging/dev environment URLs
+    >>> ACTION: Map internal infrastructure
+    >>> ACTION: Identify attack surface
+    >>> ACTION: Document for accountability research
+
+[ ] SENSITIVE DOCUMENTS (CRITICAL)
+    [ ] Classified markings
+    [ ] Internal memos
+    [ ] Personnel files
+    [ ] Financial records
+    [ ] Contracts/agreements
+    [ ] Security policies
+    [ ] Incident reports
+    [ ] Audit logs
+    [ ] Communications logs
+    [ ] Surveillance records
+    >>> ACTION: Archive immediately
+    >>> ACTION: Assess human rights relevance
+    >>> ACTION: Coordinate with partner orgs
+
+[ ] RAW FILENAMES (CRITICAL - OFTEN OVERLOOKED)
+    [ ] Filenames from /uploads/ directories
+    [ ] Filenames from /wp-content/uploads/
+    [ ] Filenames from document download links
+    [ ] Filenames from image galleries
+    [ ] Filenames in API responses
+    [ ] Filenames in directory listings
+    [ ] Filenames in sitemap.xml
+    [ ] Filenames in error messages
+    [ ] Filenames in JavaScript/source code
+    [ ] Filenames in PDF internal links
+    >>> ACTION: Extract ALL filenames to /filenames/ folder
+    >>> ACTION: Analyze naming patterns
+    >>> ACTION: Identify date formats, personnel names, project codes
+    >>> ACTION: Use patterns to predict other files
+
+    INTELLIGENCE VALUE OF FILENAMES:
+    - "informe_ministro_2026.pdf" -> Reveals hierarchy
+    - "backup_usuarios_20260101.sql" -> Backup schedules
+    - "foto_base_militar_GPS.jpg" -> Location intel
+    - "nomina_policia_enero.xls" -> Payroll data exists
+    - "acta_secreta_001.doc" -> Classification schemes
+    - "juan.perez_cv.pdf" -> Personnel identification
+    - "proyecto_aguila_fase2.ppt" -> Project codenames
+
+[ ] RAW PHOTOS & MEDIA (CRITICAL - PRESERVE ORIGINALS)
+    [ ] Download ORIGINAL files, not thumbnails
+    [ ] NEVER screenshot instead of download
+    [ ] NEVER convert or compress
+    [ ] Preserve original filename
+    [ ] Extract EXIF immediately after download
+    [ ] Check for: GPS, camera model, date/time, software, author
+    [ ] Look for photos from: official events, facilities, personnel
+    [ ] Military photos often contain GPS of bases
+    [ ] Official portraits contain camera/software metadata
+    >>> ACTION: Store originals in /photos/
+    >>> ACTION: Extract EXIF to /metadata/
+    >>> ACTION: Extract GPS to /gps-coords/
+    >>> ACTION: Never modify originals
+
+################################################################################
+SECTION 7: TARGET PRIORITY ORDER
+################################################################################
+
+!!! ALWAYS AUDIT IN THIS ORDER !!!
+
+PRIORITY 1 - PRESIDENCY / EXECUTIVE (HIGHEST)
+    [ ] Presidential palace/office website
+    [ ] President's official page
+    [ ] Executive office portals
+    [ ] Cabinet websites
+    [ ] Prime Minister office (if applicable)
+    [ ] Vice President office
+    [ ] First Lady/Family office
+    [ ] Presidential press office
+    [ ] Executive communications
+    >>> RATIONALE: Highest value targets, most sensitive data
+
+PRIORITY 2 - MILITARY & DEFENSE
+    [ ] Ministry of Defense
+    [ ] Army/Ground Forces
+    [ ] Navy/Naval Forces
+    [ ] Air Force
+    [ ] Special Forces (if public)
+    [ ] National Guard/Reserves
+    [ ] Military intelligence (public-facing)
+    [ ] Defense contractors
+    [ ] Military academies
+    [ ] Veterans affairs
+    [ ] Procurement/logistics
+    >>> RATIONALE: Strategic intelligence value
+
+PRIORITY 3 - INTELLIGENCE & SECURITY SERVICES
+    [ ] Intelligence agencies (public portals)
+    [ ] Secret police/internal security
+    [ ] Counterterrorism units
+    [ ] Cybersecurity agencies
+    [ ] Border security
+    [ ] Immigration services
+    [ ] National security council
+    >>> RATIONALE: Surveillance infrastructure documentation
+
+PRIORITY 4 - LAW ENFORCEMENT
+    [ ] National police
+    [ ] Federal investigation services
+    [ ] Criminal investigation
+    [ ] Forensics services
+    [ ] Prison/corrections
+    [ ] Parole/probation
+    [ ] Police academies
+    >>> RATIONALE: Human rights documentation
+
+PRIORITY 5 - CORE GOVERNMENT MINISTRIES
+    [ ] Ministry of Interior/Home Affairs
+    [ ] Ministry of Foreign Affairs
+    [ ] Ministry of Justice
+    [ ] Ministry of Finance/Treasury
+    [ ] Ministry of Communications/IT
+    [ ] Central Bank
+    [ ] Tax authority
+    [ ] Customs
+    [ ] Civil registry
+    [ ] Electoral commission
+    >>> RATIONALE: Citizen data exposure
+
+PRIORITY 6 - STATE MEDIA & PROPAGANDA
+    [ ] State television networks
+    [ ] State radio
+    [ ] Official news agencies
+    [ ] Government newspapers
+    [ ] State social media accounts
+    [ ] Propaganda ministries
+    [ ] Information/communications ministry
+    [ ] Press offices
+    >>> RATIONALE: Propaganda infrastructure mapping
+
+PRIORITY 7 - STATE-OWNED ENTERPRISES
+    [ ] National telecom companies
+    [ ] State banks
+    [ ] Energy companies (oil, gas, electric)
+    [ ] Transportation (airlines, rail, etc.)
+    [ ] Postal services
+    [ ] National carriers
+    >>> RATIONALE: Infrastructure & economic data
+
+PRIORITY 8 - REGIONAL & LOCAL GOVERNMENT
+    [ ] Provincial/state governments
+    [ ] Major city governments
+    [ ] Municipal services
+    [ ] Regional police
+    [ ] Local administration
+    >>> RATIONALE: Distributed infrastructure
+
+PRIORITY 9 - EDUCATION & RESEARCH
+    [ ] Ministry of Education
+    [ ] National universities
+    [ ] Research institutes
+    [ ] National academies
+    [ ] Scientific agencies
+    >>> RATIONALE: Intellectual property, personnel
+
+PRIORITY 10 - OTHER GOVERNMENT SERVICES
+    [ ] Health ministry
+    [ ] Social services
+    [ ] Labor ministry
+    [ ] Agriculture
+    [ ] Environment
+    [ ] Tourism
+    [ ] Culture
+    [ ] Sports
+    >>> RATIONALE: Citizen data, lower priority
+
+################################################################################
+SECTION 8: TECHNICAL AUDIT CHECKLIST
+################################################################################
+
+[ ] DOMAIN ENUMERATION
+    [ ] Primary domains identified
+    [ ] Subdomain brute-force (passive)
+    [ ] Certificate Transparency search
+    [ ] Passive DNS lookup
+    [ ] WHOIS/RDAP queries
+    [ ] Historical DNS records
+
+[ ] INFRASTRUCTURE MAPPING
+    [ ] IP resolution
+    [ ] Netblock identification
+    [ ] ASN lookup
+    [ ] Hosting provider ID
+    [ ] CDN detection
+    [ ] Geographic distribution
+
+[ ] DOCUMENT DISCOVERY
+    [ ] PDF enumeration
+    [ ] Office document search
+    [ ] Data export files
+    [ ] Spreadsheets
+    [ ] Database dumps
+    [ ] Archive files (.zip, .tar, etc.)
+
+[ ] SSL/TLS ANALYSIS
+    [ ] Certificate details
+    [ ] Issuer information
+    [ ] Validity periods
+    [ ] Subject Alternative Names
+    [ ] Certificate chain
+    [ ] CT log monitoring
+
+[ ] METADATA EXTRACTION
+    [ ] Document author info
+    [ ] Creation timestamps
+    [ ] Software versions
+    [ ] EXIF data from images
+    [ ] GPS coordinates
+    [ ] Edit history
+
+[ ] IDENTITY CORRELATION
+    [ ] Email enumeration
+    [ ] Username collection
+    [ ] Hash extraction
+    [ ] Gravatar correlation
+    [ ] Social media links
+    [ ] Personnel identification
+
+################################################################################
+SECTION 10: THREAT CLASSIFICATION
+################################################################################
+
+[ ] HIGH PRIORITY - AUTHORITARIAN REGIMES
+    [ ] Surveillance infrastructure
+    [ ] Censorship mechanisms
+    [ ] Human rights documentation
+    [ ] Opposition tracking systems
+    [ ] Propaganda infrastructure
+
+[ ] HIGH PRIORITY - LARGE INFRASTRUCTURE
+    [ ] Complex government systems
+    [ ] Multiple interconnected services
+    [ ] Large user databases
+    [ ] Critical infrastructure
+
+[ ] MEDIUM PRIORITY - TERRITORIAL/DISPUTED
+    [ ] Sovereignty-related systems
+    [ ] Disputed territory infrastructure
+    [ ] Cross-border systems
+    [ ] International coordination
+
+[ ] STANDARD PRIORITY - GENERAL AUDIT
+    [ ] Democratic government transparency
+    [ ] Public accountability
+    [ ] Data exposure documentation
+    [ ] Security posture assessment
+
+################################################################################
+SECTION 11: METHODOLOGY CHECKLIST
+################################################################################
+
+For each target domain:
+
+[ ] 1. VERIFY - DNS resolution, site is live
+[ ] 2. ROBOTS - Check robots.txt and sitemap.xml
+[ ] 3. SUBDOMAINS - Passive enumeration (crt.sh, DNS)
+[ ] 4. FINGERPRINT - Tech stack identification
+[ ] 5. APIs - Check for exposed API endpoints
+[ ] 6. WAYBACK - Historical analysis
+[ ] 7. CERTIFICATES - CT log search
+[ ] 8. SENSITIVE - Check for .git, .env, backups
+[ ] 9. DOCUMENTS - Enumerate public documents
+[ ] 10. METADATA - Extract from all files
+[ ] 11. DOCUMENT - Record findings with timestamps
+[ ] 12. ARCHIVE - Preserve evidence
+
+################################################################################
+SECTION 12: OPERATIONAL PROTOCOLS
+################################################################################
+
+LEGAL COMPLIANCE:
+[X] All methods are PASSIVE reconnaissance
+[X] All data is PUBLICLY ACCESSIBLE
+[X] No active exploitation or intrusion
+[X] No unauthorized access attempts
+[X] Methodology is reproducible and documentable
+
+ETHICAL STANDARDS:
+[X] Journalist/activist data scrubbed within 24 hours on request
+[X] Vulnerable individual protection prioritized
+[X] Responsible disclosure considered case-by-case
+[X] Human rights implications assessed
+[X] Partner org coordination maintained
+
+EVIDENCE HANDLING:
+[X] Chain of custody documented
+[X] Timestamps on all collection
+[X] Checksums for file integrity
+[X] Original files preserved
+[X] Backup copies maintained
+
+################################################################################
+SECTION 13: TRACKING & METRICS
+################################################################################
+
+DOMAIN STATISTICS:
+    TOTAL DOMAINS SCANNED:          [    ]
+    SUBDOMAINS DISCOVERED:          [    ]
+    IPs ENUMERATED:                 [    ]
+    SSL CERTIFICATES ANALYZED:      [    ]
+
+TECHNOLOGY FINDINGS:
+    WORDPRESS SITES FOUND:          [    ]
+    DRUPAL SITES FOUND:             [    ]
+    CUSTOM CMS SITES:               [    ]
+    APIs DOCUMENTED:                [    ]
+    GRAPHQL ENDPOINTS:              [    ]
+
+WORDPRESS USER ENUMERATION (CRITICAL):
+    WP SITES WITH EXPOSED USERS:    [    ]
+    WP SITES WITH PROTECTED USERS:  [    ]
+    TOTAL WP USERS ENUMERATED:      [    ]
+    TOTAL GRAVATAR MD5 HASHES:      [    ]
+    TOTAL GRAVATAR SHA256 HASHES:   [    ]
+    GRAVATAR HASHES CRACKED:        [    ]
+    EMAILS RECOVERED FROM HASHES:   [    ]
+
+CRITICAL DATA EXTRACTED:
+    USERNAMES ENUMERATED:           [    ]
+    EMAILS DIRECTLY EXPOSED:        [    ]
+    EMAILS FROM CRACKED HASHES:     [    ]
+    TOTAL UNIQUE EMAILS:            [    ]
+    MD5 HASHES EXTRACTED:           [    ]
+    SHA1 HASHES EXTRACTED:          [    ]
+    SHA256 HASHES EXTRACTED:        [    ]
+    OTHER HASHES EXTRACTED:         [    ]
+    TOTAL HASHES CRACKED:           [    ]
+    GPS COORDINATES FOUND:          [    ]
+    API KEYS/TOKENS:                [    ]
+    PASSWORDS FOUND:                [    ]
+    FILENAMES CAPTURED:             [    ]
+
+PERSONNEL IDENTIFIED:
+    NAMED INDIVIDUALS:              [    ]
+    WITH EMAIL ADDRESSES:           [    ]
+    WITH PHONE NUMBERS:             [    ]
+    WITH PHOTOS:                    [    ]
+    CROSS-SITE CORRELATIONS:        [    ]
+
+DOCUMENT COLLECTION:
+    PDFs ARCHIVED:                  [    ]
+    OFFICE DOCS ARCHIVED:           [    ]
+    IMAGES WITH EXIF:               [    ]
+    TOTAL FILES COLLECTED:          [    ]
+
+FINDINGS BY SEVERITY:
+    CRITICAL FINDINGS:              [    ]
+    HIGH SEVERITY:                  [    ]
+    MEDIUM SEVERITY:                [    ]
+    LOW/INFORMATIONAL:              [    ]
+
+TARGETS BY PRIORITY:
+    PRIORITY 1 (PRESIDENCY):        [    ] / [    ] COMPLETE
+    PRIORITY 2 (MILITARY):          [    ] / [    ] COMPLETE
+    PRIORITY 3 (INTELLIGENCE):      [    ] / [    ] COMPLETE
+    PRIORITY 4 (LAW ENFORCEMENT):   [    ] / [    ] COMPLETE
+    PRIORITY 5 (CORE GOVT):         [    ] / [    ] COMPLETE
+    PRIORITY 6 (STATE MEDIA):       [    ] / [    ] COMPLETE
+    PRIORITY 7 (STATE ENTERPRISES): [    ] / [    ] COMPLETE
+    PRIORITY 8 (REGIONAL/LOCAL):    [    ] / [    ] COMPLETE
+    PRIORITY 9 (EDUCATION):         [    ] / [    ] COMPLETE
+    PRIORITY 10 (OTHER):            [    ] / [    ] COMPLETE
+
+################################################################################
+SECTION 14: NEXT ACTIONS
+################################################################################
+
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+
+################################################################################
+SECTION 15: NOTES & OBSERVATIONS
+################################################################################
+
+
+
+
+################################################################################
+SECTION 16: WORDPRESS SITE INVENTORY
+################################################################################
+
+Track ALL WordPress sites discovered and their user enumeration status:
+
+DOMAIN                      | USERS API    | USERS | HASHES | THEME/PLUGINS
+----------------------------|--------------|-------|--------|------------------
+                            | [ ]EXPOSED   |       |        |
+                            | [ ]PROTECTED |       |        |
+----------------------------|--------------|-------|--------|------------------
+                            | [ ]EXPOSED   |       |        |
+                            | [ ]PROTECTED |       |        |
+----------------------------|--------------|-------|--------|------------------
+                            | [ ]EXPOSED   |       |        |
+                            | [ ]PROTECTED |       |        |
+----------------------------|--------------|-------|--------|------------------
+                            | [ ]EXPOSED   |       |        |
+                            | [ ]PROTECTED |       |        |
+----------------------------|--------------|-------|--------|------------------
+                            | [ ]EXPOSED   |       |        |
+                            | [ ]PROTECTED |       |        |
+----------------------------|--------------|-------|--------|------------------
+
+TOTALS: _____ WordPress sites | _____ EXPOSED | _____ PROTECTED | _____ Total Users | _____ Total Hashes
+
+################################################################################
+SECTION 17: GRAVATAR HASH MASTER LOG
+################################################################################
+
+Log ALL gravatar hashes extracted across ALL WordPress sites:
+
+MD5 HASH                         | USERNAME       | DISPLAY NAME      | SOURCE DOMAIN           | CRACKED EMAIL
+---------------------------------|----------------|-------------------|-------------------------|------------------
+                                 |                |                   |                         |
+                                 |                |                   |                         |
+                                 |                |                   |                         |
+                                 |                |                   |                         |
+                                 |                |                   |                         |
+                                 |                |                   |                         |
+                                 |                |                   |                         |
+                                 |                |                   |                         |
+                                 |                |                   |                         |
+                                 |                |                   |                         |
+
+CROSS-SITE CORRELATIONS (same hash on multiple sites):
+
+HASH                             | SITES WHERE FOUND
+---------------------------------|--------------------------------------------------
+                                 |
+                                 |
+                                 |
+
+################################################################################
+SECTION 18: CRITICAL FINDINGS LOG
+################################################################################
+
+DATE        | SEVERITY | TARGET              | FINDING
+------------|----------|---------------------|----------------------------------
+            |          |                     |
+            |          |                     |
+            |          |                     |
+            |          |                     |
+            |          |                     |
+            |          |                     |
+            |          |                     |
+            |          |                     |
+            |          |                     |
+            |          |                     |
+
+################################################################################
+SECTION 19: HASH CRACKING LOG
+################################################################################
+
+Track hash cracking attempts and results:
+
+HASH                             | TYPE    | STATUS      | CRACKED VALUE           | DATE
+---------------------------------|---------|-------------|-------------------------|------------
+                                 | MD5     | [ ]CRACKED  |                         |
+                                 |         | [ ]PENDING  |                         |
+---------------------------------|---------|-------------|-------------------------|------------
+                                 | MD5     | [ ]CRACKED  |                         |
+                                 |         | [ ]PENDING  |                         |
+---------------------------------|---------|-------------|-------------------------|------------
+                                 | SHA256  | [ ]CRACKED  |                         |
+                                 |         | [ ]PENDING  |                         |
+---------------------------------|---------|-------------|-------------------------|------------
+
+================================================================================
+END OF MISSION OBJECTIVES TEMPLATE
+================================================================================
+
+TEMPLATE VERSION: 2.0
+LAST UPDATED: January 2026
+ORGANIZATION: ODINT - Observatory for Digital Infrastructure and Network Transparency
+PURPOSE: OSINT Security Audit & Government Accountability Documentation
+
+"We document. We archive. We hold power accountable."
+================================================================================
