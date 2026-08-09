@@ -1,0 +1,51 @@
+# Bulgaria Websites - Passive Reconnaissance
+# Government domains discovered via subfinder + httpx
+# Created: 2026-03-01
+# Source: Passive enumeration of .bg government TLD
+# Total: 42 live hosts from 135 subdomains
+
+# ============================================
+# GOVERNMENT DOMAINS (42)
+# ============================================
+apo.gov.bg
+apostille.gov.bg
+auth.cixpbg.gov.bg
+auth-stg.cixpbg.gov.bg
+autodiscover.sars.gov.bg
+bs.gov.bg
+cixpbg.gov.bg
+dv.parliament.bg
+gis.sars.gov.bg
+library.parliament.bg
+mail.mil.bg
+mail.pd.gov.bg
+mail.plovdiv.gov.bg
+mail.plovdiv.riew.gov.bg
+mail.sars.gov.bg
+mail.stz.riew.gov.bg
+manager.cixpbg.gov.bg
+manager-stg.cixpbg.gov.bg
+mgt.cixpbg.gov.bg
+mig.gov.bg
+oldlibrary.parliament.bg
+old.parliament.bg
+pd.gov.bg
+plovdiv.riew.gov.bg
+sars.gov.bg
+sipbg.gov.bg
+srv23.pd.gov.bg
+srv23.plovdiv.gov.bg
+stg.cixpbg.gov.bg
+stg-mgt.cixpbg.gov.bg
+stz.riew.gov.bg
+test-sipbg.gov.bg
+ukraine.gov.bg
+vt.riew.gov.bg
+www.bs.gov.bg
+www.gov.bg
+www.mil.bg
+www.parliament.bg
+www.sars.gov.bg
+www.stz.riew.gov.bg
+www.ukraine.gov.bg
+www.vt.riew.gov.bg
