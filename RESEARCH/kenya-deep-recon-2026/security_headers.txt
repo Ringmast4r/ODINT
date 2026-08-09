@@ -1,0 +1,23 @@
+=== Security Headers ===
+--- https://agriculture.kwale.go.ke ---
+--- https://ajiradigital.go.ke ---
+Server: nginx/1.25.3
+--- https://assembly.kwale.go.ke ---
+Server: Apache
+--- https://archive.nyeriassembly.go.ke ---
+Server: Apache
+--- https://ajira.go.ke ---
+--- https://autodiscover.kitui.go.ke ---
+server: cloudflare
+--- https://api.kmhfltest.health.go.ke ---
+Server: nginx/1.10.3 (Ubuntu)
+X-Frame-Options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+--- https://autodiscover.baringoassembly.go.ke ---
+Server: Apache
+--- https://api.kmhfl.health.go.ke ---
+Server: nginx/1.10.3 (Ubuntu)
+--- https://admin.ajiradigital.go.ke ---

@@ -1,0 +1,17 @@
+=== WHOIS Summary ===
+Registrar WHOIS Server: whois.kenic.or.ke
+Registrar URL: https://registry.kenic.or.ke
+Updated Date: 2022-09-16T14:14:44Z
+Creation Date: 2017-11-22T07:09:39Z
+Registry Expiry Date: 2025-11-22T07:09:39Z
+Registrar Registration Expiration Date: 2025-11-22T07:09:39Z
+Registrar: Kenya Network Information Centre
+Registrar Street Address: Communications Authority Complex,
+Registrar Phone: +254 20 4450057/8
+Registrar Email: admin@kenic.or.ke
+Registrar Abuse Contact Email: abuse@kenic.or.ke
+Registrar Abuse Contact Phone: 
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+For more information on domain status codes, please visit https://icann.org/epp

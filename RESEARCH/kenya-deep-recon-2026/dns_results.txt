@@ -1,0 +1,25 @@
+=== DNS Records ===
+--- A Records ---
+--- AAAA Records ---
+--- MX Records ---
+--- NS Records ---
+--- TXT Records ---
+go.ke.			7139	IN	TXT	"Generation Time: 1772415877"
+--- SOA Records ---
+--- CNAME Records ---
+gis.kiambu.go.ke.	3600	IN	A	197.248.93.13
+igrtc.go.ke.		14400	IN	A	102.210.148.147
+msamail.kra.go.ke.	3600	IN	A	196.61.52.211
+www.assembly.nyandarua.go.ke. 3600 IN	A	102.218.213.119
+cpanel.nyeriassembly.go.ke. 3600 IN	A	178.18.244.187
+mail.baringoassembly.go.ke. 3600 IN	CNAME	baringoassembly.go.ke.
+baringoassembly.go.ke.	3600	IN	A	167.235.94.215
+www.depositinsurance.go.ke. 3600 IN	CNAME	depositinsurance.go.ke.
+depositinsurance.go.ke.	3600	IN	A	94.130.49.36
+busiaassembly.go.ke.	14400	IN	A	50.87.234.5
+vision2030.go.ke.	14400	IN	A	162.241.218.79
+www.antifgmboard.go.ke.	86400	IN	CNAME	antifgmboard.go.ke.
+antifgmboard.go.ke.	3600	IN	A	102.210.148.147
+webmail.kitui.go.ke.	300	IN	A	104.21.24.211
+webmail.kitui.go.ke.	300	IN	A	172.67.220.207
+www.kenyaculturalcentre.go.ke. 3600 IN	A	102.130.125.49
