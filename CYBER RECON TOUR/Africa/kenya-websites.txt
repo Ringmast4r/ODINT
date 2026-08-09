@@ -1,0 +1,4 @@
+# KENYA Government Infrastructure — Passive Recon 2026
+# TLD: .ke
+gov.ke
+www.gov.ke
