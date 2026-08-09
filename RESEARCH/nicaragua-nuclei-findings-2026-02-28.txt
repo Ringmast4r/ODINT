@@ -1,0 +1,15 @@
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/minjuve.gob.ni/v2.0/.well-known/openid-configuration ["9e5c2750-a0b6-460f-99ec-332b25ec7efb"]
+[cookies-without-secure] [javascript] [info] cse.gob.ni ["TS01d8162a","TS01d8162a028"]
+[cookies-without-secure] [javascript] [info] mined.gob.ni ["TSa1f0b5f7029","TSeaf87b11027"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/ministeriopublico.gob.ni/v2.0/.well-known/openid-configuration ["7873d2bb-169f-406e-9bf1-dbc41dbf50d8"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/cse.gob.ni/v2.0/.well-known/openid-configuration ["c327a517-ae53-42ba-9b77-5335200dad9f"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/minsa.gob.ni/v2.0/.well-known/openid-configuration ["00db0ebc-6fc9-429a-acb3-d7e5418abc85"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/marena.gob.ni/v2.0/.well-known/openid-configuration ["305b88c5-1b5f-4d38-9e82-559c1dd197ed"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/mific.gob.ni/v2.0/.well-known/openid-configuration ["fe08925b-fc00-40ed-a908-693b130c28ad"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/migob.gob.ni/v2.0/.well-known/openid-configuration ["bf5da4b5-e9b3-4c2a-8161-b72b6f789e7e"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/mined.gob.ni/v2.0/.well-known/openid-configuration ["2254b411-bebc-40f8-a176-be4b1ac0363c"]
+[cookies-without-httponly] [javascript] [info] cse.gob.ni ["TS01d8162a","TS01d8162a028"]
+[cookies-without-httponly] [javascript] [info] mined.gob.ni ["TSa1f0b5f7029","TSeaf87b11027"]
+[dns-waf-detect:cloudflare] [dns] [info] minjuve.gob.ni
+[dns-waf-detect:cloudflare] [dns] [info] migob.gob.ni
+[dns-waf-detect:cloudflare] [dns] [info] mined.gob.ni
