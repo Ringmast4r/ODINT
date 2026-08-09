@@ -1,0 +1,16 @@
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/sefin.gob.hn/v2.0/.well-known/openid-configuration ["73ec3725-b44b-4bf8-933f-7b7c1a76ad7d"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/seguridad.gob.hn/v2.0/.well-known/openid-configuration ["83329f49-7193-41d4-b2f7-a1e8c16b93b0"]
+[phpinfo-files] [http] [low] https://salud.gob.hn/phpinfo.php ["7.4.33"] [paths="/phpinfo.php"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/poderjudicial.gob.hn/v2.0/.well-known/openid-configuration ["048343d2-c3fa-4031-a99a-f0203e014a69"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/presidencia.gob.hn/v2.0/.well-known/openid-configuration ["3649b9b2-b94c-4f20-b530-6b24130076bf"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/sedesol.gob.hn/v2.0/.well-known/openid-configuration ["8277303b-82ce-4754-9ef6-81921eb3afb3"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/salud.gob.hn/v2.0/.well-known/openid-configuration ["5a3236f6-d93d-4cb8-a530-897a222f3a65"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/sag.gob.hn/v2.0/.well-known/openid-configuration ["05fa0eff-5f24-40ad-bed7-b37d9e3623b2"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/sedena.gob.hn/v2.0/.well-known/openid-configuration ["eea11475-5913-4c91-bb6d-09b294447ee1"]
+[cookies-without-secure] [javascript] [info] sedesol.gob.hn ["cookiesession1"]
+[dns-waf-detect:cloudflare] [dns] [info] presidencia.gob.hn
+[dns-waf-detect:cloudflare] [dns] [info] sag.gob.hn
+[dns-waf-detect:cloudflare] [dns] [info] poderjudicial.gob.hn
+[dns-waf-detect:cloudflare] [dns] [info] sedena.gob.hn
+[wildcard-dns-detect] [dns] [info] 3AK3U820h67uHxpTMi1LblpG1EG-3AK3U820h67uHxpTMi1LblpG1EG.sedena.gob.hn ["104.21.31.199","172.67.179.168"]
+[wp-h5vp-fpd] [http] [low] https://sedesol.gob.hn/wp-json/h5vp/v1/video

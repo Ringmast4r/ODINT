@@ -1,0 +1,13 @@
+# Honduras Government Domains — Verified Live
+# Date: 2026-02-28
+# 9 live hosts from 20 scanned
+
+presidencia.gob.hn
+salud.gob.hn
+poderjudicial.gob.hn
+sedena.gob.hn
+sedesol.gob.hn
+sag.gob.hn
+trabajo.gob.hn
+seguridad.gob.hn
+sefin.gob.hn
