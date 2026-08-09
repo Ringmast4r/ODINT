@@ -1,0 +1,121 @@
+=== alarab.qa ===
+  A:     172.67.70.195 104.26.3.15 
+  NS:    lucy.ns.cloudflare.com. norm.ns.cloudflare.com. 
+  MX:    0 alarab-qa.mail.protection.outlook.com. 
+  DMARC: 
+
+=== aljazeera.net ===
+  A:     3.135.24.163 3.136.73.205 
+  NS:    ns-744.awsdns-29.net. ns-1302.awsdns-34.org. 
+  MX:    1 maild.aljazeera.net. 1 mailc.aljazeera.net. 
+  DMARC: "v=DMARC1; p=reject; rua=mailto:dmarc-mailauth@aljazeera.net,mailto:cgfl1maxvf@rua.powerdmarc.com,mailto:g0ja3css@ag.ap.dmarcian.com; ruf=mailto:dmarc-mailfor@aljazeera.net,mailto:cgfl1maxvf@ruf.powerdmarc.com; fo=s; sp=quarantine;"
+
+=== aspire.qa ===
+  A:     212.77.203.154 
+  NS:    azfedns1.aspirezone.qa. azfedns2.aspirezone.qa. 
+  MX:    5 aspirezone.in.tmes.trendmicro.eu. 
+  DMARC: "v=DMARC1; p=quarantine; rua=mailto:dmarc@aspire.qa; ruf=mailto:dmarc@aspire.qa"
+
+=== caa.gov.qa ===
+  A:     20.21.56.31 
+  NS:    dns2.qatar.net.qa. dns1.qatar.net.qa. 
+  MX:    10 smtp1.caa.gov.qa. 10 smtp.caa.gov.qa. 
+  DMARC: "v=DMARC1; p=none; rua=mailto:secreport@caa.gov.qa"
+
+=== cbq.qa ===
+  A:     212.77.202.26 
+  NS:    ns3.cbq.com.qa. ns4.cbq.qa. 
+  MX:    10 mailg.cbq.com.qa. 30 mailg3.cbq.com.qa. 
+  DMARC: "v=DMARC1; p=quarantine; rua=mailto:dmarc-rua@cbqdrive.onmicrosoft.com,mailto:rua@dmarc360.com; ruf=mailto:dmarc-ruf@cbqdrive.onmicrosoft.com; fo=1;"
+
+=== customs.gov.qa ===
+  A:     20.173.18.219 
+  NS:    dns3.qatar.net.qa. dns1.qatar.net.qa. 
+  MX:    0 customs-gov-qa.mail.protection.outlook.com. 
+  DMARC: "v=DMARC1; p=none; pct=100; rua=mailto:umairs@customs.gov.qa"
+
+=== diwan.gov.qa ===
+  A:     78.100.61.156 
+  NS:    dns1.qatar.net.qa. ns2.diwan.gov.qa. 
+  MX:    10 smtpgw01.diwan.gov.qa. 10 smtpgw02.diwan.gov.qa. 
+  DMARC: "v=DMARC1; p=reject; rua=mailto:rep.dmarc@diwan.gov.qa; ruf=mailto:for.dmarc@diwan.gov.qa; aspf=s; adkim=r"
+
+=== dohabank.com.qa ===
+  A:     78.100.16.149 
+  NS:    dns3.qatar.net.qa. dns2.qatar.net.qa. 
+  MX:    5 dohabank-com-qa.mail.protection.outlook.com. 10 smtp1.dohabank.com.qa. 
+  DMARC: "v=DMARC1; p=quarantine; pct=100"
+
+=== edu.gov.qa ===
+  A:     20.21.227.120 
+  NS:    ns1.edu.gov.qa. ns2.edu.gov.qa. 
+  MX:    10 mx1.hc872-28.c3s2.iphmx.com. 10 mx2.hc872-28.c3s2.iphmx.com. 
+  DMARC: "v=DMARC1; p=none; pct=100; sp=none; rua=mailto:0403c218@inbox.ondmarc.com,mailto:qatareducation@rua.dmp.cisco.com; ruf=mailto:0403c218@inbox.ondmarc.com,mailto:qatareducation@rua.dmp.cisco.com; adkim=r; aspf=r; fo=1; rf=afrf; ri=3600"
+
+=== gco.gov.qa ===
+  A:     78.100.129.220 
+  NS:    ns2.gco.gov.qa. ns1.gco.gov.qa. 
+  MX:    10 smtp1.gco.gov.qa. 20 smtp2.gco.gov.qa. 
+  DMARC: "v=DMARC1; p=quarantine; rua=mailto:dmarcreport@gco.gov.qa; ruf=mailto:dmarcreport@gco.gov.qa; fo=1;"
+
+=== gta.gov.qa ===
+  A:     51.145.184.58 
+  NS:    dns2.qatar.net.qa. dns3.qatar.net.qa. 
+  MX:    0 gta-gov-qa.mail.protection.outlook.com. 
+  DMARC: _dmarc.yjx6kp59q8kml4vr-gta-gov-qa.hosteddmarc.dmarc-dns.com.
+"v=DMARC1; p=reject; rua=mailto:hb7neq39d2@rua.powerdmarc.com; ruf=mailto:hb7neq39d2@ruf.powerdmarc.com; fo=0:1:d:s;"
+
+=== hbku.edu.qa ===
+  A:     23.185.0.4 
+  NS:    lisa.ns.cloudflare.com. woz.ns.cloudflare.com. 
+  MX:    0 hbku-edu-qa.mail.protection.outlook.com. 
+  DMARC: "v=DMARC1; p=none; pct=100; rua=mailto:hbkusoc@hbku.edu.qa; ruf=mailto:hbkusoc@hbku.edu.qa; fo=1"
+
+=== hukoomi.gov.qa ===
+  A:     20.238.176.102 
+  NS:    seth.ns.cloudflare.com. alexia.ns.cloudflare.com. 
+  MX:    
+  DMARC: 
+
+=== manateq.qa ===
+  A:     159.60.158.108 
+  NS:    ns4-09.azure-dns.info. ns1-09.azure-dns.com. 
+  MX:    10 manateq-qa.mail.protection.outlook.com. 
+  DMARC: "\"v=DMARC1; p=none; rua=mailto:soc@manateq.qa\""
+
+=== mme.gov.qa ===
+  A:     212.77.203.36 
+  NS:    swvnspr1.mme.gov.qa. 
+  MX:    10 smtp.mme.gov.qa. 20 smtp2.mme.gov.qa. 
+  DMARC: "v=DMARC1;p=quarantine;rua=mailto:dmarc@mme.gov.qa;ruf=mailto:dmarc@mme.gov.qa;fo=1"
+
+=== moci.gov.qa ===
+  A:     213.130.125.227 
+  NS:    ns1-01.azure-dns.com. ns2-01.azure-dns.net. 
+  MX:    0 moci.in.tmes.trendmicro.eu. 
+  DMARC: "v=DMARC1; p=quarantine; rua=mailto:g-ud-monitoring@moci.gov.qa,mailto:dmarc_agg@vali.email; ruf=mailto:g-ud-monitoring@moci.gov.qa,mailto:dmarc_agg@vali.email; fo=1"
+
+=== mofa.gov.qa ===
+  A:     20.21.184.41 
+  NS:    dns1.qatar.net.qa. dns3.qatar.net.qa. 
+  MX:    20 mail2.mofa.gov.qa. 10 mail1.mofa.gov.qa. 
+  DMARC: "v=DMARC1; p=quarantine; pct=100"
+
+=== mof.gov.qa ===
+  A:     213.130.119.4 
+  NS:    dc-2-dmzdns-01.mof.local. dc-1-dmzdns-01.mof.local. 
+  MX:    20 mail02.mof.gov.qa. 20 mail01.mof.gov.qa. 
+  DMARC: "v=DMARC1; p=quarantine; rua=mailto:infosec@mof.gov.qa"
+
+=== moi.gov.qa ===
+  A:     78.100.102.17 
+  NS:    dns1.moi.gov.qa. dns2.moi.gov.qa. 
+  MX:    20 smtp2.moi.gov.qa. 10 smtp.moi.gov.qa. 
+  DMARC: "v=DMARC1;p=reject;rua=mailto:dmarc@moi.gov.qa;ruf=mailto:dmarc@moi.gov.qa;fo=1"
+
+=== moph.gov.qa ===
+  A:     20.21.202.65 
+  NS:    ns1-03.azure-dns.com. ns2-03.azure-dns.net. 
+  MX:    0 moph-gov-qa.mail.protection.outlook.com. 
+  DMARC: "v=DMARC1; p=reject; rua=mailto:mqrt@moph.gov.qa; ruf=mailto:mqrt@moph.gov.qa; fo=1;"
+
