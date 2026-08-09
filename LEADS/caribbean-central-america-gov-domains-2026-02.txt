@@ -1,0 +1,23 @@
+# Caribbean & Central American Government Domains
+# Discovered/verified via passive reconnaissance
+# Date: 2026-02-28
+# Status: All verified live as of scan date
+
+# Jamaica (.gov.jm)
+gov.jm
+opm.gov.jm
+mfaft.gov.jm
+mof.gov.jm
+moh.gov.jm
+
+# Bermuda (.gov.bm / .bm)
+gov.bm
+forum.gov.bm
+customs.bm
+bma.bm
+
+# Costa Rica (.go.cr)
+presidencia.go.cr
+gobierno.cr
+mrec.go.cr
+msp.go.cr
