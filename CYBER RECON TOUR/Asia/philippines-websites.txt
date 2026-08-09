@@ -1,0 +1,4 @@
+# PHILIPPINES Government Infrastructure — Passive Recon 2026
+# TLD: .ph
+gov.ph
+www.gov.ph
