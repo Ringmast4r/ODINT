@@ -1,0 +1,4 @@
+# MEXICO Government Infrastructure — Passive Recon 2026
+# TLD: .mx
+gov.mx
+www.gov.mx
