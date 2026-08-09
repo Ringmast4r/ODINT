@@ -1,215 +1,477 @@
 # Bolivian Websites - Comprehensive List
 # Government, military, media, business, education, and cultural sites
-# Created: 2026-01-29
-# Total: 131 domains
+# Updated: 2026-03-14 (ODINT Passive Recon Campaign bo_20260314_143141)
+# ============================================
 
 # ============================================
-# NEWS & MEDIA - NEWSPAPERS & DIGITAL (10)
+# GOVERNMENT (.gob.bo) — Verified Live Hosts (397)
+# Source: ODINT passive recon — subfinder + dnsx + httpx
 # ============================================
-lostiempos.com
-eldeber.com.bo
-la-razon.com
-paginasiete.bo
-opinion.com.bo
-eldiario.net
-brujuladigital.net
-eju.tv
-correodelsur.com
-eldiariotarija.com
-
-# ============================================
-# NEWS & MEDIA - TV & RADIO (6)
-# ============================================
-atb.com.bo
-unitel.tv
-reduno.com.bo
-boliviatv.bo
-erbol.com.bo
-paginasiete.bo
-
-# ============================================
-# GOVERNMENT - PRESIDENCY & EXECUTIVE (3)
-# ============================================
-gob.bo
-presidencia.gob.bo
-vicepresidencia.gob.bo
-
-# ============================================
-# GOVERNMENT - MINISTRIES (17)
-# ============================================
-cancilleria.gob.bo
-mingobierno.gob.bo
-minedu.gob.bo
-minsalud.gob.bo
-economiayfinanzas.gob.bo
-mindefensa.gob.bo
-justicia.gob.bo
-minenergias.gob.bo
-mineria.gob.bo
-comunicacion.gob.bo
-planificacion.gob.bo
-medioambiente.gob.bo
-obraspublicas.gob.bo
-desarrolloproductivo.gob.bo
-trabajoempleo.gob.bo
-culturas.gob.bo
-deportes.gob.bo
-
-# ============================================
-# GOVERNMENT - JUDICIAL & LEGISLATIVE (8)
-# ============================================
-tsj.bo
-tcp.bo
-fiscalia.gob.bo
-asamblealegislativa.gob.bo
-contraloria.gob.bo
-tse.gob.bo
-defensor.gob.bo
-procuraduria.gob.bo
-
-# ============================================
-# GOVERNMENT - FINANCIAL & REGULATORY (6)
-# ============================================
-impuestos.gob.bo
-aduana.gob.bo
-asfi.gob.bo
-ait.gob.bo
-ati.gob.bo
-aps.gob.bo
-
-# ============================================
-# GOVERNMENT - AGENCIES & SERVICES (10)
-# ============================================
-ine.gob.bo
-segip.gob.bo
-ajb.gob.bo
-senasag.gob.bo
-abc.gob.bo
-senavex.gob.bo
-abi.bo
-autoridad.gob.bo
+aben.gob.bo
+account-idetest.agetic.gob.bo
+adsib.gob.bo
+adultomayor.egpp.gob.bo
+afcoop.gob.bo
 agetic.gob.bo
-senapi.gob.bo
-
-# ============================================
-# MILITARY & SECURITY (5)
-# ============================================
-mindef.gob.bo
-ejercito.mil.bo
-armadaboliviana.mil.bo
-fab.mil.bo
-policia.gob.bo
-
-# ============================================
-# STATE ENTERPRISES (8)
-# ============================================
+ait.gob.bo
+alternativa.sie.gob.bo
+anh.gob.bo
+aplicaciones.aps.gob.bo
+apoyo.egpp.gob.bo
+aps.gob.bo
+asamblea2.agetic.gob.bo
+asamblea.agetic.gob.bo
+asfi.gob.bo
+aspb.gob.bo
+att.gob.bo
+autodiscover.comarapa.gob.bo
+autodiscover.fnse.gob.bo
+autodiscover.insumosbolivia.gob.bo
+bancosol.egpp.gob.bo
+baneco.egpp.gob.bo
+bcb.egpp.gob.bo
+bcp.egpp.gob.bo
+beni.gob.bo
+bibliotecavirtual.egpp.gob.bo
+bisa.egpp.gob.bo
+bi.ypfb.gob.bo
+blog.agetic.gob.bo
+bnb.egpp.gob.bo
+bonos.bcb.gob.bo
+bsisa.anh.gob.bo
+calificacionpcd.minsalud.gob.bo
+cam.egpp.gob.bo
+campusvirtual.uif.gob.bo
+capacitacion.vipfe.gob.bo
+certificacion.probolivia.gob.bo
+certificados.eje.gob.bo
+cgii.gob.bo
+chat.oopp.gob.bo
+chorolque.egpp.gob.bo
+cis.gob.bo
+cmt.gob.bo
+cobija.gob.bo
+codesur.egpp.gob.bo
+codice.mmaya.gob.bo
+cofadena.gob.bo
+colcapirhua.gob.bo
+colquiri.gob.bo
+comarapa.egpp.gob.bo
+comarapa.gob.bo
+concejomcpaldemontero.gob.bo
+convivenciasinviolencia.egpp.gob.bo
+correo.anh.gob.bo
+correo.aspb.gob.bo
+correo.bcb.gob.bo
+correo.egpp.gob.bo
+correo.gmsantacruz.gob.bo
+correo.mingobierno.gob.bo
+correo.mmaya.gob.bo
+cpanel.comarapa.gob.bo
+cpanel.egpp.gob.bo
+cpanel.fnse.gob.bo
+cpanel.insumosbolivia.gob.bo
+crecer.egpp.gob.bo
+csirt.gob.bo
+ctic.gob.bo
+cuenta.ciudadaniadigital.agetic.gob.bo
+curso1.egpp.gob.bo
+curso.egpp.gob.bo
+cursos.oopp.gob.bo
+datos.gob.bo
+ddecochabamba.gob.bo
+demo.agetic.gob.bo
+derechoshumanos.egpp.gob.bo
+desarrollo.adsib.gob.bo
+desarrolloproductivo.egpp.gob.bo
+dgac.gob.bo
+diaconia.egpp.gob.bo
+digital.gob.bo
+diplomas.sie.gob.bo
+economiayfinanzas.gob.bo
+economico.egpp.gob.bo
+educa.egpp.gob.bo
+eduper.sie.gob.bo
+eecgnv.gob.bo
+egpp.gob.bo
+eje.gob.bo
+elalto.gob.bo
+emc.colquiri.gob.bo
+emhuanuni.gob.bo
+emsa.gob.bo
+esalud.agetic.gob.bo
+especial.sie.gob.bo
+evaluate.egpp.gob.bo
+eventos.adsib.gob.bo
+externo.uif.gob.bo
+fie.egpp.gob.bo
+fnse.gob.bo
+fondeco.egpp.gob.bo
+fortaleza.egpp.gob.bo
+g1.egpp.gob.bo
+gacetamunicipalsucre.gob.bo
+ganadero.egpp.gob.bo
+gasypetroleo.egpp.gob.bo
+geo.gob.bo
+gesac.egpp.gob.bo
+gestiondeconflictos.egpp.gob.bo
+gestionderiesgos.egpp.gob.bo
+gestores.egpp.gob.bo
+gitlab.softwarelibre.gob.bo
+gobiernoelectronico.egpp.gob.bo
+hojaderuta.puertovillarroel.gob.bo
+host.egpp.gob.bo
+hydro.anh.gob.bo
+ibmetro.gob.bo
+ide.agetic.gob.bo
+ideepb.geo.gob.bo
+idiomas.egpp.gob.bo
+imap.agetic.gob.bo
+impuestos.egpp.gob.bo
+ine.egpp.gob.bo
+ingles.egpp.gob.bo
+iniaf.gob.bo
+inlasa.gob.bo
+insumosbolivia.gob.bo
+interoperabilidad.agetic.gob.bo
+intranet.agetic.gob.bo
+intranet.senado.gob.bo
+ipfb.egpp.gob.bo
+ldap.agetic.gob.bo
+libre.agetic.gob.bo
+listas.agetic.gob.bo
+listas.aspb.gob.bo
+local.agetic.gob.bo
+losandes.egpp.gob.bo
+mail.adsib.gob.bo
+mail.ait.gob.bo
+mail.aps.gob.bo
+mail.bcb.gob.bo
+mail.cmt.gob.bo
+mail.cobija.gob.bo
+mail.comarapa.gob.bo
+mail.egpp.gob.bo
+mail.evaluate.egpp.gob.bo
+mail.fdi.gob.bo
+mail.felcn.gob.bo
+mail.fnse.gob.bo
+mail.fps.gob.bo
+mail.hidrocarburos.gob.bo
+mail.insumosbolivia.gob.bo
+mail.muserpol.gob.bo
+mail.oopp.gob.bo
+mail.planificacion.gob.bo
+mail.puertovillarroel.gob.bo
+mail.samapa.gob.bo
+mail.santacruz.gob.bo
+mail.sedeslapaz.gob.bo
+mail.sergeomin.gob.bo
+mail.uif.gob.bo
+marcapais.agetic.gob.bo
+matrix.agetic.gob.bo
+mercantil.egpp.gob.bo
+migracion.gob.bo
+minedu2.egpp.gob.bo
+minedu.egpp.gob.bo
+minedu.gob.bo
+mineria.agetic.gob.bo
+minsalud.gob.bo
+mmaya-ucp.gob.bo
+motomendez.gob.bo
+municipiocarapari.gob.bo
+municipiomontero.gob.bo
+municipiovillazon.gob.bo
+nc.fps.gob.bo
+nemesis.uif.gob.bo
+noticias.colcapirhua.gob.bo
+nube.aspb.gob.bo
+nube.bcb.gob.bo
+nube.oopp.gob.bo
+odesur.egpp.gob.bo
+ong.agetic.gob.bo
+ong.planificacion.gob.bo
+oopp.gob.bo
+openproject.agetic.gob.bo
+otnpb.gob.bo
+ov.mineria.gob.bo
+ovt.mintrabajo.gob.bo
+owa.procuraduria.gob.bo
+palmito.insumosbolivia.gob.bo
+participantes.egpp.gob.bo
+pauteo.agetic.gob.bo
+pemm.agetic.gob.bo
+personal.mmaya.gob.bo
+pfb2.egpp.gob.bo
+pfb.egpp.gob.bo
+planificacion.egpp.gob.bo
+plataformadepagos.agetic.gob.bo
+plataforma.egpp.gob.bo
+pleyades.mmaya-ucp.gob.bo
+pnp.sie.gob.bo
+policia.egpp.gob.bo
+portalmre.rree.gob.bo
+ppte.agetic.gob.bo
+procuraduria.gob.bo
+promotora.egpp.gob.bo
+promujer.egpp.gob.bo
+puertovillarroel.gob.bo
+qmara.agetic.gob.bo
+qmara.minsalud.gob.bo
+registro.ciudadaniadigital.agetic.gob.bo
+registro.uif.gob.bo
+reportes.egpp.gob.bo
+repositorio.agetic.gob.bo
+reserva.egpp.gob.bo
+resiliencia.egpp.gob.bo
+rope.procuraduria.gob.bo
+ruat.gob.bo
+rue.sie.gob.bo
+sacaba.gob.bo
+sac.aspb.gob.bo
+samapa.gob.bo
+sanmateo.egpp.gob.bo
+sedem.gob.bo
+segip.gob.bo
+seguridad.egpp.gob.bo
+selaoruro.gob.bo
+senasba.gob.bo
+sergeomin.gob.bo
+servmil.mindef.gob.bo
+sesar.sedeslapaz.gob.bo
+sgc.aspb.gob.bo
+siab.mmaya.gob.bo
+sial.mmaya.gob.bo
+siap.aspb.gob.bo
+sipexternal.impuestos.gob.bo
+sip.gmsantacruz.gob.bo
+siremi.santacruz.gob.bo
+sishab.minedu.gob.bo
+siso.uif.gob.bo
+sistemas.adsib.gob.bo
+sisunibol.minedu.gob.bo
+smtp.agetic.gob.bo
+softwarelibre.gob.bo
+subasta.aduana.gob.bo
+taiga.agetic.gob.bo
+tapacari.gob.bo
+tareas.egpp.gob.bo
+teleeducacion.egpp.gob.bo
+teleeduca.egpp.gob.bo
+tele.egpp.gob.bo
+test.agetic.gob.bo
+testesalud.agetic.gob.bo
+test.geo.gob.bo
+testmineria.agetic.gob.bo
+test-ppte-busa.agetic.gob.bo
+testqmara.agetic.gob.bo
+tiwanaku.gob.bo
+trabajo.egpp.gob.bo
+tramites.agetic.gob.bo
+tramites.trinidad.gob.bo
+transparencia.egpp.gob.bo
+trinidad.gob.bo
+turismo.comarapa.gob.bo
+turismo.egpp.gob.bo
+tutores.egpp.gob.bo
+ushahidi.agetic.gob.bo
+viasbolivia.egpp.gob.bo
+vicepresidencia.gob.bo
+virtual0.egpp.gob.bo
+virtual16.egpp.gob.bo
+virtual17.egpp.gob.bo
+virtual18.egpp.gob.bo
+virtual1.egpp.gob.bo
+virtual.egpp.gob.bo
+webdisk.comarapa.gob.bo
+webdisk.egpp.gob.bo
+webdisk.fnse.gob.bo
+webdisk.insumosbolivia.gob.bo
+web.egpp.gob.bo
+webmail.bcb.gob.bo
+webmail.comarapa.gob.bo
+webmail.egpp.gob.bo
+webmail.fnse.gob.bo
+webmail.gmsantacruz.gob.bo
+webmail.insumosbolivia.gob.bo
+whm.egpp.gob.bo
+wiki.oopp.gob.bo
+ws.agetic.gob.bo
+www1.dgac.gob.bo
+www3.hidrocarburos.gob.bo
+www.adsib.gob.bo
+www.adultomayor.egpp.gob.bo
+www.agetic.gob.bo
+www.aj.gob.bo
+www.apoyo.egpp.gob.bo
+www.aps.gob.bo
+www.asfi.gob.bo
+www.bancosol.egpp.gob.bo
+www.baneco.egpp.gob.bo
+www.bcb.egpp.gob.bo
+www.bcb.gob.bo
+www.bcp.egpp.gob.bo
+www.bibliotecavirtual.egpp.gob.bo
+www.bisa.egpp.gob.bo
+www.bnb.egpp.gob.bo
+www.cam.egpp.gob.bo
+www.chorolque.egpp.gob.bo
+www.cmt.gob.bo
+www.codesur.egpp.gob.bo
+www.comarapa.egpp.gob.bo
+www.comarapa.gob.bo
+www.convivenciasinviolencia.egpp.gob.bo
+www.crecer.egpp.gob.bo
+www.curso.egpp.gob.bo
+www.derechoshumanos.egpp.gob.bo
+www.desarrolloproductivo.egpp.gob.bo
+www.diaconia.egpp.gob.bo
+www.economico.egpp.gob.bo
+www.educa.egpp.gob.bo
+www.egpp.gob.bo
+www.eje.gob.bo
+www.evaluate.egpp.gob.bo
+www.fie.egpp.gob.bo
+www.fnse.gob.bo
+www.fondeco.egpp.gob.bo
+www.fortaleza.egpp.gob.bo
+www.fps.gob.bo
+www.g1.egpp.gob.bo
+www.ganadero.egpp.gob.bo
+www.gasypetroleo.egpp.gob.bo
+www.gesac.egpp.gob.bo
+www.gestiondeconflictos.egpp.gob.bo
+www.gestionderiesgos.egpp.gob.bo
+www.gestores.egpp.gob.bo
+www.gob.bo
+www.gobiernoelectronico.egpp.gob.bo
+www.host.egpp.gob.bo
+www.impuestos.egpp.gob.bo
+www.ine.egpp.gob.bo
+www.ingles.egpp.gob.bo
+www.inlasa.gob.bo
+www.insumosbolivia.gob.bo
+www.ipfb.egpp.gob.bo
+www.losandes.egpp.gob.bo
+www.mercantil.egpp.gob.bo
+www.minedu2.egpp.gob.bo
+www.minedu.egpp.gob.bo
+www.odesur.egpp.gob.bo
+www.palmito.insumosbolivia.gob.bo
+www.participantes.egpp.gob.bo
+www.pfb2.egpp.gob.bo
+www.pfb.egpp.gob.bo
+www.planificacion.egpp.gob.bo
+www.plataforma.egpp.gob.bo
+www.policia.egpp.gob.bo
+www.promotora.egpp.gob.bo
+www.promujer.egpp.gob.bo
+www.reportes.egpp.gob.bo
+www.resiliencia.egpp.gob.bo
+www.ruat.gob.bo
+www.samapa.gob.bo
+www.sanmateo.egpp.gob.bo
+www.sedem.gob.bo
+www.segip.gob.bo
+www.seguridad.egpp.gob.bo
+www.senavex.gob.bo
+www.sicoes.gob.bo
+www.softwarelibre.gob.bo
+www.tareas.egpp.gob.bo
+www.teleeducacion.egpp.gob.bo
+www.teleeduca.egpp.gob.bo
+www.tele.egpp.gob.bo
+www.trabajo.egpp.gob.bo
+www.transparencia.egpp.gob.bo
+www.turismo.comarapa.gob.bo
+www.turismo.egpp.gob.bo
+www.tutores.egpp.gob.bo
+www.uif.gob.bo
+www.viasbolivia.egpp.gob.bo
+www.vicepresidencia.gob.bo
+www.virtual0.egpp.gob.bo
+www.virtual16.egpp.gob.bo
+www.virtual17.egpp.gob.bo
+www.virtual18.egpp.gob.bo
+www.virtual1.egpp.gob.bo
+www.virtual.egpp.gob.bo
+www.web.egpp.gob.bo
+www.yacimientos.egpp.gob.bo
+www.ypfblogistica.egpp.gob.bo
+yacimientos.egpp.gob.bo
+yanapiri.agetic.gob.bo
+yapacani.gob.bo
 ypfb.gob.bo
-ende.bo
-entel.bo
-boa.bo
-ecobol.com.bo
-comibol.gob.bo
-aasana.gob.bo
-vinto.gob.bo
+ypfblogistica.egpp.gob.bo
+zimbra.mintrabajo.gob.bo
+zofracobija.gob.bo
 
 # ============================================
-# BANKS & ECONOMY (7)
+# NON-GOVERNMENT DOMAINS (from previous collection)
 # ============================================
-bcb.gob.bo
-bnb.com.bo
-bmsc.com.bo
+abi.bo
+armadaboliviana.mil.bo
+atb.com.bo
 bancounion.com.bo
 bisa.com.bo
-ganadero.com.bo
+bmsc.com.bo
+bnb.com.bo
+boa.bo
+boliviaentusmanos.com
+bolivia.travel
+boliviatv.bo
+brujuladigital.net
+cedla.org
+cobija.bo
+cob.org.bo
+cochabamba.bo
+comunidadciudadana.bo
+correodelsur.com
+cre.com.bo
+creemos.bo
+divisionprofesional.com.bo
+ecobol.com.bo
+ejercito.mil.bo
+eju.tv
+eldeber.com.bo
+eldiario.net
+eldiariotarija.com
+emi.edu.bo
+ende.bo
+entel.bo
+erbol.com.bo
+fab.mil.bo
+fbf.org.bo
 fie.com.bo
-
-# ============================================
-# UNIVERSITIES & EDUCATION (12)
-# ============================================
+fundacionculturalbcb.org.bo
+fundaciontierraviva.org.bo
+ganadero.com.bo
+ibce.org.bo
+lapaz.bo
+la-razon.com
+lostiempos.com
+masipsp.bo
+mercadolibre.com.bo
+opinion.com.bo
+oruro.bo
+paginasiete.bo
+potosi.bo
+redunitas.org
+reduno.com.bo
+sucre.bo
+tarija.bo
+tcp.bo
+tigo.com.bo
+trinidad.bo
+tsj.bo
+uabjb.edu.bo
+uagrm.edu.bo
+uajms.edu.bo
+ucb.edu.bo
 umsa.bo
 umss.edu.bo
-uagrm.edu.bo
-ucb.edu.bo
-upb.edu
-uto.edu.bo
-uajms.edu.bo
-uabjb.edu.bo
-unsxx.edu.bo
+unitel.tv
 univalle.edu
+unsxx.edu.bo
+upb.edu
 upea.edu.bo
-emi.edu.bo
-
-# ============================================
-# SPORTS (3)
-# ============================================
-fbf.org.bo
-cob.org.bo
-divisionprofesional.com.bo
-
-# ============================================
-# POLITICAL PARTIES (3)
-# ============================================
-masipsp.bo
-comunidadciudadana.bo
-creemos.bo
-
-# ============================================
-# DEPARTMENTAL GOVERNMENTS (9)
-# ============================================
-lapaz.gob.bo
-santacruz.gob.bo
-cochabamba.gob.bo
-oruro.gob.bo
-potosi.gob.bo
-chuquisaca.gob.bo
-tarija.gob.bo
-beni.gob.bo
-pando.gob.bo
-
-# ============================================
-# MUNICIPAL GOVERNMENTS (9)
-# ============================================
-lapaz.bo
-santacruzdelasierra.gob.bo
-cochabamba.bo
-oruro.bo
-sucre.bo
-potosi.bo
-tarija.bo
-trinidad.bo
-cobija.bo
-
-# ============================================
-# HUMAN RIGHTS / NGOs (3)
-# ============================================
-cedla.org
-fundaciontierraviva.org.bo
-redunitas.org
-
-# ============================================
-# E-COMMERCE & SERVICES (4)
-# ============================================
-tigo.com.bo
-entel.bo
-mercadolibre.com.bo
-cre.com.bo
-
-# ============================================
-# TOURISM (2)
-# ============================================
-bolivia.travel
-boliviaentusmanos.com
-
-# ============================================
-# ART & CULTURE (3)
-# ============================================
-casadelalibertad.gob.bo
-fundacionculturalbcb.org.bo
-musef.gob.bo
-
-# ============================================
-# DIASPORA & INTERNATIONAL (3)
-# ============================================
-cancilleria.gob.bo
-probolivia.gob.bo
-ibce.org.bo
+uto.edu.bo
