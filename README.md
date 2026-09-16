@@ -1,3 +1,27 @@
+<div align="center">
+
+<img width="100%" alt="ODINT" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:731D28&height=220&section=header&text=ODINT&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=GitHub%20%7C%20Markdown%20%7C%20OSINT%20%7C%20Research&descSize=16&descAlignY=58"/>
+
+[`GitHub`](https://github.com/) [`Markdown`](https://www.markdownguide.org/) `OSINT` `Research` - The Observatory for Digital Infrastructure & Network Transparency
+
+[Project website / live view](https://odint.io/)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=731D28&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=The+Observatory+for+Digital+Infrastructure+%26+Network+Transparency%3BGitHub+%2F+Markdown+%2F+OSINT+%2F+Research)](https://git.io/typing-svg)
+
+<br>
+
+[![Project](https://img.shields.io/badge/Project-ODINT-731D28?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/ODINT)
+[![Format](https://img.shields.io/badge/Format-Markdown-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r/ODINT/tree/main)
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/ODINT?style=flat-square&color=731D28)](https://github.com/Ringmast4r/ODINT/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/ODINT?style=flat-square&color=731D28)](https://github.com/Ringmast4r/ODINT/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/ODINT?style=flat-square&color=731D28)](https://github.com/Ringmast4r/ODINT)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/ODINT?style=flat-square&color=731D28)](https://github.com/Ringmast4r/ODINT/commits/main)
+
+</div>
+
+---
+
 <p align="center">
   <img src="ODINT logo.png?v=2" alt="ODINT — Observatory for Digital Infrastructure & Network Transparency" width="100%">
 </p>
@@ -16,7 +40,8 @@ We don't hack. We don't exploit. We document what's already public and hold powe
 
 ---
 
-## Why This Repo Exists
+<a id="why-this-repo-exists"></a>
+## `> why_this_repo_exists`
 
 This is our shared workspace. Our war room.
 
@@ -26,7 +51,8 @@ Every piece of research, every lead, every methodology, every tool reference, ev
 
 ---
 
-## Current Repo Structure
+<a id="current-repo-structure"></a>
+## `> current_repo_structure`
 
 | Directory | Contents | Status |
 |-----------|----------|--------|
@@ -50,7 +76,8 @@ If you're not sure whether something belongs — it probably does. Push it.
 
 ---
 
-## How to Contribute
+<a id="how-to-contribute"></a>
+## `> how_to_contribute`
 
 <p align="center">
   <img src="banner.svg" alt="You send us the sites. We take care of the rest. That simple." width="100%">
@@ -83,7 +110,8 @@ Clone it. Run the [Recon Suite](https://github.com/Ringmast4r/Recon-Suite) again
 
 ---
 
-## Recon Suite
+<a id="recon-suite"></a>
+## `> recon_suite`
 
 The tools powering ODINT's reconnaissance operations. 16 Go-based OSINT tools — scanners, pipelines, exploit frameworks, and target lists.
 
@@ -91,7 +119,8 @@ The tools powering ODINT's reconnaissance operations. 16 Go-based OSINT tools �
 
 ---
 
-## Research Principles
+<a id="research-principles"></a>
+## `> research_principles`
 
 Every ODINT contributor operates under these non-negotiable principles:
 
@@ -103,7 +132,8 @@ Every ODINT contributor operates under these non-negotiable principles:
 
 ---
 
-## Current Focus Areas
+<a id="current-focus-areas"></a>
+## `> current_focus_areas`
 
 - Government API exposure analysis
 - Identity and hash correlation research
@@ -117,7 +147,8 @@ Every ODINT contributor operates under these non-negotiable principles:
 
 ---
 
-## Submit a Tip
+<a id="submit-a-tip"></a>
+## `> submit_a_tip`
 
 Have information about exposed government infrastructure, data leaks, or something worth investigating? Submit it anonymously — no email, no sign-in, no tracking.
 
@@ -125,7 +156,8 @@ Have information about exposed government infrastructure, data leaks, or somethi
 
 ---
 
-## Cyber Recon Tour — Target Lists
+<a id="cyber-recon-tour--target-lists"></a>
+## `> cyber_recon_tour__target_lists`
 
 **270 Countries & Territories | 14 Regions | [`CYBER RECON TOUR/`](CYBER%20RECON%20TOUR/)**
 
@@ -257,7 +289,8 @@ Curated lists of government, military, media, education, and business domains or
 
 ---
 
-## Cyber Recon Tour — Country Research Tracker
+<a id="cyber-recon-tour--country-research-tracker"></a>
+## `> cyber_recon_tour__country_research_tracker`
 
 **270 Countries & Territories | 14 Regions**
 
@@ -659,7 +692,8 @@ Curated lists of government, military, media, education, and business domains or
 
 ---
 
-## Contact
+<a id="contact"></a>
+## `> contact`
 
 - **Email:** odint_io@proton.me
 - **Web:** [odint.io](https://odint.io)
@@ -667,7 +701,8 @@ Curated lists of government, military, media, education, and business domains or
 
 ---
 
-## The Bottom Line
+<a id="the-bottom-line"></a>
+## `> the_bottom_line`
 
 Transparency doesn't happen by accident. It happens because people like us do the work — methodically, ethically, and relentlessly.
 
@@ -678,3 +713,11 @@ If you have something that helps the mission, commit it. If you found something 
 ---
 
 *ODINT is an American public benefit nonprofit corporation. 501(c)(3) status pending.*
+
+---
+
+<div align="center">
+
+<img width="100%" alt="ODINT footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:731D28,100:000000&height=120&section=footer&text=RINGMAST4R%20%2F%2F%20RESEARCH&fontSize=18&fontColor=ffffff&fontAlignY=65"/>
+
+</div>
