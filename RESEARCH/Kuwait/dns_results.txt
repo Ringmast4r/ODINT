@@ -1,0 +1,121 @@
+=== alqabas.com ===
+  A:     172.67.74.121 104.26.6.40 
+  NS:    eric.ns.cloudflare.com. gina.ns.cloudflare.com. 
+  MX:    5 alt1.aspmx.l.google.com. 5 alt2.aspmx.l.google.com. 
+  DMARC: "v=DMARC1; p=none; rua=mailto:postmaster@alqabas.com"
+
+=== alrai.com ===
+  A:     172.67.70.59 104.26.7.121 
+  NS:    ed.ns.cloudflare.com. addyson.ns.cloudflare.com. 
+  MX:    10 mx.spamexperts.com. 20 fallbackmx.spamexperts.eu. 
+  DMARC: "v=DMARC1; p=none; rua=mailto:255ab3e4a107444fb59bf8527d8115c9@dmarc-reports.cloudflare.net"
+
+=== arabtimesonline.com ===
+  A:     172.67.208.191 104.21.53.43 
+  NS:    olga.ns.cloudflare.com. roan.ns.cloudflare.com. 
+  MX:    30 aspmx2.googlemail.com. 30 aspmx3.googlemail.com. 
+  DMARC: "v=DMARC1;  p=none; rua=mailto:ab34371e0494400fb03c506f778467cf@dmarc-reports.cloudflare.net"
+
+=== auk.edu.kw ===
+  A:     172.66.0.125 162.159.140.127 
+  NS:    ns2.gulfnet.net.kw. ns1.gulfnet.net.kw. 
+  MX:    10 d341497b.ess.barracudanetworks.com. 5 d341497a.ess.barracudanetworks.com. 
+  DMARC: "v=DMARC1;p=quarantine;sp=quarantine;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:dmarc@auk.edu.kw;ruf=mailto:dmarc@auk.edu.kw"
+
+=== aum.edu.kw ===
+  A:     20.50.169.216 
+  NS:    ns1.fasttelco.net. ns2.fasttelco.net. 
+  MX:    20 aum-edu-kw.mail.protection.outlook.com. 10 mail.aum.edu.kw. 
+  DMARC: "v=DMARC1;\226\128\175p=quarantine; pct=100"
+
+=== baladia.gov.kw ===
+  A:     52.233.182.142 
+  NS:    ns4.baladia.shield.kw. ns1.baladia.shield.kw. 
+  MX:    10 baladia-gov-kw.mail.protection.outlook.com. 
+  DMARC: "v=DMARC1; p=none; pct=100; rua=mailto:adminazure@baladia.gov.kw; ruf=mailto:adminazure@baladia.gov.kw"
+
+=== boursakuwait.com.kw ===
+  A:     23.62.54.51 23.62.54.40 
+  NS:    a2-64.akam.net. a1-196.akam.net. 
+  MX:    20 boursakuwait-com-kw.mail.protection.outlook.com. 10 boursakuwait.in.tmes.trendmicro.eu. 
+  DMARC: "v=DMARC1; p=quarantine; pct=100"
+
+=== burgan.com ===
+  A:     213.132.251.2 168.187.198.2 
+  NS:    ns5.burgan.com. 
+  MX:    0 burgan-com.mail.protection.outlook.com. 
+  DMARC: "v=DMARC1;" "p=reject;" "pct=100"
+
+=== capital.gov.kw ===
+  A:     216.239.32.21 
+  NS:    ns2.digitalocean.com. ns1.digitalocean.com. 
+  MX:    
+  DMARC: 
+
+=== cbk.gov.kw ===
+  A:     104.31.5.16 
+  NS:    ns31.constellix.com. ns41.constellix.net. 
+  MX:    20 mail.cbk.gov.kw. 
+  DMARC: "v=DMARC1; p=reject; sp=reject; rua=mailto:dmarcrua@cbk.gov.kw; ruf=mailto:dmarcruf@cbk.gov.kw, mailto:dmarc-9226654556@email-security.zerofox.com; pct=100;"
+
+=== citra.gov.kw ===
+  A:     23.62.54.42 23.62.54.36 
+  NS:    a22-64.akam.net. a3-67.akam.net. 
+  MX:    0 mxb-007ac202.gslb.pphosted.com. 0 mxa-007ac202.gslb.pphosted.com. 
+  DMARC: "v=DMARC1; p=quarantine; pct=100"
+
+=== csb.gov.kw ===
+  A:     83.96.8.139 
+  NS:    dns2.wataniya.com. ns1.wataniya.com. 
+  MX:    10 mail.csb.gov.kw. 20 mail2.csb.gov.kw. 
+  DMARC: "v=DMARC1; p=quarantine; pct=100; rua=mailto:DMARC@csb.gov.kw; ruf=mailto:DMARC@csb.gov.kw"
+
+=== customs.gov.kw ===
+  A:     176.110.119.37 
+  NS:    dns5.kuwaitnet.net. dns6.kuwaitnet.net. 
+  MX:    20 customs-gov-kw-1.fortimailcloud.com. 30 customs-gov-kw-2.fortimailcloud.com. 
+  DMARC: "v=DMARC1; p=none; pct=100; fo=1; ri=3600; rua=mailto:ed6a1969.rua@ae-dmarc.outpost.sequack.com,mailto:rua@pwctechnologies.com; ruf=mailto:ed6a1969.ruf@ae-dmarc.outpost.sequack.com,mailto:ruf@pwctechnologies.com"
+
+=== da.gov.kw ===
+  A:     75.2.90.10 99.83.231.192 
+  NS:    ns2-02.azure-dns.net. ns3-02.azure-dns.org. 
+  MX:    10 mxb-00a06801.gslb.pphosted.com. 10 mxa-00a06801.gslb.pphosted.com. 
+  DMARC: _dmarc.da.gov.kw.dmarc.has.pphosted.com.
+"v=DMARC1; p=reject; fo=1; rua=mailto:dmarc_rua@emaildefense.proofpoint.com; ruf=mailto:dmarc_ruf@emaildefense.proofpoint.com;"
+
+=== dgca.gov.kw ===
+  A:     20.54.49.106 
+  NS:    dgca.ns2.shield.kw. dgca.ns3.shield.kw. 
+  MX:    0 dgca-gov-kw.mail.protection.outlook.com. 
+  DMARC: "v=DMARC1; p=quarantine; sp=quarantine; ri=3600; pct=100; rua=mailto:dmarc@dcga.gov.kw; ruf=mailto:dmarc@dcga.gov.kw; fo=1"
+
+=== gust.edu.kw ===
+  A:     104.26.1.46 172.67.69.71 
+  NS:    laylah.ns.cloudflare.com. aaden.ns.cloudflare.com. 
+  MX:    0 gust-edu-kw.mail.protection.outlook.com. 
+  DMARC: "v=DMARC1; p=reject; rua=mailto:DMARC@gust.edu.kw,mailto:f84d5cb3@mxtoolbox.dmarc-report.com; ruf=mailto:DMARC@gust.edu.kw,mailto:f84d5cb3@forensics.dmarc-report.com; fo=1; pct=100; ri=3600"
+
+=== jahra.gov.kw ===
+  A:     172.67.198.225 104.21.84.236 
+  NS:    chip.ns.cloudflare.com. molly.ns.cloudflare.com. 
+  MX:    5 alt2.aspmx.l.google.com. 1 aspmx.l.google.com. 
+  DMARC: 
+
+=== kba.org.kw ===
+  A:     199.192.16.65 
+  NS:    ns2.csender.net. ns1.csender.net. 
+  MX:    0 KBA-org-kw.mail.protection.outlook.com. 
+  DMARC: 
+
+=== kdipa.gov.kw ===
+  A:     23.62.54.41 23.62.54.54 
+  NS:    a26-67.akam.net. a13-64.akam.net. 
+  MX:    20 kdipa-gov-kw.mail.protection.outlook.com. 0 kdipa-1.fortimailcloud.com. 
+  DMARC: "v=DMARC1;p=quarantine;sp=none;adkim=r;aspf=r;pct=100;fo=0;rf=afrf;ri=86400;rua=mailto:ITAdmin@kdipa.gov.kw;ruf=mailto:ITAdmin@kdipa.gov.kw"
+
+=== kfas.org.kw ===
+  A:     168.63.110.186 
+  NS:    ns1.bdm.microsoftonline.com. ns2.bdm.microsoftonline.com. 
+  MX:    0 kfas-org-kw.mail.protection.outlook.com. 
+  DMARC: "v=DMARC1; p= reject; pct=100"
+

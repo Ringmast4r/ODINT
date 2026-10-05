@@ -1,0 +1,26 @@
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/kipic.com.kw/v2.0/.well-known/openid-configuration ["0f542e4f-0469-4998-8325-8f33ecd14878"]
+[cookies-without-httponly] [javascript] [info] alqabas.com ["next-i18next"]
+[cookies-without-httponly] [javascript] [info] customs.gov.kw ["_Culture","TS01f1efb0"]
+[cookies-without-httponly] [javascript] [info] dgca.gov.kw ["citrix_ns_id_dgca","gov","kw_","2F_wat"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/alrai.com/v2.0/.well-known/openid-configuration ["293d7db9-3563-4c2f-ae76-dc763451f67d"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/auk.edu.kw/v2.0/.well-known/openid-configuration ["27099488-9fb6-46de-8c03-eaad9494a6cc"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/aum.edu.kw/v2.0/.well-known/openid-configuration ["7c67a15c-90d6-4728-b973-dc538c414d8f"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/baladia.gov.kw/v2.0/.well-known/openid-configuration ["ca728da2-5ccc-4b95-9d2c-50d4f55e684d"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/burgan.com/v2.0/.well-known/openid-configuration ["19138615-f484-4d73-95aa-7c74665611a9"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/cbk.gov.kw/v2.0/.well-known/openid-configuration ["7a211455-fea2-493d-ae8e-fdb36a1bcce8"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/csb.gov.kw/v2.0/.well-known/openid-configuration ["b6644ec5-c733-4ff8-b374-87ac519aaa41"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/customs.gov.kw/v2.0/.well-known/openid-configuration ["17041257-444d-4393-9455-4d13140549f3"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/citra.gov.kw/v2.0/.well-known/openid-configuration ["31d2e1e7-74b7-4556-bffb-f037ff73c4d4"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/gust.edu.kw/v2.0/.well-known/openid-configuration ["9c790caa-8b34-43a9-9294-eb3754d629aa"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/da.gov.kw/v2.0/.well-known/openid-configuration ["a9d9c866-5a3d-491e-a00e-72233e9a3809"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/dgca.gov.kw/v2.0/.well-known/openid-configuration ["9e27e3e7-9e38-488c-8801-456e61bbe5a5"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/kfas.org.kw/v2.0/.well-known/openid-configuration ["db96c4e9-002a-494a-bea4-ed78e3cd0520"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/kia.gov.kw/v2.0/.well-known/openid-configuration ["e37decac-0c2c-4224-a98f-72e169e6d861"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/kfh.com/v2.0/.well-known/openid-configuration ["0d860093-8f20-4eb7-882a-0c70de019872"]
+[cookies-without-secure] [javascript] [info] alqabas.com ["next-i18next","userAttribute"]
+[cookies-without-secure] [javascript] [info] customs.gov.kw ["__RequestVerificationToken","TS01f1efb0","_Culture","ASP","NET_SessionId"]
+[dns-waf-detect:cloudflare] [dns] [info] alqabas.com
+[dns-waf-detect:cloudflare] [dns] [info] alrai.com
+[dns-waf-detect:cloudflare] [dns] [info] arabtimesonline.com
+[dns-waf-detect:cloudflare] [dns] [info] gust.edu.kw
+[dns-waf-detect:cloudflare] [dns] [info] jahra.gov.kw
