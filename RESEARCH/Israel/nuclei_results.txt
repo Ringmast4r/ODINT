@@ -1,0 +1,85 @@
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/taxes.gov.il/v2.0/.well-known/openid-configuration ["4282d78b-9b18-4454-a4a6-3ebcd0b24179"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/boi.org.il/v2.0/.well-known/openid-configuration ["c8a003ea-cf3a-46c6-ad16-106dd0d355ac"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/cbs.gov.il/v2.0/.well-known/openid-configuration ["881d7e6a-4fc6-4481-a0d5-017c7e36ba6d"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/economy.gov.il/v2.0/.well-known/openid-configuration ["94834c1e-f568-46d2-86a6-51fa16635879"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/iec.co.il/v2.0/.well-known/openid-configuration ["40ed954c-3e38-4c31-858a-c768fd7a39aa"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/health.gov.il/v2.0/.well-known/openid-configuration ["02103110-83a8-44e2-b222-52bf42189412"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/energy.gov.il/v2.0/.well-known/openid-configuration ["e1b6698e-9a14-43d8-9eba-5340bf790910"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/haifa.muni.il/v2.0/.well-known/openid-configuration ["56bc800d-d0b8-4956-aaaf-2f08b340d9cb"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/mfa.gov.il/v2.0/.well-known/openid-configuration ["558bb977-635c-4888-b489-f192e55bb42f"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/pmo.gov.il/v2.0/.well-known/openid-configuration ["1ecbc7cf-a39d-4e6b-a3bf-1ed5736641dd"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/knesset.gov.il/v2.0/.well-known/openid-configuration ["a06d6add-9f9e-463c-bfda-2640ba00447d"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/justice.gov.il/v2.0/.well-known/openid-configuration ["ce37b124-8959-4332-b77f-27143c359610"]
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/president.gov.il/v2.0/.well-known/openid-configuration ["49b232ea-f33b-4d7c-9bc9-307c396ccf1b"]
+[cookies-without-secure] [javascript] [info] cbs.gov.il ["TS01417235","TSdf5ecf38027"]
+[cookies-without-secure] [javascript] [info] haifa.muni.il ["GCLB"]
+[waf-detect:cloudflare] [http] [info] https://shabak.gov.il
+[waf-detect:nginxgeneric] [http] [info] https://knesset.gov.il
+[tls-version] [ssl] [info] haifa.muni.il:443 ["tls12"]
+[tls-version] [ssl] [info] shabak.gov.il:443 ["tls12"]
+[tls-version] [ssl] [info] haifa.muni.il:443 ["tls13"]
+[tls-version] [ssl] [info] shabak.gov.il:443 ["tls13"]
+[tls-version] [ssl] [info] knesset.gov.il:443 ["tls12"]
+[tls-version] [ssl] [info] knesset.gov.il:443 ["tls13"]
+[tls-version] [ssl] [info] iec.co.il:443 ["tls12"]
+[tls-version] [ssl] [info] iec.co.il:443 ["tls13"]
+[tls-version] [ssl] [info] cbs.gov.il:443 ["tls12"]
+[http-missing-security-headers:strict-transport-security] [http] [info] https://shabak.gov.il
+[http-missing-security-headers:content-security-policy] [http] [info] https://shabak.gov.il
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://shabak.gov.il
+[http-missing-security-headers:permissions-policy] [http] [info] https://shabak.gov.il
+[http-missing-security-headers:x-content-type-options] [http] [info] https://shabak.gov.il
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://shabak.gov.il
+[http-missing-security-headers:clear-site-data] [http] [info] https://shabak.gov.il
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://shabak.gov.il
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://shabak.gov.il
+[http-missing-security-headers:clear-site-data] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:strict-transport-security] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:content-security-policy] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:referrer-policy] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:permissions-policy] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:x-frame-options] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:x-content-type-options] [http] [info] https://haifa.muni.il
+[http-missing-security-headers:referrer-policy] [http] [info] https://iec.co.il
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://iec.co.il
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://iec.co.il
+[http-missing-security-headers:x-frame-options] [http] [info] https://iec.co.il
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://iec.co.il
+[http-missing-security-headers:clear-site-data] [http] [info] https://iec.co.il
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://iec.co.il
+[http-missing-security-headers:strict-transport-security] [http] [info] https://iec.co.il
+[http-missing-security-headers:content-security-policy] [http] [info] https://iec.co.il
+[http-missing-security-headers:permissions-policy] [http] [info] https://iec.co.il
+[http-missing-security-headers:x-content-type-options] [http] [info] https://iec.co.il
+[http-missing-security-headers:clear-site-data] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:cross-origin-embedder-policy] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:cross-origin-opener-policy] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:cross-origin-resource-policy] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:strict-transport-security] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:content-security-policy] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:permissions-policy] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:x-frame-options] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:x-content-type-options] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:x-permitted-cross-domain-policies] [http] [info] https://knesset.gov.il
+[http-missing-security-headers:referrer-policy] [http] [info] https://knesset.gov.il
+[missing-cookie-samesite-strict] [http] [info] https://haifa.muni.il ["GCLB=CJ_t1dqegMmaExAD; path=/; HttpOnly"]
+[tech-detect:nginx] [http] [info] https://knesset.gov.il
+[missing-cookie-samesite-strict] [http] [info] https://shabak.gov.il ["__cf_bm=_394EPQLZ8WWULt77QJHyfcUIXsw5V7f4BCnsOFviXg-1772920137.6890688-1.0.1.1-oBmJBxvUam8z6JprhBpGRZrbFj1tnjRTgxfKa1RxhujjHbPDvaCrnn8JdJqTmUJ.C26B5ApvQcRY1mvD0UuvbmsmBLI6qU2Y0EXrsF1z5.4R5B8k7f5Ao1ec_3YsJ7S8; HttpOnly; Secure; Path=/; Domain=shabak.gov.il; Expires=Sat, 07 Mar 2026 22:18:57 GMT"]
+[tech-detect:cloudflare] [http] [info] https://shabak.gov.il
+[fingerprinthub-web-fingerprints:splunk] [http] [info] https://iec.co.il
+[ssl-issuer] [ssl] [info] shabak.gov.il:443 ["Entrust Limited"]
+[ssl-dns-names] [ssl] [info] shabak.gov.il:443 ["shabak.gov.il","www.shabak.gov.il"]
+[ssl-issuer] [ssl] [info] haifa.muni.il:443 ["GoGetSSL"]
+[ssl-dns-names] [ssl] [info] haifa.muni.il:443 ["*.haifa.muni.il","haifa.muni.il"]
+[wildcard-tls] [ssl] [info] haifa.muni.il:443 ["CN: *.haifa.muni.il","SAN: [*.haifa.muni.il haifa.muni.il]"]
+[ssl-issuer] [ssl] [info] iec.co.il:443 ["DigiCert Inc"]
+[ssl-dns-names] [ssl] [info] iec.co.il:443 ["*.iec.co.il","iec.co.il"]
+[wildcard-tls] [ssl] [info] iec.co.il:443 ["CN: *.iec.co.il","SAN: [*.iec.co.il iec.co.il]"]
+[ssl-issuer] [ssl] [info] knesset.gov.il:443 ["Sectigo Limited"]
+[ssl-dns-names] [ssl] [info] knesset.gov.il:443 ["*.knesset.gov.il","knesset.gov.il"]
+[untrusted-root-certificate] [ssl] [low] knesset.gov.il:443
+[wildcard-tls] [ssl] [info] knesset.gov.il:443 ["CN: *.knesset.gov.il","SAN: [*.knesset.gov.il knesset.gov.il]"]

@@ -1,0 +1,86 @@
+=== economy.gov.il ===
+  A:     147.237.3.58 
+  NS:    dns3.gov.il. use4.akam.net. 
+  MX:    5 mail.tehila.gov.il. 
+  TXT:   "google-site-verification=piLeO8dlliXqn-u7Ees_ZTuiX5UdP4RmhxIm1ASgxbo"
+  DMARC: "v=DMARC1; p=reject; sp=none; adkim=r; aspf=r; rua=mailto:reports@dmarc.gov.il; ruf=mailto:reports@dmarc.gov.il; rf=afrf; pct=100; ri=3600"
+
+=== health.gov.il ===
+  A:     147.237.1.176 
+  NS:    asia3.akam.net. use4.akam.net. 
+  MX:    30 mx11.health.gov.il. 5 mx.health.gov.il. 
+  TXT:   "v=spf1 ip4:195.200.205.180 ip4:147.237.70.203 ip4:147.237.70.204 ip4:147.237.70.205 ip4:147.237.70.206 ip4:195.200.205.80 include:inforumail.com ~all"
+  DMARC: 
+
+=== haifa.muni.il ===
+  A:     34.117.173.91 
+  NS:    nypop.netvision.net.il. dns.netvision.net.il. 
+  MX:    10 haifa-muni-il.mail.protection.outlook.com. 
+  TXT:   "google-site-verification=li0cNEsG5f2hhO1YRivvXJUKVS_vl_bqljAI04b6rzA"
+  DMARC: "v=DMARC1;p=quarantine"
+
+=== cyber.gov.il ===
+  A:     147.237.2.229 
+  NS:    dns3.gov.il. ns1-69.akam.net. 
+  MX:    10 incd.in.tmes.trendmicro.eu. 
+  TXT:   "google-site-verification=379-WuaQcrwvNUtBnVjqaFxEwxkSVrRE-vpYlUSpEfQ"
+  DMARC: "v=DMARC1; p=quarantine; sp=none; fo=1; ri=43200; rua=mailto:dmarc@cyber.gov.il; ruf=mailto:dmarc@cyber.gov.il"
+
+=== iec.co.il ===
+  A:     176.100.166.52 
+  NS:    ns2.iec.co.il. ns1.iec.co.il. 
+  MX:    5 iec-co-il.mail.protection.outlook.com. 
+  TXT:   "autodesk-domain-verification=k0CaPT-WZIg6xCNj_I2A"
+  DMARC: "v=DMARC1; p=reject; pct=100; ruf=mailto:postmaster@iec.co.il; rua=mailto:postmaster@iec.co.il; adkim=r; aspf=r; fo=1"
+
+=== justice.gov.il ===
+  A:     147.237.3.58 
+  NS:    dns3.gov.il. eur6.akam.net. 
+  MX:    5 mail.tehila.gov.il. 
+  TXT:   "v=spf1 ip4:147.237.70.0/24 include:inforumail.com include:aspmx.pardot.com include:_spf.salesforce.com -all"
+  DMARC: "v=DMARC1; p=reject; sp=none; adkim=r; aspf=r; rua=mailto:reports@dmarc.gov.il; ruf=mailto:reports@dmarc.gov.il; rf=afrf; pct=100; ri=3600"
+
+=== energy.gov.il ===
+  A:     147.237.3.58 
+  NS:    eur2.akam.net. usw2.akam.net. 
+  MX:    5 mail.tehila.gov.il. 
+  TXT:   "google-gws-recovery-domain-verification=56240035"
+  DMARC: dmarc.dmarc.gov.il.
+"v=DMARC1; p=none; sp=none; adkim=r; aspf=r; rua=mailto:reports@dmarc.gov.il; ruf=mailto:reports@dmarc.gov.il; rf=afrf; pct=100; ri=3600"
+
+=== shabak.gov.il ===
+  A:     104.18.8.11 104.18.9.11 
+  NS:    asia3.akam.net. usw2.akam.net. 
+  MX:    5 mail.tehila.gov.il. 
+  TXT:   "v=spf1 ip4:147.237.70.0/24 include:inforumail.com ~all"
+  DMARC: dmarc.dmarc.gov.il.
+"v=DMARC1; p=none; sp=none; adkim=r; aspf=r; rua=mailto:reports@dmarc.gov.il; ruf=mailto:reports@dmarc.gov.il; rf=afrf; pct=100; ri=3600"
+
+=== boi.org.il ===
+  A:     147.237.3.6 
+  NS:    dns.netvision.net.il. nypop.netvision.net.il. 
+  MX:    33 mail33.boi.org.il. 15 mail15.boi.org.il. 
+  TXT:   "openai-domain-verification=dv-QE7O7pB0wKG0VBY8pfjn9HpX"
+  DMARC: "v=DMARC1;p=none;pct=100"
+
+=== cbs.gov.il ===
+  A:     192.114.84.16 
+  NS:    eur6.akam.net. usw2.akam.net. 
+  MX:    5 mail.tehila.gov.il. 
+  TXT:   "v=spf1 ip4:147.237.70.0/24 include:inforumail.com include:_spf.salesforce.com ~all"
+  DMARC: "v=DMARC1; p=reject; sp=none; adkim=r; aspf=r; rua=mailto:reports@dmarc.gov.il; ruf=mailto:reports@dmarc.gov.il, mailto:cyber@cbs.gov.il, mailto:infosecit@cbs.gov.il; rf=afrf; fo=1; pct=100; ri=43" "200"
+
+=== pmo.gov.il ===
+  A:     147.237.3.58 
+  NS:    asia3.akam.net. usw2.akam.net. 
+  MX:    2 skywalker1.pmo.gov.il. 2 skywalker3.pmo.gov.il. 
+  TXT:   "MS=ms32197225"
+  DMARC: "v=DMARC1; p=reject; sp=reject; rua=mailto:dmarc@pmo.gov.il; ruf=mailto:dmarc@pmo.gov.il; fo=1; aspf=s; adkim=s; pct=100; ri=86400"
+
+=== taxes.gov.il ===
+  A:     147.237.3.58 
+  NS:    use4.akam.net. dns3.gov.il. 
+  MX:    5 mail.tehila.gov.il. 
+  TXT:   "google-site-verification=cg_w_u8zRT1ozW5JjIF4DvnAPQyEm5UHYfBO0xdu7k8"
+  DMARC: "v=DMARC1; p=none; sp=none; adkim=r; aspf=r; rua=mailto:reports@dmarc.gov.il,mailto:shaam-dmarc-reports@taxes.gov.il; ruf=mailto:reports@dmarc.gov.il; rf=afrf; pct=100; ri=3600"
+
